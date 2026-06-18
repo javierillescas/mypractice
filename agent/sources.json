@@ -1,0 +1,11 @@
+[
+  { "name": "Artificial Lawyer",   "rss": "https://www.artificiallawyer.com/feed/",                         "region": "Global" },
+  { "name": "Legal Futures",       "rss": "https://www.legalfutures.co.uk/feed",                            "region": "UK"     },
+  { "name": "LawNext",             "rss": "https://www.lawnext.com/feed",                                   "region": "US"     },
+  { "name": "Legal IT Insider",    "rss": "https://legaltechnology.com/feed/",                              "region": "UK"     },
+  { "name": "Legal Evolution",     "rss": "https://www.legalevolution.org/feed/",                           "region": "US"     },
+  { "name": "National Law Review", "rss": "https://www.natlawreview.com/rss.xml",                           "region": "US"     },
+  { "name": "Global Legal Post",   "rss": "https://www.globallegalpost.com/rss/technology-and-innovation",  "region": "Global" },
+  { "name": "Above the Law",       "rss": "https://abovethelaw.com/feed/",                                  "region": "US"     },
+  { "name": "ABA Journal Tech",    "rss": "https://www.abajournal.com/topics/technology/feed/",             "region": "US"     }
+]
