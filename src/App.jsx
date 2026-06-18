@@ -26,7 +26,7 @@ export default function App() {
         onTag={setTag}
       />
 
-      <main className="max-w-4xl mx-auto px-4 py-5">
+      <main className="max-w-4xl mx-auto px-5 py-6">
         {filtered.length === 0 ? (
           <div className="flex flex-col items-center justify-center py-24 text-center">
             <span className="text-4xl mb-4">🔍</span>
@@ -43,8 +43,8 @@ export default function App() {
       </main>
 
       <footer className="max-w-4xl mx-auto px-4 py-6 mt-4 border-t border-slate-800">
-        <p className="text-slate-600 text-xs text-center">
-          (My) Practice News · Javier Illescas · Group Head of Legal, Banco Santander
+        <p className="text-slate-600 text-xs text-center tracking-wide">
+          My Practice · Javier Illescas · Group Head of Legal, Banco Santander
         </p>
       </footer>
     </div>

@@ -22,12 +22,11 @@ export default function NewsCard({ article }) {
       hover:border-slate-600 hover:shadow-lg hover:shadow-black/30
       active:scale-[0.99]
     ">
-      {/* Source row */}
       <div className="flex items-center justify-between mb-2.5">
         <div className="flex items-center gap-1.5 text-slate-400 text-xs">
           <span>{FLAG[region] ?? '🌐'}</span>
-          <span className="font-medium text-slate-300">{source}</span>
-          <span className="px-1.5 py-0.5 rounded bg-slate-800 text-slate-500 text-[10px] uppercase tracking-wide">
+          <span className="font-medium text-slate-300 tracking-wide">{source}</span>
+          <span className="px-1.5 py-0.5 rounded bg-slate-800 text-slate-500 text-[10px] uppercase tracking-widest">
             {region}
           </span>
         </div>
@@ -40,27 +39,24 @@ export default function NewsCard({ article }) {
         </div>
       </div>
 
-      {/* Title */}
       <a
         href={url}
         target="_blank"
         rel="noopener noreferrer"
-        className="block text-white font-medium text-sm sm:text-base leading-snug mb-2 hover:text-[#60a5fa] transition-colors"
+        className="block text-white font-semibold text-sm sm:text-base leading-snug mb-2 hover:text-slate-300 transition-colors"
       >
         {title}
       </a>
 
-      {/* Summary */}
       <p className="text-slate-400 text-xs sm:text-sm leading-relaxed line-clamp-3 mb-3">
         {summary}
       </p>
 
-      {/* Tags */}
       <div className="flex flex-wrap gap-1.5">
         {tags.map(tag => (
           <span
             key={tag}
-            className="text-[10px] px-2 py-0.5 rounded-full bg-[#1e3a8a]/40 text-[#93c5fd] border border-[#1e3a8a]/60"
+            className="text-[10px] px-2 py-0.5 rounded-full bg-slate-800 text-slate-400 border border-slate-700 tracking-wide"
           >
             {tag}
           </span>

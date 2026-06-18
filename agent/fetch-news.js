@@ -1,6 +1,3 @@
-// Phase 2 news agent — run with: node agent/fetch-news.js
-// Requires: npm install rss-parser (run once)
-
 import { readFileSync, writeFileSync } from 'fs'
 import { execSync } from 'child_process'
 import { fileURLToPath } from 'url'
@@ -8,6 +5,7 @@ import { dirname, join } from 'path'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const ROOT = join(__dirname, '..')
+const IS_CI = !!process.env.CI
 
 const INTERESTS = {
   'AI in Law': [
@@ -40,7 +38,7 @@ const INTERESTS = {
   ],
 }
 
-function score(title, summary) {
+function scoreArticle(title, summary) {
   const text = `${title} ${summary}`.toLowerCase()
   const tags = []
   let total = 0
@@ -75,9 +73,9 @@ async function main() {
         if (existingUrls.has(item.link)) continue
 
         const summary = (item.contentSnippet ?? item.summary ?? '').slice(0, 400)
-        const { tags, score: s } = score(item.title ?? '', summary)
+        const { tags, score } = scoreArticle(item.title ?? '', summary)
 
-        if (s < 3) continue
+        if (score < 3) continue
 
         const id = item.link
           .replace(/https?:\/\//, '')
@@ -93,8 +91,8 @@ async function main() {
           date: date.toISOString(),
           summary,
           tags,
-          relevance: s >= 6 ? 'high' : 'medium',
-          score: s,
+          relevance: score >= 6 ? 'high' : 'medium',
+          score,
         })
         existingUrls.add(item.link)
       }
@@ -103,12 +101,9 @@ async function main() {
     }
   }
 
-  // Merge and prune to 72h window
   const merged = [...newArticles, ...cache.articles].filter(
     a => new Date(a.date).getTime() > cutoff
   )
-
-  // Sort newest first
   merged.sort((a, b) => new Date(b.date) - new Date(a.date))
 
   const updated = {
@@ -119,10 +114,21 @@ async function main() {
   writeFileSync(join(ROOT, 'news-cache.json'), JSON.stringify(updated, null, 2))
   console.log(`\n✓ Added ${newArticles.length} new articles. Total: ${merged.length}`)
 
-  console.log('\nBuilding and deploying…')
+  console.log('\nBuilding…')
   execSync('npm run build', { cwd: ROOT, stdio: 'inherit' })
-  execSync('npx gh-pages -d dist', { cwd: ROOT, stdio: 'inherit' })
-  console.log('✓ Deployed to GitHub Pages')
+
+  console.log('Deploying to GitHub Pages…')
+  if (IS_CI) {
+    const token = process.env.GITHUB_TOKEN
+    const repoUrl = `https://x-access-token:${token}@github.com/javierillescas/mypracticenews.git`
+    execSync('git config user.email "actions@github.com"', { cwd: ROOT, stdio: 'inherit' })
+    execSync('git config user.name "GitHub Actions"', { cwd: ROOT, stdio: 'inherit' })
+    execSync(`npx gh-pages -d dist --repo ${repoUrl}`, { cwd: ROOT, stdio: 'inherit' })
+  } else {
+    execSync('npx gh-pages -d dist', { cwd: ROOT, stdio: 'inherit' })
+  }
+
+  console.log('✓ Deployed')
 }
 
 main().catch(err => { console.error(err); process.exit(1) })

@@ -17,8 +17,8 @@ function Pill({ label, active, onClick }) {
       className={`
         whitespace-nowrap text-xs px-3 py-1.5 rounded-full border transition-all
         ${active
-          ? 'bg-[#3b82f6] border-[#3b82f6] text-white font-medium'
-          : 'bg-transparent border-slate-600 text-slate-400 hover:border-slate-400 hover:text-slate-200'
+          ? 'bg-white border-white text-slate-900 font-medium'
+          : 'bg-transparent border-slate-700 text-slate-400 hover:border-slate-400 hover:text-slate-200'
         }
       `}
     >
