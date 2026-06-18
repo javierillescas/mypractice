@@ -60,7 +60,8 @@ async function main() {
   const cache = JSON.parse(readFileSync(join(ROOT, 'news-cache.json'), 'utf8'))
 
   const existingUrls = new Set(cache.articles.map(a => a.url))
-  const cutoff = Date.now() - 72 * 60 * 60 * 1000
+  const fetchCutoff = Date.now() - 72 * 60 * 60 * 1000        // only fetch articles from last 72h
+  const pruneCutoff = Date.now() - 30 * 24 * 60 * 60 * 1000  // keep articles for 30 days
   const newArticles = []
 
   for (const source of sources) {
@@ -69,7 +70,7 @@ async function main() {
       const feed = await parser.parseURL(source.rss)
       for (const item of feed.items) {
         const date = new Date(item.pubDate ?? item.isoDate ?? Date.now())
-        if (date.getTime() < cutoff) continue
+        if (date.getTime() < fetchCutoff) continue
         if (existingUrls.has(item.link)) continue
 
         const summary = (item.contentSnippet ?? item.summary ?? '').slice(0, 400)
@@ -102,7 +103,7 @@ async function main() {
   }
 
   const merged = [...newArticles, ...cache.articles].filter(
-    a => new Date(a.date).getTime() > cutoff
+    a => new Date(a.date).getTime() > pruneCutoff
   )
   merged.sort((a, b) => new Date(b.date) - new Date(a.date))
 
