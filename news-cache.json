@@ -1,149 +1,113 @@
 {
-  "lastUpdated": "2026-06-18T07:00:00Z",
+  "lastUpdated": "2026-06-18T21:24:56.398Z",
   "articles": [
     {
-      "id": "al-gpt4o-contract-review-2026-06-18",
-      "title": "GPT-4o Outperforms Junior Associates in Contract Review Study",
-      "url": "https://www.artificiallawyer.com/2026/06/18/gpt4o-contract-review/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-06-18T06:30:00Z",
-      "summary": "A new benchmark study from Stanford Law finds that GPT-4o correctly identifies material adverse change clauses in 91% of test contracts, compared to 78% for first-year associates, raising fresh questions about training and deployment in law firms.",
-      "tags": ["AI in Law", "Legal Market"],
-      "relevance": "high",
-      "score": 9
+      "id": "abovethelaw-com-2026-06-could-associates-be-waiting-until-labor-day-for-biglaw-f",
+      "title": "Could Associates Be Waiting Until Labor Day For Biglaw Firms To Match Milbank?",
+      "url": "https://abovethelaw.com/2026/06/could-associates-be-waiting-until-labor-day-for-biglaw-firms-to-match-milbank/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-06-18T20:32:00.000Z",
+      "summary": "One recruiter says the summer slowdown may be keeping firms from making their next salary move.\nThe post Could Associates Be Waiting Until Labor Day For Biglaw Firms To Match Milbank? appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
     },
     {
-      "id": "lf-sra-ai-guidance-2026-06-17",
-      "title": "SRA Publishes Binding AI Use Guidance for Solicitors",
-      "url": "https://www.legalfutures.co.uk/latest-news/sra-ai-guidance-2026",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-06-17T09:15:00Z",
-      "summary": "The Solicitors Regulation Authority has released its first binding guidance on the use of generative AI tools, requiring firms to maintain human oversight of AI-generated advice and disclose AI use to clients in writing.",
-      "tags": ["Regulation", "AI in Law"],
-      "relevance": "high",
-      "score": 8
-    },
-    {
-      "id": "lawnext-inhouse-agentic-2026-06-17",
-      "title": "In-House Teams Embrace Agentic AI for Routine Legal Work",
-      "url": "https://www.lawnext.com/2026/06/inhouse-agentic-ai.html",
+      "id": "www-lawnext-com-2026-06-clio-launches-two-ai-initiatives-free-tools-for-florida-",
+      "title": "Clio Launches Two AI Initiatives: Free Tools for Florida Lawyers and a Pledge to Train 25,000 Professionals",
+      "url": "https://www.lawnext.com/2026/06/clio-launches-two-ai-initiatives-free-tools-for-florida-lawyers-and-a-pledge-to-train-25000-professionals.html",
       "source": "LawNext",
       "region": "US",
-      "date": "2026-06-17T14:00:00Z",
-      "summary": "A survey of 400 general counsel and CLOs finds that 62% have piloted agentic AI workflows for NDAs and compliance reviews, with most reporting 30-40% time savings. Chief legal officers cite vendor due diligence as the next frontier.",
-      "tags": ["In-House Counsel", "AI in Law", "Legal Tech"],
-      "relevance": "high",
-      "score": 9
+      "date": "2026-06-18T13:46:36.000Z",
+      "summary": "In two separate announcements this week, Clio rolled out two initiatives aimed at the same problem — getting practicing lawyers comfortable with AI. One puts AI software directly into lawyers’ hands at no cost; the other tries to teach the profession how to use it. On Monday, the company announced the Legal AI Accelerator, a […]",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
     },
     {
-      "id": "hclp-llm-legal-education-2026-06-16",
-      "title": "Harvard CLP: Law Schools Must Overhaul Curriculum for the LLM Era",
-      "url": "https://clp.law.harvard.edu/2026/06/16/llm-legal-education/",
-      "source": "Harvard CLP",
+      "id": "abovethelaw-com-2026-06-more-raises-see-also-",
+      "title": "More Raises! — See Also",
+      "url": "https://abovethelaw.com/2026/06/more-raises-see-also/",
+      "source": "Above the Law",
       "region": "US",
-      "date": "2026-06-16T11:00:00Z",
-      "summary": "A new Harvard Center on the Legal Profession report argues that traditional legal education inadequately prepares students to work alongside machine learning tools. It calls for mandatory AI literacy modules and practical skills training across all three years of law school.",
-      "tags": ["Legal Education", "AI in Law"],
-      "relevance": "high",
-      "score": 7
+      "date": "2026-06-17T22:00:00.000Z",
+      "summary": "Warren LLP Matches The Milbank Salary Scale: The firm is rewarding their associates handsomely! \n\n\nYetter Coleman Milbank Matches And Is Looking For Clerks: The judicial clerkship bonus is up to $145,000!\n\n\nUsing AI To Work On Your Biglaw Resume?: LLM black boxes may spit out different resumes because of your sex.\n\n\nCommuting Because Of Cyber Criminals: Lewis Brisbois calls remote and hybrid assoc",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
     },
     {
-      "id": "legalevo-biglaw-pricing-2026-06-16",
-      "title": "BigLaw's Hourly Billing Model Faces Existential Pressure from AI Efficiency",
-      "url": "https://www.legalevolution.org/2026/06/biglaw-pricing-ai/",
-      "source": "Legal Evolution",
-      "region": "US",
-      "date": "2026-06-16T08:45:00Z",
-      "summary": "Legal Evolution's latest analysis shows that AI-driven efficiency gains are compressing associate hours on discovery and due diligence by up to 50%, forcing law firms to reconsider value-based and subscription pricing models to maintain revenue.",
-      "tags": ["Legal Market", "AI in Law"],
-      "relevance": "high",
-      "score": 8
-    },
-    {
-      "id": "ccbe-ai-act-lawyers-2026-06-17",
-      "title": "CCBE Calls for Lawyer-Specific Exemptions in EU AI Act Implementation",
-      "url": "https://www.ccbe.eu/news/ccbe-ai-act-lawyers-2026",
-      "source": "CCBE",
-      "region": "EU",
-      "date": "2026-06-17T10:30:00Z",
-      "summary": "The Council of Bars and Law Societies of Europe has submitted a position paper urging the European Commission to clarify how the AI Act applies to legal professional privilege, arguing that current compliance obligations conflict with bar association ethics rules.",
-      "tags": ["Regulation", "AI in Law"],
-      "relevance": "high",
-      "score": 8
-    },
-    {
-      "id": "nlr-ediscovery-ai-2026-06-18",
-      "title": "Courts Begin Requiring Disclosure of AI-Assisted E-Discovery",
-      "url": "https://www.natlawreview.com/article/courts-ai-ediscovery-disclosure-2026",
-      "source": "National Law Review",
-      "region": "US",
-      "date": "2026-06-18T05:00:00Z",
-      "summary": "Several federal district courts have issued standing orders requiring parties to disclose when AI tools are used in e-discovery document review, signalling a broader shift toward AI transparency obligations in litigation.",
-      "tags": ["Legal Tech", "Regulation"],
-      "relevance": "high",
-      "score": 7
-    },
-    {
-      "id": "lf-legal-aid-chatbot-2026-06-16",
-      "title": "UK Legal Aid Agency Pilots AI Chatbot for Self-Represented Litigants",
-      "url": "https://www.legalfutures.co.uk/latest-news/legal-aid-ai-chatbot-2026",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-06-16T13:00:00Z",
-      "summary": "The Legal Aid Agency has launched a pilot chatbot to help self-represented individuals navigate civil claims, addressing the unmet legal need gap. Early data shows a 40% reduction in form errors among pilot users.",
-      "tags": ["Access to Justice", "Legal Tech"],
-      "relevance": "high",
-      "score": 6
-    },
-    {
-      "id": "al-legalops-automation-2026-06-15",
-      "title": "Legal Operations Teams Drive Contract Automation at Scale",
-      "url": "https://www.artificiallawyer.com/2026/06/15/legalops-contract-automation/",
+      "id": "www-artificiallawyer-com-2026-06-17-crosby-starts-contract-benchmark-launches-ag",
+      "title": "Crosby Starts Contract Benchmark, Launches Agent Research Group",
+      "url": "https://www.artificiallawyer.com/2026/06/17/crosby-starts-contract-benchmark-launches-agent-research-group/",
       "source": "Artificial Lawyer",
       "region": "Global",
-      "date": "2026-06-15T09:00:00Z",
-      "summary": "A roundtable of senior legal ops professionals highlights how automation platforms are eliminating manual contract routing, with some corporate legal departments processing over 10,000 routine agreements per year without attorney review.",
-      "tags": ["Legal Tech", "In-House Counsel", "Legal Market"],
+      "date": "2026-06-17T13:28:00.000Z",
+      "summary": "NewMod law firm Crosby has launched ‘Multi-turn Negotiation Bench’, a contract negotiation benchmark for AI outputs. They are also rolling out Crosby Intelligence, a research ...",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-blog-linkaters-chief-growth-officer-takes-the-blank-sheet",
+      "title": "Linklaters’ chief growth officer takes the ‘blank sheet’ challenge",
+      "url": "https://www.legalfutures.co.uk/blog/linkaters-chief-growth-officer-takes-the-blank-sheet-challenge",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-06-16T23:47:40.000Z",
+      "summary": "Posted by Scott Jones, deputy editor of Legal Futures As LegalTechTalk gets underway today, we invite our third and final lawyer to take the ‘blank sheet’ challenge – sketching out their dream law firm with the freedom to start again from… Read More\nThe post Linklaters’ chief growth officer takes the ‘blank sheet’ challenge appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-lawnext-com-2026-06-blackboiler-launches-veris-pairing-its-deterministic-red",
+      "title": "BlackBoiler Launches Veris, Pairing Its Deterministic Redlining With Generative AI in Microsoft Word",
+      "url": "https://www.lawnext.com/2026/06/blackboiler-launches-veris-pairing-its-deterministic-redlining-with-generative-ai-in-microsoft-word.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-06-16T16:54:23.000Z",
+      "summary": "BlackBoiler, a company that has spent over a decade building automated redlining technology, this week launched Veris, a new platform that takes its original deterministic editing engine and supercharges it with generative AI and an agentic, chat-based interface. Running directly inside a Microsoft Word add-in, Veris allows contract-review teams to negotiate and mark up agreements […]",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
       "relevance": "medium",
       "score": 5
     },
     {
-      "id": "lawnext-gdpr-ai-2026-06-15",
-      "title": "GDPR Enforcement Action Targets Law Firm AI Training Data Practices",
-      "url": "https://www.lawnext.com/2026/06/gdpr-law-firm-ai-training.html",
-      "source": "LawNext",
-      "region": "EU",
-      "date": "2026-06-15T16:00:00Z",
-      "summary": "The Irish Data Protection Commission has opened a formal investigation into whether a major international law firm violated GDPR by using client documents to fine-tune an internal AI model without adequate data processing agreements.",
-      "tags": ["Regulation", "AI in Law"],
+      "id": "legaltechnology-com-jalubro-launches-j-10-governance-layer-helping-businesses-ma",
+      "title": "Jalubro launches J-10 governance layer, helping businesses manage multiple AI systems",
+      "url": "https://legaltechnology.com/jalubro-launches-j-10-governance-layer-helping-businesses-manage-multiple-ai-systems/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-06-16T15:31:13.000Z",
+      "summary": "By Tom Saunders, RSGI This week, technology consultancy Jalubro launched J-10, a governance enforcement platform designed to sit across an organisation’s existing AI systems and enforce compliance rules in real […]\nThe post Jalubro launches J-10 governance layer, helping businesses manage multiple AI systems appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Tech"
+      ],
       "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "hclp-probono-ai-2026-06-16",
-      "title": "Pro Bono Programs Tap AI to Expand Access to Immigration Advice",
-      "url": "https://clp.law.harvard.edu/2026/06/16/probono-ai-immigration/",
-      "source": "Harvard CLP",
-      "region": "US",
-      "date": "2026-06-16T10:00:00Z",
-      "summary": "Several large law firms are deploying AI-assisted intake tools for pro bono immigration cases, allowing volunteer attorneys to handle three times the caseload and meaningfully narrowing the access to justice gap for asylum seekers.",
-      "tags": ["Access to Justice", "AI in Law"],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "legalevo-lawschool-skills-2026-06-15",
-      "title": "Bar Associations Push Law Schools to Add Negotiation and Tech Skills",
-      "url": "https://www.legalevolution.org/2026/06/bar-association-law-school-skills/",
-      "source": "Legal Evolution",
-      "region": "US",
-      "date": "2026-06-15T12:00:00Z",
-      "summary": "The ABA's task force on future lawyer competencies is recommending that accredited law schools require coursework in technology literacy, project management and alternative fee arrangements as conditions of accreditation renewal.",
-      "tags": ["Legal Education", "Legal Market"],
-      "relevance": "medium",
-      "score": 4
+      "score": 3
     }
   ]
 }
