@@ -6,8 +6,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **My Practice News** — a personal legal news aggregator for Javier Illescas (Group Head of Legal, Banco Santander). It fetches RSS feeds from legal publications, scores articles by keyword relevance, and serves a dark-themed mobile-first React UI hosted on GitHub Pages.
 
-- Live URL: **https://javierillescas.github.io/mypracticenews/**
-- Repo: **https://github.com/javierillescas/mypracticenews**
+- Live URL: **https://javierillescas.github.io/mypractice/**
+- Repo: **https://github.com/javierillescas/mypractice**
 
 ## Commands
 
@@ -23,7 +23,7 @@ node agent/fetch-news.js     # fetch real RSS articles, rebuild, and deploy
 The macOS Keychain interferes with git credentials. Always push like this:
 
 ```bash
-git -c credential.helper='' push https://javierillescas:TOKEN@github.com/javierillescas/mypracticenews.git main
+git -c credential.helper='' push https://javierillescas:TOKEN@github.com/javierillescas/mypractice.git main
 ```
 
 **Token requirements:** Must be a **classic PAT** (`ghp_` prefix) with both `repo` and `workflow` scopes. Fine-grained tokens (`github_pat_`) do not work with git push over HTTPS for this repo. Generate at https://github.com/settings/tokens — click "Generate new token (classic)".
@@ -31,7 +31,7 @@ git -c credential.helper='' push https://javierillescas:TOKEN@github.com/javieri
 If the push is rejected because the remote is ahead, pull first:
 ```bash
 git stash
-git -c credential.helper='' pull --rebase https://javierillescas:TOKEN@github.com/javierillescas/mypracticenews.git main
+git -c credential.helper='' pull --rebase https://javierillescas:TOKEN@github.com/javierillescas/mypractice.git main
 git stash pop
 # resolve any conflicts, then push
 ```
@@ -78,7 +78,7 @@ agent/fetch-news.js  →  news-cache.json  →  Vite build  →  dist/  →  gh-
 - `src/components/NewsCard.jsx` — article card with source, flag emoji, relevance dot, tags, relative time
 - `src/components/Header.jsx` — sticky header with "My Practice" title and relative `lastUpdated` time
 - Styling: Tailwind CSS v4 (via `@tailwindcss/vite` plugin). Dark theme (`#0f1117` background), monochrome white/slate palette — no colour accents.
-- `vite.config.js` has `base: '/mypracticenews/'` — required for GitHub Pages asset paths. Do not remove.
+- `vite.config.js` uses `base: './'` (relative asset paths), so the same build serves at any URL path (the repo was renamed from `mypracticenews` to `mypractice`; the old URL redirects to the new one).
 
 ### GitHub Actions (`/.github/workflows/update-news.yml`)
 - Runs daily at `0 6 * * *` (6am UTC = 7am Madrid CET / 8am CEST)
