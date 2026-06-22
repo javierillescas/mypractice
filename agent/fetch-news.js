@@ -41,6 +41,21 @@ const INTERESTS = {
   ],
 }
 
+// Recurring roundup / link-dump columns with little unique content — skipped regardless of score
+const SKIP_TITLE_PATTERNS = [
+  'morning docket',
+  'non-sequiturs',
+  'quote of the day',
+  'see also',
+  'morning roundup',
+  'afternoon roundup',
+]
+
+function isLowValueTitle(title) {
+  const t = (title ?? '').toLowerCase()
+  return SKIP_TITLE_PATTERNS.some(p => t.includes(p))
+}
+
 function scoreArticle(title, summary) {
   const text = `${title} ${summary}`.toLowerCase()
   const tags = []
@@ -75,6 +90,7 @@ async function main() {
         const date = new Date(item.pubDate ?? item.isoDate ?? Date.now())
         if (date.getTime() < fetchCutoff) continue
         if (existingUrls.has(item.link)) continue
+        if (isLowValueTitle(item.title)) continue
 
         const summary = (item.contentSnippet ?? item.summary ?? '').slice(0, 400)
         const { tags, score } = scoreArticle(item.title ?? '', summary)
@@ -106,7 +122,7 @@ async function main() {
   }
 
   const merged = [...newArticles, ...cache.articles].filter(
-    a => new Date(a.date).getTime() > pruneCutoff
+    a => new Date(a.date).getTime() > pruneCutoff && !isLowValueTitle(a.title)
   )
   merged.sort((a, b) => new Date(b.date) - new Date(a.date))
 
