@@ -9,23 +9,55 @@ function relativeTime(isoString) {
   return `${days} days ago`
 }
 
-export default function Header({ lastUpdated }) {
+const SECTION_LABELS = [
+  { id: 'news', label: 'News' },
+  { id: 'blog', label: 'Blog', soon: true },
+  { id: 'bio', label: 'Bio', soon: true },
+]
+
+export default function Header({ lastUpdated, section, onSection }) {
   return (
-    <header className="sticky top-0 z-20 bg-[#0f1117]/95 backdrop-blur-sm border-b border-slate-800">
-      <div className="max-w-4xl mx-auto px-4 py-4 flex items-center justify-between">
+    <header className="max-w-4xl mx-auto px-5 sm:px-8 pt-9">
+      <div className="flex items-start justify-between">
         <div>
-          <h1 className="text-white font-semibold text-xl sm:text-2xl tracking-tight leading-none">
-            My Practice
-          </h1>
-          <p className="text-slate-500 text-[10px] tracking-widest uppercase mt-1 font-light">
+          <p className="text-[11px] tracking-[0.2em] uppercase text-[#8E8E8B] mb-2">
             Legal Intelligence
           </p>
+          <h1 className="font-serif text-[34px] sm:text-[40px] font-medium text-[#F4F3EF] leading-none tracking-tight">
+            (My) Practice
+          </h1>
+          <p className="font-serif text-[13.5px] text-[#9A9A96] mt-2.5 tracking-wide">
+            Curated by Javier Illescas
+          </p>
         </div>
-        <span className="text-slate-500 text-xs">
+        <span className="text-[#76766F] text-xs pt-2 whitespace-nowrap">
           Updated {relativeTime(lastUpdated)}
         </span>
       </div>
-      <div className="h-px bg-slate-700" />
+
+      <nav className="flex gap-7 sm:gap-8 border-b border-[#2A2B2F] mt-6">
+        {SECTION_LABELS.map(({ id, label, soon }) => {
+          const active = section === id
+          return (
+            <button
+              key={id}
+              onClick={() => onSection(id)}
+              className={`-mb-px pb-3 text-[14.5px] flex items-center gap-2 border-b-2 transition-colors ${
+                active
+                  ? 'text-[#F4F3EF] font-medium border-[#F4F3EF]'
+                  : 'text-[#76766F] hover:text-[#C9C8C4] border-transparent'
+              }`}
+            >
+              {label}
+              {soon && (
+                <span className="text-[11px] tracking-wider text-[#5E5E5C] border border-[#2F3034] rounded px-1.5">
+                  Soon
+                </span>
+              )}
+            </button>
+          )
+        })}
+      </nav>
     </header>
   )
 }

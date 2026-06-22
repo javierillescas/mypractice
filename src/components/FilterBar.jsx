@@ -10,17 +10,15 @@ const TAGS = [
   'Legal Reasoning',
 ]
 
-function Pill({ label, active, onClick }) {
+function Filter({ label, active, onClick }) {
   return (
     <button
       onClick={onClick}
-      className={`
-        whitespace-nowrap text-xs px-3 py-1.5 rounded-full border transition-all
-        ${active
-          ? 'bg-white border-white text-slate-900 font-medium'
-          : 'bg-transparent border-slate-700 text-slate-400 hover:border-slate-400 hover:text-slate-200'
-        }
-      `}
+      className={`whitespace-nowrap text-[12.5px] pb-0.5 border-b transition-colors ${
+        active
+          ? 'text-[#F4F3EF] font-medium border-[#F4F3EF]'
+          : 'text-[#8B8B89] hover:text-[#C9C8C4] border-transparent'
+      }`}
     >
       {label}
     </button>
@@ -29,18 +27,16 @@ function Pill({ label, active, onClick }) {
 
 export default function FilterBar({ region, tag, onRegion, onTag }) {
   return (
-    <div className="sticky top-[57px] z-10 bg-[#0f1117]/95 backdrop-blur-sm border-b border-slate-800 py-2.5">
-      <div className="max-w-4xl mx-auto px-4 space-y-2">
-        <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-hide">
-          {REGIONS.map(r => (
-            <Pill key={r} label={r} active={region === r} onClick={() => onRegion(r)} />
-          ))}
-        </div>
-        <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-hide">
-          {TAGS.map(t => (
-            <Pill key={t} label={t} active={tag === t} onClick={() => onTag(t)} />
-          ))}
-        </div>
+    <div className="max-w-4xl mx-auto px-5 sm:px-8 pt-5">
+      <div className="flex flex-wrap gap-x-5 gap-y-2 mb-3">
+        {REGIONS.map(r => (
+          <Filter key={r} label={r} active={region === r} onClick={() => onRegion(r)} />
+        ))}
+      </div>
+      <div className="flex flex-wrap gap-x-4 gap-y-2">
+        {TAGS.map(t => (
+          <Filter key={t} label={t} active={tag === t} onClick={() => onTag(t)} />
+        ))}
       </div>
     </div>
   )

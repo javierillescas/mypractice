@@ -1,5 +1,3 @@
-const FLAG = { US: '🇺🇸', UK: '🇬🇧', EU: '🇪🇺', Global: '🌐' }
-
 function relativeTime(isoString) {
   const diff = Date.now() - new Date(isoString).getTime()
   const minutes = Math.floor(diff / 60000)
@@ -12,55 +10,37 @@ function relativeTime(isoString) {
 }
 
 export default function NewsCard({ article }) {
-  const { title, url, source, region, date, summary, tags, relevance } = article
-  const isHigh = relevance === 'high'
-
+  const { title, url, source, region, date, summary, tags } = article
   return (
-    <article className="
-      bg-[#161b27] border border-slate-800 rounded-xl p-4
-      transition-all duration-150
-      hover:border-slate-600 hover:shadow-lg hover:shadow-black/30
-      active:scale-[0.99]
-    ">
+    <article className="bg-[#161719] border border-[#26272B] rounded-lg p-[18px] transition-colors hover:border-[#3A3B40]">
       <div className="flex items-center justify-between mb-2.5">
-        <div className="flex items-center gap-1.5 text-slate-400 text-xs">
-          <span>{FLAG[region] ?? '🌐'}</span>
-          <span className="font-medium text-slate-300 tracking-wide">{source}</span>
-          <span className="px-1.5 py-0.5 rounded bg-slate-800 text-slate-500 text-[10px] uppercase tracking-widest">
+        <div className="flex items-center gap-2">
+          <span className="text-xs font-medium text-[#E8E7E3]">{source}</span>
+          <span className="text-[11px] tracking-wide text-[#8B8B89] border border-[#34353A] rounded px-1.5 py-px">
             {region}
           </span>
         </div>
-        <div className="flex items-center gap-1.5">
-          <span
-            className={`w-2 h-2 rounded-full flex-shrink-0 ${isHigh ? 'bg-emerald-400' : 'bg-amber-400'}`}
-            title={isHigh ? 'High relevance' : 'Medium relevance'}
-          />
-          <span className="text-slate-500 text-xs">{relativeTime(date)}</span>
-        </div>
+        <span className="text-[11px] text-[#6E6E6C]">{relativeTime(date)}</span>
       </div>
 
       <a
         href={url}
         target="_blank"
         rel="noopener noreferrer"
-        className="block text-white font-semibold text-sm sm:text-base leading-snug mb-2 hover:text-slate-300 transition-colors"
+        className="block font-serif text-[16px] font-medium text-[#F1F0EC] leading-snug mb-2 hover:text-[#C9C8C4] transition-colors"
       >
         {title}
       </a>
 
-      <p className="text-slate-400 text-xs sm:text-sm leading-relaxed line-clamp-3 mb-3">
-        {summary}
-      </p>
+      {summary && (
+        <p className="text-[12.5px] text-[#9C9B97] leading-relaxed line-clamp-2 mb-3">
+          {summary}
+        </p>
+      )}
 
-      <div className="flex flex-wrap gap-1.5">
-        {tags.map(tag => (
-          <span
-            key={tag}
-            className="text-[10px] px-2 py-0.5 rounded-full bg-slate-800 text-slate-400 border border-slate-700 tracking-wide"
-          >
-            {tag}
-          </span>
-        ))}
+      <div className="flex items-center gap-2">
+        <span className="w-1.5 h-1.5 rounded-full bg-[#E8E7E3] flex-shrink-0" />
+        <span className="text-[11px] text-[#8B8B89]">{tags.join(' · ')}</span>
       </div>
     </article>
   )
