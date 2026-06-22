@@ -1,6 +1,21 @@
 {
-  "lastUpdated": "2026-06-22T18:17:41.633Z",
+  "lastUpdated": "2026-06-22T18:50:57.220Z",
   "articles": [
+    {
+      "id": "www-scotusblog-com-2026-06-justices-issue-orders-on-murder-for-hire-case-involvi",
+      "title": "Justices issue orders on murder-for-hire case involving social media influencer, the role of race in seizing persons, and the execution of a Texas man claiming to be intellectually disabled",
+      "url": "https://www.scotusblog.com/2026/06/justices-issue-orders-on-murder-for-hire-case-involving-social-media-influencer-the-role-of-race/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-06-22T18:26:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "abovethelaw-com-2026-06-ai-error-nearly-gave-defendant-his-constitutional-right-",
       "title": "AI Error Nearly Gave Defendant His Constitutional Right To Counsel — Don’t Worry, A Human Judge Fixed That!",
@@ -61,21 +76,6 @@
       "score": 4
     },
     {
-      "id": "abovethelaw-com-2026-06-morning-docket-06-22-26-",
-      "title": "Morning Docket: 06.22.26",
-      "url": "https://abovethelaw.com/2026/06/morning-docket-06-22-26/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-06-22T12:53:00.000Z",
-      "summary": "* Lateral moves aren't just about money anymore. [Law.com]\n\n\n* Cameras in federal courtrooms bill advances, before courts inevitably take position that Congress can't impose rules on them. [Reuters]\n\n\n* Trump administration's argument in defense of Elon's data center claims the executive branch is the only authority on whether a statute has been violated. [One First]\n\n\n* JD Advantage? Millionaire ",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
       "id": "www-lawnext-com-2026-06-barbri-acquires-lega-completing-the-startups-pivot-from-",
       "title": "BARBRI Acquires Lega, Completing the Startup’s Pivot From AI Governance to Experiential AI Training",
       "url": "https://www.lawnext.com/2026/06/barbri-acquires-lega-completing-the-startups-pivot-from-ai-governance-to-experiential-ai-training.html",
@@ -106,6 +106,36 @@
       ],
       "relevance": "high",
       "score": 6
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-06-22-what-legal-ai-benchmarks-reveal-that-model-n",
+      "title": "What Legal AI Benchmarks Reveal That Model Names Don’t",
+      "url": "https://www.artificiallawyer.com/2026/06/22/what-legal-ai-benchmarks-reveal-that-model-names-dont/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-06-22T07:29:45.000Z",
+      "summary": "By Daniel Lewis, CEO, LegalOn. Foundation models are improving quickly. One useful measure is software engineering: the length of coding tasks that frontier models can ...",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-06-22-barbri-buys-lega-christian-lang-interview-",
+      "title": "BARBRI Buys Lega – Christian Lang Interview",
+      "url": "https://www.artificiallawyer.com/2026/06/22/barbri-buys-lega-christian-lang-interview/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-06-22T07:00:09.000Z",
+      "summary": "Legal education business BARBRI has bought legal AI startup Lega as part of a strategy to provide ‘experiential AI workshops, simulations, hackathons, and lab-style learning ...",
+      "tags": [
+        "AI in Law",
+        "Legal Education"
+      ],
+      "relevance": "medium",
+      "score": 3
     },
     {
       "id": "www-legalfutures-co-uk-latest-news-judge-disallows-30k-success-fee-over-insuffic",
@@ -149,21 +179,6 @@
       "tags": [
         "AI in Law",
         "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-06-more-raises-see-also-",
-      "title": "More Raises! — See Also",
-      "url": "https://abovethelaw.com/2026/06/more-raises-see-also/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-06-17T22:00:00.000Z",
-      "summary": "Warren LLP Matches The Milbank Salary Scale: The firm is rewarding their associates handsomely! \n\n\nYetter Coleman Milbank Matches And Is Looking For Clerks: The judicial clerkship bonus is up to $145,000!\n\n\nUsing AI To Work On Your Biglaw Resume?: LLM black boxes may spit out different resumes because of your sex.\n\n\nCommuting Because Of Cyber Criminals: Lewis Brisbois calls remote and hybrid assoc",
-      "tags": [
-        "AI in Law",
-        "Legal Market"
       ],
       "relevance": "medium",
       "score": 3
