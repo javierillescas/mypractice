@@ -140,7 +140,7 @@ async function main() {
   console.log('Deploying to GitHub Pages…')
   if (IS_CI) {
     const token = process.env.GITHUB_TOKEN
-    const repoUrl = `https://x-access-token:${token}@github.com/javierillescas/mypracticenews.git`
+    const repoUrl = `https://x-access-token:${token}@github.com/javierillescas/mypractice.git`
     execSync('git config user.email "actions@github.com"', { cwd: ROOT, stdio: 'inherit' })
     execSync('git config user.name "GitHub Actions"', { cwd: ROOT, stdio: 'inherit' })
     execSync(`npx gh-pages -d dist --repo ${repoUrl}`, { cwd: ROOT, stdio: 'inherit' })
