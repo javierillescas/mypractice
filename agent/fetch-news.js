@@ -56,6 +56,29 @@ function isLowValueTitle(title) {
   return SKIP_TITLE_PATTERNS.some(p => t.includes(p))
 }
 
+// SCOTUSblog tags short procedural posts ("agrees to hear…", "issues orders…") as "Court News".
+// Keep the substantive "Merits Cases" analysis and untagged commentary, and drop the pure
+// procedural news so the Legal Reasoning feed stays focused on reasoning, not docket updates.
+function scotusIsProceduralNews(item) {
+  const cats = (item.categories ?? []).map(c =>
+    (typeof c === 'string' ? c : (c && (c._ ?? c['#'])) ?? '').toString().toLowerCase().trim()
+  )
+  return cats.includes('court news') && !cats.includes('merits cases')
+}
+
+// Cached items don't carry categories, so the obvious procedural SCOTUSblog headlines are
+// recognised by title — used when pruning so existing docket-update posts drop out too.
+const SCOTUS_PROCEDURAL_TITLE = [
+  'agrees to hear', 'agrees to take up', 'declines to hear', 'will hear',
+  'to hear arguments', 'grants cert', 'grants review', 'to its docket',
+  'issue orders', 'issues orders', 'order list', 'petitions of the week',
+  'relist watch', 'reimposes', 'morning read', 'term in review',
+]
+function scotusProceduralByTitle(title) {
+  const t = (title ?? '').toLowerCase()
+  return SCOTUS_PROCEDURAL_TITLE.some(p => t.includes(p))
+}
+
 function scoreArticle(title, summary) {
   const text = `${title} ${summary}`.toLowerCase()
   const tags = []
@@ -91,6 +114,7 @@ async function main() {
         if (date.getTime() < fetchCutoff) continue
         if (existingUrls.has(item.link)) continue
         if (isLowValueTitle(item.title)) continue
+        if (source.name === 'SCOTUSblog' && scotusIsProceduralNews(item)) continue
 
         const summary = (item.contentSnippet ?? item.summary ?? '').slice(0, 400)
         const { tags, score } = scoreArticle(item.title ?? '', summary)
@@ -122,7 +146,10 @@ async function main() {
   }
 
   const merged = [...newArticles, ...cache.articles].filter(
-    a => new Date(a.date).getTime() > pruneCutoff && !isLowValueTitle(a.title)
+    a =>
+      new Date(a.date).getTime() > pruneCutoff &&
+      !isLowValueTitle(a.title) &&
+      !(a.source === 'SCOTUSblog' && scotusProceduralByTitle(a.title))
   )
   merged.sort((a, b) => new Date(b.date) - new Date(a.date))
 
