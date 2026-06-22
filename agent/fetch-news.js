@@ -34,8 +34,10 @@ const INTERESTS = {
   ],
   'Legal Reasoning': [
     'legal reasoning', 'jurisprudence', 'precedent', 'statutory interpretation',
-    'judicial', 'judgment', 'ruling', 'court', 'supreme court',
-    'constitutional', 'appeal', 'case law', 'doctrine', 'rule of law',
+    'judicial', 'judgment', 'ruling', 'court', 'supreme court', 'constitutional',
+    'appeal', 'appellate', 'case', 'case law', 'doctrine', 'rule of law',
+    'judge', 'justices', 'opinion', 'dissent', 'decision', 'lawsuit',
+    'litigation', 'plaintiff', 'defendant', 'statute', 'tribunal',
   ],
 }
 
