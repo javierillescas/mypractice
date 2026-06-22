@@ -10,7 +10,6 @@
     "deploy": "npm run build && gh-pages -d dist"
   },
   "dependencies": {
-    "nodemailer": "^9.0.1",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
     "rss-parser": "^3.13.0"
