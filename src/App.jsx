@@ -22,11 +22,12 @@ function ComingSoon({ title }) {
 
 function Bio() {
   return (
-    <main className="max-w-2xl mx-auto px-5 sm:px-8 py-10">
+    <main className="max-w-4xl mx-auto px-5 sm:px-8 py-10">
+      <div className="max-w-2xl">
       <h2 className="font-serif text-[26px] sm:text-[30px] font-semibold text-[#F4F3EF] mb-6 leading-tight">
         Javier Illescas
       </h2>
-      <div className="text-[16px] leading-[1.75] text-[#CFCEC9] space-y-5">
+      <div className="text-[16px] leading-[1.75] text-[#CFCEC9] font-medium space-y-5">
         <p>
           Javier Illescas became Group Head of Legal at Banco Santander in 2024, having
           been with the Bank since 2012, including as Group Head of Business Legal and
@@ -55,6 +56,7 @@ function Bio() {
         Connect on LinkedIn
         <span aria-hidden="true">&#8599;</span>
       </a>
+      </div>
     </main>
   )
 }
