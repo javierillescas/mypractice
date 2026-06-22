@@ -23,7 +23,7 @@ export default function Header({ lastUpdated, section, onSection }) {
           <p className="text-[11px] tracking-[0.2em] uppercase text-[#8E8E8B] mb-2">
             Legal Intelligence
           </p>
-          <h1 className="font-serif text-[34px] sm:text-[40px] font-medium text-[#F4F3EF] leading-none tracking-tight">
+          <h1 className="font-serif text-[34px] sm:text-[40px] font-semibold text-[#F8F7F2] leading-none tracking-tight">
             (My) Practice
           </h1>
           <p className="font-serif text-[13.5px] text-[#9A9A96] mt-2.5 tracking-wide">
@@ -44,7 +44,7 @@ export default function Header({ lastUpdated, section, onSection }) {
               onClick={() => onSection(id)}
               className={`-mb-px pb-3 text-[14.5px] flex items-center gap-2 border-b-2 transition-colors ${
                 active
-                  ? 'text-[#F4F3EF] font-medium border-[#F4F3EF]'
+                  ? 'text-[#3FA06E] font-medium border-[#3FA06E]'
                   : 'text-[#76766F] hover:text-[#C9C8C4] border-transparent'
               }`}
             >

@@ -10,7 +10,7 @@ function relativeTime(isoString) {
 }
 
 export default function NewsCard({ article }) {
-  const { title, url, source, region, date, summary, tags } = article
+  const { title, url, source, region, date, summary, tags, relevance } = article
   return (
     <article className="bg-[#161719] border border-[#26272B] rounded-lg p-[18px] transition-colors hover:border-[#3A3B40]">
       <div className="flex items-center justify-between mb-2.5">
@@ -27,7 +27,7 @@ export default function NewsCard({ article }) {
         href={url}
         target="_blank"
         rel="noopener noreferrer"
-        className="block font-serif text-[16px] font-medium text-[#F1F0EC] leading-snug mb-2 hover:text-[#C9C8C4] transition-colors"
+        className="block font-serif text-[16px] font-semibold text-[#F4F3EF] leading-snug mb-2 hover:text-[#C9C8C4] transition-colors"
       >
         {title}
       </a>
@@ -39,8 +39,11 @@ export default function NewsCard({ article }) {
       )}
 
       <div className="flex items-center gap-2">
-        <span className="w-1.5 h-1.5 rounded-full bg-[#E8E7E3] flex-shrink-0" />
-        <span className="text-[11px] text-[#8B8B89]">{tags.join(' · ')}</span>
+        <span
+          className={`w-1.5 h-1.5 rounded-full flex-shrink-0 ${relevance === 'high' ? 'bg-[#3FA06E]' : 'bg-[#6E6E6C]'}`}
+          title={relevance === 'high' ? 'High relevance' : 'Medium relevance'}
+        />
+        <span className="text-[11px] text-[#6FAE8E]">{tags.join(' · ')}</span>
       </div>
     </article>
   )

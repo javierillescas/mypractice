@@ -16,7 +16,7 @@ function Filter({ label, active, onClick }) {
       onClick={onClick}
       className={`whitespace-nowrap text-[12.5px] pb-0.5 border-b transition-colors ${
         active
-          ? 'text-[#F4F3EF] font-medium border-[#F4F3EF]'
+          ? 'text-[#3FA06E] font-medium border-[#3FA06E]'
           : 'text-[#8B8B89] hover:text-[#C9C8C4] border-transparent'
       }`}
     >
