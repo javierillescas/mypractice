@@ -12,7 +12,7 @@ function relativeTime(isoString) {
 const SECTION_LABELS = [
   { id: 'news', label: 'News' },
   { id: 'blog', label: 'Blog', soon: true },
-  { id: 'bio', label: 'Bio', soon: true },
+  { id: 'bio', label: 'Bio' },
 ]
 
 export default function Header({ lastUpdated, section, onSection }) {
