@@ -7,7 +7,7 @@ const TAGS = [
   'Legal Market',
   'Legal Education',
   'Legal Tech',
-  'Access to Justice',
+  'Legal Reasoning',
 ]
 
 function Pill({ label, active, onClick }) {
