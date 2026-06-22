@@ -6,5 +6,10 @@
   { "name": "Legal Evolution",     "rss": "https://www.legalevolution.org/feed/",                "region": "US"     },
   { "name": "Above the Law",       "rss": "https://abovethelaw.com/feed/",                       "region": "US"     },
   { "name": "ABA Journal",         "rss": "https://www.abajournal.com/news/rss",                 "region": "US"     },
-  { "name": "Thomson Reuters",     "rss": "https://legal.thomsonreuters.com/blog/feed/",         "region": "Global" }
+  { "name": "Thomson Reuters",      "rss": "https://legal.thomsonreuters.com/blog/feed/",         "region": "Global" },
+  { "name": "SCOTUSblog",           "rss": "https://www.scotusblog.com/feed/",                   "region": "US"     },
+  { "name": "Justia Verdict",       "rss": "https://verdict.justia.com/feed",                    "region": "US"     },
+  { "name": "Verfassungsblog",      "rss": "https://verfassungsblog.de/feed/",                   "region": "EU"     },
+  { "name": "UK Constitutional Law","rss": "https://ukconstitutionallaw.org/feed/",              "region": "UK"     },
+  { "name": "EJIL: Talk!",          "rss": "https://www.ejiltalk.org/feed/",                     "region": "Global" }
 ]

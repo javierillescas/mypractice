@@ -32,9 +32,10 @@ const INTERESTS = {
     'law school', 'legal education', 'training', 'skills',
     'curriculum', 'future lawyer',
   ],
-  'Access to Justice': [
-    'access to justice', 'pro bono', 'legal aid',
-    'unmet legal need', 'self-represented',
+  'Legal Reasoning': [
+    'legal reasoning', 'jurisprudence', 'precedent', 'statutory interpretation',
+    'judicial', 'judgment', 'ruling', 'court', 'supreme court',
+    'constitutional', 'appeal', 'case law', 'doctrine', 'rule of law',
   ],
 }
 
