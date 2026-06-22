@@ -20,6 +20,45 @@ function ComingSoon({ title }) {
   )
 }
 
+function Bio() {
+  return (
+    <main className="max-w-2xl mx-auto px-5 sm:px-8 py-10">
+      <h2 className="font-serif text-[26px] sm:text-[30px] font-semibold text-[#F4F3EF] mb-6 leading-tight">
+        Javier Illescas
+      </h2>
+      <div className="font-serif text-[16px] leading-[1.75] text-[#CFCEC9] space-y-5">
+        <p>
+          Javier Illescas became Group Head of Legal at Banco Santander in 2024, having
+          been with the Bank since 2012, including as Group Head of Business Legal and
+          Group Head of Corporate Legal.
+        </p>
+        <p>
+          Prior to joining the Bank in 2012, Javier was a corporate finance partner with
+          Spanish law firm Uría Menéndez, then based in the Madrid office. Javier also did
+          a stint in the firm&rsquo;s Buenos Aires office from 2001 to 2002 and a secondment
+          to the New York office of Davis Polk in 2006. Whilst with Uría Menéndez, his
+          practice focused on M&amp;A, banking and finance, and capital markets, all with a
+          special emphasis on cross-border work.
+        </p>
+        <p>
+          Javier is a Spanish national, admitted to practice in Spain, and holds a double
+          degree in Law and Business Administration from ICADE&ndash;Universidad Pontificia
+          Comillas in Madrid, where he also lectures on corporate and commercial law.
+        </p>
+      </div>
+      <a
+        href="https://www.linkedin.com/in/javier-illescas/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="inline-flex items-center gap-1.5 mt-9 text-[#3FA06E] hover:text-[#5FBE92] text-sm font-medium transition-colors"
+      >
+        Connect on LinkedIn
+        <span aria-hidden="true">&#8599;</span>
+      </a>
+    </main>
+  )
+}
+
 export default function App() {
   const [section, setSection] = useState(sectionFromHash)
   const [region, setRegion] = useState('All')
@@ -74,11 +113,7 @@ export default function App() {
         </main>
       )}
 
-      {section === 'bio' && (
-        <main className="max-w-4xl mx-auto px-5 sm:px-8">
-          <ComingSoon title="Bio" />
-        </main>
-      )}
+      {section === 'bio' && <Bio />}
 
       <footer className="max-w-4xl mx-auto px-5 sm:px-8 py-8 mt-2 border-t border-[#2A2B2F]">
         <p className="text-[#6E6E6C] text-[11px] text-center tracking-wider">
