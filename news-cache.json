@@ -1,6 +1,80 @@
 {
-  "lastUpdated": "2026-06-22T18:08:15.431Z",
+  "lastUpdated": "2026-06-22T18:17:41.633Z",
   "articles": [
+    {
+      "id": "abovethelaw-com-2026-06-ai-error-nearly-gave-defendant-his-constitutional-right-",
+      "title": "AI Error Nearly Gave Defendant His Constitutional Right To Counsel — Don’t Worry, A Human Judge Fixed That!",
+      "url": "https://abovethelaw.com/2026/06/ai-error-nearly-gave-defendant-his-constitutional-right-to-counsel-dont-worry-a-human-judge-fixed-that/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-06-22T16:13:00.000Z",
+      "summary": "It's incredibly difficult to correctly invoke your right to an attorney. AI, apparently, doesn't understand that.\nThe post AI Error Nearly Gave Defendant His Constitutional Right To Counsel — Don’t Worry, A Human Judge Fixed That! appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-lawnext-com-2026-06-thomson-reuters-opens-early-access-to-the-next-generatio",
+      "title": "Thomson Reuters Opens Early Access to the ‘Next Generation’ of CoCounsel Legal, Saying Beta Users ‘F#@%ing Loved’ the Product",
+      "url": "https://www.lawnext.com/2026/06/thomson-reuters-opens-early-access-to-the-next-generation-of-cocounsel-legal-saying-beta-users-fing-loved-the-product.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-06-22T16:04:39.000Z",
+      "summary": "Thomson Reuters is opening early access this week to what it calls the next generation of CoCounsel Legal, the most substantial reworking of its flagship legal AI assistant since the company acquired the product as part of its 2023 purchase of Casetext — and, just as notably, a shift in how the company describes what […]",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-06-supreme-court-agrees-to-hear-case-on-the-ability-to-s",
+      "title": "Supreme Court agrees to hear case on the ability to sue federal officials ",
+      "url": "https://www.scotusblog.com/2026/06/supreme-court-agrees-to-hear-case-on-the-ability-to-sue-federal-officials-/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-06-22T15:47:00.000Z",
+      "summary": "",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-06-court-determines-federal-defendants-appellate-waivers",
+      "title": "Court determines federal defendants’ appellate waivers unenforceable if a miscarriage of justice would result ",
+      "url": "https://www.scotusblog.com/2026/06/court-determines-federal-defendants-appellate-waivers-unenforceable-if-a-miscarriage-of-justice-/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-06-22T14:30:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "abovethelaw-com-2026-06-morning-docket-06-22-26-",
+      "title": "Morning Docket: 06.22.26",
+      "url": "https://abovethelaw.com/2026/06/morning-docket-06-22-26/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-06-22T12:53:00.000Z",
+      "summary": "* Lateral moves aren't just about money anymore. [Law.com]\n\n\n* Cameras in federal courtrooms bill advances, before courts inevitably take position that Congress can't impose rules on them. [Reuters]\n\n\n* Trump administration's argument in defense of Elon's data center claims the executive branch is the only authority on whether a statute has been violated. [One First]\n\n\n* JD Advantage? Millionaire ",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-lawnext-com-2026-06-barbri-acquires-lega-completing-the-startups-pivot-from-",
       "title": "BARBRI Acquires Lega, Completing the Startup’s Pivot From AI Governance to Experiential AI Training",
@@ -32,6 +106,22 @@
       ],
       "relevance": "high",
       "score": 6
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-judge-disallows-30k-success-fee-over-insuffic",
+      "title": "Judge disallows £30k success fee over inadequate LEI enquiries",
+      "url": "https://www.legalfutures.co.uk/latest-news/judge-disallows-30k-success-fee-over-insufficient-lei-enquiries",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-06-21T23:03:26.000Z",
+      "summary": "The Senior Costs Judge has disallowed a law firm’s £30,000 success fee because it failed to make reasonable enquiries about legal expenses insurance.\nThe post Judge disallows £30k success fee over inadequate LEI enquiries appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
     },
     {
       "id": "abovethelaw-com-2026-06-could-associates-be-waiting-until-labor-day-for-biglaw-f",
