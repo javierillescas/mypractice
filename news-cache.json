@@ -1,6 +1,171 @@
 {
-  "lastUpdated": "2026-06-23T16:12:32.074Z",
+  "lastUpdated": "2026-06-24T14:00:10.591Z",
   "articles": [
+    {
+      "id": "www-lawnext-com-2026-06-abstract-extends-its-legislative-intelligence-into-agent",
+      "title": "Abstract Extends Its Legislative Intelligence into Agentic Workflow Automation with Launch of ‘Abstract Workers’",
+      "url": "https://www.lawnext.com/2026/06/abstract-extends-its-legislative-intelligence-into-agentic-workflow-automation-with-launch-of-abstract-workers.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-06-24T13:19:41.000Z",
+      "summary": "When I wrote about Abstract in April, I reported on how the New York-based startup was making a push into the market for legislative and regulatory monitoring, alerting law firms and corporate legal teams to the bills and rules that matter to a client, even when they never mention that client’s industry by name. Now […]",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-scotusblog-com-2026-06-what-to-know-about-the-court-s-five-latest-rulings-",
+      "title": "What to know about the court’s five latest rulings",
+      "url": "https://www.scotusblog.com/2026/06/what-to-know-about-the-court-s-five-latest-rulings/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-06-24T13:00:00.000Z",
+      "summary": "The next opinion announcement day is expected to be Thursday.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "verfassungsblog-de-the-politics-of-european-society-",
+      "title": "The Politics of European Society",
+      "url": "https://verfassungsblog.de/the-politics-of-european-society/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-06-24T12:58:34.000Z",
+      "summary": "Commission v Hungary marks the remarkable ascent of the European society discourse. A closer look, however, reveals that there is little transformative in the Court’s Article 2 TEU case law or its invocation of European society. Beneath the rhetoric of transformation, the institutional adaptation of the society discourse is above all conservative in nature, seeking to protect the authority of the ",
+      "tags": [
+        "In-House Counsel",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "verfassungsblog-de-european-society-at-the-italian-constitutional-court-",
+      "title": "European Society at the Italian Constitutional Court",
+      "url": "https://verfassungsblog.de/european-society-at-the-italian-constitutional-court/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-06-24T12:57:52.000Z",
+      "summary": "In its recent judgment No. 63/2026, the Italian Constitutional Court acknowledged the existence of a European society grounded on the values in Article 2 TEU. The judgment appears to be the first explicit reference by a constitutional court of an EU Member State to the emergence of a European society. Judgment concerned the constitutionality of recent legislation restricting access to Italian citi",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "legaltechnology-com-shoosmiths-unveils-proprietary-ai-contract-review-tool-built",
+      "title": "Shoosmiths unveils proprietary AI contract review tool built with Microsoft",
+      "url": "https://legaltechnology.com/shoosmiths-unveils-proprietary-ai-contract-review-tool-built-with-microsoft/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-06-24T09:13:58.000Z",
+      "summary": "Shoosmiths unveils its self-developed generative AI platform, built with support from Microsoft and trained on the firm’s legal know-how UK law firm Shoosmiths today (24 June) unveiled Project Apollo, its […]\nThe post Shoosmiths unveils proprietary AI contract review tool built with Microsoft appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-court-of-appeal-reinstates-legal-ombudsman-fi",
+      "title": "Court of Appeal reinstates Legal Ombudsman finding against law firm",
+      "url": "https://www.legalfutures.co.uk/latest-news/court-of-appeal-reinstates-legal-ombudsman-finding-against-law-firm",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-06-23T23:07:25.000Z",
+      "summary": "The Court of Appeal has reinstated a Legal Ombudsman decision that a law firm failed to adequately assess a client’s capacity and should pay her compensation.\nThe post Court of Appeal reinstates Legal Ombudsman finding against law firm appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-another-warning-for-high-court-judge-over-jud",
+      "title": "Another warning for High Court judge over judgment delays",
+      "url": "https://www.legalfutures.co.uk/latest-news/another-warning-for-high-court-judge-over-judgment-delays",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-06-23T23:01:29.000Z",
+      "summary": "A High Court judge has received his second formal warning in less than three months for a delay in handing down judgment.\nThe post Another warning for High Court judge over judgment delays appeared first on Legal Futures.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-06-justices-reject-constitutional-attack-on-foreclosure-",
+      "title": "Justices reject constitutional attack on foreclosure rules",
+      "url": "https://www.scotusblog.com/2026/06/justices-reject-constitutional-attack-on-foreclosure-rules/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-06-23T21:11:00.000Z",
+      "summary": "",
+      "tags": [
+        "In-House Counsel",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-abajournal-com-news-article-plaintiffs-attorneys-in-2-mdls-face-sanctions-fo",
+      "title": "Plaintiffs attorneys in 2 multidistrict litigations face sanctions for protective order document breach",
+      "url": "https://www.abajournal.com/news/article/plaintiffs-attorneys-in-2-mdls-face-sanctions-for-protective-order-breach/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-06-23T19:25:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-lawnext-com-2026-06-thomson-reuters-ceo-steve-hasker-on-the-next-generation-",
+      "title": "Thomson Reuters CEO Steve Hasker on the Next Generation of CoCounsel, the ‘Future of Professionals’ Report, and Why TR Is Building Its Own LLM",
+      "url": "https://www.lawnext.com/2026/06/thomson-reuters-ceo-steve-hasker-on-the-next-generation-of-cocounsel-the-future-of-professionals-report-and-why-tr-is-building-its-own-llm.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-06-23T16:39:14.000Z",
+      "summary": "Yesterday, Thomson Reuters made two announcements. It opened early access to the next generation of CoCounsel Legal, the most substantial reworking of its flagship legal AI assistant since the company acquired Casetext in 2023, and it released its Future of Professionals Report 2026, which warns of a widening gap between AI adoption and the value […]",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-scotusblog-com-2026-06-supreme-court-limits-ability-of-foreigners-to-bring-l",
+      "title": "Supreme Court limits ability of foreigners to bring lawsuits for violations of international law",
+      "url": "https://www.scotusblog.com/2026/06/supreme-court-limits-ability-of-foreigners-to-bring-lawsuits-for-violations-of-international-law/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-06-23T16:13:00.000Z",
+      "summary": "",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-legalfutures-co-uk-associate-news-uk-law-firms-losing-nearly-2m-a-year-to-le",
       "title": "Uk law firms losing nearly £2m a year to legal tech that ‘frustrates’ fee earners",
