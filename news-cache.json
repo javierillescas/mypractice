@@ -1,6 +1,143 @@
 {
-  "lastUpdated": "2026-06-24T14:00:10.591Z",
+  "lastUpdated": "2026-06-25T13:38:52.127Z",
   "articles": [
+    {
+      "id": "www-scotusblog-com-2026-06-major-decisions-ahead-",
+      "title": "Major decisions ahead",
+      "url": "https://www.scotusblog.com/2026/06/major-decisions-ahead/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-06-25T13:00:00.000Z",
+      "summary": "We’re expecting 12 more opinions in argued cases. At least one is expected today.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-lawnext-com-2026-06-perplexity-makes-its-move-into-legal-unveiling-industry-",
+      "title": "Perplexity Makes Its Move Into Legal, Unveiling Industry Features at ‘Computer for Counsel’ Event",
+      "url": "https://www.lawnext.com/2026/06/perplexity-makes-its-move-into-legal-unveiling-industry-features-at-computer-for-counsel-event.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-06-25T12:43:52.000Z",
+      "summary": "Perplexity, the AI search engine known for delivering sourced answers to user queries, is making an explicit move into the legal market, rolling out legal-specific features within its agentic platform, Perplexity Computer, and positioning the product as what it calls “Computer for Counsel.” The company highlighted the legal push yesterday at an invitation-only event in […]",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-law-firm-self-reports-to-sra-over-failed-priv",
+      "title": "Law firm self-reports to SRA over failed private prosecution",
+      "url": "https://www.legalfutures.co.uk/latest-news/law-firm-self-reports-to-sra-over-failed-private-prosecution",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-06-24T23:05:59.000Z",
+      "summary": "A high-profile law firm has reported itself to the Solicitors Regulation Authority after the Chief Magistrate strongly criticised its role in a failed private prosecution.\nThe post Law firm self-reports to SRA over failed private prosecution appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-senior-judge-warns-al-could-compromise-judici",
+      "title": "Senior judge warns AI could compromise judicial independence",
+      "url": "https://www.legalfutures.co.uk/latest-news/senior-judge-warns-al-could-compromise-judicial-independence",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-06-24T23:01:34.000Z",
+      "summary": "A senior judge has warned that Big Tech has the power to ‘compromise judicial independence’ if the courts become dependent on a small number of AI systems.\nThe post Senior judge warns AI could compromise judicial independence appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-national-firm-teams-up-with-microsoft-to-buil",
+      "title": "National firm teams up with Microsoft to build own AI platform",
+      "url": "https://www.legalfutures.co.uk/latest-news/national-firm-teams-up-with-microsoft-to-build-own-ai-platform",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-06-24T23:01:11.000Z",
+      "summary": "National firm Shoosmiths has joined forces with Microsoft to create its own bespoke AI platform for carrying out contract reviews.\nThe post National firm teams up with Microsoft to build own AI platform appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-abajournal-com-news-article-ex-nj-judge-settles-harassment-case-over-fancy-u",
+      "title": "Ex-judge settles case alleging harassment over ‘fancy’ appearance, designer clothes, ‘flowy beachy hair’",
+      "url": "https://www.abajournal.com/news/article/ex-nj-judge-settles-harassment-case-over-fancy/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-06-24T17:50:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "abovethelaw-com-2026-06-todd-blanche-disgrace-train-rolls-on-",
+      "title": "Todd Blanche Disgrace Train Rolls On",
+      "url": "https://abovethelaw.com/2026/06/todd-blanche-disgrace-train-rolls-on/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-06-24T17:47:18.000Z",
+      "summary": "Supreme Court ignores Judge Newman's rights. \nThe post Todd Blanche Disgrace Train Rolls On appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "verfassungsblog-de-procedural-rights-climate-cases-ecthr-",
+      "title": "Procedural Rights in Climate Cases Before the ECtHR",
+      "url": "https://verfassungsblog.de/procedural-rights-climate-cases-ecthr/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-06-24T16:18:24.000Z",
+      "summary": "This blog post takes the landmark ruling KlimaSeniorinnen as a starting point to examine the role of procedural rights in climate litigation before the European Court of Human Rights. Procedural rights, as we argue, can be understood in a twofold manner: on the one hand, as admissibility criteria structuring access to the Court, and on the other, as substantive guarantees flowing from the Conventi",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-lawnext-com-2026-06-sapphire-legal-has-built-a-legal-platform-for-a-market-a",
+      "title": "Sapphire Legal Has Built A Legal Platform for a Market Almost No One Else Is Chasing: The Fractional GC",
+      "url": "https://www.lawnext.com/2026/06/sapphire-legal-has-built-a-legal-platform-for-a-market-almost-no-one-else-is-chasing-the-fractional-gc.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-06-24T14:56:28.000Z",
+      "summary": "Recently I sat through a demo of a product unlike anything I’d seen before, aimed at a segment of the legal profession that legal tech companies have largely ignored – the fractional general counsel, lawyers who serve as outside in-house counsel for multiple companies too small to have their own legal departments. The product is […]",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Tech"
+      ],
+      "relevance": "high",
+      "score": 7
+    },
     {
       "id": "www-lawnext-com-2026-06-abstract-extends-its-legislative-intelligence-into-agent",
       "title": "Abstract Extends Its Legislative Intelligence into Agentic Workflow Automation with Launch of ‘Abstract Workers’",
