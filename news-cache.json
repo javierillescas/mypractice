@@ -1,6 +1,157 @@
 {
-  "lastUpdated": "2026-06-25T13:38:52.127Z",
+  "lastUpdated": "2026-06-26T13:34:42.191Z",
   "articles": [
+    {
+      "id": "legaltechnology-com-start-up-corner-caira-from-unwildered-improving-access-to-ju",
+      "title": "Start Up Corner: Caira from Unwildered – Improving access to justice",
+      "url": "https://legaltechnology.com/start-up-corner-caira-from-unwildered-improving-access-to-justice/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-06-26T12:14:09.000Z",
+      "summary": "Unwildered was founded in 2024 and its LLM-powered platform Caira started life a consumer-facing legal assistant before expanding into specialised workflows such as contract review. Founder Hassan Luwalira talks us […]\nThe post Start Up Corner: Caira from Unwildered – Improving access to justice appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "verfassungsblog-de-mapping-the-future-",
+      "title": "Mapping the Future",
+      "url": "https://verfassungsblog.de/mapping-the-future/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-06-26T11:42:55.000Z",
+      "summary": "On 25 June 2026, the Paris Judicial Court became the first court to rule on the merits of Notre Affaire à Tous and others v. TotalEnergies SE. At its core, the case concerns whether TotalEnergies violated the French Commercial Code by failing to adequately report the climate risks associated with its activities and take action to mitigate those risks in line with the goals of the Paris Agreement. ",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "verfassungsblog-de-czech-constitutional-courts-interim-measure-on-presidential-a",
+      "title": "Don’t Leave the President at Home",
+      "url": "https://verfassungsblog.de/czech-constitutional-courts-interim-measure-on-presidential-accreditation-for-the-nato-summit-in-ankara/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-06-26T09:40:32.000Z",
+      "summary": "Relations between Czech President Petr Pavel and Prime Minister Andrej Babiš's government have deteriorated almost since the government took office in December 2025. A few months ago, the political conflict culminated in an unprecedented dispute over the President's participation in the upcoming NATO summit in Ankara and prompted an unusually swift intervention by the Czech Constitutional Court. A",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-court-rejects-solicitors-reasons-for-missing-",
+      "title": "Court rejects solicitor’s reasons for missing Dieselgate claim cut-off",
+      "url": "https://www.legalfutures.co.uk/latest-news/court-rejects-solicitors-reasons-for-missing-dieselgate-claim-cut-off",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-06-25T23:05:29.000Z",
+      "summary": "A High Court master has refused to allow 5,000 Dieselgate claimants to go ahead after their law firm failed to serve their claim in time.\nThe post Court rejects solicitor’s reasons for missing Dieselgate claim cut-off appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-sra-urged-to-consider-fee-reductions-for-lega",
+      "title": "SRA urged to consider fee reductions for legal aid firms",
+      "url": "https://www.legalfutures.co.uk/latest-news/sra-urged-to-consider-fee-reductions-for-legal-aid-firms",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-06-25T23:01:31.000Z",
+      "summary": "The Solicitors Regulation Authority should consider reductions for legal aid firms if it goes ahead with plans for a 29%, or £25m, increase in its funding.\nThe post SRA urged to consider fee reductions for legal aid firms appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Regulation"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-rebuke-for-law-firm-that-failed-to-perform-un",
+      "title": "Rebuke for law firm that failed to perform undertaking for years",
+      "url": "https://www.legalfutures.co.uk/latest-news/rebuke-for-law-firm-that-failed-to-perform-undertaking-for-years",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-06-25T23:01:01.000Z",
+      "summary": "A South London law firm that failed to perform an undertaking given during a property transaction for nearly two and a half years has been rebuked by the SRA.\nThe post Rebuke for law firm that failed to perform undertaking for years appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "legaltechnology-com-talkingtech-with-colt-retainers-are-more-than-ever-a-viable-",
+      "title": "TalkingTech with Colt: Retainers are, more than ever, a viable pricing solution",
+      "url": "https://legaltechnology.com/talkingtech-with-colt-retainers-are-more-than-ever-a-viable-pricing-solution/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-06-25T16:41:41.000Z",
+      "summary": "In this interview at the FT Innovative Lawyers Summit with Alessandro Galtieri, deputy general counsel at Colt, we discuss the success of his retainer model with Baker McKenzie, which has […]\nThe post TalkingTech with Colt: Retainers are, more than ever, a viable pricing solution appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-06-supreme-court-strikes-hawaii-gun-restriction-",
+      "title": "Supreme Court strikes down Hawaii gun restriction",
+      "url": "https://www.scotusblog.com/2026/06/supreme-court-strikes-hawaii-gun-restriction/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-06-25T15:13:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "verfassungsblog-de-in-search-of-reflective-equilibrium-",
+      "title": "In Search of Reflective Equilibrium",
+      "url": "https://verfassungsblog.de/in-search-of-reflective-equilibrium/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-06-25T14:46:39.000Z",
+      "summary": "In her academic writings, Advocate General Tamara Ćapeta has observed that many EU rights have been developing on a case-by-case basis, but so far without “a general and comprehensive explanation that they form part of a liberal and tolerant democratic society”. Drawing on this observation, and against the backdrop of the Court’s ruling in the Hungarian case, I will argue in this contribution that",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "verfassungsblog-de-climate-justice-unlocked-",
+      "title": "Climate Justice Unlocked",
+      "url": "https://verfassungsblog.de/climate-justice-unlocked/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-06-25T14:26:18.000Z",
+      "summary": "The Inter-American Court of Human Rights has just handed climate litigators in Latin America the most powerful tool they have ever had. Advisory Opinion OC-32/25 restructures the procedural architecture of climate litigation: inverting burdens of proof, authorising the presumption of causal links between state emissions and climate harm, and recognising satellite imagery as evidence that states mu",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-scotusblog-com-2026-06-major-decisions-ahead-",
       "title": "Major decisions ahead",
