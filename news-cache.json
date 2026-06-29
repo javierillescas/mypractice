@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2026-06-28T12:00:30.164Z",
+  "lastUpdated": "2026-06-29T17:14:17.113Z",
   "articles": [
+    {
+      "id": "blogs-thomsonreuters-com-legal-blog-from-automation-to-autonomy-why-government-a",
+      "title": "From automation to autonomy: Why government agencies need agentic AI now",
+      "url": "https://blogs.thomsonreuters.com/legal-blog/from-automation-to-autonomy-why-government-agencies-need-agentic-ai-now/",
+      "source": "Thomson Reuters",
+      "region": "Global",
+      "date": "2026-06-29T15:59:39.000Z",
+      "summary": "Government investigators are no strangers to pressure. With rising fraud cases to investigate and increasing volumes of data to analyze—alongside …\nThe post From automation to autonomy: Why government agencies need agentic AI now appeared first on Thomson Reuters Law Blog.",
+      "tags": [
+        "AI in Law",
+        "Legal Tech",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-06-29-kirkland-partners-with-syllo-for-secret-sauc",
+      "title": "Kirkland Partners With Syllo For Secret Sauce Litigation",
+      "url": "https://www.artificiallawyer.com/2026/06/29/kirkland-partners-with-syllo-for-secret-sauce-litigation/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-06-29T15:44:05.000Z",
+      "summary": "Fresh from signing a massive deal with Palantir and going on a legal AI hiring spree, Kirkland & Ellis has inked a deal with Syllo, ...",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-06-legal-ethics-roundup-legal-ethics-in-berlin-101-judges-s",
+      "title": "Legal Ethics Roundup: Legal Ethics In Berlin, 101 Judges Seek Blanche NY Bar Investigation, Activists’ Legal Fees Paid By Feds, Bolton Pleads Guilty, Law Deans Drive Innovation & More ",
+      "url": "https://abovethelaw.com/2026/06/legal-ethics-roundup-legal-ethics-in-berlin-101-judges-seek-blanche-ny-bar-investigation-activists-legal-fees-paid-by-feds-bolton-pleads-guilty-law-deans-drive-innovation-more/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-06-29T15:32:00.000Z",
+      "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.\nThe post Legal Ethics Roundup: Legal Ethics In Berlin, 101 Judges Seek Blanche NY Bar Investigation, Activists’ Legal Fees Paid By Feds, Bolton Pleads Guilty, Law Deans Drive Innovation & More  appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "verfassungsblog-de-looking-sideways-",
+      "title": "Looking Sideways",
+      "url": "https://verfassungsblog.de/looking-sideways/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-06-29T15:06:20.000Z",
+      "summary": "What are the major interpretative principles which assist the European Court of Human Rights in its decision-making? What role do they play in climate change judgments? Subsidiarity, the living instrument doctrine and a harmonious interpretation of international law all enable the Court to incorporate relevant comparative law into its reasoning. Climate change case-law is particularly well-suited ",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "www-abajournal-com-columns-article-can-law-schools-learn-from-computer-science-p",
+      "title": "Can law schools learn from computer science programs in the debate on generative AI?",
+      "url": "https://www.abajournal.com/columns/article/can-law-schools-learn-from-computer-science-programs-in-the-debate-on-generative-ai/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-06-29T14:24:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Legal Education"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-06-sam-alito-complains-that-dog-ate-his-homework-see-genera",
+      "title": "Sam Alito Complains That Dog Ate His Homework — See Generally",
+      "url": "https://abovethelaw.com/2026/06/sam-alito-complains-that-dog-ate-his-homework-see-generally/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-06-29T00:00:31.000Z",
+      "summary": "Sam Alito Huffed That He Totally Could've Made Better Arguments (Spoiler: He Could Not Have): Alito broke protocol at the Supreme Court this week to whine from the bench that Sotomayor's dissent made him look bad for gutting Holocaust-era asylum protections in Mullin v. Al Otro Lado.\n\n\nEverybody Loves Living By The Sword Until The Sword Turns Around: While star partners are hauling in packages app",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
     {
       "id": "abovethelaw-com-2026-06-appeals-court-orders-10k-in-sanctions-over-ai-related-fi",
       "title": "Appeals Court Orders $10K In Sanctions Over AI-Related Filing Mistakes",
