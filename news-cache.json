@@ -1,6 +1,37 @@
 {
-  "lastUpdated": "2026-06-29T17:14:17.113Z",
+  "lastUpdated": "2026-06-30T12:32:50.639Z",
   "articles": [
+    {
+      "id": "www-legalfutures-co-uk-latest-news-dont-kick-transparency-rules-into-long-grass-",
+      "title": "Don’t kick transparency rules into long grass, SRA told",
+      "url": "https://www.legalfutures.co.uk/latest-news/dont-kick-transparency-rules-into-long-grass-sra-told",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-06-29T23:03:14.000Z",
+      "summary": "The Solicitors Regulation Authority must publish a timeline setting out when it will resume work on the transparency rules for law firms.\nThe post Don’t kick transparency rules into long grass, SRA told appeared first on Legal Futures.",
+      "tags": [
+        "Regulation",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-consumers-turning-away-from-collective-action",
+      "title": "Consumers turning away from collective action cases",
+      "url": "https://www.legalfutures.co.uk/latest-news/consumers-turning-away-from-collective-action-cases",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-06-29T23:01:26.000Z",
+      "summary": "Law firms working on collective action cases face a growing lack of trust amongst consumers who fear genuine claims could be online scams, according to research.\nThe post Consumers turning away from collective action cases appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "blogs-thomsonreuters-com-legal-blog-from-automation-to-autonomy-why-government-a",
       "title": "From automation to autonomy: Why government agencies need agentic AI now",
@@ -61,6 +92,21 @@
       ],
       "relevance": "medium",
       "score": 5
+    },
+    {
+      "id": "www-scotusblog-com-2026-06-court-allows-trump-to-fire-ftc-commissioner-and-overt",
+      "title": "Supreme Court allows Trump to fire FTC commissioner and overturns major restraint on presidential power",
+      "url": "https://www.scotusblog.com/2026/06/court-allows-trump-to-fire-ftc-commissioner-and-overturns-major-restraint-on-presidential-power/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-06-29T14:42:32.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
     },
     {
       "id": "www-abajournal-com-columns-article-can-law-schools-learn-from-computer-science-p",
