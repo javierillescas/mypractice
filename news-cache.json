@@ -1,6 +1,49 @@
 {
-  "lastUpdated": "2026-07-01T13:57:42.744Z",
+  "lastUpdated": "2026-07-02T12:33:03.991Z",
   "articles": [
+    {
+      "id": "verfassungsblog-de-regional-perspectives-on-climate-change-and-human-rights-",
+      "title": "Between and Beyond Regional Perspectives on Climate Change and Human Rights",
+      "url": "https://verfassungsblog.de/regional-perspectives-on-climate-change-and-human-rights/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-07-02T07:02:19.000Z",
+      "summary": "Climate change has reached the dockets of (international) courts. The intersecting nature of this existential threat has led to a flurry of judicial action – somewhat paradoxically in the absence of meaningful political action. Yet, as case law is proliferating, the discussion about climate change in international adjudication has become highly specialized. Against this background, this contributi",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "abovethelaw-com-2026-07-justice-gorsuchs-birthright-citizenship-dissent-will-not",
+      "title": "Justice Gorsuch’s Birthright Citizenship Dissent… Will Not Make Donald Trump Happy",
+      "url": "https://abovethelaw.com/2026/07/justice-gorsuchs-birthright-citizenship-dissent-will-not-make-donald-trump-happy/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-07-01T20:02:00.000Z",
+      "summary": "The Supreme Court's birthright decision included an idiosyncratic dissent from Neil Gorsuch.\nThe post Justice Gorsuch’s Birthright Citizenship Dissent… Will Not Make Donald Trump Happy appeared first on Above the Law.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "verfassungsblog-de-learning-from-each-other-",
+      "title": "Learning from Each Other",
+      "url": "https://verfassungsblog.de/learning-from-each-other/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-07-01T16:32:14.000Z",
+      "summary": "The relationship between the world's regional human rights courts has undergone a quiet but consequential transformation over the past decade. What began as occasional, informal exchanges among judges and registries — encounters at conferences, the mutual citation of landmark judgments, coordinated submissions to United Nations human rights bodies — has matured into something more deliberate and s",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-lawnext-com-2026-07-on-lawnext-legal-research-for-everyone-inside-the-courtl",
       "title": "On LawNext: Legal Research for Everyone: Inside the CourtListener-Claude Partnership",
