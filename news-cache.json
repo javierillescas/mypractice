@@ -1,6 +1,191 @@
 {
-  "lastUpdated": "2026-07-02T12:33:03.991Z",
+  "lastUpdated": "2026-07-03T12:30:40.705Z",
   "articles": [
+    {
+      "id": "verfassungsblog-de-european-society-in-the-digital-sphere-",
+      "title": "European Society in the Digital Sphere",
+      "url": "https://verfassungsblog.de/european-society-in-the-digital-sphere/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-07-03T11:26:19.000Z",
+      "summary": "The judgment in Commission v Hungary facilitates European society in a negative, boundary-setting sense: it identifies what cannot be accommodated within the European framework of shared values. EU digital regulation, by contrast, facilitates European society in a positive, practice-structuring sense: it translates its values into regulatory duties, procedures, and institutional practices. In my i",
+      "tags": [
+        "Regulation",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "legaltechnology-com-from-ai-efficiency-to-client-value-the-conversation-over-a-l",
+      "title": "From AI efficiency to client value: The conversation over a LITI/Litera lunch",
+      "url": "https://legaltechnology.com/from-ai-efficiency-to-client-value-the-conversation-over-a-liti-litera-lunch/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-07-03T10:52:57.000Z",
+      "summary": "In June, Legal IT Insider hosted a lunch in partnership with Litera, bringing together legal tech law firm leaders and legal operations heads to discuss how people are leveraging AI-generated time […]\nThe post From AI efficiency to client value: The conversation over a LITI/Litera lunch appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-legalfutures-co-uk-associate-news-qanooni-ai-legal-ai-vendors-must-prove-how",
+      "title": "Qanooni AI: Legal AI vendors must prove how they prevent hallucinated citations",
+      "url": "https://www.legalfutures.co.uk/associate-news/qanooni-ai-legal-ai-vendors-must-prove-how-they-prevent-hallucinated-citations",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-07-03T10:03:17.000Z",
+      "summary": "Legal AI suppliers are facing growing pressure from law firms to demonstrate how their systems reduce the risk of hallucinated case law, fabricated citations and unsupported legal analysis.\nThe post Qanooni AI: Legal AI vendors must prove how they prevent hallucinated citations appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "legaltechnology-com-guest-post-ai-did-not-win-a-legal-case-in-england-but-it-is-",
+      "title": "Guest post: AI did not win a legal case in England, but it is changing law as we know it",
+      "url": "https://legaltechnology.com/guest-post-ai-did-not-win-a-legal-case-in-england-but-it-is-changing-law-as-we-know-it/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-07-03T09:37:13.000Z",
+      "summary": "By Alex Cook, senior partner at Helix Law It is time for a reality check. AI has not just won a court case in England. The media, legal press and […]\nThe post Guest post: AI did not win a legal case in England, but it is changing law as we know it appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-sra-major-shortcomings-in-high-volume-consume",
+      "title": "SRA: “Major shortcomings” in high-volume consumer claim work",
+      "url": "https://www.legalfutures.co.uk/latest-news/sra-major-shortcomings-in-high-volume-consumer-claim-work",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-07-02T23:07:46.000Z",
+      "summary": "The SRA is developing materials to help law firms handling high-volume consumer claims improve how they onboard clients after major research showed significant shortcomings.\nThe post SRA: “Major shortcomings” in high-volume consumer claim work appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-sra-outlines-further-tightening-of-complaints",
+      "title": "SRA outlines further tightening of complaints-handling rules",
+      "url": "https://www.legalfutures.co.uk/latest-news/sra-outlines-further-tightening-of-complaints-handling-rules",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-07-02T23:06:44.000Z",
+      "summary": "New rules requiring law firms to give clients a timeline for resolving complaints they have made, and provide regular updates, have been proposed by the SRA.\nThe post SRA outlines further tightening of complaints-handling rules appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-motor-finance-redress-delay-could-send-more-c",
+      "title": "Motor finance redress delay “could send more cases to court”",
+      "url": "https://www.legalfutures.co.uk/latest-news/motor-finance-redress-delay-could-send-more-cases-to-court",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-07-02T23:05:58.000Z",
+      "summary": "Delays to the motor finance redress scheme – possibly into 2028 and beyond – show that consumers need representation more than ever, claimant lawyers have argued.\nThe post Motor finance redress delay “could send more cases to court” appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-kc-wins-appeal-against-disbarment-over-oxford",
+      "title": "KC wins appeal against disbarment over Oxford University lie",
+      "url": "https://www.legalfutures.co.uk/latest-news/kc-wins-appeal-against-disbarment-over-oxford-university-lie",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-07-02T23:03:12.000Z",
+      "summary": "The High Court has overturned the disbarment of a barrister who lied in an interview and on a CV 13 years ago that he had attended Oxford University.\nThe post KC wins appeal against disbarment over Oxford University lie appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-07-breyer-pushes-back-on-claims-that-politics-rules-the-sup",
+      "title": "Breyer Pushes Back On Claims That Politics Rules The Supreme Court",
+      "url": "https://abovethelaw.com/2026/07/breyer-pushes-back-on-claims-that-politics-rules-the-supreme-court/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-07-02T19:12:00.000Z",
+      "summary": "On the other hand, the retired justice thinks declining public confidence could become a long-term problem for the judiciary.\nThe post Breyer Pushes Back On Claims That Politics Rules The Supreme Court appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-06-ai-is-killing-legals-billable-hour-its-also-repeating-it",
+      "title": "AI Is Killing Legal’s Billable Hour. It’s Also Repeating Its Worst Mistake.",
+      "url": "https://abovethelaw.com/2026/06/ai-is-killing-legals-billable-hour-its-also-repeating-its-worst-mistake/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-07-02T15:34:00.000Z",
+      "summary": "[Sponsored] Law firms and legal departments are writing the future of the profession in separate rooms. What happens when they actually work together?\nThe post AI Is Killing Legal’s Billable Hour. It’s Also Repeating Its Worst Mistake. appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "verfassungsblog-de-from-values-to-european-society-",
+      "title": "From Values to European Society",
+      "url": "https://verfassungsblog.de/from-values-to-european-society/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-07-02T14:32:34.000Z",
+      "summary": "Commission v. Hungary plays a role analogous to a judgment of the Italian Constitutional Court: it turns the axiological dimension of the founding text into an autonomous criterion for assessment. Just as that judgment overcame the prescriptive/programmatic distinction, Commission v. Hungary overcame the distinction between values and legal norms, holding that Article 2 TEU contains values integra",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-scotusblog-com-2026-07-what-we-learned-about-the-court-this-term-an-animated",
+      "title": "What we learned about the court this term: an animated explainer",
+      "url": "https://www.scotusblog.com/2026/07/what-we-learned-about-the-court-this-term-an-animated-explainer/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-07-02T13:30:00.000Z",
+      "summary": "This animated explainer, the third in a series of animated videos done in partnership with Briefly, guides you through which justices dominated this term, which judicial alliances mattered most, and whether the court's so-called ideological divide is more hype than reality.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
     {
       "id": "verfassungsblog-de-regional-perspectives-on-climate-change-and-human-rights-",
       "title": "Between and Beyond Regional Perspectives on Climate Change and Human Rights",
