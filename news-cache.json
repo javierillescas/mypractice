@@ -1,6 +1,85 @@
 {
-  "lastUpdated": "2026-07-06T17:18:25.468Z",
+  "lastUpdated": "2026-07-07T13:56:10.839Z",
   "articles": [
+    {
+      "id": "legaltechnology-com-exclusive-harbor-acquires-uk-legal-tech-training-provider-it",
+      "title": "Exclusive: Harbor acquires UK legal tech training provider iTrain ",
+      "url": "https://legaltechnology.com/exclusive-harbor-acquires-uk-legal-tech-training-provider-itrain/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-07-07T13:00:27.000Z",
+      "summary": "Harbor has acquired leading UK legal technology training provider iTrain, bolstering its ability to help clients with change management and technology adoption – a key priority for all law firms […]\nThe post Exclusive: Harbor acquires UK legal tech training provider iTrain  appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech",
+        "Legal Education"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-legalfutures-co-uk-services-directory-leap-enterprise",
+      "title": "LEAP Enterprise",
+      "url": "https://www.legalfutures.co.uk/services-directory/leap-enterprise",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-07-07T11:15:10.000Z",
+      "summary": "LEAP Enterprise is the unified cloud platform for mid-sized and large law firms that require deep systems integration, advanced configurability, and enterprise-level financial control.\nThe post LEAP Enterprise appeared first on Legal Futures.",
+      "tags": [
+        "In-House Counsel",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "verfassungsblog-de-whose-european-society-",
+      "title": "Whose European Society?",
+      "url": "https://verfassungsblog.de/whose-european-society/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-07-07T10:19:34.000Z",
+      "summary": "Commission v Hungary must be understood in the context of the European rule of law saga and the ongoing struggle for true European solidarity. The CJEU confirmed the autonomous justiciability of Article 2 TEU even when the link to specific EU Charter provisions or secondary legislation would already suffice. A close look at ASJP case and its antecedents discloses a European society selectively bui",
+      "tags": [
+        "In-House Counsel",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-07-07-meet-brahe-the-new-ai-first-law-firm-",
+      "title": "Meet Brahe – The New AI-First Law Firm",
+      "url": "https://www.artificiallawyer.com/2026/07/07/meet-brahe-the-new-ai-first-law-firm/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-07-07T10:08:50.000Z",
+      "summary": "Antti Innanen, the legal AI expert who recently created the agentic experimental firm Lavern, is now launching a real AI-first law firm, Brahe, and is ...",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-general-counsel-see-lower-bills-as-main-benef",
+      "title": "General counsel see lower bills as main benefit of AI",
+      "url": "https://www.legalfutures.co.uk/latest-news/general-counsel-see-lower-bills-as-main-benefit-of-ai",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-07-06T23:03:29.000Z",
+      "summary": "General counsel see cost savings as the most important benefit from external law firms’ use of AI, according to research which advises firms to address the issue head-on.\nThe post General counsel see lower bills as main benefit of AI appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "abovethelaw-com-2026-07-legal-ethics-roundup-lawyers-moonlight-to-train-ai-immig",
       "title": "Legal Ethics Roundup: Lawyers Moonlight To Train AI, Immigration Attorney Scam, Partnership Pain, Ethical Listening Is ‘Secret Superpower’ & More",
