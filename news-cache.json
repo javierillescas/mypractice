@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2026-07-07T13:56:10.839Z",
+  "lastUpdated": "2026-07-08T11:59:34.049Z",
   "articles": [
+    {
+      "id": "www-artificiallawyer-com-2026-07-08-harvey-increases-token-use-14x-in-just-6-mon",
+      "title": "Harvey Increases Token Use 14X in Just 6 Months",
+      "url": "https://www.artificiallawyer.com/2026/07/08/harvey-increases-token-use-14x-in-just-6-months/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-07-08T08:25:09.000Z",
+      "summary": "Harvey’s co-founder and President, Gabe Pereyra, has announced that the number of tokens processed on the broad legal AI platform have increased by fourteen times ...",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-blog-supreme-court-redraws-line-between-member-and-employ",
+      "title": "Supreme Court redraws line between member and employee in LLPs",
+      "url": "https://www.legalfutures.co.uk/blog/supreme-court-redraws-line-between-member-and-employee-in-llps",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-07-07T23:32:20.000Z",
+      "summary": "For anyone advising professional services firms on LLP structuring, and of course for those in LLPs themselves, last week's Supreme Court ruling is an essential read.\nThe post Supreme Court redraws line between member and employee in LLPs appeared first on Legal Futures.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-07-07-harbor-acquires-itrain-for-legal-ai-educatio",
+      "title": "Harbor Acquires iTrain for Legal AI Education",
+      "url": "https://www.artificiallawyer.com/2026/07/07/harbor-acquires-itrain-for-legal-ai-education/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-07-07T16:39:24.000Z",
+      "summary": "Harbor, the legal tech services group, has bought iTrain, which focuses on tech training, including AI enablement. It maintains strategic partnerships with Aderant, iManage, NetDocuments, ...",
+      "tags": [
+        "AI in Law",
+        "Legal Tech",
+        "Legal Education"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "verfassungsblog-de-miladze-echr-",
+      "title": "The Politics of Provocation",
+      "url": "https://verfassungsblog.de/miladze-echr/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-07-07T15:27:38.000Z",
+      "summary": "A recent judgment of the European Court of Human Rights concerning a TikTok video published by a Georgian self-defined civil activist adds another layer to the Court’s increasingly messy Article 10 case law. The applicant repeatedly insulted public officials in crude and sexually explicit terms while broadcasting to a large online audience. Domestic courts imposed only a modest administrative fine",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-abajournal-com-news-article-supreme-court-justices-disclose-paintings-travel",
+      "title": "Supreme Court justices disclose book deals, travel and Bad Bunny concert tickets",
+      "url": "https://www.abajournal.com/news/article/supreme-court-justices-disclose-paintings-travel-and-bad-bunny-concert-tickets/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-07-07T15:21:00.000Z",
+      "summary": "",
+      "tags": [
+        "In-House Counsel",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "abovethelaw-com-2026-07-are-supreme-court-justices-betting-on-their-own-cases-a-",
+      "title": "Are Supreme Court Justices Betting On Their Own Cases? A Member Of Congress Would Love John Roberts To Answer This Question",
+      "url": "https://abovethelaw.com/2026/07/are-supreme-court-justices-betting-on-their-own-cases-a-member-of-congress-would-love-john-roberts-to-answer-this-question/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-07-07T14:48:00.000Z",
+      "summary": "Prediction markets let anyone with a phone wager on Supreme Court outcomes -- including, theoretically, the people who decide them. A new letter to the Chief Justice asks him to get ahead of the next ethics problem before it becomes a scandal.\nThe post Are Supreme Court Justices Betting On Their Own Cases? A Member Of Congress Would Love John Roberts To Answer This Question appeared first on Above",
+      "tags": [
+        "Regulation",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "www-lawnext-com-2026-07-norm-ai-hits-unicorn-status-with-120m-series-c-at-1-2-bi",
+      "title": "Norm Ai Hits Unicorn Status with $120M Series C at $1.2 Billion Valuation",
+      "url": "https://www.lawnext.com/2026/07/norm-ai-hits-unicorn-status-with-120m-series-c-at-1-2-billion-valuation.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-07-07T14:35:46.000Z",
+      "summary": "Norm Ai, the New York-based legal and compliance AI company, today announced a $120 million Series C round at a $1.2 billion valuation, crossing the unicorn threshold and joining a growing but still select club of legal AI companies valued at $1 billion or more. Khosla Ventures led the round, in its first investment in […]",
+      "tags": [
+        "AI in Law",
+        "Regulation"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "legaltechnology-com-exclusive-harbor-acquires-uk-legal-tech-training-provider-it",
       "title": "Exclusive: Harbor acquires UK legal tech training provider iTrain ",
