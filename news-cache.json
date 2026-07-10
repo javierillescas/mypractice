@@ -1,6 +1,100 @@
 {
-  "lastUpdated": "2026-07-09T16:13:10.552Z",
+  "lastUpdated": "2026-07-10T13:27:47.235Z",
   "articles": [
+    {
+      "id": "www-lawnext-com-2026-07-uchicago-law-bans-laptops-from-1l-classrooms-as-part-of-",
+      "title": "UChicago Law Bans Laptops from 1L Classrooms As Part of Sweeping New AI Strategy for Legal Education",
+      "url": "https://www.lawnext.com/2026/07/uchicago-law-bans-laptops-from-1l-classrooms-as-part-of-sweeping-new-ai-strategy-for-legal-education.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-07-10T13:06:29.000Z",
+      "summary": "The University of Chicago Law School yesterday released a comprehensive AI Strategy Statement that will reshape how it teaches first-year students, how it assesses upper-level writing, and how it integrates AI tools across its curriculum — including a pilot program that will prohibit laptops, tablets and phones in all core 1L classes starting this fall. […]",
+      "tags": [
+        "AI in Law",
+        "Legal Education"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-scotusblog-com-2026-07-the-rarity-of-supreme-court-do-overs-",
+      "title": "The rarity of Supreme Court do-overs",
+      "url": "https://www.scotusblog.com/2026/07/the-rarity-of-supreme-court-do-overs/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-07-10T13:00:00.000Z",
+      "summary": "Plus, what Cecillia Wang said about arguing the birthright citizenship case during SCOTUSblog’s term-in-review event.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-legalfutures-co-uk-associate-news-leap-enterprise-the-unified-cloud-platform",
+      "title": "LEAP Enterprise: The unified cloud platform for ambitious law firms that demand scale, control, and compliance",
+      "url": "https://www.legalfutures.co.uk/associate-news/leap-enterprise-the-unified-cloud-platform-for-ambitious-law-firms-that-demand-scale-control-and-compliance",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-07-10T11:08:42.000Z",
+      "summary": "The legal profession is growing more complex, and the tools many firms rely on are struggling to keep pace. This is felt particularly strongly by mid-sized and large firms, where scale brings demands that software designed for smaller practices was never built to meet.\nThe post LEAP Enterprise: The unified cloud platform for ambitious law firms that demand scale, control, and compliance appeared f",
+      "tags": [
+        "Regulation",
+        "In-House Counsel",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-cps-admits-putting-hallucinated-cases-before-",
+      "title": "CPS admits putting hallucinated cases before High Court",
+      "url": "https://www.legalfutures.co.uk/latest-news/cps-admits-putting-hallucinated-cases-before-high-court",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-07-09T23:07:56.000Z",
+      "summary": "The Crown Prosecution Service put hallucinated cases produced by artificial intelligence before the High Court in an extradition appeal, it has admitted.\nThe post CPS admits putting hallucinated cases before High Court appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-legalfutures-co-uk-blog-when-ai-becomes-a-line-on-the-clients-bill",
+      "title": "When AI becomes a line on the client’s bill",
+      "url": "https://www.legalfutures.co.uk/blog/when-ai-becomes-a-line-on-the-clients-bill",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-07-09T23:00:45.000Z",
+      "summary": "On 23 June, Legora changed how it charges. The platform announced that its most capable product was moving away from a flat per-seat licence fee to consumption-based pricing\nThe post When AI becomes a line on the client’s bill appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-myshingle-com-2026-07-can-lawyers-legally-and-ethically-record-conversations",
+      "title": "Lawyers’ Use Of AI Notetakers And Client Conversations: Ethics Rules, Risks, And Best Practices (2026 Update)",
+      "url": "https://www.myshingle.com/2026/07/can-lawyers-legally-and-ethically-record-conversations-with-clients-using-artificial-intelligence/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-07-09T22:12:00.000Z",
+      "summary": "Now with guidance from NYC Opinion 1270 on ethical issues related to attorneys using AI transcription, and more.\nThe post Lawyers’ Use Of AI Notetakers And Client Conversations: Ethics Rules, Risks, And Best Practices (2026 Update) appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "abovethelaw-com-2026-07-fractional-general-counsel-a-win-win-proposition-for-cer",
       "title": "Fractional General Counsel: A Win-Win Proposition For Certain Clients, And Certain Lawyers",
