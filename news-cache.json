@@ -1,6 +1,55 @@
 {
-  "lastUpdated": "2026-07-10T13:27:47.235Z",
+  "lastUpdated": "2026-07-11T10:37:17.651Z",
   "articles": [
+    {
+      "id": "abovethelaw-com-2026-07-adventures-in-legal-tech-why-you-need-structured-intelli",
+      "title": "‘Adventures In Legal Tech’: You, Too, Can Tame Your ESI. Here’s How. ",
+      "url": "https://abovethelaw.com/2026/07/adventures-in-legal-tech-why-you-need-structured-intelligence-before-artificial-intelligence-2/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-07-10T21:04:00.000Z",
+      "summary": "Law firms and legal departments sit on mountains of electronically stored information. And many have no real system for dealing with it. \nThe post ‘Adventures In Legal Tech’: You, Too, Can Tame Your ESI. Here’s How.  appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "blogs-thomsonreuters-com-legal-blog-deep-research-for-in-house-counsel-",
+      "title": "Deep research for in-house counsel",
+      "url": "https://blogs.thomsonreuters.com/legal-blog/deep-research-for-in-house-counsel/",
+      "source": "Thomson Reuters",
+      "region": "Global",
+      "date": "2026-07-10T19:27:13.000Z",
+      "summary": "Every legal technology provider talks about “deep research” capabilities. They promise comprehensive analysis, thorough investigation, and detailed insights. But …\nThe post Deep research for in-house counsel appeared first on Thomson Reuters Law Blog.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-07-small-law-firms-billing-more-hours-per-case-the-opposite",
+      "title": "Small Law Firms Billing More Hours Per Case — The Opposite Of What AI Promised — But At Least They’re Getting Paid!",
+      "url": "https://abovethelaw.com/2026/07/small-law-firms-billing-more-hours-per-case-the-opposite-of-what-ai-promised-but-at-least-theyre-getting-paid/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-07-10T16:12:00.000Z",
+      "summary": "8am releases its SMB Law Financial Health Report and the impact of AI shines between the lines.\nThe post Small Law Firms Billing More Hours Per Case — The Opposite Of What AI Promised — But At Least They’re Getting Paid! appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
     {
       "id": "www-lawnext-com-2026-07-uchicago-law-bans-laptops-from-1l-classrooms-as-part-of-",
       "title": "UChicago Law Bans Laptops from 1L Classrooms As Part of Sweeping New AI Strategy for Legal Education",
