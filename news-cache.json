@@ -1,6 +1,65 @@
 {
-  "lastUpdated": "2026-07-12T10:59:58.809Z",
+  "lastUpdated": "2026-07-13T13:40:53.392Z",
   "articles": [
+    {
+      "id": "verfassungsblog-de-sex-work-india-prajwala-",
+      "title": "Dignity Without Autonomy",
+      "url": "https://verfassungsblog.de/sex-work-india-prajwala/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-07-13T11:49:14.000Z",
+      "summary": "In Prajwala v. Union of India, the Supreme Court held that victims of trafficking for commercial sexual exploitation have a right to rehabilitation under Article 23 read with the right to dignity under Article 21. While the judgment has been celebrated for its three-dimensional dignity framework, it is a missed opportunity to articulate a constitutional basis for protecting the rights of sex worke",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "abovethelaw-com-2026-07-if-at-first-you-fail-miserbly-at-the-supreme-court-try-t",
+      "title": "If At First You Fail Miserably At The Supreme Court, Try, Try Again — See Generally",
+      "url": "https://abovethelaw.com/2026/07/if-at-first-you-fail-miserbly-at-the-supreme-court-try-try-again-see-generally/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-07-12T23:09:37.000Z",
+      "summary": "Insanity Is Doing The Same Thing Twice And Expecting...: Trump wants the same Supreme Court that just rejected his birthright citizenship order to rehear the whole thing \"immediately.\" And he decided to insult them in the process.\n\n\nGrievance Studies: A conservative watchdog group filed a bar complaint against Roberta Kaplan as Trump keeps trying to wriggle out of paying the nearly $5.8 million he",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-appeal-in-offing-after-dieselgate-ruling-goes",
+      "title": "Appeal in offing after Dieselgate ruling goes largely for car makers",
+      "url": "https://www.legalfutures.co.uk/latest-news/appeal-in-offing-after-dieselgate-ruling-goes-largely-for-car-makers",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-07-12T23:07:18.000Z",
+      "summary": "There is a \"compelling case\" for an appeal, claimant lawyers have said, after the High Court’s liability ruling in the Dieselgate litigation largely went in favour of car manufacturers.\nThe post Appeal in offing after Dieselgate ruling goes largely for car makers appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "high",
+      "score": 6
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-law-firms-need-to-prove-authority-to-gain-ai-",
+      "title": "Law firms “need to prove authority” to gain AI approval",
+      "url": "https://www.legalfutures.co.uk/latest-news/law-firms-need-to-prove-authority-to-gain-ai-approval",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-07-12T23:05:43.000Z",
+      "summary": "Most law firms are failing to send AI engines like ChatGPT, Claude and Gemini the signals they need to recommend them to potential clients, groundbreaking research has found.\nThe post Law firms “need to prove authority” to gain AI approval appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "abovethelaw-com-2026-07-adventures-in-legal-tech-why-you-need-structured-intelli",
       "title": "‘Adventures In Legal Tech’: You, Too, Can Tame Your ESI. Here’s How. ",
