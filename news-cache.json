@@ -1,6 +1,80 @@
 {
-  "lastUpdated": "2026-07-15T11:17:08.726Z",
+  "lastUpdated": "2026-07-16T11:55:43.586Z",
   "articles": [
+    {
+      "id": "verfassungsblog-de-brazil-volkswagen-slavery-",
+      "title": "The Past is Never Past",
+      "url": "https://verfassungsblog.de/brazil-volkswagen-slavery/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-07-16T08:46:39.000Z",
+      "summary": "On June 11, 2026, the German automotive company Volkswagen was convicted in four different lawsuits by the Brazilian Labor Court for reducing people to slavery in the Brazilian Amazon. While this judgment marks the company’s second round of convictions for enslavement within the Amazonian state of Pará, it stands out as a historic first in the form of individual reparations for corporate crimes co",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-07-trump-turns-on-capitulating-biglaw-firms-hahahahaha-",
+      "title": "Trump Turns On Capitulating Biglaw Firms HAHAHAHAHA",
+      "url": "https://abovethelaw.com/2026/07/trump-turns-on-capitulating-biglaw-firms-hahahahaha/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-07-15T14:55:53.000Z",
+      "summary": "Turns out selling out the rule of law doesn't come with a warranty.\nThe post Trump Turns On Capitulating Biglaw Firms HAHAHAHAHA appeared first on Above the Law.",
+      "tags": [
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-lawnext-com-2026-07-legal-decoder-introduces-aperture-a-natural-language-int",
+      "title": "Legal Decoder Introduces Aperture, A Natural Language Interface for Querying Legal Billing Data",
+      "url": "https://www.lawnext.com/2026/07/legal-decoder-introduces-aperture-a-natural-language-interface-for-querying-legal-billing-data.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-07-15T13:03:11.000Z",
+      "summary": "Legal Decoder, a legal spend analytics company whose billing-review technology has been relied on by Fortune 500 companies and Am Law 100 firms, as well as fee examiners in major federal bankruptcy cases, is today launching Aperture, a natural language interface that lets law firms and legal departmentss conversationally query legal billing and spend data […]",
+      "tags": [
+        "In-House Counsel",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-lawnext-com-2026-07-litera-relaunches-its-brand-around-a-unified-vision-one-",
+      "title": "Litera Relaunches Its Brand Around a Unified Vision: One AI Agent Spanning the Practice and Business of Law",
+      "url": "https://www.lawnext.com/2026/07/litera-relaunches-its-brand-around-a-unified-vision-one-ai-agent-spanning-the-practice-and-business-of-law.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-07-15T12:01:14.000Z",
+      "summary": "Litera, one of the most broadly deployed technology companies in the legal industry, is today unveiling a company-wide relaunch that positions it as the legal AI platform unifying the practice and business of law through one AI agent and one dataset. The relaunch — going live today at litera.com — includes a new brand identity, […]",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-associate-news-bluecrest-supreme-court-judgment-what-llps",
+      "title": "BlueCrest Supreme Court judgment — what LLPs need to know about the salaried member rules",
+      "url": "https://www.legalfutures.co.uk/associate-news/bluecrest-supreme-court-judgment-what-llps-need-to-know-about-the-salaried-member-rules",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-07-15T11:34:22.000Z",
+      "summary": "The Court dismissed BlueCrest's appeal and endorsed a relatively narrow interpretation of the ‘significant influence’ test in Condition B. \nThe post BlueCrest Supreme Court judgment — what LLPs need to know about the salaried member rules appeared first on Legal Futures.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
     {
       "id": "abovethelaw-com-2026-07-amy-coney-barrett-then-read-the-opinion-acb-now-inapprop",
       "title": "Amy Coney Barrett Then: ‘Read The Opinion!’ ACB Now: Inappropriate To Expect Supreme Court To Explain Decisions",
