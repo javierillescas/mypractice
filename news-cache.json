@@ -1,6 +1,100 @@
 {
-  "lastUpdated": "2026-07-16T11:55:43.586Z",
+  "lastUpdated": "2026-07-17T11:09:52.158Z",
   "articles": [
+    {
+      "id": "www-artificiallawyer-com-2026-07-17-law-firms-dont-have-an-ai-problem-they-have-",
+      "title": "Law Firms Don’t Have an AI Problem, They Have a Data Problem",
+      "url": "https://www.artificiallawyer.com/2026/07/17/law-firms-dont-have-an-ai-problem-they-have-a-data-problem/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-07-17T06:42:14.000Z",
+      "summary": "By Kevin Walker, CEO, Centari. In recent months, several of the world’s leading law firms have announced investments in legal technology at a scale only ...",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-blog-judging-proportionate-risk-requires-confidence-do-la",
+      "title": "Judging proportionate risk requires confidence. Do law firms have it?",
+      "url": "https://www.legalfutures.co.uk/blog/judging-proportionate-risk-requires-confidence-do-law-firms-have-it",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-07-16T23:00:03.000Z",
+      "summary": "As of 30 June 2026, the money laundering regulations have been updated again, this time to make the regime more proportionate and addressing unnecessary over-compliance.\nThe post Judging proportionate risk requires confidence. Do law firms have it? appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-myshingle-com-2026-07-the-one-about-passing-ai-costs-through-to-clients-",
+      "title": "The One About Passing AI Costs Through To Clients",
+      "url": "https://www.myshingle.com/2026/07/the-one-about-passing-ai-costs-through-to-clients/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-07-16T21:33:00.000Z",
+      "summary": "Regulators aren’t providing guidance quickly enough, and while large firms have access to in-house ethics advisors, solos and smalls don’t. \nThe post The One About Passing AI Costs Through To Clients appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "In-House Counsel"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-lawnext-com-2026-07-intapp-makes-celeste-generally-available-calling-it-an-a",
+      "title": "Intapp Makes Celeste Generally Available, Calling It An ‘AI Coworker’ To Run the Business Side of Law Firms",
+      "url": "https://www.lawnext.com/2026/07/intapp-makes-celeste-generally-available-calling-it-an-ai-coworker-to-run-the-business-side-of-law-firms.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-07-16T15:15:57.000Z",
+      "summary": "Intapp, the publicly traded company whose software manages intake, conflicts, and deal workflows for law firms and other professional services firms, yesterday announced the general availability of Celeste, an agentic AI product it describes as an “expert AI coworker” designed to run the business operations of a firm — from deal screening and conflicts clearance […]",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "legaltechnology-com-harvey-strengthens-asset-management-offering-with-benchmark-",
+      "title": "Harvey strengthens asset management offering with Benchmark acquisition",
+      "url": "https://legaltechnology.com/harvey-strengthens-asset-management-offering-with-benchmark-acquisition/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-07-16T14:14:19.000Z",
+      "summary": "By Tom Saunders Harvey announced today (16 July) that it has acquired Benchmark, a decision infrastructure platform for asset management. Benchmark is an AI platform that pulls together a private […]\nThe post Harvey strengthens asset management offering with Benchmark acquisition appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Tech",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-07-the-administrative-agency-cases-were-not-the-courts-o",
+      "title": "The administrative agency cases were not the court’s only significant separation of powers decisions this term",
+      "url": "https://www.scotusblog.com/2026/07/the-administrative-agency-cases-were-not-the-courts-only-significant-separation-of-powers-decisi/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-07-16T14:00:00.000Z",
+      "summary": "",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "verfassungsblog-de-brazil-volkswagen-slavery-",
       "title": "The Past is Never Past",
@@ -2208,53 +2302,6 @@
       "tags": [
         "AI in Law",
         "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-blog-linkaters-chief-growth-officer-takes-the-blank-sheet",
-      "title": "Linklaters’ chief growth officer takes the ‘blank sheet’ challenge",
-      "url": "https://www.legalfutures.co.uk/blog/linkaters-chief-growth-officer-takes-the-blank-sheet-challenge",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-06-16T23:47:40.000Z",
-      "summary": "Posted by Scott Jones, deputy editor of Legal Futures As LegalTechTalk gets underway today, we invite our third and final lawyer to take the ‘blank sheet’ challenge – sketching out their dream law firm with the freedom to start again from… Read More\nThe post Linklaters’ chief growth officer takes the ‘blank sheet’ challenge appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-lawnext-com-2026-06-blackboiler-launches-veris-pairing-its-deterministic-red",
-      "title": "BlackBoiler Launches Veris, Pairing Its Deterministic Redlining With Generative AI in Microsoft Word",
-      "url": "https://www.lawnext.com/2026/06/blackboiler-launches-veris-pairing-its-deterministic-redlining-with-generative-ai-in-microsoft-word.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-06-16T16:54:23.000Z",
-      "summary": "BlackBoiler, a company that has spent over a decade building automated redlining technology, this week launched Veris, a new platform that takes its original deterministic editing engine and supercharges it with generative AI and an agentic, chat-based interface. Running directly inside a Microsoft Word add-in, Veris allows contract-review teams to negotiate and mark up agreements […]",
-      "tags": [
-        "AI in Law",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "legaltechnology-com-jalubro-launches-j-10-governance-layer-helping-businesses-ma",
-      "title": "Jalubro launches J-10 governance layer, helping businesses manage multiple AI systems",
-      "url": "https://legaltechnology.com/jalubro-launches-j-10-governance-layer-helping-businesses-manage-multiple-ai-systems/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-06-16T15:31:13.000Z",
-      "summary": "By Tom Saunders, RSGI This week, technology consultancy Jalubro launched J-10, a governance enforcement platform designed to sit across an organisation’s existing AI systems and enforce compliance rules in real […]\nThe post Jalubro launches J-10 governance layer, helping businesses manage multiple AI systems appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "Regulation",
         "Legal Tech"
       ],
       "relevance": "medium",
