@@ -1,6 +1,50 @@
 {
-  "lastUpdated": "2026-07-17T11:09:52.158Z",
+  "lastUpdated": "2026-07-18T10:46:49.807Z",
   "articles": [
+    {
+      "id": "abovethelaw-com-2026-07-doj-cites-fake-case-to-keep-man-locked-up-by-ice-judge-d",
+      "title": "DOJ Cites Fake Case To Keep Man Locked Up By ICE, Judge Declines To Do Anything About It",
+      "url": "https://abovethelaw.com/2026/07/doj-cites-fake-case-to-keep-man-locked-up-by-ice-judge-declines-to-do-anything-about-it/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-07-17T16:13:56.000Z",
+      "summary": "Judge spent two-thirds of her order explaining why fake citations are unacceptable, then shrugs off holding anyone accountable.\nThe post DOJ Cites Fake Case To Keep Man Locked Up By ICE, Judge Declines To Do Anything About It appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-07-three-profound-constitutional-provisions-and-how-the-",
+      "title": "Three profound constitutional provisions – and how the Supreme Court has avoided dealing with them",
+      "url": "https://www.scotusblog.com/2026/07/three-profound-constitutional-provisions-and-how-the-supreme-court-has-avoided-dealing-with-them/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-07-17T13:30:00.000Z",
+      "summary": "",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-lawnext-com-2026-07-whats-in-a-wrapper-comparing-a-hershey-bar-to-legaltech-",
+      "title": "What’s In A Wrapper? Comparing A Hershey Bar To LegalTech AI",
+      "url": "https://www.lawnext.com/2026/07/whats-in-a-wrapper-comparing-a-hershey-bar-to-legaltech-ai.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-07-17T12:56:30.000Z",
+      "summary": "Anyone can make sweets, but not everyone can make a Hershey bar. The debate over legaltech startups offering nothing more than a “thin wrapper” around an LLM begs a deeper analysis of the value of a wrapper, particularly as open-source alternatives take root. Let’s start with a Hershey bar. You pay for the chocolate, right? […]",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-artificiallawyer-com-2026-07-17-law-firms-dont-have-an-ai-problem-they-have-",
       "title": "Law Firms Don’t Have an AI Problem, They Have a Data Problem",
@@ -2286,22 +2330,6 @@
       "summary": "In two separate announcements this week, Clio rolled out two initiatives aimed at the same problem — getting practicing lawyers comfortable with AI. One puts AI software directly into lawyers’ hands at no cost; the other tries to teach the profession how to use it. On Monday, the company announced the Legal AI Accelerator, a […]",
       "tags": [
         "AI in Law",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-06-17-crosby-starts-contract-benchmark-launches-ag",
-      "title": "Crosby Starts Contract Benchmark, Launches Agent Research Group",
-      "url": "https://www.artificiallawyer.com/2026/06/17/crosby-starts-contract-benchmark-launches-agent-research-group/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-06-17T13:28:00.000Z",
-      "summary": "NewMod law firm Crosby has launched ‘Multi-turn Negotiation Bench’, a contract negotiation benchmark for AI outputs. They are also rolling out Crosby Intelligence, a research ...",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
         "Legal Tech"
       ],
       "relevance": "medium",
