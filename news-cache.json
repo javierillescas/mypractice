@@ -1,6 +1,100 @@
 {
-  "lastUpdated": "2026-07-21T08:24:46.297Z",
+  "lastUpdated": "2026-07-22T08:25:22.183Z",
   "articles": [
+    {
+      "id": "www-legalfutures-co-uk-latest-news-ca-condemns-sting-that-saw-solicitor-disclose",
+      "title": "CA condemns sting that saw solicitor disclose privileged information",
+      "url": "https://www.legalfutures.co.uk/latest-news/ca-condemns-sting-that-saw-solicitor-disclose-privileged-information",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-07-21T23:07:15.000Z",
+      "summary": "The Court of Appeal has strongly condemned ‘privilege hunting’ – illicit methods to obtain information from litigation opponents – in a case where a law firm partner was successfully duped.\nThe post CA condemns sting that saw solicitor disclose privileged information appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "high",
+      "score": 7
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-74m-law-firm-negligence-claim-thrown-out-afte",
+      "title": "$74m law firm negligence claim thrown out after service failure",
+      "url": "https://www.legalfutures.co.uk/latest-news/74m-law-firm-negligence-claim-thrown-out-after-service-failure",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-07-21T23:05:28.000Z",
+      "summary": "The London arm of a leading US law firm has been granted summary judgment against a $74m negligence claim because it was brought out of time.\nThe post $74m law firm negligence claim thrown out after service failure appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-07-courtroom-view-network-learning-trial-skills-by-watching",
+      "title": "Courtroom View Network: Learning Trial Skills By Watching Real Lawyers In Real Trials",
+      "url": "https://abovethelaw.com/2026/07/courtroom-view-network-learning-trial-skills-by-watching-real-lawyers-in-real-trials/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-07-21T17:46:15.000Z",
+      "summary": "Courtroom View Network is a great example of using AI appropriately and in its proper place and combining it with non-AI tools.\nThe post Courtroom View Network: Learning Trial Skills By Watching Real Lawyers In Real Trials appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Education",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-services-directory-big-yellow-penguin",
+      "title": "Big Yellow Penguin",
+      "url": "https://www.legalfutures.co.uk/services-directory/big-yellow-penguin",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-07-21T16:32:32.000Z",
+      "summary": "Big Yellow Penguin is a UK-based consultancy, training and speaking business founded by Shaun Jardine to help law firms (and other professional service firms) move beyond the billable hour and build pricing models that reflect outcomes and value, not time.\nThe post Big Yellow Penguin appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Education"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "abovethelaw-com-2026-07-federal-judge-asks-supreme-court-to-please-start-publicl",
+      "title": "Federal Judge Asks Supreme Court To Please Start Publicly Humiliating His Colleagues",
+      "url": "https://abovethelaw.com/2026/07/federal-judge-asks-supreme-court-to-please-start-publicly-humiliating-his-colleagues/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-07-21T15:34:38.000Z",
+      "summary": "The loudest man on the Ninth Circuit is yelling again.\nThe post Federal Judge Asks Supreme Court To Please Start Publicly Humiliating His Colleagues appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-scotusblog-com-2026-07-the-ripple-effects-of-the-tps-ruling-",
+      "title": "The ripple effects of the TPS ruling",
+      "url": "https://www.scotusblog.com/2026/07/the-ripple-effects-of-the-tps-ruling/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-07-21T13:00:00.000Z",
+      "summary": "Plus, the justices added a case involving a seized plane and a six-pack of beer to next term’s oral argument docket.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-legalfutures-co-uk-latest-news-law-firm-in-dock-for-running-cases-using-frau",
       "title": "Law firm in dock for running cases using “fraudulent” documents",
@@ -2335,52 +2429,6 @@
       ],
       "relevance": "high",
       "score": 6
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-06-22-what-legal-ai-benchmarks-reveal-that-model-n",
-      "title": "What Legal AI Benchmarks Reveal That Model Names Don’t",
-      "url": "https://www.artificiallawyer.com/2026/06/22/what-legal-ai-benchmarks-reveal-that-model-names-dont/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-06-22T07:29:45.000Z",
-      "summary": "By Daniel Lewis, CEO, LegalOn. Foundation models are improving quickly. One useful measure is software engineering: the length of coding tasks that frontier models can ...",
-      "tags": [
-        "AI in Law",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-06-22-barbri-buys-lega-christian-lang-interview-",
-      "title": "BARBRI Buys Lega – Christian Lang Interview",
-      "url": "https://www.artificiallawyer.com/2026/06/22/barbri-buys-lega-christian-lang-interview/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-06-22T07:00:09.000Z",
-      "summary": "Legal education business BARBRI has bought legal AI startup Lega as part of a strategy to provide ‘experiential AI workshops, simulations, hackathons, and lab-style learning ...",
-      "tags": [
-        "AI in Law",
-        "Legal Education"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-judge-disallows-30k-success-fee-over-insuffic",
-      "title": "Judge disallows £30k success fee over inadequate LEI enquiries",
-      "url": "https://www.legalfutures.co.uk/latest-news/judge-disallows-30k-success-fee-over-insufficient-lei-enquiries",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-06-21T23:03:26.000Z",
-      "summary": "The Senior Costs Judge has disallowed a law firm’s £30,000 success fee because it failed to make reasonable enquiries about legal expenses insurance.\nThe post Judge disallows £30k success fee over inadequate LEI enquiries appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
     }
   ]
 }
