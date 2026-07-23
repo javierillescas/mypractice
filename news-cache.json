@@ -1,6 +1,99 @@
 {
-  "lastUpdated": "2026-07-22T08:25:22.183Z",
+  "lastUpdated": "2026-07-23T08:26:22.022Z",
   "articles": [
+    {
+      "id": "www-artificiallawyer-com-2026-07-23-flank-launches-record-agentic-contract-truth",
+      "title": "Flank Launches ‘Record’ – Agentic Contract Truth System",
+      "url": "https://www.artificiallawyer.com/2026/07/23/flank-launches-record-agentic-contract-truth-system/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-07-23T08:09:52.000Z",
+      "summary": "Flank, the agentic legal tech company focused on inhouse teams, has launched Flank Record, an autonomous agentic contract system of record, which greatly reduces the ...",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-pressure-on-law-firms-as-car-finance-litigati",
+      "title": "Pressure on law firms as car finance litigation funder goes down",
+      "url": "https://www.legalfutures.co.uk/latest-news/pressure-on-law-firms-as-car-finance-litigation-funder-goes-down",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-07-22T23:05:43.000Z",
+      "summary": "A litigation funder which specialised in car finance claims has gone into administration because of delays in progressing cases, with its latest accounts showing outstanding loans of £249m.\nThe post Pressure on law firms as car finance litigation funder goes down appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-legalfutures-co-uk-associate-news-why-data-will-define-the-ai-ready-law-firm",
+      "title": "Why data will define the AI-ready law firm",
+      "url": "https://www.legalfutures.co.uk/associate-news/why-data-will-define-the-ai-ready-law-firm",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-07-22T15:51:12.000Z",
+      "summary": "Artificial intelligence (AI) has become one of the most talked-about developments in the legal sector, promising to transform everything from client service to case management.\nThe post Why data will define the AI-ready law firm appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-lawnext-com-2026-07-built-by-lawyers-for-lawyers-dingduff-is-a-free-claude-c",
+      "title": "Built By Lawyers, For Lawyers: DingDuff Is A Free Claude Connector That Its Founders Say Rivals The Legal Research Giants",
+      "url": "https://www.lawnext.com/2026/07/built-by-lawyers-for-lawyers-dingduff-is-a-free-claude-connector-that-its-founders-say-rivals-the-legal-research-giants.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-07-22T14:25:17.000Z",
+      "summary": "Two practicing lawyers in Austin, Texas, have built a free connector that plugs Claude directly into millions of court opinions, statutes, regulations and court rules, along with federal court filings via PACER — and they say that, in their own testing, it matches and sometimes beats the Westlaw AI accounts their firms pay for. The […]",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "legaltechnology-com-netdocuments-adds-six-new-ndmax-studio-apps-",
+      "title": "NetDocuments adds six new ndMAX Studio apps",
+      "url": "https://legaltechnology.com/netdocuments-adds-six-new-ndmax-studio-apps/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-07-22T12:18:52.000Z",
+      "summary": "NetDocuments has added six new AI-powered apps to the ndMAX Studio, designed to help legal teams streamline trademark prosecution and plaintiff-side litigation. They expand the ndMAX Studio to 39 pre-built […]\nThe post NetDocuments adds six new ndMAX Studio apps appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-07-22-the-ai-dividend-who-gets-the-savings-from-le",
+      "title": "The AI Dividend: Who Gets the Savings From Legal AI?",
+      "url": "https://www.artificiallawyer.com/2026/07/22/the-ai-dividend-who-gets-the-savings-from-legal-ai/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-07-22T06:45:28.000Z",
+      "summary": "By Adam Nguyen, CEO, eBrevia. For the past two years, corporate legal departments have been told that AI will make legal work faster, more efficient ...",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-legalfutures-co-uk-latest-news-ca-condemns-sting-that-saw-solicitor-disclose",
       "title": "CA condemns sting that saw solicitor disclose privileged information",
@@ -80,6 +173,22 @@
       ],
       "relevance": "medium",
       "score": 4
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-07-21-box-targets-legal-with-agentic-control-syste",
+      "title": "Box Targets Legal With Agentic Control System",
+      "url": "https://www.artificiallawyer.com/2026/07/21/box-targets-legal-with-agentic-control-system/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-07-21T15:00:07.000Z",
+      "summary": "Box, which has evolved from a cloud storage business into an Intelligent Content Management (ICM) platform, is targeting the legal – and other regulated sectors ...",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
     },
     {
       "id": "www-scotusblog-com-2026-07-the-ripple-effects-of-the-tps-ruling-",
@@ -2306,129 +2415,6 @@
       ],
       "relevance": "medium",
       "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-judge-refers-kc-for-contempt-hearing-over-clo",
-      "title": "Judge refers KC for contempt hearing over closing speech",
-      "url": "https://www.legalfutures.co.uk/latest-news/judge-refers-kc-for-contempt-hearing-over-closing-speech",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-06-22T23:07:16.000Z",
-      "summary": "The KC accused of not following court directions in his closing speech has been referred to a presiding judge to consider contempt proceedings.\nThe post Judge refers KC for contempt hearing over closing speech appeared first on Legal Futures.",
-      "tags": [
-        "In-House Counsel",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-first-court-case-win-for-ai-powered-law-firm",
-      "title": "First court case win for AI-powered law firm",
-      "url": "https://www.legalfutures.co.uk/latest-news/first-court-case-win-for-ai-powered-law-firm",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-06-22T23:05:56.000Z",
-      "summary": "Garfield AI, the groundbreaking law firm, has won its first court case, which it claims to be the first achieved with the support of a regulated AI lawyer anywhere in the world.\nThe post First court case win for AI-powered law firm appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-judge-given-warning-over-dozens-of-outstandin",
-      "title": "Judge given warning over dozens of outstanding decisions",
-      "url": "https://www.legalfutures.co.uk/latest-news/judge-given-warning-over-dozens-of-outstanding-decisions",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-06-22T23:01:43.000Z",
-      "summary": "A judge who failed to deliver 46 judgments and other decisions in a reasonable time has been issued with a formal warning for misconduct.\nThe post Judge given warning over dozens of outstanding decisions appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "abovethelaw-com-2026-06-ai-error-nearly-gave-defendant-his-constitutional-right-",
-      "title": "AI Error Nearly Gave Defendant His Constitutional Right To Counsel — Don’t Worry, A Human Judge Fixed That!",
-      "url": "https://abovethelaw.com/2026/06/ai-error-nearly-gave-defendant-his-constitutional-right-to-counsel-dont-worry-a-human-judge-fixed-that/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-06-22T16:13:00.000Z",
-      "summary": "It's incredibly difficult to correctly invoke your right to an attorney. AI, apparently, doesn't understand that.\nThe post AI Error Nearly Gave Defendant His Constitutional Right To Counsel — Don’t Worry, A Human Judge Fixed That! appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-lawnext-com-2026-06-thomson-reuters-opens-early-access-to-the-next-generatio",
-      "title": "Thomson Reuters Opens Early Access to the ‘Next Generation’ of CoCounsel Legal, Saying Beta Users ‘F#@%ing Loved’ the Product",
-      "url": "https://www.lawnext.com/2026/06/thomson-reuters-opens-early-access-to-the-next-generation-of-cocounsel-legal-saying-beta-users-fing-loved-the-product.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-06-22T16:04:39.000Z",
-      "summary": "Thomson Reuters is opening early access this week to what it calls the next generation of CoCounsel Legal, the most substantial reworking of its flagship legal AI assistant since the company acquired the product as part of its 2023 purchase of Casetext — and, just as notably, a shift in how the company describes what […]",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-scotusblog-com-2026-06-court-determines-federal-defendants-appellate-waivers",
-      "title": "Court determines federal defendants’ appellate waivers unenforceable if a miscarriage of justice would result ",
-      "url": "https://www.scotusblog.com/2026/06/court-determines-federal-defendants-appellate-waivers-unenforceable-if-a-miscarriage-of-justice-/",
-      "source": "SCOTUSblog",
-      "region": "US",
-      "date": "2026-06-22T14:30:00.000Z",
-      "summary": "",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-lawnext-com-2026-06-barbri-acquires-lega-completing-the-startups-pivot-from-",
-      "title": "BARBRI Acquires Lega, Completing the Startup’s Pivot From AI Governance to Experiential AI Training",
-      "url": "https://www.lawnext.com/2026/06/barbri-acquires-lega-completing-the-startups-pivot-from-ai-governance-to-experiential-ai-training.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-06-22T11:57:28.000Z",
-      "summary": "BARBRI, the legal education company best known for bar exam preparation, has acquired Lega, the AI startup that launched in 2023 with a focus on large language model governance but which has been evolving into helping legal professionals develop AI fluency through practical, experiential learning. Legal was founded by Christian Lang, the former president and […]",
-      "tags": [
-        "AI in Law",
-        "Legal Education"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "legaltechnology-com-barbri-acquires-lega-interview-with-co-ceo-lucie-allen-",
-      "title": "BARBRI acquires Lega: Interview with co-CEO Lucie Allen ",
-      "url": "https://legaltechnology.com/barbri-acquires-lega-interview-with-co-ceo-lucie-allen/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-06-22T11:08:58.000Z",
-      "summary": "Legal technology training provider BARBRI has acquired Lega, the platform founded by Christian Lang that enables law firms and other enterprises to explore generative AI technologies. Lang joins BARBRI in […]\nThe post BARBRI acquires Lega: Interview with co-CEO Lucie Allen  appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech",
-        "Legal Education"
-      ],
-      "relevance": "high",
-      "score": 6
     }
   ]
 }
