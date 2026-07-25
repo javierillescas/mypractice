@@ -1,6 +1,66 @@
 {
-  "lastUpdated": "2026-07-24T08:24:38.872Z",
+  "lastUpdated": "2026-07-25T08:03:23.074Z",
   "articles": [
+    {
+      "id": "abovethelaw-com-2026-07-elena-kagan-thinks-the-supreme-court-gets-a-bad-rap-whic",
+      "title": "Elena Kagan Thinks The Supreme Court Gets ‘A Bad Rap, Which Is Either A Lie Or Dangerously Naive",
+      "url": "https://abovethelaw.com/2026/07/elena-kagan-thinks-the-supreme-court-gets-a-bad-rap-which-is-either-a-lie-or-dangerously-naive/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-07-24T23:14:00.000Z",
+      "summary": "The justice threw her liberal colleagues under the bus... for nothing.\nThe post Elena Kagan Thinks The Supreme Court Gets ‘A Bad Rap, Which Is Either A Lie Or Dangerously Naive appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-07-new-jersey-has-a-message-for-lawyers-dont-sleep-with-you",
+      "title": "New Jersey Has A Message For Lawyers: Don’t Sleep With Your Clients",
+      "url": "https://abovethelaw.com/2026/07/new-jersey-has-a-message-for-lawyers-dont-sleep-with-your-clients/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-07-24T19:17:42.000Z",
+      "summary": "The state supreme court embraced a bright-line ethics rule despite concerns from the state bar.\nThe post New Jersey Has A Message For Lawyers: Don’t Sleep With Your Clients appeared first on Above the Law.",
+      "tags": [
+        "Regulation",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "legaltechnology-com-start-up-corner-lexidesk-an-ai-receptionist-for-law-firms-",
+      "title": "Start Up Corner: Lexidesk, an AI receptionist for law firms",
+      "url": "https://legaltechnology.com/start-up-corner-lexidesk-an-ai-receptionist-for-law-firms/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-07-24T09:50:29.000Z",
+      "summary": "In this week’s Startup Corner is Lexidesk, a fast-growing legal AI startup tackling one of the most persistent challenges facing smaller law firms: capturing and qualifying new business. Founded in […]\nThe post Start Up Corner: Lexidesk, an AI receptionist for law firms appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "verfassungsblog-de-impeaching-judge-federalist-society-membership-",
+      "title": "Impeaching a Judge for Federalist Society Membership",
+      "url": "https://verfassungsblog.de/impeaching-judge-federalist-society-membership/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-07-24T08:46:13.000Z",
+      "summary": "On June 29 the U.S. Supreme Court decided Trump v. Slaughter. The ruling completed a forty-year project. Unitary executive theory is one part of it, the claim that the president alone controls the entire executive branch. The rest is a body of rulings that place a president beyond prosecution, leave the disqualification clause unenforceable and remove the independence Congress built into agencies.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
     {
       "id": "www-legalfutures-co-uk-latest-news-civil-and-criminal-courts-put-focus-on-witnes",
       "title": "Civil and criminal courts put focus on witnesses’ use of AI",
@@ -2256,189 +2316,6 @@
       ],
       "relevance": "medium",
       "score": 4
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-law-firm-self-reports-to-sra-over-failed-priv",
-      "title": "Law firm self-reports to SRA over failed private prosecution",
-      "url": "https://www.legalfutures.co.uk/latest-news/law-firm-self-reports-to-sra-over-failed-private-prosecution",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-06-24T23:05:59.000Z",
-      "summary": "A high-profile law firm has reported itself to the Solicitors Regulation Authority after the Chief Magistrate strongly criticised its role in a failed private prosecution.\nThe post Law firm self-reports to SRA over failed private prosecution appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-senior-judge-warns-al-could-compromise-judici",
-      "title": "Senior judge warns AI could compromise judicial independence",
-      "url": "https://www.legalfutures.co.uk/latest-news/senior-judge-warns-al-could-compromise-judicial-independence",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-06-24T23:01:34.000Z",
-      "summary": "A senior judge has warned that Big Tech has the power to ‘compromise judicial independence’ if the courts become dependent on a small number of AI systems.\nThe post Senior judge warns AI could compromise judicial independence appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-national-firm-teams-up-with-microsoft-to-buil",
-      "title": "National firm teams up with Microsoft to build own AI platform",
-      "url": "https://www.legalfutures.co.uk/latest-news/national-firm-teams-up-with-microsoft-to-build-own-ai-platform",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-06-24T23:01:11.000Z",
-      "summary": "National firm Shoosmiths has joined forces with Microsoft to create its own bespoke AI platform for carrying out contract reviews.\nThe post National firm teams up with Microsoft to build own AI platform appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-abajournal-com-news-article-ex-nj-judge-settles-harassment-case-over-fancy-u",
-      "title": "Ex-judge settles case alleging harassment over ‘fancy’ appearance, designer clothes, ‘flowy beachy hair’",
-      "url": "https://www.abajournal.com/news/article/ex-nj-judge-settles-harassment-case-over-fancy/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-06-24T17:50:00.000Z",
-      "summary": "",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "abovethelaw-com-2026-06-todd-blanche-disgrace-train-rolls-on-",
-      "title": "Todd Blanche Disgrace Train Rolls On",
-      "url": "https://abovethelaw.com/2026/06/todd-blanche-disgrace-train-rolls-on/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-06-24T17:47:18.000Z",
-      "summary": "Supreme Court ignores Judge Newman's rights. \nThe post Todd Blanche Disgrace Train Rolls On appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "verfassungsblog-de-procedural-rights-climate-cases-ecthr-",
-      "title": "Procedural Rights in Climate Cases Before the ECtHR",
-      "url": "https://verfassungsblog.de/procedural-rights-climate-cases-ecthr/",
-      "source": "Verfassungsblog",
-      "region": "EU",
-      "date": "2026-06-24T16:18:24.000Z",
-      "summary": "This blog post takes the landmark ruling KlimaSeniorinnen as a starting point to examine the role of procedural rights in climate litigation before the European Court of Human Rights. Procedural rights, as we argue, can be understood in a twofold manner: on the one hand, as admissibility criteria structuring access to the Court, and on the other, as substantive guarantees flowing from the Conventi",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-lawnext-com-2026-06-sapphire-legal-has-built-a-legal-platform-for-a-market-a",
-      "title": "Sapphire Legal Has Built A Legal Platform for a Market Almost No One Else Is Chasing: The Fractional GC",
-      "url": "https://www.lawnext.com/2026/06/sapphire-legal-has-built-a-legal-platform-for-a-market-almost-no-one-else-is-chasing-the-fractional-gc.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-06-24T14:56:28.000Z",
-      "summary": "Recently I sat through a demo of a product unlike anything I’d seen before, aimed at a segment of the legal profession that legal tech companies have largely ignored – the fractional general counsel, lawyers who serve as outside in-house counsel for multiple companies too small to have their own legal departments. The product is […]",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel",
-        "Legal Tech"
-      ],
-      "relevance": "high",
-      "score": 7
-    },
-    {
-      "id": "www-lawnext-com-2026-06-abstract-extends-its-legislative-intelligence-into-agent",
-      "title": "Abstract Extends Its Legislative Intelligence into Agentic Workflow Automation with Launch of ‘Abstract Workers’",
-      "url": "https://www.lawnext.com/2026/06/abstract-extends-its-legislative-intelligence-into-agentic-workflow-automation-with-launch-of-abstract-workers.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-06-24T13:19:41.000Z",
-      "summary": "When I wrote about Abstract in April, I reported on how the New York-based startup was making a push into the market for legislative and regulatory monitoring, alerting law firms and corporate legal teams to the bills and rules that matter to a client, even when they never mention that client’s industry by name. Now […]",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-scotusblog-com-2026-06-what-to-know-about-the-court-s-five-latest-rulings-",
-      "title": "What to know about the court’s five latest rulings",
-      "url": "https://www.scotusblog.com/2026/06/what-to-know-about-the-court-s-five-latest-rulings/",
-      "source": "SCOTUSblog",
-      "region": "US",
-      "date": "2026-06-24T13:00:00.000Z",
-      "summary": "The next opinion announcement day is expected to be Thursday.",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "verfassungsblog-de-the-politics-of-european-society-",
-      "title": "The Politics of European Society",
-      "url": "https://verfassungsblog.de/the-politics-of-european-society/",
-      "source": "Verfassungsblog",
-      "region": "EU",
-      "date": "2026-06-24T12:58:34.000Z",
-      "summary": "Commission v Hungary marks the remarkable ascent of the European society discourse. A closer look, however, reveals that there is little transformative in the Court’s Article 2 TEU case law or its invocation of European society. Beneath the rhetoric of transformation, the institutional adaptation of the society discourse is above all conservative in nature, seeking to protect the authority of the ",
-      "tags": [
-        "In-House Counsel",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "verfassungsblog-de-european-society-at-the-italian-constitutional-court-",
-      "title": "European Society at the Italian Constitutional Court",
-      "url": "https://verfassungsblog.de/european-society-at-the-italian-constitutional-court/",
-      "source": "Verfassungsblog",
-      "region": "EU",
-      "date": "2026-06-24T12:57:52.000Z",
-      "summary": "In its recent judgment No. 63/2026, the Italian Constitutional Court acknowledged the existence of a European society grounded on the values in Article 2 TEU. The judgment appears to be the first explicit reference by a constitutional court of an EU Member State to the emergence of a European society. Judgment concerned the constitutionality of recent legislation restricting access to Italian citi",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "legaltechnology-com-shoosmiths-unveils-proprietary-ai-contract-review-tool-built",
-      "title": "Shoosmiths unveils proprietary AI contract review tool built with Microsoft",
-      "url": "https://legaltechnology.com/shoosmiths-unveils-proprietary-ai-contract-review-tool-built-with-microsoft/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-06-24T09:13:58.000Z",
-      "summary": "Shoosmiths unveils its self-developed generative AI platform, built with support from Microsoft and trained on the firm’s legal know-how UK law firm Shoosmiths today (24 June) unveiled Project Apollo, its […]\nThe post Shoosmiths unveils proprietary AI contract review tool built with Microsoft appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 5
     }
   ]
 }
