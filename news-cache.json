@@ -1,6 +1,68 @@
 {
-  "lastUpdated": "2026-07-27T09:47:46.499Z",
+  "lastUpdated": "2026-07-28T08:30:24.272Z",
   "articles": [
+    {
+      "id": "www-lawnext-com-2026-07-lawnext-from-product-to-practice-why-casetexts-former-ct",
+      "title": "LawNext: From Product to Practice – Why Casetext’s Former CTO Founded General Legal, An AI Native Law Firm",
+      "url": "https://www.lawnext.com/2026/07/lawnext-from-product-to-practice-why-casetexts-former-cto-founded-general-legal-an-ai-native-law-firm.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-07-27T18:31:09.000Z",
+      "summary": "As chief technology officer at Casetext, Ryan Walker helped build CoCounsel, one of the first and most consequential generative AI legal assistants — a product so significant it led to the company’s $650 million acquisition by Thomson Reuters. But Walker came away unsatisfied. Although the legal tech tools kept getting better, he believed, clients were seeing no benefit. […]",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "abovethelaw-com-2026-07-legal-ethics-roundup-aba-opines-gov-lawyers-must-report-",
+      "title": "Legal Ethics Roundup: ABA Opines Gov Lawyers Must Report Unlawful Conduct, Toronto Lawyer Suspended Over AI, Senate Bills On Judges’ Finances/FOIA & More",
+      "url": "https://abovethelaw.com/2026/07/legal-ethics-roundup-aba-opines-gov-lawyers-must-report-unlawful-conduct-toronto-lawyer-suspended-over-ai-senate-bills-on-judges-finances-foia-more/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-07-27T17:49:47.000Z",
+      "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.\nThe post Legal Ethics Roundup: ABA Opines Gov Lawyers Must Report Unlawful Conduct, Toronto Lawyer Suspended Over AI, Senate Bills On Judges’ Finances/FOIA & More appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-scotusblog-com-2026-07-why-the-supreme-court-decided-the-wrong-issue-in-the-",
+      "title": "Why the Supreme Court decided the wrong issue in the transgender athletes cases",
+      "url": "https://www.scotusblog.com/2026/07/why-the-supreme-court-decided-the-wrong-issue-in-the-transgender-athletes-cases/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-07-27T15:00:00.000Z",
+      "summary": "",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "legaltechnology-com-theorem-targets-in-house-legal-rfp-inefficiencies-with-expan",
+      "title": "Theorem targets in-house legal RFP inefficiencies with expanded procurement platform",
+      "url": "https://legaltechnology.com/theorem-targets-in-house-legal-rfp-inefficiencies-with-expanded-procurement-platform/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-07-27T12:05:41.000Z",
+      "summary": "Theorem Legal this month unveiled a newly designed marketplace to help corporate legal departments manage the full lifecycle of procuring legal technology and outside counsel, from supplier discovery and product […]\nThe post Theorem targets in-house legal RFP inefficiencies with expanded procurement platform appeared first on Legal IT Insider.",
+      "tags": [
+        "In-House Counsel",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
     {
       "id": "www-artificiallawyer-com-2026-07-27-should-clients-expect-price-cuts-due-to-lega",
       "title": "Should Clients Expect Price Cuts Due To Legal AI?",
