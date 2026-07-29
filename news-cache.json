@@ -1,6 +1,81 @@
 {
-  "lastUpdated": "2026-07-28T08:30:24.272Z",
+  "lastUpdated": "2026-07-29T08:37:15.787Z",
   "articles": [
+    {
+      "id": "abovethelaw-com-2026-07-dhs-general-counsel-names-four-federal-judges-worst-of-t",
+      "title": "DHS General Counsel Names Four Federal Judges ‘Worst Of The Worst’ As Threats Against Judiciary Hit 564",
+      "url": "https://abovethelaw.com/2026/07/dhs-general-counsel-names-four-federal-judges-worst-of-the-worst-as-threats-against-judiciary-hit-564/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-07-28T18:58:00.000Z",
+      "summary": "The general counsel who told the Senate his role was 'limited' has started publishing a target list.\nThe post DHS General Counsel Names Four Federal Judges ‘Worst Of The Worst’ As Threats Against Judiciary Hit 564 appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-07-trump-administration-appears-not-to-have-asked-suprem",
+      "title": "Trump administration appears not to have asked Supreme Court to rehear birthright citizenship case",
+      "url": "https://www.scotusblog.com/2026/07/trump-administration-appears-not-to-have-asked-supreme-court-to-rehear-birthright-citizenship-ca/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-07-28T17:58:00.000Z",
+      "summary": "",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "legaltechnology-com-orange-rag-insights-from-advisors-to-builders-how-ai-is-rema",
+      "title": "Orange Rag Insights: From advisors to builders – How AI is remaking the in-house lawyer",
+      "url": "https://legaltechnology.com/orange-rag-insights-from-advisors-to-builders-how-ai-is-remaking-the-in-house-lawyer/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-07-28T15:41:07.000Z",
+      "summary": "As AI shifts from automation to orchestration, in-house legal teams are redesigning workflows, cutting external spend, and redefining their role, moving from advisors to builders of the systems that now […]\nThe post Orange Rag Insights: From advisors to builders – How AI is remaking the in-house lawyer appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-07-28-legalon-lets-100-ai-workflows-bloom-",
+      "title": "LegalOn Lets 100 AI Workflows Bloom",
+      "url": "https://www.artificiallawyer.com/2026/07/28/legalon-lets-100-ai-workflows-bloom/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-07-28T12:00:10.000Z",
+      "summary": "LegalOn, the contract review specialists, have rolled out a library of 100-plus AI workflows, all available within its platform and aimed at inhouse lawyers. (See ...",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "verfassungsblog-de-for-whom-the-bell-tolls-its-the-court-playing-",
+      "title": "Send Not to Know for Whom the Bell Tolls… as Long as It’s the Court Playing",
+      "url": "https://verfassungsblog.de/for-whom-the-bell-tolls-its-the-court-playing/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-07-28T10:43:03.000Z",
+      "summary": "Perhaps due to the notable impact of climate change on the ongoing summer, the delivery on C-67/25 by the Court of Justice has gone relatively unnoticed hitherto. The brevity of the judgment conflicts with the thunderous effects it may unleash, which have potential to open a definitive breach in the Union’s constitutional acquis. Noteworthily, this rupture is being perpetrated in alleged defence o",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-lawnext-com-2026-07-lawnext-from-product-to-practice-why-casetexts-former-ct",
       "title": "LawNext: From Product to Practice – Why Casetext’s Former CTO Founded General Legal, An AI Native Law Firm",
@@ -2178,21 +2253,6 @@
       ],
       "relevance": "medium",
       "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-06-sam-alito-complains-that-dog-ate-his-homework-see-genera",
-      "title": "Sam Alito Complains That Dog Ate His Homework — See Generally",
-      "url": "https://abovethelaw.com/2026/06/sam-alito-complains-that-dog-ate-his-homework-see-generally/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-06-29T00:00:31.000Z",
-      "summary": "Sam Alito Huffed That He Totally Could've Made Better Arguments (Spoiler: He Could Not Have): Alito broke protocol at the Supreme Court this week to whine from the bench that Sotomayor's dissent made him look bad for gutting Holocaust-era asylum protections in Mullin v. Al Otro Lado.\n\n\nEverybody Loves Living By The Sword Until The Sword Turns Around: While star partners are hauling in packages app",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
     }
   ]
 }
