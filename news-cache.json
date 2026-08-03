@@ -1,6 +1,52 @@
 {
-  "lastUpdated": "2026-08-02T08:21:14.431Z",
+  "lastUpdated": "2026-08-03T09:39:53.193Z",
   "articles": [
+    {
+      "id": "www-legalfutures-co-uk-latest-news-court-of-appeal-overturns-ruling-that-blew-sm",
+      "title": "Court of Appeal overturns ruling that blew small claims track “to bits”",
+      "url": "https://www.legalfutures.co.uk/latest-news/court-of-appeal-overturns-ruling-that-blew-small-claims-track-to-bits",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-02T23:07:10.000Z",
+      "summary": "The Court of Appeal has overturned a judgment which opened the door to “well-resourced parties corresponding their way” out of the small claims track – and would have blown it “to bits”.\nThe post Court of Appeal overturns ruling that blew small claims track “to bits” appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-pwc-meaningful-barriers-to-automating-most-le",
+      "title": "PwC: “Meaningful barriers” to automating most legal work",
+      "url": "https://www.legalfutures.co.uk/latest-news/pwc-meaningful-barriers-to-automating-most-legal-work",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-02T23:05:00.000Z",
+      "summary": "With most law firms rapidly adopting AI, new research by PwC has shown that 80% of legal work faces “meaningful barriers” to full automation.\nThe post PwC: “Meaningful barriers” to automating most legal work appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-abajournal-com-news-article-american-bar-association-honors-civil-legal-aid-",
+      "title": "American Bar Association honors civil legal aid champion John M. Rosenberg with 2026 ABA Medal",
+      "url": "https://www.abajournal.com/news/article/american-bar-association-honors-civil-legal-aid-champion-john-m-rosenberg-with-2026-aba-medal/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-08-02T15:00:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Regulation"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "abovethelaw-com-2026-07-washington-law-deans-say-diploma-privilege-is-the-only-f",
       "title": "Washington Law Deans Say Diploma Privilege Is The Only Fair Fix After Bar Exam Fiasco",
@@ -1933,82 +1979,6 @@
       ],
       "relevance": "high",
       "score": 6
-    },
-    {
-      "id": "verfassungsblog-de-a-european-society-of-constitutional-interpreters-",
-      "title": "A European Society of Constitutional Interpreters",
-      "url": "https://verfassungsblog.de/a-european-society-of-constitutional-interpreters/",
-      "source": "Verfassungsblog",
-      "region": "EU",
-      "date": "2026-07-03T14:11:55.000Z",
-      "summary": "On 21 April 2026, the full court wrote history, finding for the first time a separate infringement of Article 2 TEU. This landmark decision Commission v Hungary is the outcome of a long, public, and controversial process. The activation of Article 2 TEU is much less an act of self‑empowerment than a collective interpretation of the Court, Commission, Member States, civil society, and legal scholar",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "verfassungsblog-de-european-society-in-the-digital-sphere-",
-      "title": "European Society in the Digital Sphere",
-      "url": "https://verfassungsblog.de/european-society-in-the-digital-sphere/",
-      "source": "Verfassungsblog",
-      "region": "EU",
-      "date": "2026-07-03T11:26:19.000Z",
-      "summary": "The judgment in Commission v Hungary facilitates European society in a negative, boundary-setting sense: it identifies what cannot be accommodated within the European framework of shared values. EU digital regulation, by contrast, facilitates European society in a positive, practice-structuring sense: it translates its values into regulatory duties, procedures, and institutional practices. In my i",
-      "tags": [
-        "Regulation",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "legaltechnology-com-from-ai-efficiency-to-client-value-the-conversation-over-a-l",
-      "title": "From AI efficiency to client value: The conversation over a LITI/Litera lunch",
-      "url": "https://legaltechnology.com/from-ai-efficiency-to-client-value-the-conversation-over-a-liti-litera-lunch/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-07-03T10:52:57.000Z",
-      "summary": "In June, Legal IT Insider hosted a lunch in partnership with Litera, bringing together legal tech law firm leaders and legal operations heads to discuss how people are leveraging AI-generated time […]\nThe post From AI efficiency to client value: The conversation over a LITI/Litera lunch appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-legalfutures-co-uk-associate-news-qanooni-ai-legal-ai-vendors-must-prove-how",
-      "title": "Qanooni AI: Legal AI vendors must prove how they prevent hallucinated citations",
-      "url": "https://www.legalfutures.co.uk/associate-news/qanooni-ai-legal-ai-vendors-must-prove-how-they-prevent-hallucinated-citations",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-07-03T10:03:17.000Z",
-      "summary": "Legal AI suppliers are facing growing pressure from law firms to demonstrate how their systems reduce the risk of hallucinated case law, fabricated citations and unsupported legal analysis.\nThe post Qanooni AI: Legal AI vendors must prove how they prevent hallucinated citations appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "legaltechnology-com-guest-post-ai-did-not-win-a-legal-case-in-england-but-it-is-",
-      "title": "Guest post: AI did not win a legal case in England, but it is changing law as we know it",
-      "url": "https://legaltechnology.com/guest-post-ai-did-not-win-a-legal-case-in-england-but-it-is-changing-law-as-we-know-it/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-07-03T09:37:13.000Z",
-      "summary": "By Alex Cook, senior partner at Helix Law It is time for a reality check. AI has not just won a court case in England. The media, legal press and […]\nThe post Guest post: AI did not win a legal case in England, but it is changing law as we know it appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
     }
   ]
 }
