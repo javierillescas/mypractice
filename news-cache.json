@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-08-03T09:39:53.193Z",
+  "lastUpdated": "2026-08-04T08:33:26.450Z",
   "articles": [
+    {
+      "id": "abovethelaw-com-2026-08-matthew-thomas-is-right-good-legal-judgment-cant-be-auto",
+      "title": "Matthew Thomas Is Right: Good Legal Judgment Can’t Be Automated",
+      "url": "https://abovethelaw.com/2026/08/matthew-thomas-is-right-good-legal-judgment-cant-be-automated/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-08-03T18:36:43.000Z",
+      "summary": "The future of in-house law isn't about competing with AI on speed.\nThe post Matthew Thomas Is Right: Good Legal Judgment Can’t Be Automated appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-lawnext-com-2026-08-new-site-from-suffolk-law-dean-andrew-perlman-catalogs-a",
+      "title": "New Site From Suffolk Law Dean Andrew Perlman Catalogs AI Policies at 128 Law Schools",
+      "url": "https://www.lawnext.com/2026/08/new-site-from-suffolk-law-dean-andrew-perlman-catalogs-ai-policies-at-128-law-schools.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-08-03T17:53:08.000Z",
+      "summary": "When law school AI policies have made news, it has usually been because they were controversial. UC Berkeley School of Law’s restrictive policy, which I wrote about in May, drew national attention for barring generative AI from nearly every stage of producing graded work. But a new website launched by Andrew Perlman, dean of Suffolk […]",
+      "tags": [
+        "AI in Law",
+        "Legal Education"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-08-the-best-law-schools-for-moot-court-2026-",
+      "title": "The Best Law Schools For Moot Court (2026)",
+      "url": "https://abovethelaw.com/2026/08/the-best-law-schools-for-moot-court-2026/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-08-03T17:49:14.000Z",
+      "summary": "Which law schools are offering students the best courtroom training opportunities?\nThe post The Best Law Schools For Moot Court (2026) appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Education",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "abovethelaw-com-2026-08-legal-ethics-roundup-the-unethical-doj-a-biglaw-firms-co",
+      "title": "Legal Ethics Roundup: The ‘Unethical’ DOJ, A Biglaw Firm’s Court-Required Ethics Training, ‘Bending The Knee’ To Trump & More",
+      "url": "https://abovethelaw.com/2026/08/legal-ethics-roundup-the-unethical-doj-a-biglaw-firms-court-required-ethics-training-bending-the-knee-to-trump-more/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-08-03T16:14:19.000Z",
+      "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.\nThe post Legal Ethics Roundup: The ‘Unethical’ DOJ, A Biglaw Firm’s Court-Required Ethics Training, ‘Bending The Knee’ To Trump & More appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Market",
+        "Legal Education",
+        "Legal Reasoning"
+      ],
+      "relevance": "high",
+      "score": 7
+    },
+    {
+      "id": "legaltechnology-com-align-announces-ga-of-ai-case-retrieval-tool-",
+      "title": "Align announces GA of AI case retrieval tool",
+      "url": "https://legaltechnology.com/align-announces-ga-of-ai-case-retrieval-tool/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-08-03T13:00:13.000Z",
+      "summary": "Align, a litigation technology company built by a trial lawyer Sam Davidoff, today (3 August) announces the general availability of Align Research, an AI case retrieval tool that it says […]\nThe post Align announces GA of AI case retrieval tool appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-legalfutures-co-uk-latest-news-court-of-appeal-overturns-ruling-that-blew-sm",
       "title": "Court of Appeal overturns ruling that blew small claims track “to bits”",
