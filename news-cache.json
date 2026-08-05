@@ -1,6 +1,160 @@
 {
-  "lastUpdated": "2026-08-04T08:33:26.450Z",
+  "lastUpdated": "2026-08-05T08:32:13.936Z",
   "articles": [
+    {
+      "id": "www-artificiallawyer-com-2026-08-05-is-this-the-great-legal-tech-consolidation-",
+      "title": "Is This The Great Legal Tech Consolidation?",
+      "url": "https://www.artificiallawyer.com/2026/08/05/is-this-the-great-legal-tech-consolidation/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-08-05T07:09:56.000Z",
+      "summary": "Yesterday, BigHand bought legal AI pricing startup Ayora; Anaqua bagged Unified Patents; and last week Legora picked up litigation intelligence newbie, Wexler – its fifth ...",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-eat-sets-aside-unfair-dismissal-ruling-agains",
+      "title": "EAT sets aside unfair dismissal ruling against City law firm",
+      "url": "https://www.legalfutures.co.uk/latest-news/eat-sets-aside-unfair-dismissal-ruling-against-city-law-firm",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-04T23:05:57.000Z",
+      "summary": "The Employment Appeal Tribunal has set aside a ruling that City firm Fieldfisher unfairly dismissed a senior associate for sexual misconduct.\nThe post EAT sets aside unfair dismissal ruling against City law firm appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-new-model-complaints-procedure-does-not-guara",
+      "title": "New model complaints procedure “does not guarantee compliance”",
+      "url": "https://www.legalfutures.co.uk/latest-news/new-model-complaints-procedure-does-not-guarantee-regulatory-compliance",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-04T23:01:52.000Z",
+      "summary": "The Legal Ombudsman has warned lawyers that using its new model complaints resolution procedure is not “a proxy” for regulatory compliance.\nThe post New model complaints procedure “does not guarantee compliance” appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Regulation"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-lawnext-com-2026-08-thomson-reuters-says-its-homegrown-ai-model-now-rivals-t",
+      "title": "Thomson Reuters Says Its Homegrown AI Model Now Rivals the Frontier Labs – I Take A Closer Look At the Benchmarks",
+      "url": "https://www.lawnext.com/2026/08/thomson-reuters-says-its-homegrown-ai-model-now-rivals-the-frontier-labs-i-take-a-closer-look-at-the-benchmarks.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-08-04T18:25:24.000Z",
+      "summary": "Thomson Reuters says the large language model it has been quietly building in-house now performs competitively with the best general-purpose AI models in the world, and it has released its first benchmarking results to back up the claim. In a July 31 post on the company’s innovation blog, Chief Technology Officer Joel Hron and Head […]",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-abajournal-com-news-article-fake-ai-created-citations-result-in-real-15000-f",
+      "title": "Appeals court fines lawyer in Starbucks bias case $15K for AI-generated fake citations",
+      "url": "https://www.abajournal.com/news/article/fake-ai-created-citations-result-in-real-15000-fine-for-lawyer-in-illinois-appeals-court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-08-04T16:56:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "legaltechnology-com-webinar-replay-the-reality-of-ai-readiness-in-law-firms-",
+      "title": "Webinar replay: The reality of AI readiness in law firms",
+      "url": "https://legaltechnology.com/webinar-replay-the-reality-of-ai-readiness-in-law-firms/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-08-04T15:39:10.000Z",
+      "summary": "AI can expose poor data, fragmented workflows, legacy systems, weak training, cyber risk and unclear ROI. In this webinar with OneAdvanced’s SVP for legal and professional services, Doug Hargrove, together […]\nThe post Webinar replay: The reality of AI readiness in law firms appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Education"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-associate-news-system-fragmentation-disconnected-systems-",
+      "title": "System fragmentation: Disconnected systems are a compliance risk, not just an efficiency problem",
+      "url": "https://www.legalfutures.co.uk/associate-news/system-fragmentation-disconnected-systems-are-a-compliance-risk-not-just-an-efficiency-problem",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-04T15:21:34.000Z",
+      "summary": "Ask most law firm partners what keeps them up at night in 2026, and the answers tend to cluster around the same themes: growing regulatory pressure, the pace of change from the SRA, and the creeping sense that the firm's technology infrastructure is not quite keeping up.\nThe post System fragmentation: Disconnected systems are a compliance risk, not just an efficiency problem appeared first on Lega",
+      "tags": [
+        "Regulation",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-scotusblog-com-2026-08-why-timing-matters-in-the-mail-in-voting-dispute-",
+      "title": "Why timing matters in the mail-in voting dispute",
+      "url": "https://www.scotusblog.com/2026/08/why-timing-matters-in-the-mail-in-voting-dispute/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-08-04T13:00:00.000Z",
+      "summary": "Plus, what happened to Dred Scott after he lost before the Supreme Court?",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-associate-news-bighand-acquires-ayora-to-accelerate-ai-in",
+      "title": "BigHand acquires Ayora to accelerate AI innovation in legal pricing",
+      "url": "https://www.legalfutures.co.uk/associate-news/bighand-acquires-ayora-to-accelerate-ai-innovation-in-legal-pricing",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-04T12:09:48.000Z",
+      "summary": "The acquisition brings together two of the most respected names in legal pricing, combining AI innovation, trusted technology and unmatched expertise to help law firms improve profitability and commercial performance.\nThe post BigHand acquires Ayora to accelerate AI innovation in legal pricing appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "legaltechnology-com-breaking-news-bighand-acquires-ayora-",
+      "title": "Breaking news: BigHand acquires Ayora ",
+      "url": "https://legaltechnology.com/breaking-news-bighand-acquires-ayora/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-08-04T11:00:57.000Z",
+      "summary": "BigHand today (4 August) announced the acquisition of legal AI pricing specialist Ayora, in a move that it says marks the next phase in its AI strategy.  Ayora uses historic data to […]\nThe post Breaking news: BigHand acquires Ayora  appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "abovethelaw-com-2026-08-matthew-thomas-is-right-good-legal-judgment-cant-be-auto",
       "title": "Matthew Thomas Is Right: Good Legal Judgment Can’t Be Automated",
@@ -2000,65 +2154,6 @@
       ],
       "relevance": "medium",
       "score": 4
-    },
-    {
-      "id": "verfassungsblog-de-palestine-action-sentencing-regime-",
-      "title": "Palestine Action and the UK’s Expanded Terrorist-Connection Sentencing Regime",
-      "url": "https://verfassungsblog.de/palestine-action-sentencing-regime/",
-      "source": "Verfassungsblog",
-      "region": "EU",
-      "date": "2026-07-06T07:56:41.000Z",
-      "summary": "The sentencing decision delivered in England on 12 June 2026 in the Palestine Action case marks one of the first prominent judicial tests of a little-noticed but constitutionally troubling provision expanded by the Counter-Terrorism and Sentencing Act 2021, under which terrorism-related consequences such as altered release arrangements, forfeiture orders and long-term notification duties can be at",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-07-06-the-legal-ai-advantage-wont-come-from-the-mo",
-      "title": "The Legal AI Advantage Won’t Come From the Model Alone",
-      "url": "https://www.artificiallawyer.com/2026/07/06/the-legal-ai-advantage-wont-come-from-the-model-alone/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-07-06T06:42:03.000Z",
-      "summary": "By Sam Kidd, CEO, LawVu. Every week in legal tech there’s a new AI announcement. A new drafting tool or legal agent. Another company claiming ...",
-      "tags": [
-        "AI in Law",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-man-employed-during-hearing-allowed-to-repres",
-      "title": "Man employed during hearing allowed to represent company",
-      "url": "https://www.legalfutures.co.uk/latest-news/man-employed-during-hearing-allowed-to-represent-company",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-07-05T23:03:35.000Z",
-      "summary": "A High Court judge has allowed a company to be represented by a man it employed during an adjournment of a hearing so as to ensure compliance with the CPR.\nThe post Man employed during hearing allowed to represent company appeared first on Legal Futures.",
-      "tags": [
-        "Regulation",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-07-supreme-court-term-goes-out-in-blaze-of-hypocrisy-false-",
-      "title": "Supreme Court Term Goes Out In Blaze Of Hypocrisy, False Retirements, And Bad Ratings — See Generally",
-      "url": "https://abovethelaw.com/2026/07/supreme-court-term-goes-out-in-blaze-of-hypocrisy-false-retirements-and-bad-ratings-see-generally/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-07-05T22:28:44.000Z",
-      "summary": "Roberts Writes Two Opinions With One Shrug Emoji: The Chief Justice declared independent federal agencies unconstitutional and then turned around and, without a note of irony, said that OF COURSE the Federal Reseve is a duly ordained independent federal agency because... [trails off].\n\n\nNeil Gorsuch Takes Road Less Traveled By: The Birthright Citizenship case broke down into those who think the Fo",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "high",
-      "score": 6
     }
   ]
 }
