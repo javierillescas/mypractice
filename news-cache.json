@@ -1,6 +1,53 @@
 {
-  "lastUpdated": "2026-08-07T07:11:54.560Z",
+  "lastUpdated": "2026-08-08T06:48:46.567Z",
   "articles": [
+    {
+      "id": "legaltechnology-com-legaltech-governance-latest-new-akerman-head-eu-ai-act-warni",
+      "title": "Legaltech governance latest: New Akerman head, EU AI Act warning, & BARBRI AI adoption findings ",
+      "url": "https://legaltechnology.com/legaltech-governance-latest-new-akerman-head-eu-ai-act-warning-barbri-ai-adoption-findings/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-08-07T15:28:43.000Z",
+      "summary": "AI governance and competency are firmly in the spotlight this week. Akerman has created a new AI governance leadership role, appointing Michael Adler; the property sector is warning about the […]\nThe post Legaltech governance latest: New Akerman head, EU AI Act warning, & BARBRI AI adoption findings  appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-abajournal-com-news-article-public-backs-most-supreme-court-rulings-while-ov",
+      "title": "Public backs most Supreme Court rulings while overall approval ratings remain low",
+      "url": "https://www.abajournal.com/news/article/public-backs-most-supreme-court-rulings-while-overall-approval-ratings-remain-low/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-08-07T12:43:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "legaltechnology-com-anthropic-hires-robert-mahari-as-head-of-claude-for-legal-",
+      "title": "Anthropic hires Robert Mahari as head of Claude for Legal",
+      "url": "https://legaltechnology.com/anthropic-hires-robert-mahari-as-head-of-claude-for-legal/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-08-07T12:23:11.000Z",
+      "summary": "Anthropic has hired Robert Mahari as head of Claude for Legal, helping law firms, in-house teams and legal tech companies move “from product to GTM,” in a move that signals […]\nThe post Anthropic hires Robert Mahari as head of Claude for Legal appeared first on Legal IT Insider.",
+      "tags": [
+        "In-House Counsel",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-legalfutures-co-uk-latest-news-sra-warns-over-emerging-money-laundering-risk",
       "title": "SRA warns over “emerging” money laundering risks for law firms",
@@ -1968,145 +2015,6 @@
         "Regulation",
         "Legal Tech",
         "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-07-09-why-adoption-starts-where-go-live-ends-",
-      "title": "Why Adoption Starts Where Go-Live Ends",
-      "url": "https://www.artificiallawyer.com/2026/07/09/why-adoption-starts-where-go-live-ends/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-07-09T06:40:34.000Z",
-      "summary": "By Jennie Strickland, Clio. The feeling of a successful go-live is one most legal technology leaders will recognize. The project has hit its milestones. Training ...",
-      "tags": [
-        "AI in Law",
-        "Legal Tech",
-        "Legal Education"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-sra-outlines-specific-regulation-for-law-firm",
-      "title": "SRA outlines specific regulation for law firms using litigation funding",
-      "url": "https://www.legalfutures.co.uk/latest-news/sra-outlines-specific-regulation-for-law-firms-using-litigation-funding",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-07-08T23:04:20.000Z",
-      "summary": "Law firms arranging or using third-party litigation funding for consumer claims will have to tell the SRA about it, under plans unveiled today.\nThe post SRA outlines specific regulation for law firms using litigation funding appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "abovethelaw-com-2026-07-this-biglaw-firm-is-dangerous-and-the-deal-flow-backs-it",
-      "title": "This Biglaw Firm Is ‘Dangerous’ — And The Deal Flow Backs It Up",
-      "url": "https://abovethelaw.com/2026/07/this-biglaw-firm-is-dangerous-and-the-deal-flow-backs-it-up/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-07-08T20:00:00.000Z",
-      "summary": "A boom in AI-related energy offerings has Latham expecting a record-setting year.\nThe post This Biglaw Firm Is ‘Dangerous’ — And The Deal Flow Backs It Up appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "verfassungsblog-de-trump-v-barbara-citizenship-",
-      "title": "(De)Valuing Citizenship",
-      "url": "https://verfassungsblog.de/trump-v-barbara-citizenship/",
-      "source": "Verfassungsblog",
-      "region": "EU",
-      "date": "2026-07-08T17:19:50.000Z",
-      "summary": "Last Tuesday, the US Supreme Court released its final merits opinion of its October 2025 term. In Trump v Barbara, a razor thin 5-4 majority deemed the President’s attempt to deny American citizenship to children born on U.S soil to immigrant parents who are undocumented or present on certain visas unconstitutional. The decision is a rare and important win for immigrants and American constitutiona",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "high",
-      "score": 6
-    },
-    {
-      "id": "legaltechnology-com-oz-benamram-joins-pillsbury-as-chief-ai-officer-",
-      "title": "Oz Benamram joins Pillsbury as chief AI officer",
-      "url": "https://legaltechnology.com/oz-benamram-joins-pillsbury-as-chief-ai-officer/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-07-08T14:39:11.000Z",
-      "summary": "Oz Benamram has officially joined Pillsbury Winthrop Shaw Pittman as chief AI officer. Benamram is one of the legaltech industry’s best-known names, having advised law firm leaders, legaltech companies, and […]\nThe post Oz Benamram joins Pillsbury as chief AI officer appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-07-08-oz-joins-pillsbury-for-top-ai-role-",
-      "title": "Oz Joins Pillsbury For Top AI Role",
-      "url": "https://www.artificiallawyer.com/2026/07/08/oz-joins-pillsbury-for-top-ai-role/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-07-08T14:06:05.000Z",
-      "summary": "International man of mystery and legal AI guru, Oz Benamram, has joined US law firm Pillsbury as its first Chief AI Officer. It’s understood that ...",
-      "tags": [
-        "AI in Law",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-scotusblog-com-2026-07-revisiting-which-supreme-court-cases-are-actually-the",
-      "title": "Revisiting which Supreme Court cases are actually the most important",
-      "url": "https://www.scotusblog.com/2026/07/revisiting-which-supreme-court-cases-are-actually-the-most-important/",
-      "source": "SCOTUSblog",
-      "region": "US",
-      "date": "2026-07-08T14:00:00.000Z",
-      "summary": "",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-lawnext-com-2026-07-centari-launches-external-views-enabling-firms-to-share-",
-      "title": "Centari Launches External Views, Enabling Firms to Share Deal Intelligence Dashboards Directly with Clients",
-      "url": "https://www.lawnext.com/2026/07/centari-launches-external-views-enabling-firms-to-share-deal-intelligence-dashboards-directly-with-clients.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-07-08T13:00:55.000Z",
-      "summary": "Centari, an AI platform for managing complex transactions, today launched External Views, a capability that allows law firms to create white-labeled dashboards and share them directly with clients. The feature builds on Centari’s Views capability, introduced earlier this year, which enables firms to analyze transaction trends, benchmark market positions, and visualize deal data across their […]",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-07-08-harvey-increases-token-use-14x-in-just-6-mon",
-      "title": "Harvey Increases Token Use 14X in Just 6 Months",
-      "url": "https://www.artificiallawyer.com/2026/07/08/harvey-increases-token-use-14x-in-just-6-months/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-07-08T08:25:09.000Z",
-      "summary": "Harvey’s co-founder and President, Gabe Pereyra, has announced that the number of tokens processed on the broad legal AI platform have increased by fourteen times ...",
-      "tags": [
-        "AI in Law",
-        "Legal Tech"
       ],
       "relevance": "medium",
       "score": 3
