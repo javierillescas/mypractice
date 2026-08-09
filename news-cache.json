@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T06:48:46.567Z",
+  "lastUpdated": "2026-08-09T06:52:41.078Z",
   "articles": [
     {
       "id": "legaltechnology-com-legaltech-governance-latest-new-akerman-head-eu-ai-act-warni",
@@ -1910,114 +1910,6 @@
       ],
       "relevance": "medium",
       "score": 5
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-cps-admits-putting-hallucinated-cases-before-",
-      "title": "CPS admits putting hallucinated cases before High Court",
-      "url": "https://www.legalfutures.co.uk/latest-news/cps-admits-putting-hallucinated-cases-before-high-court",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-07-09T23:07:56.000Z",
-      "summary": "The Crown Prosecution Service put hallucinated cases produced by artificial intelligence before the High Court in an extradition appeal, it has admitted.\nThe post CPS admits putting hallucinated cases before High Court appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-legalfutures-co-uk-blog-when-ai-becomes-a-line-on-the-clients-bill",
-      "title": "When AI becomes a line on the client’s bill",
-      "url": "https://www.legalfutures.co.uk/blog/when-ai-becomes-a-line-on-the-clients-bill",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-07-09T23:00:45.000Z",
-      "summary": "On 23 June, Legora changed how it charges. The platform announced that its most capable product was moving away from a flat per-seat licence fee to consumption-based pricing\nThe post When AI becomes a line on the client’s bill appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-myshingle-com-2026-07-can-lawyers-legally-and-ethically-record-conversations",
-      "title": "Lawyers’ Use Of AI Notetakers And Client Conversations: Ethics Rules, Risks, And Best Practices (2026 Update)",
-      "url": "https://www.myshingle.com/2026/07/can-lawyers-legally-and-ethically-record-conversations-with-clients-using-artificial-intelligence/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-07-09T22:12:00.000Z",
-      "summary": "Now with guidance from NYC Opinion 1270 on ethical issues related to attorneys using AI transcription, and more.\nThe post Lawyers’ Use Of AI Notetakers And Client Conversations: Ethics Rules, Risks, And Best Practices (2026 Update) appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-07-fractional-general-counsel-a-win-win-proposition-for-cer",
-      "title": "Fractional General Counsel: A Win-Win Proposition For Certain Clients, And Certain Lawyers",
-      "url": "https://abovethelaw.com/2026/07/fractional-general-counsel-a-win-win-proposition-for-certain-clients-and-certain-lawyers/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-07-09T14:51:37.000Z",
-      "summary": "With the advent of AI, it becomes much more realistic for a fractional GC concept to work.\nThe post Fractional General Counsel: A Win-Win Proposition For Certain Clients, And Certain Lawyers appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "medcitynews-com-2026-07-elevance-sues-star-ratings-",
-      "title": "Elevance Sues CMS Over Star Ratings, Seeks Same Recalculation Applied To Clover",
-      "url": "https://medcitynews.com/2026/07/elevance-sues-star-ratings/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-07-09T14:03:00.000Z",
-      "summary": "Elevance alleges that CMS unlawfully refused to recalculate its 2026 Medicare Advantage Star Ratings on the same basis that it recently recalculated Clover Health's ratings after a court ruling. \nThe post Elevance Sues CMS Over Star Ratings, Seeks Same Recalculation Applied To Clover appeared first on Above the Law.",
-      "tags": [
-        "In-House Counsel",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "legaltechnology-com-training-adoption-and-the-buy-v-build-question-how-mayer-bro",
-      "title": "Training, adoption and the buy-v-build question: How Mayer Brown is scaling GenAI",
-      "url": "https://legaltechnology.com/training-adoption-and-the-buy-v-build-question-how-mayer-brown-is-scaling-genai/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-07-09T13:00:27.000Z",
-      "summary": "“The AI literacy piece is really fundamental to everything,” says Evette Pastoriza, chief information officer of Mayer Brown, in a deep dive conversation with Legal IT Insider about the firm’s recent GenAI training curriculum launch, and its broader technology strategy.  “AI is different from […]\nThe post Training, adoption and the buy-v-build question: How Mayer Brown is scaling GenAI appeared fi",
-      "tags": [
-        "AI in Law",
-        "Legal Education"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-07-09-darrow-cuts-roles-as-part-of-strategic-restr",
-      "title": "Darrow Cuts Roles as Part of Strategic Restructure",
-      "url": "https://www.artificiallawyer.com/2026/07/09/darrow-cuts-roles-as-part-of-strategic-restructure/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-07-09T08:12:33.000Z",
-      "summary": "Darrow, the pioneering litigation intelligence platform, has undergone a restructuring with multiple roles cut. However, the Israel-based company underlined they had ‘consistent year-over-year growth’ and ...",
-      "tags": [
-        "Regulation",
-        "Legal Tech",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
     }
   ]
 }
