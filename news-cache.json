@@ -1,6 +1,83 @@
 {
-  "lastUpdated": "2026-08-10T07:28:11.468Z",
+  "lastUpdated": "2026-08-11T07:03:04.197Z",
   "articles": [
+    {
+      "id": "www-artificiallawyer-com-2026-08-11-aloi-raises-7m-for-organisational-judgment-c",
+      "title": "Aloi Raises $7m For ‘Organisational Judgment’ + CEO Interview",
+      "url": "https://www.artificiallawyer.com/2026/08/11/aloi-raises-7m-for-organisational-judgment-ceo-interview/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-08-11T06:58:24.000Z",
+      "summary": "Aloi has raised $7m in early funding to develop what it calls ‘organisational judgment’, in order to improve legal AI outcomes. (See in-depth AL interview ...",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-businessman-can-continue-20m-law-firm-neglige",
+      "title": "Businessman can continue £20m law firm negligence claim",
+      "url": "https://www.legalfutures.co.uk/latest-news/businessman-can-continue-20m-law-firm-negligence-claim",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-10T23:07:16.000Z",
+      "summary": "A businessman can continue with a £20m counterclaim for negligence against a City law firm suing for fees of £194,000, the High Court has ruled.\nThe post Businessman can continue £20m law firm negligence claim appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-08-10-harbor-seeks-to-counter-general-llm-fdes-",
+      "title": "Harbor Seeks To Counter General LLM FDEs",
+      "url": "https://www.artificiallawyer.com/2026/08/10/harbor-seeks-to-counter-general-llm-fdes/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-08-10T13:00:43.000Z",
+      "summary": "Legal tech consultancy Harbor has launched ‘Deploy’ for legal AI needs, which will see them ‘embed specialist teams, including forward-deployed engineers (FDE), inside clients’. They ...",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-lawnext-com-2026-08-after-his-own-trademark-fight-revealed-gaps-in-trademark",
+      "title": "After His Own Trademark Fight Revealed Gaps in Trademark Tools, This Fintech Founder Built His Own",
+      "url": "https://www.lawnext.com/2026/08/after-his-own-trademark-fight-revealed-gaps-in-trademark-tools-this-fintech-founder-built-his-own.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-08-10T12:02:26.000Z",
+      "summary": "Howard Katzenberg’s idea for a trademark software company began with a trademark fight of his own. Today, he is formally launching that software, called GleanMark, a U.S. trademark research and workflow platform for lawyers. The platform combines free USPTO search with AI-driven clearance analysis, office-action response drafting, automated deadline tracking, and portfolio monitoring, all built […",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "legaltechnology-com-legaltech-clinic-ai-consumption-for-law-firms-and-avoiding-t",
+      "title": "Legaltech Clinic: AI consumption for law firms and avoiding “token gestures” in cost control",
+      "url": "https://legaltechnology.com/legaltech-clinic-ai-consumption-for-law-firms-and-avoiding-token-gestures-in-cost-control/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-08-10T11:07:11.000Z",
+      "summary": "In the July/August Orange Rag, Derek Southall, founder and CEO of Hyperscale Group, dives into the complex and urgent topic of how to manage the shift among AI vendors from […]\nThe post Legaltech Clinic: AI consumption for law firms and avoiding “token gestures” in cost control appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "abovethelaw-com-2026-08-trump-rewrites-supreme-court-loss-as-a-win-see-generally",
       "title": "Trump Rewrites Supreme Court Loss As A Win — See Generally",
