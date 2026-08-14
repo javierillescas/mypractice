@@ -1,6 +1,83 @@
 {
-  "lastUpdated": "2026-08-13T07:23:24.257Z",
+  "lastUpdated": "2026-08-14T07:20:49.730Z",
   "articles": [
+    {
+      "id": "legaltechnology-com-amicable-applies-to-sra-to-launch-tech-forward-law-firm-",
+      "title": "amicable applies to SRA to launch “tech-forward” law firm",
+      "url": "https://legaltechnology.com/amicable-applies-to-sra-to-launch-tech-forward-law-firm/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-08-13T15:18:39.000Z",
+      "summary": "amicable, the award-winning divorce and separation service, has submitted its application to the Solicitors Regulation Authority (SRA) to launch a new, separate law firm serving England and Wales. Alongside that, it’s opening the search […]\nThe post amicable applies to SRA to launch “tech-forward” law firm appeared first on Legal IT Insider.",
+      "tags": [
+        "Regulation",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-lawnext-com-2026-08-deepjudge-releases-an-open-protocol-for-passing-users-an",
+      "title": "DeepJudge Releases an Open Protocol for Passing Users – and Their Context – Between AI Products, with Harvey and Thomson Reuters On Board",
+      "url": "https://www.lawnext.com/2026/08/deepjudge-releases-an-open-protocol-for-passing-users-and-their-context-between-ai-products-with-harvey-and-thomson-reuters-on-board.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-08-13T13:00:21.000Z",
+      "summary": "DeepJudge, the Zurich-based enterprise search company that describes itself as the institutional intelligence platform for legal AI, today introduced the Agent Handoff Protocol, an open protocol designed to let users move from one AI product into another – and, in some cases, back again – while retaining the full context of their work. Harvey has […]",
+      "tags": [
+        "AI in Law",
+        "Legal Tech",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-08-13-deepjudge-launches-agent-handoff-protocol-ha",
+      "title": "DeepJudge Launches Agent Handoff Protocol, Harvey + TR Adopt",
+      "url": "https://www.artificiallawyer.com/2026/08/13/deepjudge-launches-agent-handoff-protocol-harvey-tr-adopt/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-08-13T13:00:12.000Z",
+      "summary": "KM pioneer DeepJudge has launched an ‘Agent Handoff Protocol’ or AHP, which is an open system that ‘enables users to move between AI platforms without ...",
+      "tags": [
+        "AI in Law",
+        "Legal Tech",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-08-trump-administration-asks-scotus-to-rule-soon-on-mail",
+      "title": "Trump administration asks SCOTUS to rule soon on mail-in voting",
+      "url": "https://www.scotusblog.com/2026/08/trump-administration-asks-scotus-to-rule-soon-on-mail-in-voting/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-08-13T13:00:00.000Z",
+      "summary": "Plus, are Republicans falling out of love with the Supreme Court?",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "legaltechnology-com-talkingtech-podcast-ais-biggest-legal-challenge-isnt-the-tec",
+      "title": "TalkingTech podcast: AI’s biggest legal challenge isn’t the technology. It’s the data",
+      "url": "https://legaltechnology.com/talkingtech-podcast-ais-biggest-legal-challenge-isnt-the-technology-its-the-data/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-08-13T10:28:54.000Z",
+      "summary": "As generative AI moves from experimentation to implementation, one question continues to dominate conversations in the legal sector: are law firms’ data foundations strong enough to support it? In our […]\nThe post TalkingTech podcast: AI’s biggest legal challenge isn’t the technology. It’s the data appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-legalfutures-co-uk-latest-news-judge-condemns-utter-incompetence-of-family-l",
       "title": "Judge condemns “utter incompetence” of family law firm",
@@ -1863,66 +1940,6 @@
       ],
       "relevance": "medium",
       "score": 4
-    },
-    {
-      "id": "abovethelaw-com-2026-07-amy-coney-barrett-then-read-the-opinion-acb-now-inapprop",
-      "title": "Amy Coney Barrett Then: ‘Read The Opinion!’ ACB Now: Inappropriate To Expect Supreme Court To Explain Decisions",
-      "url": "https://abovethelaw.com/2026/07/amy-coney-barrett-then-read-the-opinion-acb-now-inappropriate-to-expect-supreme-court-to-explain-decisions/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-07-14T22:15:37.000Z",
-      "summary": "Turns out accountability was always something for other people.\nThe post Amy Coney Barrett Then: ‘Read The Opinion!’ ACB Now: Inappropriate To Expect Supreme Court To Explain Decisions appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "abovethelaw-com-2026-07-when-being-a-scotus-justice-means-explaining-bulletproof",
-      "title": "When Being A SCOTUS Justice Means Explaining Bulletproof Vests To Your Kids",
-      "url": "https://abovethelaw.com/2026/07/when-being-a-scotus-justice-means-explaining-bulletproof-vests-to-your-kids/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-07-14T19:57:00.000Z",
-      "summary": "Justice Amy Coney Barrett details the real-life consequences of threats against judges, and why the high court wants more money to protect judges.\nThe post When Being A SCOTUS Justice Means Explaining Bulletproof Vests To Your Kids appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "verfassungsblog-de-the-weimers-report-and-the-politicisation-of-judicial-indepen",
-      "title": "The Weimers Report and the Politicisation of Judicial Independence in the EU",
-      "url": "https://verfassungsblog.de/the-weimers-report-and-the-politicisation-of-judicial-independence-in-the-eu/",
-      "source": "Verfassungsblog",
-      "region": "EU",
-      "date": "2026-07-14T18:41:21.000Z",
-      "summary": "On 29 June 2026, the European Parliament’s Constitutional Affairs rapporteur Charlie Weimers published a draft report, to be presented at a public hearing on July 15, on “The Institutional Framework of the European Union and its Interaction with National Authorities in the Application of Union Law, with Particular Reference to Article 19 TEU”. The CJEU's historic reluctance to open up its own gove",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "verfassungsblog-de-le-pens-gambit-",
-      "title": "Le Pen’s Gambit",
-      "url": "https://verfassungsblog.de/le-pens-gambit/",
-      "source": "Verfassungsblog",
-      "region": "EU",
-      "date": "2026-07-14T08:21:05.000Z",
-      "summary": "Marine Le Pen’s presidential campaign began not with a rally but with a court judgment. By announcing her candidacy in a prime-time television interview within hours of the Paris Court of Appeal largely upholding her criminal conviction, the leader of the Rassemblement National has placed one of Europe's oldest constitutional democracies on a path toward a direct confrontation between electoral po",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
     }
   ]
 }
