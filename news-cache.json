@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-08-16T06:35:41.762Z",
+  "lastUpdated": "2026-08-17T06:50:23.943Z",
   "articles": [
+    {
+      "id": "www-legalfutures-co-uk-latest-news-lsb-approves-separation-of-compliance-and-man",
+      "title": "LSB approves separation of compliance and management roles",
+      "url": "https://www.legalfutures.co.uk/latest-news/lsb-approves-separation-of-compliance-and-management-roles",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-16T23:05:13.000Z",
+      "summary": "The Legal Services Board has approved rule changes to separate law firm managers who can “unilaterally” make decisions from compliance officer roles in all but the smallest firms.\nThe post LSB approves separation of compliance and management roles appeared first on Legal Futures.",
+      "tags": [
+        "Regulation",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-legal-consultant-to-chambers-challenges-conte",
+      "title": "Legal consultant to chambers challenges contempt referral",
+      "url": "https://www.legalfutures.co.uk/latest-news/legal-consultant-to-chambers-challenges-contempt-referral",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-16T23:03:07.000Z",
+      "summary": "A legal consultant to a barristers’ chambers referred by a High Court judge to the Attorney General for possible contempt of court proceedings has filed an appeal.\nThe post Legal consultant to chambers challenges contempt referral appeared first on Legal Futures.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-conveyancers-disability-discrimination-claim-",
+      "title": "Conveyancer’s disability discrimination claim thrown out",
+      "url": "https://www.legalfutures.co.uk/latest-news/conveyancers-disability-discrimination-claim-thrown-out",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-16T23:01:54.000Z",
+      "summary": "A judge has thrown out a conveyancer’s disability discrimination claim against his former firm after showing “a total disregard for case management orders”.\nThe post Conveyancer’s disability discrimination claim thrown out appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-abajournal-com-news-article-2-biglaw-partners-retained-for-taylor-farms-taco",
       "title": "2 BigLaw partners retained for Taylor Farms, Taco Bell over contaminated lettuce lawsuits",
@@ -1744,66 +1789,6 @@
       ],
       "relevance": "medium",
       "score": 4
-    },
-    {
-      "id": "abovethelaw-com-2026-07-doj-cites-fake-case-to-keep-man-locked-up-by-ice-judge-d",
-      "title": "DOJ Cites Fake Case To Keep Man Locked Up By ICE, Judge Declines To Do Anything About It",
-      "url": "https://abovethelaw.com/2026/07/doj-cites-fake-case-to-keep-man-locked-up-by-ice-judge-declines-to-do-anything-about-it/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-07-17T16:13:56.000Z",
-      "summary": "Judge spent two-thirds of her order explaining why fake citations are unacceptable, then shrugs off holding anyone accountable.\nThe post DOJ Cites Fake Case To Keep Man Locked Up By ICE, Judge Declines To Do Anything About It appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-scotusblog-com-2026-07-three-profound-constitutional-provisions-and-how-the-",
-      "title": "Three profound constitutional provisions – and how the Supreme Court has avoided dealing with them",
-      "url": "https://www.scotusblog.com/2026/07/three-profound-constitutional-provisions-and-how-the-supreme-court-has-avoided-dealing-with-them/",
-      "source": "SCOTUSblog",
-      "region": "US",
-      "date": "2026-07-17T13:30:00.000Z",
-      "summary": "",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-lawnext-com-2026-07-whats-in-a-wrapper-comparing-a-hershey-bar-to-legaltech-",
-      "title": "What’s In A Wrapper? Comparing A Hershey Bar To LegalTech AI",
-      "url": "https://www.lawnext.com/2026/07/whats-in-a-wrapper-comparing-a-hershey-bar-to-legaltech-ai.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-07-17T12:56:30.000Z",
-      "summary": "Anyone can make sweets, but not everyone can make a Hershey bar. The debate over legaltech startups offering nothing more than a “thin wrapper” around an LLM begs a deeper analysis of the value of a wrapper, particularly as open-source alternatives take root. Let’s start with a Hershey bar. You pay for the chocolate, right? […]",
-      "tags": [
-        "AI in Law",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-07-17-law-firms-dont-have-an-ai-problem-they-have-",
-      "title": "Law Firms Don’t Have an AI Problem, They Have a Data Problem",
-      "url": "https://www.artificiallawyer.com/2026/07/17/law-firms-dont-have-an-ai-problem-they-have-a-data-problem/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-07-17T06:42:14.000Z",
-      "summary": "By Kevin Walker, CEO, Centari. In recent months, several of the world’s leading law firms have announced investments in legal technology at a scale only ...",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
     }
   ]
 }
