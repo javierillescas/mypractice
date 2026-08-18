@@ -1,6 +1,82 @@
 {
-  "lastUpdated": "2026-08-17T06:50:23.943Z",
+  "lastUpdated": "2026-08-18T06:39:08.933Z",
   "articles": [
+    {
+      "id": "www-legalfutures-co-uk-latest-news-sra-warns-profession-over-ai-misuse-amidst-in",
+      "title": "SRA warns profession over AI misuse amidst investigations",
+      "url": "https://www.legalfutures.co.uk/latest-news/sra-warns-profession-over-ai-misuse-amidst-investigations",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-17T23:03:32.000Z",
+      "summary": "The Solicitors Regulation Authority has “a number of ongoing investigations” into the possible misuse of AI after receiving 42 reports in the past year.\nThe post SRA warns profession over AI misuse amidst investigations appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Regulation"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-08-supreme-court-kills-trumps-e-jean-carroll-rehearing-requ",
+      "title": "Supreme Court Kills Trump’s E. Jean Carroll Rehearing Request",
+      "url": "https://abovethelaw.com/2026/08/supreme-court-kills-trumps-e-jean-carroll-rehearing-request/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-08-17T18:32:00.000Z",
+      "summary": "Trump's lawyers claimed they had the concepts of a plan for winning the case. The justices were not impressed. \nThe post Supreme Court Kills Trump’s E. Jean Carroll Rehearing Request appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "www-lawnext-com-2026-08-having-already-launched-a-claude-connector-trellis-exten",
+      "title": "Having Already Launched A Claude Connector, Trellis Extends AI Access to Its Court Data with ChatGPT Plugin and Its Own Chat Tool",
+      "url": "https://www.lawnext.com/2026/08/having-already-launched-a-claude-connector-trellis-extends-ai-access-to-its-court-data-with-chatgpt-plugin-and-its-own-chat-tool.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-08-17T15:57:44.000Z",
+      "summary": "Trellis, a legal research company that provides state trial court data and insights, has expanded agentic AI access to its data with a new plugin for OpenAI’s ChatGPT and a native assistant called Trellis Chat, both of which are in addition to the Trellis MCP connector for Claude that the company launched in May. Trellis […]",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "legaltechnology-com-sra-issues-ai-usage-warning-notice-",
+      "title": "SRA issues AI usage warning notice",
+      "url": "https://legaltechnology.com/sra-issues-ai-usage-warning-notice/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-08-17T13:31:10.000Z",
+      "summary": "The Solicitors Regulation Authority (SRA) today (17 August) published a warning notice to remind law firms and solicitors of  their professional obligations when using AI, warning: “If you fail to have […]\nThe post SRA issues AI usage warning notice appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "legaltechnology-com-guest-post-ai-means-legal-tech-project-plans-are-no-longer-f",
+      "title": "Guest Post: AI means legal tech project plans are no longer fit for purpose",
+      "url": "https://legaltechnology.com/guest-post-ai-means-legal-tech-project-plans-are-no-longer-fit-for-purpose/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-08-17T09:12:46.000Z",
+      "summary": "By Ben Williams, Pinsent Masons Vario The way we look at adopting generative AI tools needs to change. Cast your mind back just five years, the process of introducing a […]\nThe post Guest Post: AI means legal tech project plans are no longer fit for purpose appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-legalfutures-co-uk-latest-news-lsb-approves-separation-of-compliance-and-man",
       "title": "LSB approves separation of compliance and management roles",
