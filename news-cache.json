@@ -1,6 +1,140 @@
 {
-  "lastUpdated": "2026-08-18T06:39:08.933Z",
+  "lastUpdated": "2026-08-19T06:39:36.367Z",
   "articles": [
+    {
+      "id": "www-legalfutures-co-uk-latest-news-judge-hits-out-at-aggressive-approach-of-part",
+      "title": "Judge hits out at “aggressive” approach of party and its lawyers",
+      "url": "https://www.legalfutures.co.uk/latest-news/judge-hits-out-at-aggressive-approach-of-party-and-its-lawyers",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-18T23:07:56.000Z",
+      "summary": "A judge has heavily criticised the “aggressive” approach of a defendant and its lawyers, saying the case was “like going back in time to when I first started in practice in the 1980s”.\nThe post Judge hits out at “aggressive” approach of party and its lawyers appeared first on Legal Futures.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-law-society-opposes-sra-taking-broad-notifica",
+      "title": "Law Society opposes SRA taking broad notification powers",
+      "url": "https://www.legalfutures.co.uk/latest-news/law-society-opposes-sra-taking-broad-notification-powers",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-18T23:03:32.000Z",
+      "summary": "The Law Society has spoken out against the Solicitors Regulation Authority having a broad power to require law firms to notify it about particular events.\nThe post Law Society opposes SRA taking broad notification powers appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "abovethelaw-com-2026-08-judicial-immunity-still-applies-even-if-the-judge-let-ai",
+      "title": "Judicial Immunity Still Applies Even If The Judge Let AI Decide The Case",
+      "url": "https://abovethelaw.com/2026/08/judicial-immunity-still-applies-even-if-the-judge-let-ai-decide-the-case/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-08-18T20:48:00.000Z",
+      "summary": "Asking AI to resolve your cases would still be a judicial act.\nThe post Judicial Immunity Still Applies Even If The Judge Let AI Decide The Case appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "abovethelaw-com-2026-08-in-house-leaders-say-lawyers-at-these-biglaw-firms-are-c",
+      "title": "In-House Leaders Say Lawyers At These Biglaw Firms Are Client Service ‘All-Stars’ (2026)",
+      "url": "https://abovethelaw.com/2026/08/in-house-leaders-say-lawyers-at-these-biglaw-firms-are-client-service-all-stars-2026/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-08-18T18:32:00.000Z",
+      "summary": "Which firms -- and which lawyers -- came out on top when it comes to excellence in client service?\nThe post In-House Leaders Say Lawyers At These Biglaw Firms Are Client Service ‘All-Stars’ (2026) appeared first on Above the Law.",
+      "tags": [
+        "In-House Counsel",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-lawnext-com-2026-08-clio-docket-is-now-in-clio-work-combining-an-ai-workspac",
+      "title": "Clio Docket Is Now In Clio Work, Combining An AI Workspace with Access to More Than 1 Billion Court Filings",
+      "url": "https://www.lawnext.com/2026/08/clio-docket-is-now-in-clio-work-combining-an-ai-workspace-with-access-to-more-than-1-billion-court-filings.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-08-18T17:00:28.000Z",
+      "summary": "When Clio acquired vLex in 2025, a key asset it gained was Docket Alarm, one of the world’s largest litigation databases containing more than 1 billion filings from federal and state courts. At the ClioCon user conference last year, Clio relaunched it as Clio Docket. Now, Clio is making Clio Docket available from within Clio […]",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-08-expert-asked-chatgpt-show-how-3m-is-0-at-fault-making-fo",
+      "title": "Expert Asked ChatGPT ‘Show How 3M Is 0% At Fault’ Making For Entertaining Deposition",
+      "url": "https://abovethelaw.com/2026/08/expert-asked-chatgpt-show-how-3m-is-0-at-fault-making-for-entertaining-deposition/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-08-18T16:12:00.000Z",
+      "summary": "This had to be fun for the plaintiffs' attorney!\nThe post Expert Asked ChatGPT ‘Show How 3M Is 0% At Fault’ Making For Entertaining Deposition appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-08-avoiding-the-ai-efficiency-trap-what-biglaw-needs-to-get",
+      "title": "Avoiding The AI Efficiency Trap: What Biglaw Needs To Get Right ",
+      "url": "https://abovethelaw.com/2026/08/avoiding-the-ai-efficiency-trap-what-biglaw-needs-to-get-right/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-08-18T15:33:00.000Z",
+      "summary": "[Sponsored] Join our expert panel on Sept. 9 to hear key takeaways from ILTACON 2026 — and the implications for the law firm business model. \nThe post Avoiding The AI Efficiency Trap: What Biglaw Needs To Get Right  appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-08-18-next-gen-harvey-ii-launches-with-memory-at-i",
+      "title": "Next Gen ‘Harvey II’ Launches with Memory at Its Core",
+      "url": "https://www.artificiallawyer.com/2026/08/18/next-gen-harvey-ii-launches-with-memory-at-its-core/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-08-18T14:31:35.000Z",
+      "summary": "Harvey is launching the next generation of the legal AI platform with its Memory capability at its core, alongside preference setting, context sharing, and learning ...",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "medcitynews-com-2026-08-provider-court-surprise-billing-",
+      "title": "Appeals Court Sides With Providers In No Surprises Act Pay Dispute",
+      "url": "https://medcitynews.com/2026/08/provider-court-surprise-billing/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-08-18T14:04:00.000Z",
+      "summary": "A court ruling struck down key parts of how regulators calculate the No Surprises Act's qualifying payment amount, siding with the Texas Medical Association's argument that the formula has historically favored payers in arbitration.\nThe post Appeals Court Sides With Providers In No Surprises Act Pay Dispute appeared first on Above the Law.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-legalfutures-co-uk-latest-news-sra-warns-profession-over-ai-misuse-amidst-in",
       "title": "SRA warns profession over AI misuse amidst investigations",
@@ -1847,21 +1981,6 @@
         "AI in Law",
         "In-House Counsel",
         "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-high-court-throws-out-solicitors-appeal-again",
-      "title": "High Court throws out solicitor’s appeal against SDT decision",
-      "url": "https://www.legalfutures.co.uk/latest-news/high-court-throws-out-solicitors-appeal-against-sdt-decision",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-07-19T23:05:36.000Z",
-      "summary": "The High Court has thrown out a solicitor’s appeal against a decision of the SDT because she failed to provide grounds for more than four months after filing it.\nThe post High Court throws out solicitor’s appeal against SDT decision appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
       ],
       "relevance": "medium",
       "score": 4
