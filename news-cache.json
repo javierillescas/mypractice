@@ -1,6 +1,143 @@
 {
-  "lastUpdated": "2026-08-20T06:40:44.069Z",
+  "lastUpdated": "2026-08-21T06:41:47.607Z",
   "articles": [
+    {
+      "id": "www-legalfutures-co-uk-services-directory-redbrick-solutions",
+      "title": "Redbrick Solutions",
+      "url": "https://www.legalfutures.co.uk/services-directory/redbrick-solutions",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-20T17:27:46.000Z",
+      "summary": "Redbrick Solutions is the connected legal workflow platform for modern, multi-practice law firms, bringing matter management, legal forms, documents, client communication, task control and reporting together within one intuitive cloud solution. Building on more than two decades of specialist experience… Read More\nThe post Redbrick Solutions appeared first on Legal Futures.",
+      "tags": [
+        "In-House Counsel",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "legaltechnology-com-digital-twin-startup-twin1-raises-20m-as-linklaters-orrick-a",
+      "title": "Digital twin startup Twin1 raises $20m as Linklaters, Orrick and Dechert sign up",
+      "url": "https://legaltechnology.com/digital-twin-startup-twin1-raises-20m-as-linklaters-orrick-and-dechert-sign-up/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-08-20T16:07:59.000Z",
+      "summary": "Twin1 AI, a platform that “gives every professional an AI-powered digital twin” and is already working with a number of large law firms has come out of stealth with a […]\nThe post Digital twin startup Twin1 raises $20m as Linklaters, Orrick and Dechert sign up appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-abajournal-com-news-article-128-retired-jurists-file-ethics-complaint-over-d",
+      "title": "128 retired jurists file ethics complaint over DHS lawyer’s ‘attacks’ via social media on 4 sitting judges",
+      "url": "https://www.abajournal.com/news/article/128-retired-jurists-file-ethics-complaint-over-dhs-lawyers-attacks-on-four-sitting-judges/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-08-20T15:39:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-abajournal-com-news-article-ohio-judge-suspended-for-violations-include-not-",
+      "title": "Judge suspended after 17 alleged conduct violations, including not disclosing stepson’s appearance in his court",
+      "url": "https://www.abajournal.com/news/article/ohio-judge-suspended-for-violations-include-not-disclosing-his-stepsons-appearance-in-his-court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-08-20T15:13:00.000Z",
+      "summary": "",
+      "tags": [
+        "In-House Counsel",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "verfassungsblog-de-constitutional-politics-in-action-part-ii-",
+      "title": "Constitutional Politics in Action – Part II",
+      "url": "https://verfassungsblog.de/constitutional-politics-in-action-part-ii/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-08-20T14:11:11.000Z",
+      "summary": "In August 2026, the Hungarian Constitutional Court rejected the petitions challenging the Sixteenth and Seventeenth Amendments to the Fundamental Law. The petitions concerned the dismantling of the public-interest asset management foundations performing public duty, the termination of the mandate of the President of the Republic, the introduction of an age limit affecting sitting CC judges, and li",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "verfassungsblog-de-constitutional-politics-in-action-part-i-",
+      "title": "Constitutional Politics in Action – Part I",
+      "url": "https://verfassungsblog.de/constitutional-politics-in-action-part-i/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-08-20T14:08:50.000Z",
+      "summary": "The Fidesz-KDNP parliamentary group submitted petitions to the Constitutional Court in July 2026 challenging Hungary’s newly adopted Sixteenth and Seventeenth Amendments. The petitions demonstrate how constitutional doctrine can be strategically reconfigured when political actors move from exercising constitutional power to challenging its exercise by others. After losing control of constitutional",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-lawnext-com-2026-08-netdocuments-adds-tabular-review-and-automatic-extractio",
+      "title": "NetDocuments Adds Tabular Review and Automatic Extraction of Legal Authorities to Its Platform",
+      "url": "https://www.lawnext.com/2026/08/netdocuments-adds-tabular-review-and-automatic-extraction-of-legal-authorities-to-its-platform.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-08-20T13:00:42.000Z",
+      "summary": "The document management company NetDocuments today announced two additions to its platform’s AI capabilities. One, Tabular Review, is a tool that lets users analyze collections of documents in a structured table. The other, Legal Authorities, automatically extracts case citations from documents as they are saved to the platform and links them to the full case […]",
+      "tags": [
+        "AI in Law",
+        "Legal Tech",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "legaltechnology-com-agentic-ai-hype-reality-or-both-what-law-firms-need-to-know-",
+      "title": "Agentic AI: Hype, reality, or both? What law firms need to know next",
+      "url": "https://legaltechnology.com/agentic-ai-hype-reality-or-both-what-law-firms-need-to-know-next/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-08-20T10:07:45.000Z",
+      "summary": "Everyone is talking about agentic AI, but what’s actually happening inside law firms today? Join our editor Caroline Hill and Paul Walker, global solutions director at iManage, for a frank […]\nThe post Agentic AI: Hype, reality, or both? What law firms need to know next appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-08-20-avvoka-partners-with-harvey-launches-curate-",
+      "title": "Avvoka Partners With Harvey, Launches Curate For Templates",
+      "url": "https://www.artificiallawyer.com/2026/08/20/avvoka-partners-with-harvey-launches-curate-for-templates/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-08-20T09:04:58.000Z",
+      "summary": "Avvoka, the drafting automation platform, has formed a partnership with Harvey, and it’s also just launched ‘Curate’, which ‘turns a law firm’s transaction documents into ...",
+      "tags": [
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-legalfutures-co-uk-latest-news-menon-speaks-out-over-chilling-contempt-prose",
       "title": "Menon speaks out over “chilling” contempt prosecution",
@@ -1869,116 +2006,6 @@
       "tags": [
         "AI in Law",
         "In-House Counsel"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-ca-condemns-sting-that-saw-solicitor-disclose",
-      "title": "CA condemns sting that saw solicitor disclose privileged information",
-      "url": "https://www.legalfutures.co.uk/latest-news/ca-condemns-sting-that-saw-solicitor-disclose-privileged-information",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-07-21T23:07:15.000Z",
-      "summary": "The Court of Appeal has strongly condemned ‘privilege hunting’ – illicit methods to obtain information from litigation opponents – in a case where a law firm partner was successfully duped.\nThe post CA condemns sting that saw solicitor disclose privileged information appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel",
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "high",
-      "score": 7
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-74m-law-firm-negligence-claim-thrown-out-afte",
-      "title": "$74m law firm negligence claim thrown out after service failure",
-      "url": "https://www.legalfutures.co.uk/latest-news/74m-law-firm-negligence-claim-thrown-out-after-service-failure",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-07-21T23:05:28.000Z",
-      "summary": "The London arm of a leading US law firm has been granted summary judgment against a $74m negligence claim because it was brought out of time.\nThe post $74m law firm negligence claim thrown out after service failure appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-07-courtroom-view-network-learning-trial-skills-by-watching",
-      "title": "Courtroom View Network: Learning Trial Skills By Watching Real Lawyers In Real Trials",
-      "url": "https://abovethelaw.com/2026/07/courtroom-view-network-learning-trial-skills-by-watching-real-lawyers-in-real-trials/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-07-21T17:46:15.000Z",
-      "summary": "Courtroom View Network is a great example of using AI appropriately and in its proper place and combining it with non-AI tools.\nThe post Courtroom View Network: Learning Trial Skills By Watching Real Lawyers In Real Trials appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Education",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-services-directory-big-yellow-penguin",
-      "title": "Big Yellow Penguin",
-      "url": "https://www.legalfutures.co.uk/services-directory/big-yellow-penguin",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-07-21T16:32:32.000Z",
-      "summary": "Big Yellow Penguin is a UK-based consultancy, training and speaking business founded by Shaun Jardine to help law firms (and other professional service firms) move beyond the billable hour and build pricing models that reflect outcomes and value, not time.\nThe post Big Yellow Penguin appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Education"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "abovethelaw-com-2026-07-federal-judge-asks-supreme-court-to-please-start-publicl",
-      "title": "Federal Judge Asks Supreme Court To Please Start Publicly Humiliating His Colleagues",
-      "url": "https://abovethelaw.com/2026/07/federal-judge-asks-supreme-court-to-please-start-publicly-humiliating-his-colleagues/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-07-21T15:34:38.000Z",
-      "summary": "The loudest man on the Ninth Circuit is yelling again.\nThe post Federal Judge Asks Supreme Court To Please Start Publicly Humiliating His Colleagues appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-07-21-box-targets-legal-with-agentic-control-syste",
-      "title": "Box Targets Legal With Agentic Control System",
-      "url": "https://www.artificiallawyer.com/2026/07/21/box-targets-legal-with-agentic-control-system/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-07-21T15:00:07.000Z",
-      "summary": "Box, which has evolved from a cloud storage business into an Intelligent Content Management (ICM) platform, is targeting the legal – and other regulated sectors ...",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-scotusblog-com-2026-07-the-ripple-effects-of-the-tps-ruling-",
-      "title": "The ripple effects of the TPS ruling",
-      "url": "https://www.scotusblog.com/2026/07/the-ripple-effects-of-the-tps-ruling/",
-      "source": "SCOTUSblog",
-      "region": "US",
-      "date": "2026-07-21T13:00:00.000Z",
-      "summary": "Plus, the justices added a case involving a seized plane and a six-pack of beer to next term’s oral argument docket.",
-      "tags": [
-        "Legal Reasoning"
       ],
       "relevance": "medium",
       "score": 3
