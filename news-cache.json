@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2026-08-21T06:41:47.607Z",
+  "lastUpdated": "2026-08-22T06:35:23.273Z",
   "articles": [
+    {
+      "id": "abovethelaw-com-2026-08-how-to-audit-your-law-firm-website-for-ai-readability-",
+      "title": "How To Audit Your Law Firm Website For AI Readability",
+      "url": "https://abovethelaw.com/2026/08/how-to-audit-your-law-firm-website-for-ai-readability/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-08-21T22:33:00.000Z",
+      "summary": "Consider visiting with an experienced law firm marketing agency that understands SEO and AI, as well as understands the importance of legal accuracy and ethics compliance. \nThe post How To Audit Your Law Firm Website For AI Readability appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-abajournal-com-news-article-jay-zs-extortion-suit-against-lawyer-in-rape-cas",
+      "title": "Jay-Z’s extortion suit against lawyer in withdrawn rape case faces skepticism from judge",
+      "url": "https://www.abajournal.com/news/article/jay-zs-extortion-suit-against-lawyer-in-rape-case-faces-judges-skepticism/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-08-21T17:28:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-associate-news-is-innovation-outpacing-integration",
+      "title": "Is innovation outpacing integration?",
+      "url": "https://www.legalfutures.co.uk/associate-news/is-innovation-outpacing-integration",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-21T11:10:18.000Z",
+      "summary": "While law firms are investing heavily in modern tools, with 64% of legal and compliance leaders reporting that they plan to accelerate investments in legal technology, many are still struggling to translate innovation into meaningful operational progress. \nThe post Is innovation outpacing integration? appeared first on Legal Futures.",
+      "tags": [
+        "Regulation",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "legaltechnology-com-from-the-orange-rag-clifford-chance-reimagines-knowledge-man",
+      "title": "From the Orange Rag: Clifford Chance reimagines knowledge management for the AI era",
+      "url": "https://legaltechnology.com/from-the-orange-rag-clifford-chance-reimagines-knowledge-management-for-the-ai-era/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-08-21T10:27:46.000Z",
+      "summary": "Clifford Chance in July announced the launch of a new knowledge management platform, developed in partnership with Epiq Advisory for Law Firms and Microsoft. Legal IT Insider spoke with Clifford Chance’s global head […]\nThe post From the Orange Rag: Clifford Chance reimagines knowledge management for the AI era appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-legalfutures-co-uk-services-directory-redbrick-solutions",
       "title": "Redbrick Solutions",
@@ -1928,84 +1991,6 @@
       "tags": [
         "AI in Law",
         "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-pressure-on-law-firms-as-car-finance-litigati",
-      "title": "Pressure on law firms as car finance litigation funder goes down",
-      "url": "https://www.legalfutures.co.uk/latest-news/pressure-on-law-firms-as-car-finance-litigation-funder-goes-down",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-07-22T23:05:43.000Z",
-      "summary": "A litigation funder which specialised in car finance claims has gone into administration because of delays in progressing cases, with its latest accounts showing outstanding loans of £249m.\nThe post Pressure on law firms as car finance litigation funder goes down appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-legalfutures-co-uk-associate-news-why-data-will-define-the-ai-ready-law-firm",
-      "title": "Why data will define the AI-ready law firm",
-      "url": "https://www.legalfutures.co.uk/associate-news/why-data-will-define-the-ai-ready-law-firm",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-07-22T15:51:12.000Z",
-      "summary": "Artificial intelligence (AI) has become one of the most talked-about developments in the legal sector, promising to transform everything from client service to case management.\nThe post Why data will define the AI-ready law firm appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-lawnext-com-2026-07-built-by-lawyers-for-lawyers-dingduff-is-a-free-claude-c",
-      "title": "Built By Lawyers, For Lawyers: DingDuff Is A Free Claude Connector That Its Founders Say Rivals The Legal Research Giants",
-      "url": "https://www.lawnext.com/2026/07/built-by-lawyers-for-lawyers-dingduff-is-a-free-claude-connector-that-its-founders-say-rivals-the-legal-research-giants.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-07-22T14:25:17.000Z",
-      "summary": "Two practicing lawyers in Austin, Texas, have built a free connector that plugs Claude directly into millions of court opinions, statutes, regulations and court rules, along with federal court filings via PACER — and they say that, in their own testing, it matches and sometimes beats the Westlaw AI accounts their firms pay for. The […]",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "legaltechnology-com-netdocuments-adds-six-new-ndmax-studio-apps-",
-      "title": "NetDocuments adds six new ndMAX Studio apps",
-      "url": "https://legaltechnology.com/netdocuments-adds-six-new-ndmax-studio-apps/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-07-22T12:18:52.000Z",
-      "summary": "NetDocuments has added six new AI-powered apps to the ndMAX Studio, designed to help legal teams streamline trademark prosecution and plaintiff-side litigation. They expand the ndMAX Studio to 39 pre-built […]\nThe post NetDocuments adds six new ndMAX Studio apps appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-07-22-the-ai-dividend-who-gets-the-savings-from-le",
-      "title": "The AI Dividend: Who Gets the Savings From Legal AI?",
-      "url": "https://www.artificiallawyer.com/2026/07/22/the-ai-dividend-who-gets-the-savings-from-legal-ai/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-07-22T06:45:28.000Z",
-      "summary": "By Adam Nguyen, CEO, eBrevia. For the past two years, corporate legal departments have been told that AI will make legal work faster, more efficient ...",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel"
       ],
       "relevance": "medium",
       "score": 3
