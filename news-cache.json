@@ -1,6 +1,108 @@
 {
-  "lastUpdated": "2026-08-24T06:53:21.471Z",
+  "lastUpdated": "2026-08-25T06:41:37.547Z",
   "articles": [
+    {
+      "id": "www-legalfutures-co-uk-latest-news-big-spike-in-competence-related-reports-to-th",
+      "title": "Big spike in competence-related complaints to the SRA",
+      "url": "https://www.legalfutures.co.uk/latest-news/big-spike-in-competence-related-reports-to-the-sra",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-24T23:07:00.000Z",
+      "summary": "Reports to the Solicitors Regulation Authority about solicitors' competence rose by 48% to over 4,000 last year, the regulator has revealed.\nThe post Big spike in competence-related complaints to the SRA appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Regulation"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-blog-what-leos-data-tells-us-about-client-service-in-pers",
+      "title": "What LeO’s data tells us about client service in personal injury",
+      "url": "https://www.legalfutures.co.uk/blog/what-leos-data-tells-us-about-client-service-in-personal-injury",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-24T23:00:26.000Z",
+      "summary": "With court backlogs, insurer delays and increasingly complex cases, maintaining client care in personal injury work can be difficult, but the data suggests the industry is falling short.\nThe post What LeO’s data tells us about client service in personal injury appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-08-nine-wins-out-of-ten-at-the-supreme-court-before-heading",
+      "title": "Nine Wins Out Of Ten At The Supreme Court, Before Heading To The Federal Judiciary",
+      "url": "https://abovethelaw.com/2026/08/nine-wins-out-of-ten-at-the-supreme-court-before-heading-to-the-federal-judiciary/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-08-24T22:16:00.000Z",
+      "summary": "Few advocates ever posted a record like hers. Fewer became judges.\nThe post Nine Wins Out Of Ten At The Supreme Court, Before Heading To The Federal Judiciary appeared first on Above the Law.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-08-judges-cant-handcuff-and-threaten-children-for-falling-a",
+      "title": "Judges Can’t Handcuff And Threaten Children For Falling Asleep On Field Trips, Court Rules",
+      "url": "https://abovethelaw.com/2026/08/judges-cant-handcuff-and-threaten-children-for-falling-asleep-on-field-trips-court-rules/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-08-24T19:13:00.000Z",
+      "summary": "Judicial opinions that you didn't know still needed to be written.\nThe post Judges Can’t Handcuff And Threaten Children For Falling Asleep On Field Trips, Court Rules appeared first on Above the Law.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-lawnext-com-2026-08-harvey-and-pacerpro-announce-partnership-to-connect-dock",
+      "title": "Harvey and PacerPro Announce Partnership To Connect Docket Data with AI Litigation Workflows",
+      "url": "https://www.lawnext.com/2026/08/harvey-and-pacerpro-announce-partnership-to-connect-docket-data-with-ai-litigation-workflows.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-08-24T16:11:46.000Z",
+      "summary": "The legal AI company Harvey and the court data company PacerPro have announced an integration partnership that gives litigation teams working in Harvey access to their firm’s complete litigation record, including the filings and case context from matters the firm has previously handled and those currently on the docket. PacerPro captures state and federal court […]",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "www-abajournal-com-news-article-texas-appeals-court-cuts-50-million-from-alex-jo",
+      "title": "Appeals court reduces $50M judgment against former Infowars host Alex Jones",
+      "url": "https://www.abajournal.com/news/article/texas-appeals-court-cuts-50-million-from-alex-jones-judgment/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-08-24T16:08:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-lawnext-com-2026-08-lexisnexis-unveils-legal-intelligence-engine-rebuilding-",
+      "title": "LexisNexis Unveils ‘Legal Intelligence Engine,’ Rebuilding Protégé Around Dynamic Agentic Orchestration",
+      "url": "https://www.lawnext.com/2026/08/lexisnexis-unveils-legal-intelligence-engine-rebuilding-protege-around-dynamic-agentic-orchestration.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-08-24T12:00:03.000Z",
+      "summary": "LexisNexis Legal & Professional today announced what it is calling the next generation of Lexis+ with Protégé, its generative AI legal assistant, unveiling new agentic capabilities designed to enable legal professionals to move from an initial idea to review-ready work product in one intuitive AI experience. Branding it the LexisNexis Legal Intelligence Engine, the release […]",
+      "tags": [
+        "AI in Law"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-legalfutures-co-uk-latest-news-change-of-solicitors-in-rugby-injury-litigati",
       "title": "Change of solicitors in rugby injury litigation gives court “comfort”",
