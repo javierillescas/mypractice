@@ -1,6 +1,65 @@
 {
-  "lastUpdated": "2026-08-25T06:41:37.547Z",
+  "lastUpdated": "2026-08-26T06:43:33.570Z",
   "articles": [
+    {
+      "id": "abovethelaw-com-2026-08-he-made-a-political-enemy-of-the-wrong-man-and-it-cost-h",
+      "title": "He Made A Political Enemy Of The Wrong Man — And It Cost Him The Supreme Court",
+      "url": "https://abovethelaw.com/2026/08/he-made-a-political-enemy-of-the-wrong-man-and-it-cost-him-the-supreme-court/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-08-25T22:16:00.000Z",
+      "summary": "The finest judge of his era, blackballed by someone he'd insulted.\nThe post He Made A Political Enemy Of The Wrong Man — And It Cost Him The Supreme Court appeared first on Above the Law.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "legaltechnology-com-voxpop-pablo-arredondo-joins-clio-as-svp-judiciary-",
+      "title": "Voxpop: Pablo Arredondo joins Clio as SVP, Judiciary",
+      "url": "https://legaltechnology.com/voxpop-pablo-arredondo-joins-clio-as-svp-judiciary/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-08-25T18:16:00.000Z",
+      "summary": "Pablo Arredondo, co-founder of Casetext, has joined Clio as SVP, Judiciary, leading its work to bring legal AI to the courts and institutions at the center of the justice system. […]\nThe post Voxpop: Pablo Arredondo joins Clio as SVP, Judiciary appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-lawnext-com-2026-08-pablo-arredondo-casetext-cofounder-and-legal-ai-pioneer-",
+      "title": "Pablo Arredondo, Casetext Cofounder and Legal AI Pioneer, Joins Clio to Lead Its Expansion into the Judiciary",
+      "url": "https://www.lawnext.com/2026/08/pablo-arredondo-casetext-cofounder-and-legal-ai-pioneer-joins-clio-to-lead-its-expansion-into-the-judiciary.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-08-25T14:47:01.000Z",
+      "summary": "Pablo Arredondo, the Casetext cofounder who helped build some of the earliest and most influential applications of AI in legal practice, is joining Clio as senior vice president, judiciary, where he will lead the company’s strategy for extending its technology into the courts. The hiring marks Clio’s first dedicated move into the judiciary, an expansion […]",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-08-25-google-launches-gemini-enterprise-for-legal-",
+      "title": "Google Launches Gemini Enterprise for Legal",
+      "url": "https://www.artificiallawyer.com/2026/08/25/google-launches-gemini-enterprise-for-legal/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-08-25T12:18:00.000Z",
+      "summary": "As predicted by AL, another tech giant has joined the legal world. Google Cloud has unveiled Gemini Enterprise for Legal, an ‘enterprise-grade, purpose-built agentic AI ...",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-legalfutures-co-uk-latest-news-big-spike-in-competence-related-reports-to-th",
       "title": "Big spike in competence-related complaints to the SRA",
@@ -1845,50 +1904,6 @@
       "tags": [
         "AI in Law",
         "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-07-partner-associate-park-passion-predicament-see-generally",
-      "title": "Partner-Associate Park Passion Predicament — See Generally",
-      "url": "https://abovethelaw.com/2026/07/partner-associate-park-passion-predicament-see-generally/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-07-26T23:56:18.000Z",
-      "summary": "What's The Billing Code For This: A midday park-bench makeout session between a Biglaw partner and associate ends up going viral.\n\n\n$1.2 Billion Worth Of 'Are You Sure This Is Legal?': MV Realty has sued Holland & Knight claiming it sank $156 million into a unique financial product blessed by the firm and 16 state attorneys general came calling.\n\n\nJohn \"Torture Memo\" Yoo Invents New Crime To Threa",
-      "tags": [
-        "AI in Law",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-judge-refers-barrister-to-bsb-and-legal-consu",
-      "title": "Judge refers barrister to BSB and ‘legal consultant’ for contempt",
-      "url": "https://www.legalfutures.co.uk/latest-news/judge-refers-barrister-to-bsb-and-legal-consultant-for-contempt",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-07-26T23:07:31.000Z",
-      "summary": "The High Court has referred a barrister and his chambers to the Bar Standards Board over their involvement in litigation run by a legal consultant it employs.\nThe post Judge refers barrister to BSB and ‘legal consultant’ for contempt appeared first on Legal Futures.",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-menon-contempt-hearing-stayed-for-jurisdictio",
-      "title": "Menon contempt hearing stayed for jurisdiction challenge",
-      "url": "https://www.legalfutures.co.uk/latest-news/menon-contempt-hearing-stayed-for-jurisdiction-challenge",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-07-26T23:05:53.000Z",
-      "summary": "The Court of Appeal has stayed the contempt hearing against KC Rajiv Menon so that the High Court can decide his challenge to its jurisdiction to hold it.\nThe post Menon contempt hearing stayed for jurisdiction challenge appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
       ],
       "relevance": "medium",
       "score": 3
