@@ -1,6 +1,145 @@
 {
-  "lastUpdated": "2026-08-26T06:43:33.570Z",
+  "lastUpdated": "2026-08-27T17:19:22.624Z",
   "articles": [
+    {
+      "id": "medcitynews-com-2026-08-oura-wearable-ring-lawsuit-",
+      "title": "Why Oura’s Sleep-Tracking Lawsuit Is Really About Trust",
+      "url": "https://medcitynews.com/2026/08/oura-wearable-ring-lawsuit/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-08-27T14:02:00.000Z",
+      "summary": "The case is reigniting questions about how much precision consumers should expect from AI-powered health wearables.\nThe post Why Oura’s Sleep-Tracking Lawsuit Is Really About Trust appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-08-the-ripple-effects-of-scotus-mail-in-voting-decision-",
+      "title": "The ripple effects of SCOTUS’ mail-in voting decision",
+      "url": "https://www.scotusblog.com/2026/08/the-ripple-effects-of-scotus-mail-in-voting-decision/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-08-27T13:00:00.000Z",
+      "summary": "Plus, a man was arrested after a guillotine was parked next to the Supreme Court.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-08-27-accountability-by-design-in-agentic-contract",
+      "title": "Accountability by Design in Agentic Contract Management",
+      "url": "https://www.artificiallawyer.com/2026/08/27/accountability-by-design-in-agentic-contract-management/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-08-27T06:42:51.000Z",
+      "summary": "By Ken Priore, Deputy General Counsel, Docusign. Agentic AI has arrived for agreements. Software no longer only drafts a clause or flags a risk for ...",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-sra-asked-why-arent-you-approving-ma-deals",
+      "title": "SRA asked: Why aren’t you approving M&A deals?",
+      "url": "https://www.legalfutures.co.uk/latest-news/sra-asked-why-arent-you-approving-ma-deals",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-26T23:07:46.000Z",
+      "summary": "The Solicitors Regulation Authority has been asked to explain why it is requiring only notification of impending mergers and acquisitions, rather than its approval.\nThe post SRA asked: Why aren’t you approving M&A deals? appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Regulation"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-law-firms-3m-liability-cap-unreasonable-court",
+      "title": "Law firm’s £3m liability cap “unreasonable”, court rules",
+      "url": "https://www.legalfutures.co.uk/latest-news/law-firms-3m-liability-cap-unreasonable-court-rules",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-26T23:03:07.000Z",
+      "summary": "A £3m liability cap in a law firm’s terms of business was unreasonable under the Unfair Contract Terms Act, the High Court has held.\nThe post Law firm’s £3m liability cap “unreasonable”, court rules appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-abajournal-com-news-article-google-unveils-gemini-for-legal-an-agentic-ai-pl",
+      "title": "Google unveils agentic AI platform for lawyers",
+      "url": "https://www.abajournal.com/news/article/google-unveils-gemini-for-legal-an-agentic-ai-platform-for-lawyers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-08-26T19:07:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-08-lexisnexis-and-thomson-reuters-ilta-announcements-closin",
+      "title": "LexisNexis And Thomson Reuters ILTA Announcements: Closing The Conference Room Door",
+      "url": "https://abovethelaw.com/2026/08/lexisnexis-and-thomson-reuters-ilta-announcements-closing-the-conference-room-door/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-08-26T16:19:51.000Z",
+      "summary": "When all is replaced by agentic AI, what are the long-term consequences?\nThe post LexisNexis And Thomson Reuters ILTA Announcements: Closing The Conference Room Door appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "blogs-thomsonreuters-com-legal-blog-tabular-analysis-in-cocounsel-legal-turn-tho",
+      "title": "Tabular analysis in CoCounsel Legal: Turn thousands of documents into actionable insights",
+      "url": "https://blogs.thomsonreuters.com/legal-blog/tabular-analysis-in-cocounsel-legal-turn-thousands-of-documents-into-actionable-insights/",
+      "source": "Thomson Reuters",
+      "region": "Global",
+      "date": "2026-08-26T14:33:18.000Z",
+      "summary": "Corporate legal departments know this reality: every deal, every compliance review, every litigation matter brings thousands of documents that …\nThe post Tabular analysis in CoCounsel Legal: Turn thousands of documents into actionable insights appeared first on Thomson Reuters Law Blog.",
+      "tags": [
+        "Regulation",
+        "In-House Counsel",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "ukconstitutionallaw-org-2026-08-26-joanna-bell-the-immigration-and-asylum-bill-p",
+      "title": "Joanna Bell: The Immigration and Asylum Bill (Part 1): a proposal to rewire the relationship between asylum appeals and the Home Office\n",
+      "url": "https://ukconstitutionallaw.org/2026/08/26/joanna-bell-the-immigration-and-asylum-bill-part-1-a-proposal-to-rewire-the-relationship-between-asylum-appeals-and-the-home-office/",
+      "source": "UK Constitutional Law",
+      "region": "UK",
+      "date": "2026-08-26T08:00:00.000Z",
+      "summary": "The system which handles appeals against the Home Office’s asylum and immigration decisions looks set, once again, to […]",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "abovethelaw-com-2026-08-he-made-a-political-enemy-of-the-wrong-man-and-it-cost-h",
       "title": "He Made A Political Enemy Of The Wrong Man — And It Cost Him The Supreme Court",
@@ -1782,128 +1921,6 @@
       "summary": "",
       "tags": [
         "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "legaltechnology-com-orange-rag-insights-from-advisors-to-builders-how-ai-is-rema",
-      "title": "Orange Rag Insights: From advisors to builders – How AI is remaking the in-house lawyer",
-      "url": "https://legaltechnology.com/orange-rag-insights-from-advisors-to-builders-how-ai-is-remaking-the-in-house-lawyer/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-07-28T15:41:07.000Z",
-      "summary": "As AI shifts from automation to orchestration, in-house legal teams are redesigning workflows, cutting external spend, and redefining their role, moving from advisors to builders of the systems that now […]\nThe post Orange Rag Insights: From advisors to builders – How AI is remaking the in-house lawyer appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-07-28-legalon-lets-100-ai-workflows-bloom-",
-      "title": "LegalOn Lets 100 AI Workflows Bloom",
-      "url": "https://www.artificiallawyer.com/2026/07/28/legalon-lets-100-ai-workflows-bloom/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-07-28T12:00:10.000Z",
-      "summary": "LegalOn, the contract review specialists, have rolled out a library of 100-plus AI workflows, all available within its platform and aimed at inhouse lawyers. (See ...",
-      "tags": [
-        "AI in Law",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "verfassungsblog-de-for-whom-the-bell-tolls-its-the-court-playing-",
-      "title": "Send Not to Know for Whom the Bell Tolls… as Long as It’s the Court Playing",
-      "url": "https://verfassungsblog.de/for-whom-the-bell-tolls-its-the-court-playing/",
-      "source": "Verfassungsblog",
-      "region": "EU",
-      "date": "2026-07-28T10:43:03.000Z",
-      "summary": "Perhaps due to the notable impact of climate change on the ongoing summer, the delivery on C-67/25 by the Court of Justice has gone relatively unnoticed hitherto. The brevity of the judgment conflicts with the thunderous effects it may unleash, which have potential to open a definitive breach in the Union’s constitutional acquis. Noteworthily, this rupture is being perpetrated in alleged defence o",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-lawnext-com-2026-07-lawnext-from-product-to-practice-why-casetexts-former-ct",
-      "title": "LawNext: From Product to Practice – Why Casetext’s Former CTO Founded General Legal, An AI Native Law Firm",
-      "url": "https://www.lawnext.com/2026/07/lawnext-from-product-to-practice-why-casetexts-former-cto-founded-general-legal-an-ai-native-law-firm.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-07-27T18:31:09.000Z",
-      "summary": "As chief technology officer at Casetext, Ryan Walker helped build CoCounsel, one of the first and most consequential generative AI legal assistants — a product so significant it led to the company’s $650 million acquisition by Thomson Reuters. But Walker came away unsatisfied. Although the legal tech tools kept getting better, he believed, clients were seeing no benefit. […]",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "abovethelaw-com-2026-07-legal-ethics-roundup-aba-opines-gov-lawyers-must-report-",
-      "title": "Legal Ethics Roundup: ABA Opines Gov Lawyers Must Report Unlawful Conduct, Toronto Lawyer Suspended Over AI, Senate Bills On Judges’ Finances/FOIA & More",
-      "url": "https://abovethelaw.com/2026/07/legal-ethics-roundup-aba-opines-gov-lawyers-must-report-unlawful-conduct-toronto-lawyer-suspended-over-ai-senate-bills-on-judges-finances-foia-more/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-07-27T17:49:47.000Z",
-      "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.\nThe post Legal Ethics Roundup: ABA Opines Gov Lawyers Must Report Unlawful Conduct, Toronto Lawyer Suspended Over AI, Senate Bills On Judges’ Finances/FOIA & More appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-scotusblog-com-2026-07-why-the-supreme-court-decided-the-wrong-issue-in-the-",
-      "title": "Why the Supreme Court decided the wrong issue in the transgender athletes cases",
-      "url": "https://www.scotusblog.com/2026/07/why-the-supreme-court-decided-the-wrong-issue-in-the-transgender-athletes-cases/",
-      "source": "SCOTUSblog",
-      "region": "US",
-      "date": "2026-07-27T15:00:00.000Z",
-      "summary": "",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "legaltechnology-com-theorem-targets-in-house-legal-rfp-inefficiencies-with-expan",
-      "title": "Theorem targets in-house legal RFP inefficiencies with expanded procurement platform",
-      "url": "https://legaltechnology.com/theorem-targets-in-house-legal-rfp-inefficiencies-with-expanded-procurement-platform/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-07-27T12:05:41.000Z",
-      "summary": "Theorem Legal this month unveiled a newly designed marketplace to help corporate legal departments manage the full lifecycle of procuring legal technology and outside counsel, from supplier discovery and product […]\nThe post Theorem targets in-house legal RFP inefficiencies with expanded procurement platform appeared first on Legal IT Insider.",
-      "tags": [
-        "In-House Counsel",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-07-27-should-clients-expect-price-cuts-due-to-lega",
-      "title": "Should Clients Expect Price Cuts Due To Legal AI?",
-      "url": "https://www.artificiallawyer.com/2026/07/27/should-clients-expect-price-cuts-due-to-legal-ai/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-07-27T07:37:21.000Z",
-      "summary": "This is the central question: should clients expect price cuts from law firms and other legal businesses due to legal AI? Because if there is ...",
-      "tags": [
-        "AI in Law",
-        "Legal Market"
       ],
       "relevance": "medium",
       "score": 3
