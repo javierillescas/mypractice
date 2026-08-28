@@ -1,6 +1,112 @@
 {
-  "lastUpdated": "2026-08-27T17:19:22.624Z",
+  "lastUpdated": "2026-08-28T18:11:45.847Z",
   "articles": [
+    {
+      "id": "abovethelaw-com-2026-08-the-mail-in-ballot-fight-is-right-back-where-it-started-",
+      "title": "The Mail-In Ballot Fight Is Right Back Where It Started, With The Trump Administration Taking Another ‘L’",
+      "url": "https://abovethelaw.com/2026/08/the-mail-in-ballot-fight-is-right-back-where-it-started-with-the-trump-administration-taking-another-l/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-08-28T17:46:00.000Z",
+      "summary": "Judge Talwani reviewed the final rule, just like the shadow docket ordered — and found it just as unconstitutional as before.\nThe post The Mail-In Ballot Fight Is Right Back Where It Started, With The Trump Administration Taking Another ‘L’ appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-08-the-supreme-court-of-israel-",
+      "title": "The Supreme Court of Israel",
+      "url": "https://www.scotusblog.com/2026/08/the-supreme-court-of-israel/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-08-28T14:00:00.000Z",
+      "summary": "",
+      "tags": [
+        "Regulation",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-associate-news-imanage-accelerates-enterprise-ai-transfor",
+      "title": "iManage accelerates enterprise AI transformation with Google Cloud’s Gemini Enterprise for Legal",
+      "url": "https://www.legalfutures.co.uk/associate-news/imanage-accelerates-enterprise-ai-transformation-with-google-clouds-gemini-enterprise-for-legal",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-28T10:33:55.000Z",
+      "summary": "iManage, the company dedicated to Making Knowledge Work™, has launched new industry-specific artificial intelligence (AI) capabilities built on Google Cloud's Gemini Enterprise for Legal to automate complex enterprise workflows\nThe post iManage accelerates enterprise AI transformation with Google Cloud’s Gemini Enterprise for Legal appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-associate-news-responsible-ai-for-law-firms-security-trus",
+      "title": "Responsible AI for law firms – security, trust and governance",
+      "url": "https://www.legalfutures.co.uk/associate-news/responsible-ai-for-law-firms-security-trust-and-governance",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-28T10:17:43.000Z",
+      "summary": "AI is rapidly changing the way legal professionals work. From summarising lengthy documents to drafting correspondence and improving productivity, AI is helping law firms reduce administrative burden. However, as AI adoption grows, so do the questions that surround security, compliance and trust\nThe post Responsible AI for law firms – security, trust and governance appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-court-of-appeal-upholds-data-breach-ruling-in",
+      "title": "Court of Appeal upholds data breach ruling in favour of law firm",
+      "url": "https://www.legalfutures.co.uk/latest-news/court-of-appeal-upholds-data-breach-ruling-in-favour-of-law-firm",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-27T23:01:45.000Z",
+      "summary": "The Court of Appeal has thrown out a bid to appeal a ruling that cleared defendant law firm DWF of data protection breaches.\nThe post Court of Appeal upholds data breach ruling in favour of law firm appeared first on Legal Futures.",
+      "tags": [
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "abovethelaw-com-2026-08-the-only-family-to-put-two-generations-on-the-supreme-co",
+      "title": "The Only Family To Put Two Generations On The Supreme Court",
+      "url": "https://abovethelaw.com/2026/08/the-only-family-to-put-two-generations-on-the-supreme-court/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-08-27T21:35:00.000Z",
+      "summary": "One dissented alone against segregation. The other anchored the Court's right flank.\nThe post The Only Family To Put Two Generations On The Supreme Court appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "abovethelaw-com-2026-08-biglaws-talent-wars-bring-signing-bonuses-back-into-styl",
+      "title": "Biglaw’s Talent Wars Bring Signing Bonuses Back Into Style",
+      "url": "https://abovethelaw.com/2026/08/biglaws-talent-wars-bring-signing-bonuses-back-into-style/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-08-27T19:11:00.000Z",
+      "summary": "Biglaw firms are once again paying a premium to secure top talent.\nThe post Biglaw’s Talent Wars Bring Signing Bonuses Back Into Style appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "medcitynews-com-2026-08-oura-wearable-ring-lawsuit-",
       "title": "Why Oura’s Sleep-Tracking Lawsuit Is Really About Trust",
@@ -1876,50 +1982,6 @@
       "summary": "AI patents are growing at an unprecedented rate, with filings increasing tenfold since 2015, and yet the wave of high-profile, industry-defining litigation is yet to arrive. Today, startup founders are […]\nThe post Guest post: How startups can prepare for the AI patent wars appeared first on Legal IT Insider.",
       "tags": [
         "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-abajournal-com-columns-article-chemerinsky-how-supreme-courts-decisions-had-",
-      "title": "Chemerinsky: How the Supreme Court’s decisions have had an impact on democracy",
-      "url": "https://www.abajournal.com/columns/article/chemerinsky-how-supreme-courts-decisions-had-an-impact-on-democracy/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-07-29T14:10:00.000Z",
-      "summary": "",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-07-dhs-general-counsel-names-four-federal-judges-worst-of-t",
-      "title": "DHS General Counsel Names Four Federal Judges ‘Worst Of The Worst’ As Threats Against Judiciary Hit 564",
-      "url": "https://abovethelaw.com/2026/07/dhs-general-counsel-names-four-federal-judges-worst-of-the-worst-as-threats-against-judiciary-hit-564/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-07-28T18:58:00.000Z",
-      "summary": "The general counsel who told the Senate his role was 'limited' has started publishing a target list.\nThe post DHS General Counsel Names Four Federal Judges ‘Worst Of The Worst’ As Threats Against Judiciary Hit 564 appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-scotusblog-com-2026-07-trump-administration-appears-not-to-have-asked-suprem",
-      "title": "Trump administration appears not to have asked Supreme Court to rehear birthright citizenship case",
-      "url": "https://www.scotusblog.com/2026/07/trump-administration-appears-not-to-have-asked-supreme-court-to-rehear-birthright-citizenship-ca/",
-      "source": "SCOTUSblog",
-      "region": "US",
-      "date": "2026-07-28T17:58:00.000Z",
-      "summary": "",
-      "tags": [
         "Legal Reasoning"
       ],
       "relevance": "medium",
