@@ -1,6 +1,100 @@
 {
-  "lastUpdated": "2026-08-31T12:41:54.289Z",
+  "lastUpdated": "2026-09-01T11:05:53.644Z",
   "articles": [
+    {
+      "id": "verfassungsblog-de-a-frozen-clock-and-a-frozen-problem-",
+      "title": "A Frozen Clock and a Frozen Problem",
+      "url": "https://verfassungsblog.de/a-frozen-clock-and-a-frozen-problem/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-09-01T08:19:03.000Z",
+      "summary": "Brussels, do we have a problem with the AI Act? My answer, in essence, was yes. Actually, more than one: overregulation and excessive demand on high-risk AI systems. In June 2026, when the European Parliament adopted the Digital Omnibus on AI, it seemed Brussels had answered my question in its own way. The language surrounding it – “simplification”, “burden reduction”, “protecting Europe’s competi",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "In-House Counsel"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-legalfutures-co-uk-services-directory-minerva2",
+      "title": "Minerva",
+      "url": "https://www.legalfutures.co.uk/services-directory/minerva2",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-31T23:02:44.000Z",
+      "summary": "Minerva is an AI enabled legal technology solution delivering secure, intelligent onboarding for law firms\nThe post Minerva appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-services-directory-bsd-legal-marketing",
+      "title": "BSD Legal Marketing",
+      "url": "https://www.legalfutures.co.uk/services-directory/bsd-legal-marketing",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-08-31T23:01:04.000Z",
+      "summary": "BSD Legal Marketing is a specialist digital marketing agency dedicated to helping law firms generate more enquiries and build a stronger, more sustainable source of new business online.\nThe post BSD Legal Marketing appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-08-biglaw-firms-emails-casually-insult-dumb-judge-and-poop-",
+      "title": "Biglaw Firm’s Emails Casually Insult ‘Dumb Judge’ And ‘Poop Man’",
+      "url": "https://abovethelaw.com/2026/08/biglaw-firms-emails-casually-insult-dumb-judge-and-poop-man/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-08-31T19:11:00.000Z",
+      "summary": "NCAA lawyers seem to have strong opinions.\nThe post Biglaw Firm’s Emails Casually Insult ‘Dumb Judge’ And ‘Poop Man’ appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "www-lawnext-com-2026-08-series-a-round-for-newcode-an-ai-harness-for-legal-bring",
+      "title": "Series A Round for Newcode, An AI Harness for Legal, Brings Its Funding To $20M and Fuels U.S. Expansion",
+      "url": "https://www.lawnext.com/2026/08/series-a-round-for-newcode-an-ai-harness-for-legal-brings-its-funding-to-20m-and-fuels-u-s-expansion.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-08-31T17:17:47.000Z",
+      "summary": "Newcode, an Oslo-based legal AI company that sells law firms a configurable AI harness rather than a finished assistant, has raised a Series A led by OnDean Forward, the investment firm founded by Relativity founder Andrew Sieja. The round brings the company’s total capital raised this year to $20 million and will fund its expansion […]",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-abajournal-com-news-article-dumb-judge-and-other-insults-turn-up-in-lawyers-",
+      "title": "‘Dumb judge’ and other insults turn up in BigLaw lawyers’ emails in NCAA eligibility suit",
+      "url": "https://www.abajournal.com/news/article/dumb-judge-and-other-insults-turn-up-in-lawyers-emails-in-ncaa-eligibility-suit/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-08-31T15:51:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "abovethelaw-com-2026-08-nominated-to-the-supreme-court-on-monday-gone-by-the-nex",
       "title": "Nominated To The Supreme Court On Monday, Gone By The Next Weekend",
