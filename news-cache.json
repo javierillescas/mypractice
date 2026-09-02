@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2026-09-01T11:05:53.644Z",
+  "lastUpdated": "2026-09-02T10:38:09.048Z",
   "articles": [
+    {
+      "id": "legaltechnology-com-iltacon-2026-context-is-king-but-transformation-is-still-the",
+      "title": "ILTACON 2026: Context is king – but transformation is still the hard part",
+      "url": "https://legaltechnology.com/iltacon-2026-context-is-king-but-transformation-is-still-the-hard-part/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-09-02T10:08:33.000Z",
+      "summary": "For the past three years the legal technology industry has moved at relative breakneck speed, from initial curiosity around generative AI to pilot programmes, firm-wide rollouts and now, agentic experimentation. […]\nThe post ILTACON 2026: Context is king – but transformation is still the hard part appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-lawnext-com-2026-09-on-lawnext-why-legal-ai-pioneer-pablo-arredondo-is-joini",
+      "title": "On LawNext: Why Legal AI Pioneer Pablo Arredondo Is Joining Clio to Build Technology for the Courts",
+      "url": "https://www.lawnext.com/2026/09/on-lawnext-why-legal-ai-pioneer-pablo-arredondo-is-joining-clio-to-build-technology-for-the-courts.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-09-01T19:27:06.000Z",
+      "summary": "Pablo Arredondo, the Casetext cofounder who helped build some of the earliest and most influential applications of AI in legal practice, is joining Clio as senior vice president, judiciary, where he will lead the company’s strategy for extending its technology into the courts. In this episode of LawNext, recorded just ahead of the announcement, Arredondo […]",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "abovethelaw-com-2026-09-biglaw-firms-coaching-program-supports-lawyers-returning",
+      "title": "Biglaw Firm’s Coaching Program Supports Lawyers Returning From Parental Leave",
+      "url": "https://abovethelaw.com/2026/09/biglaw-firms-coaching-program-supports-lawyers-returning-from-parental-leave/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-09-01T19:03:00.000Z",
+      "summary": "Mentorship, resources, and work-life balance support await lawyers returning from leave.\nThe post Biglaw Firm’s Coaching Program Supports Lawyers Returning From Parental Leave appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-abajournal-com-news-article-duquesne-kline-law-looks-to-real-world-legal-ai-",
+      "title": "Duquesne University law school looks to real-world legal AI use to inform curriculum",
+      "url": "https://www.abajournal.com/news/article/duquesne-kline-law-looks-to-real-world-legal-ai-use-to-inform-curriculum/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-09-01T15:56:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Legal Education"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "abovethelaw-com-2026-09-boutique-law-firm-steps-up-with-milbank-raises-as-biglaw",
+      "title": "Boutique Law Firm Steps Up With Milbank Raises As Biglaw Stays Put",
+      "url": "https://abovethelaw.com/2026/09/boutique-law-firm-steps-up-with-milbank-raises-as-biglaw-stays-put/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-09-01T14:46:00.000Z",
+      "summary": "Biglaw’s salary silence is getting harder to justify with every boutique match.\nThe post Boutique Law Firm Steps Up With Milbank Raises As Biglaw Stays Put appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "legaltechnology-com-wilson-sonsini-licenses-lextext-for-litigation-practice-",
+      "title": "Wilson Sonsini licenses LexText for litigation practice",
+      "url": "https://legaltechnology.com/wilson-sonsini-licenses-lextext-for-litigation-practice/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-09-01T13:00:55.000Z",
+      "summary": "By Neil Cameron Wilson Sonsini has taken a paid commercial licence for LexText, a litigation drafting and analysis platform founded in San Francisco in 2024. Ben Crosson, a partner in […]\nThe post Wilson Sonsini licenses LexText for litigation practice appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Tech",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "verfassungsblog-de-a-frozen-clock-and-a-frozen-problem-",
       "title": "A Frozen Clock and a Frozen Problem",
@@ -1876,52 +1967,6 @@
       "tags": [
         "AI in Law",
         "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-court-of-appeal-overturns-ruling-that-blew-sm",
-      "title": "Court of Appeal overturns ruling that blew small claims track “to bits”",
-      "url": "https://www.legalfutures.co.uk/latest-news/court-of-appeal-overturns-ruling-that-blew-small-claims-track-to-bits",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-02T23:07:10.000Z",
-      "summary": "The Court of Appeal has overturned a judgment which opened the door to “well-resourced parties corresponding their way” out of the small claims track – and would have blown it “to bits”.\nThe post Court of Appeal overturns ruling that blew small claims track “to bits” appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-pwc-meaningful-barriers-to-automating-most-le",
-      "title": "PwC: “Meaningful barriers” to automating most legal work",
-      "url": "https://www.legalfutures.co.uk/latest-news/pwc-meaningful-barriers-to-automating-most-legal-work",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-02T23:05:00.000Z",
-      "summary": "With most law firms rapidly adopting AI, new research by PwC has shown that 80% of legal work faces “meaningful barriers” to full automation.\nThe post PwC: “Meaningful barriers” to automating most legal work appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-abajournal-com-news-article-american-bar-association-honors-civil-legal-aid-",
-      "title": "American Bar Association honors civil legal aid champion John M. Rosenberg with 2026 ABA Medal",
-      "url": "https://www.abajournal.com/news/article/american-bar-association-honors-civil-legal-aid-champion-john-m-rosenberg-with-2026-aba-medal/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-08-02T15:00:00.000Z",
-      "summary": "",
-      "tags": [
-        "AI in Law",
-        "Regulation"
       ],
       "relevance": "medium",
       "score": 3
