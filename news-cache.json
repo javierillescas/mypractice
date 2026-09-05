@@ -1,6 +1,65 @@
 {
-  "lastUpdated": "2026-09-04T10:38:01.236Z",
+  "lastUpdated": "2026-09-05T09:57:33.497Z",
   "articles": [
+    {
+      "id": "abovethelaw-com-2026-09-a-former-president-returned-to-the-supreme-court-to-argu",
+      "title": "A Former President Returned To The Supreme Court To Argue A Case",
+      "url": "https://abovethelaw.com/2026/09/a-former-president-returned-to-the-supreme-court-to-argue-a-case/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-09-04T21:44:00.000Z",
+      "summary": "One of the last great services of his life.\nThe post A Former President Returned To The Supreme Court To Argue A Case appeared first on Above the Law.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-abajournal-com-news-article-dc-circuit-blames-deutsche-bank-lawyers-for-ai-h",
+      "title": "DC appeals court blames Deutsche Bank lawyers for AI hallucinations",
+      "url": "https://www.abajournal.com/news/article/dc-circuit-blames-deutsche-bank-lawyers-for-ai-hallucinations/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-09-04T18:53:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-lawnext-com-2026-09-iltacon-news-round-up-part-4-the-business-of-law-litera-",
+      "title": "ILTACON News Round-Up Part 4, The Business of Law: Litera, Aderant, Oddr, TRĒ AI, Intapp",
+      "url": "https://www.lawnext.com/2026/09/iltacon-news-round-up-part-4-the-business-of-law-litera-aderant-oddr-tre-ai-intapp.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-09-04T14:45:54.000Z",
+      "summary": "Last week’s ILTACON, the annual conference of the International Legal Technology Association, brought what may have been the busiest news cycle I can remember for this conference, with a torrent of product announcements dominated by two themes: agentic AI and the Model Context Protocol. I have already covered the conference and several of the week’s […]",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-lawnext-com-2026-09-iltacon-news-round-up-part-3-documents-data-and-ai-imana",
+      "title": "ILTACON News Round-Up Part 3, Documents, Data and AI: iManage, NetDocuments, Entegrata, Wolters Kluwer, Thomson Reuters, Clio, Avvoka",
+      "url": "https://www.lawnext.com/2026/09/iltacon-news-round-up-part-3-documents-data-and-ai-imanage-netdocuments-entegrata-wolters-kluwer-thomson-reuters-clio-avvoka.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-09-04T13:04:14.000Z",
+      "summary": "Last week’s ILTACON, the annual conference of the International Legal Technology Association, brought what may have been the busiest news cycle I can remember for this conference, with a torrent of product announcements dominated by two themes: agentic AI and the Model Context Protocol. I have already covered the conference and several of the week’s […]",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-legalfutures-co-uk-latest-news-lawyer-struck-off-for-using-fake-ai-generated",
       "title": "Lawyer struck off for using fake AI-generated cases before SDT",
@@ -1928,69 +1987,6 @@
       "summary": "On June 29, breaking with long-standing precedent, the United States Supreme Court ruled in Trump v Slaughter that a US president does not need cause to remove a Commissioner of the Federal Trade Commission. The Supreme Court’s decision puts the EU-US data transfer regime in peril. That regime rests on the assumption that the Federal Trade Commission supervises the handling of European personal da",
       "tags": [
         "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-lawnext-com-2026-08-disco-moves-beyond-e-discovery-with-unified-litigation-s",
-      "title": "DISCO Moves Beyond E-Discovery with ‘Unified Litigation Solution’ that Combines Case Facts and Case Law",
-      "url": "https://www.lawnext.com/2026/08/disco-moves-beyond-e-discovery-with-unified-litigation-solution-that-combines-case-facts-and-case-law.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-08-05T16:31:27.000Z",
-      "summary": "DISCO is moving beyond e-discovery, the technology that has been its bread and butter ever since its founding in 2013, to launch what it describes as the industry’s first unified litigation solution, an AI-native application that combines the facts of a matter with relevant U.S. case law. The product, which the company has not yet […]",
-      "tags": [
-        "AI in Law",
-        "Legal Tech",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "www-legalfutures-co-uk-associate-news-why-the-best-law-firms-are-making-complian",
-      "title": "Why the best law firms are making compliance a strategic advantage",
-      "url": "https://www.legalfutures.co.uk/associate-news/why-the-best-law-firms-are-making-compliance-a-strategic-advantage",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-05T15:27:52.000Z",
-      "summary": "Eloise Butterworth, head of risk and compliance at Hive Risk, shares why compliance should be embedded into firm culture; helping leaders make better decisions, build trust across teams, and manage risk proactively.\nThe post Why the best law firms are making compliance a strategic advantage appeared first on Legal Futures.",
-      "tags": [
-        "Regulation",
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "legaltechnology-com-webinar-from-technology-strategy-to-organisational-change-",
-      "title": "Webinar: From technology strategy to organisational change",
-      "url": "https://legaltechnology.com/webinar-from-technology-strategy-to-organisational-change/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-08-05T13:43:52.000Z",
-      "summary": "Law firms have invested heavily in legal technology and AI solutions, but investment alone doesn’t deliver transformation. The bigger challenge is embedding new ways of working, bringing people with you […]\nThe post Webinar: From technology strategy to organisational change appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "blogs-thomsonreuters-com-legal-blog-thomson-reuters-and-laurel-help-law-firms-co",
-      "title": "Thomson Reuters and Laurel help law firms connect legal AI to business outcomes",
-      "url": "https://blogs.thomsonreuters.com/legal-blog/thomson-reuters-and-laurel-help-law-firms-connect-legal-ai-to-business-outcomes/",
-      "source": "Thomson Reuters",
-      "region": "Global",
-      "date": "2026-08-05T12:30:39.000Z",
-      "summary": "Law firms have invested heavily in artificial intelligence (AI) to accelerate research, drafting, and analysis, and many are seeing real …\nThe post Thomson Reuters and Laurel help law firms connect legal AI to business outcomes appeared first on Thomson Reuters Law Blog.",
-      "tags": [
-        "AI in Law",
-        "Legal Market"
       ],
       "relevance": "medium",
       "score": 4
