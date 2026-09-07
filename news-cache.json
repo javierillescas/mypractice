@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-06T10:15:35.690Z",
+  "lastUpdated": "2026-09-07T11:35:12.600Z",
   "articles": [
+    {
+      "id": "www-legalfutures-co-uk-latest-news-lawyers-stage-old-bailey-protest-in-support-o",
+      "title": "Lawyers stage Old Bailey protest in support of contempt KC",
+      "url": "https://www.legalfutures.co.uk/latest-news/lawyers-stage-old-bailey-protest-in-support-of-contempt-kc",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-09-06T23:01:01.000Z",
+      "summary": "More than 100 lawyers staged a silent protest outside the Old Bailey last week in support of Rajiv Menon, the KC facing contempt of court proceedings for his closing speech.\nThe post Lawyers stage Old Bailey protest in support of contempt KC appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "abovethelaw-com-2026-09-a-former-president-returned-to-the-supreme-court-to-argu",
       "title": "A Former President Returned To The Supreme Court To Argue A Case",
@@ -1865,53 +1881,6 @@
       "tags": [
         "AI in Law",
         "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "legaltechnology-com-legaltech-governance-latest-new-akerman-head-eu-ai-act-warni",
-      "title": "Legaltech governance latest: New Akerman head, EU AI Act warning, & BARBRI AI adoption findings ",
-      "url": "https://legaltechnology.com/legaltech-governance-latest-new-akerman-head-eu-ai-act-warning-barbri-ai-adoption-findings/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-08-07T15:28:43.000Z",
-      "summary": "AI governance and competency are firmly in the spotlight this week. Akerman has created a new AI governance leadership role, appointing Michael Adler; the property sector is warning about the […]\nThe post Legaltech governance latest: New Akerman head, EU AI Act warning, & BARBRI AI adoption findings  appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-abajournal-com-news-article-public-backs-most-supreme-court-rulings-while-ov",
-      "title": "Public backs most Supreme Court rulings while overall approval ratings remain low",
-      "url": "https://www.abajournal.com/news/article/public-backs-most-supreme-court-rulings-while-overall-approval-ratings-remain-low/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-08-07T12:43:00.000Z",
-      "summary": "",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "legaltechnology-com-anthropic-hires-robert-mahari-as-head-of-claude-for-legal-",
-      "title": "Anthropic hires Robert Mahari as head of Claude for Legal",
-      "url": "https://legaltechnology.com/anthropic-hires-robert-mahari-as-head-of-claude-for-legal/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-08-07T12:23:11.000Z",
-      "summary": "Anthropic has hired Robert Mahari as head of Claude for Legal, helping law firms, in-house teams and legal tech companies move “from product to GTM,” in a move that signals […]\nThe post Anthropic hires Robert Mahari as head of Claude for Legal appeared first on Legal IT Insider.",
-      "tags": [
-        "In-House Counsel",
-        "Legal Market",
-        "Legal Tech"
       ],
       "relevance": "medium",
       "score": 3
