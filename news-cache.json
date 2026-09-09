@@ -1,6 +1,112 @@
 {
-  "lastUpdated": "2026-09-08T10:34:29.029Z",
+  "lastUpdated": "2026-09-09T10:45:38.572Z",
   "articles": [
+    {
+      "id": "www-legalfutures-co-uk-features-sra-desk-based-reviews-and-aml-inspections",
+      "title": "SRA desk-based reviews and AML inspections",
+      "url": "https://www.legalfutures.co.uk/features/sra-desk-based-reviews-and-aml-inspections",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-09-09T09:21:29.000Z",
+      "summary": "By Georgia Tuckley, junior compliance officer at Legal Futures Associate DG Legal The Solicitors Regulation Authority (SRA) has strengthened its approach to anti-money laundering (AML) supervision in recent years. Regulatory engagement has become more proactive, structured and routine, reflecting the… Read More\nThe post SRA desk-based reviews and AML inspections appeared first on Legal Futures.",
+      "tags": [
+        "Regulation"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-pogust-goodhead-goes-to-court-to-retain-contr",
+      "title": "Pogust Goodhead goes to court to retain control of dam case",
+      "url": "https://www.legalfutures.co.uk/latest-news/pogust-goodhead-goes-to-court-to-retain-control-of-dam-case",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-09-08T23:03:03.000Z",
+      "summary": "Pogust Goodhead is seeking a court declaration that would deny the legality of the notice purporting to terminate its retainer for the Mariana Dam litigation.\nThe post Pogust Goodhead goes to court to retain control of dam case appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-lawnext-com-2026-09-on-lawnext-casefleet-founder-jeff-kerr-on-fact-managemen",
+      "title": "On LawNext: Casefleet Founder Jeff Kerr on Fact Management in the Age of AI",
+      "url": "https://www.lawnext.com/2026/09/on-lawnext-casefleet-founder-jeff-kerr-on-fact-management-in-the-age-of-ai.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-09-08T18:54:33.000Z",
+      "summary": "Chronologies have become one of legal tech’s hottest categories, with a wave of AI startups promising to turn a messy evidentiary record into a structured timeline in minutes. Jeff Kerr and his company Casefleet were more than a decade ahead of the pack. Kerr finished law school in 2010 and made what he calls the crazy decision to start […]",
+      "tags": [
+        "AI in Law",
+        "Legal Tech",
+        "Legal Education",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-09-08-new-legal-tech-vc-fund-launches-wilson-sonsi",
+      "title": "New Legal Tech VC Fund Launches – Wilson Sonsini Invests",
+      "url": "https://www.artificiallawyer.com/2026/09/08/new-legal-tech-vc-fund-launches-wilson-sonsini-invests/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-09-08T14:02:57.000Z",
+      "summary": "A new legal tech fund, GCVC, has launched, backed by over fifty sitting general counsels from prominent private and public companies. Meanwhile, Wilson Sonsini is ...",
+      "tags": [
+        "In-House Counsel",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-09-08-lexroom-acquires-french-bulgarian-companies-",
+      "title": "Lexroom Acquires French + Bulgarian Companies",
+      "url": "https://www.artificiallawyer.com/2026/09/08/lexroom-acquires-french-bulgarian-companies/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-09-08T13:49:06.000Z",
+      "summary": "Italy’s leading legal AI company, Lexroom – which raised $50m in a Series B round this summer – has acquired French legal tech startup Query ...",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-09-one-very-busy-weekend-",
+      "title": "One very busy weekend",
+      "url": "https://www.scotusblog.com/2026/09/one-very-busy-weekend/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-09-08T13:00:00.000Z",
+      "summary": "Plus, how two men without lawyers got their cases to the Supreme Court.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-09-08-merrill-the-newmod-for-litigation-work-",
+      "title": "Merrill – The NewMod For Litigation Work",
+      "url": "https://www.artificiallawyer.com/2026/09/08/merrill-the-newmod-for-litigation-work/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-09-08T07:17:53.000Z",
+      "summary": "‘Companies are very frustrated because there’s been no alternative,’ says Rick Merrill, co-founder of NewMod firm Merrill. Traditional law firms remain expensive and hourly-based, yet ...",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-legalfutures-co-uk-latest-news-small-firms-join-forces-to-step-up-compliance",
       "title": "Small firms join forces to step up compliance officer campaign",
@@ -1896,37 +2002,6 @@
         "AI in Law",
         "Legal Market",
         "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-08-trump-rewrites-supreme-court-loss-as-a-win-see-generally",
-      "title": "Trump Rewrites Supreme Court Loss As A Win — See Generally",
-      "url": "https://abovethelaw.com/2026/08/trump-rewrites-supreme-court-loss-as-a-win-see-generally/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-08-09T23:28:47.000Z",
-      "summary": "Just When You Thought The Paul Weiss Surrender Couldn't Get Worse: The New York Times dug into the first Biglaw capitulation and it's even more cowardly than we thought. Dropping a client to keep the administration happy and internally considering running management decisions by Stephen Miller.\n\n\nAnd Then This: The same report also claims Paul Weiss paid its first openly transgender partner $3.5 m",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-community-care-lawyers-having-to-turn-away-le",
-      "title": "Community care lawyers “having to turn away” legal aid clients",
-      "url": "https://www.legalfutures.co.uk/latest-news/community-care-lawyers-having-to-turn-away-legal-aid-clients",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-09T23:01:14.000Z",
-      "summary": "Lawyers doing legally aided community care work are turning away clients and ‘hyper-specialising’ in Court of Protection matters in a bid to make ends meet, according to research.\nThe post Community care lawyers “having to turn away” legal aid clients appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
       ],
       "relevance": "medium",
       "score": 3
