@@ -1,6 +1,65 @@
 {
-  "lastUpdated": "2026-09-11T10:36:42.743Z",
+  "lastUpdated": "2026-09-12T10:05:43.741Z",
   "articles": [
+    {
+      "id": "www-scotusblog-com-2026-09-supreme-court-dismisses-immigration-case-that-was-sch",
+      "title": "Supreme Court dismisses immigration case that was scheduled for argument in October",
+      "url": "https://www.scotusblog.com/2026/09/supreme-court-dismisses-immigration-case-that-was-scheduled-for-argument-in-october/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-09-12T00:10:46.000Z",
+      "summary": "",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-09-how-to-create-authority-pages-that-beat-competitors-on-g",
+      "title": "How To Create Authority Pages That Beat Competitors On Google And ChatGPT",
+      "url": "https://abovethelaw.com/2026/09/how-to-create-authority-pages-that-beat-competitors-on-google-and-chatgpt/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-09-11T22:15:00.000Z",
+      "summary": "Your law firm’s ‘authority’ pages are there to showcase your expertise and establish your practice as a source of reliable information.\nThe post How To Create Authority Pages That Beat Competitors On Google And ChatGPT appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-09-first-circuit-opinion-goes-informal-well-fill-in-the-dee",
+      "title": "Is This Federal Appellate Opinion Too Informal?",
+      "url": "https://abovethelaw.com/2026/09/first-circuit-opinion-goes-informal-well-fill-in-the-deets-shortly-but-the-sparknotes-is-this/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-09-11T18:32:00.000Z",
+      "summary": "Federal judge describes facts as 'deets.'\nThe post Is This Federal Appellate Opinion Too Informal? appeared first on Above the Law.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "legaltechnology-com-startup-corner-saas-tracker-takes-aim-at-hidden-contract-cha",
+      "title": "Startup Corner: SaaS Tracker takes aim at hidden contract change risk",
+      "url": "https://legaltechnology.com/startup-corner-saas-tracker-takes-aim-at-hidden-contract-change-risk/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-09-11T14:56:48.000Z",
+      "summary": "Founded in August 2026 by former lawyer Brig Ricks, SaaS Tracker helps legal and operations teams keep on top of changing software terms, privacy policies and online contracts, using AI […]\nThe post Startup Corner: SaaS Tracker takes aim at hidden contract change risk appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-myshingle-com-2026-09-ai-has-entered-the-courthouse-are-you-ready-for-it-",
       "title": "AI Has Entered The Courthouse…Are You Ready For It?",
@@ -48,6 +107,38 @@
       ],
       "relevance": "medium",
       "score": 4
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-09-10-why-legal-research-needs-a-specialist-layer-",
+      "title": "Why Legal Research Needs a Specialist Layer",
+      "url": "https://www.artificiallawyer.com/2026/09/10/why-legal-research-needs-a-specialist-layer/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-09-10T07:08:02.000Z",
+      "summary": "By Jean-Rémi de Maistre, CEO, Jus Mundi. The legal AI market is converging as general-purpose AI and legal workflow platforms compete to be the interface ...",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-09-10-white-case-invests-in-saudi-startup-clauze-",
+      "title": "White & Case Invests in Saudi Startup Clauze",
+      "url": "https://www.artificiallawyer.com/2026/09/10/white-case-invests-in-saudi-startup-clauze/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-09-10T06:44:49.000Z",
+      "summary": "Global law firm, White & Case, has made a strategic investment into Saudi-based Clauze, a new legal AI platform. It’s been founded by Waad Alkurini, ...",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
     },
     {
       "id": "www-legalfutures-co-uk-latest-news-sra-adding-to-confusion-around-colp-cofa-chan",
@@ -1958,37 +2049,6 @@
       "tags": [
         "AI in Law",
         "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-judge-condemns-utter-incompetence-of-family-l",
-      "title": "Judge condemns “utter incompetence” of family law firm",
-      "url": "https://www.legalfutures.co.uk/latest-news/judge-condemns-utter-incompetence-of-family-law-firm",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-12T23:07:19.000Z",
-      "summary": "A judge has condemned the “utter incompetence” of a law firm that claimed it had instructions to represent the husband in a financial remedy case when it did not.\nThe post Judge condemns “utter incompetence” of family law firm appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "legaltechnology-com-har-we-go-again-what-cerebras-settles-and-what-it-doesnt-",
-      "title": "HAR We Go Again: What Cerebras Settles — and What It Doesn’t",
-      "url": "https://legaltechnology.com/har-we-go-again-what-cerebras-settles-and-what-it-doesnt/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-08-12T11:30:31.000Z",
-      "summary": "By Neil Cameron, lead analyst for Legal IT Insider On 7 July, Magistrate Judge Robert M. Illman of the Northern District of California entered two interlocking stipulated orders in James […]\nThe post HAR We Go Again: What Cerebras Settles — and What It Doesn’t appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
       ],
       "relevance": "medium",
       "score": 3
