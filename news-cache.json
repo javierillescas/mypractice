@@ -1,6 +1,82 @@
 {
-  "lastUpdated": "2026-09-13T11:05:37.625Z",
+  "lastUpdated": "2026-09-14T11:47:58.786Z",
   "articles": [
+    {
+      "id": "verfassungsblog-de-breaking-non-retroactivity-",
+      "title": "Breaking Non-Retroactivity",
+      "url": "https://verfassungsblog.de/breaking-non-retroactivity/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-09-14T10:34:59.000Z",
+      "summary": "Is a politically appointed court still a court? The old dilemma of kelsenian constitutional courts could not be more topical in the case of the Romanian Constitutional Court, which recently issued a decision that shattered a constitutional principle underlying every democratic system: the principle of non-retroactivity. The political influence is probable in this case; such an infringement of an a",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-09-14-latham-gpus-and-ai-sovereignty-",
+      "title": "Latham, GPUs and AI Sovereignty",
+      "url": "https://www.artificiallawyer.com/2026/09/14/latham-gpus-and-ai-sovereignty/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-09-14T07:25:59.000Z",
+      "summary": "The more this site thinks about law firms training open weight models and renting their own GPUs, the less it seems to make sense. Here’s ...",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Education"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-09-missouri-keeps-beating-dead-horse-of-a-map-see-generally",
+      "title": "Missouri Keeps Beating Dead Horse Of A Map — See Generally",
+      "url": "https://abovethelaw.com/2026/09/missouri-keeps-beating-dead-horse-of-a-map-see-generally/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-09-14T02:42:28.000Z",
+      "summary": "Beating A Dead Horse Alert: Missouri Republicans keep sending its gerrymander to the Supreme Court.\n\n\nTry, Try Again: And the Supreme Court keeps telling them to pound sand.\n\n\nFifty-One Shades Of 'Rigged': DOJ and Education Department say Berkeley Law illegally favors Black students... where 51 of 1,128 students are Black.\n\n\nScale Model: Weil announced the loss of its corporate chair and a half-do",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-sdt-upholds-ban-on-police-station-rep-with-ha",
+      "title": "SDT upholds ban on police station rep with harassment conviction",
+      "url": "https://www.legalfutures.co.uk/latest-news/sdt-upholds-ban-on-police-station-rep-with-harassment-conviction",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-09-13T23:05:49.000Z",
+      "summary": "The SDT has upheld a decision by the SRA to ban a police station representative convicted of a harassment offence from working for law firms.\nThe post SDT upholds ban on police station rep with harassment conviction appeared first on Legal Futures.",
+      "tags": [
+        "Regulation",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-high-court-rejects-bid-to-stay-mariana-dam-li",
+      "title": "High Court rejects bid to stay Mariana Dam litigation",
+      "url": "https://www.legalfutures.co.uk/latest-news/high-court-rejects-bid-to-stay-mariana-dam-litigation",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-09-13T23:03:15.000Z",
+      "summary": "Pogust Goodhead has claimed the first victory in its battle for control of the Mariana Dam litigation after the High Court rejected a request for a stay by the solicitors looking to take it over.\nThe post High Court rejects bid to stay Mariana Dam litigation appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-scotusblog-com-2026-09-supreme-court-dismisses-immigration-case-that-was-sch",
       "title": "Supreme Court dismisses immigration case that was scheduled for argument in October",
@@ -1955,22 +2031,6 @@
       "summary": "A judge has thrown out a conveyancer’s disability discrimination claim against his former firm after showing “a total disregard for case management orders”.\nThe post Conveyancer’s disability discrimination claim thrown out appeared first on Legal Futures.",
       "tags": [
         "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-abajournal-com-news-article-2-biglaw-partners-retained-for-taylor-farms-taco",
-      "title": "2 BigLaw partners retained for Taylor Farms, Taco Bell over contaminated lettuce lawsuits",
-      "url": "https://www.abajournal.com/news/article/2-biglaw-partners-retained-for-taylor-farms-taco-bell-over-contaminated-lettuce-lawsuits/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-08-14T16:41:00.000Z",
-      "summary": "",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
         "Legal Reasoning"
       ],
       "relevance": "medium",
