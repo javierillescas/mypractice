@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-09-15T11:04:24.505Z",
+  "lastUpdated": "2026-09-16T10:50:48.486Z",
   "articles": [
+    {
+      "id": "www-artificiallawyer-com-2026-09-16-31-of-law-firms-say-ai-improves-profitabilit",
+      "title": "31% of Law Firms Say AI Improves Profitability",
+      "url": "https://www.artificiallawyer.com/2026/09/16/31-of-law-firms-say-ai-improves-profitability/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-09-16T07:45:29.000Z",
+      "summary": "A new pricing survey by BigHand shows that 31% of law firms – which had scrutinised their data – found that AI had ‘improved profitability ...",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-courts-cannot-be-left-behind-in-ai-rush-says-",
+      "title": "Courts cannot be left behind in AI rush, says minister",
+      "url": "https://www.legalfutures.co.uk/latest-news/courts-cannot-be-left-behind-in-ai-rush-says-minister",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-09-15T23:07:04.000Z",
+      "summary": "The government cannot allow a two-tier system where City law firms are at the cutting edge of AI use while the courts are “stuck in the analogue age”, said minister Sarah Sackman.\nThe post Courts cannot be left behind in AI rush, says minister appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-services-directory-aspiracloud",
+      "title": "AspiraCloud",
+      "url": "https://www.legalfutures.co.uk/services-directory/aspiracloud",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-09-15T16:36:58.000Z",
+      "summary": "AspiraCloud helps law firms run secure, well-managed cloud infrastructure, get real productivity from Copilot and AI, and meet cyber security and regulatory obligations without the friction that makes people find workarounds.\nThe post AspiraCloud appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "In-House Counsel",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
     {
       "id": "www-artificiallawyer-com-2026-09-15-white-case-partner-ai-slowdown-risks-investo",
       "title": "White & Case Partner: ‘AI Slowdown Risks Investor Collision’",
@@ -2102,66 +2150,6 @@
       ],
       "relevance": "medium",
       "score": 4
-    },
-    {
-      "id": "legaltechnology-com-guest-post-ai-means-legal-tech-project-plans-are-no-longer-f",
-      "title": "Guest Post: AI means legal tech project plans are no longer fit for purpose",
-      "url": "https://legaltechnology.com/guest-post-ai-means-legal-tech-project-plans-are-no-longer-fit-for-purpose/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-08-17T09:12:46.000Z",
-      "summary": "By Ben Williams, Pinsent Masons Vario The way we look at adopting generative AI tools needs to change. Cast your mind back just five years, the process of introducing a […]\nThe post Guest Post: AI means legal tech project plans are no longer fit for purpose appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-lsb-approves-separation-of-compliance-and-man",
-      "title": "LSB approves separation of compliance and management roles",
-      "url": "https://www.legalfutures.co.uk/latest-news/lsb-approves-separation-of-compliance-and-management-roles",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-16T23:05:13.000Z",
-      "summary": "The Legal Services Board has approved rule changes to separate law firm managers who can “unilaterally” make decisions from compliance officer roles in all but the smallest firms.\nThe post LSB approves separation of compliance and management roles appeared first on Legal Futures.",
-      "tags": [
-        "Regulation",
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-legal-consultant-to-chambers-challenges-conte",
-      "title": "Legal consultant to chambers challenges contempt referral",
-      "url": "https://www.legalfutures.co.uk/latest-news/legal-consultant-to-chambers-challenges-contempt-referral",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-16T23:03:07.000Z",
-      "summary": "A legal consultant to a barristers’ chambers referred by a High Court judge to the Attorney General for possible contempt of court proceedings has filed an appeal.\nThe post Legal consultant to chambers challenges contempt referral appeared first on Legal Futures.",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-conveyancers-disability-discrimination-claim-",
-      "title": "Conveyancer’s disability discrimination claim thrown out",
-      "url": "https://www.legalfutures.co.uk/latest-news/conveyancers-disability-discrimination-claim-thrown-out",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-16T23:01:54.000Z",
-      "summary": "A judge has thrown out a conveyancer’s disability discrimination claim against his former firm after showing “a total disregard for case management orders”.\nThe post Conveyancer’s disability discrimination claim thrown out appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
     }
   ]
 }
