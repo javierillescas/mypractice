@@ -1,6 +1,80 @@
 {
-  "lastUpdated": "2026-09-17T10:58:14.731Z",
+  "lastUpdated": "2026-09-18T10:34:27.849Z",
   "articles": [
+    {
+      "id": "www-legalfutures-co-uk-latest-news-judge-issues-ai-warning-to-lips-after-300-pag",
+      "title": "Judge issues AI warning to LiPs after 300-page ‘skeleton’",
+      "url": "https://www.legalfutures.co.uk/latest-news/judge-issues-ai-warning-to-lips-after-300-page-skeleton",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-09-17T23:07:56.000Z",
+      "summary": "A judge has warned litigants in person that, like lawyers, they need to take personal responsibility for the use of AI in drafting court documents.\nThe post Judge issues AI warning to LiPs after 300-page ‘skeleton’ appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-tribunal-wrong-to-punish-law-firm-over-unfair",
+      "title": "Tribunal “wrong to punish law firm” over unfair dismissal",
+      "url": "https://www.legalfutures.co.uk/latest-news/tribunal-wrong-to-punish-law-firm-over-unfair-dismissal",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-09-17T23:05:44.000Z",
+      "summary": "A law firm which discriminated against a paralegal should not have to pay aggravated damages simply because it advised on employment law.\nThe post Tribunal “wrong to punish law firm” over unfair dismissal appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-myshingle-com-2026-09-ai-native-law-firms-arent-just-for-biglaw-lawyers-",
+      "title": "AI Native Law Firms Aren’t Just For Biglaw Lawyers",
+      "url": "https://www.myshingle.com/2026/09/ai-native-law-firms-arent-just-for-biglaw-lawyers/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-09-17T20:44:00.000Z",
+      "summary": "AI native firms are finally attracting Biglaw attorneys’ attention but the underlying philosophy remains relevant to more traditional solos and smalls.\nThe post AI Native Law Firms Aren’t Just For Biglaw Lawyers appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-abajournal-com-news-article-in-split-opinion-louisiana-permanently-disbars-j",
+      "title": "In split opinion, court permanently disbars judge convicted of indecent behavior with teens",
+      "url": "https://www.abajournal.com/news/article/in-split-opinion-louisiana-permanently-disbars-judge-convicted-of-indecent-behavior-with-teens/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-09-17T17:04:00.000Z",
+      "summary": "",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-09-what-a-missing-citation-tells-us-about-the-supreme-co",
+      "title": "What a missing citation tells us about the Supreme Court’s birthright citizenship decision  ",
+      "url": "https://www.scotusblog.com/2026/09/what-a-missing-citation-tells-us-about-the-supreme-courts-birthright-citizenship-decision/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-09-17T13:30:00.000Z",
+      "summary": "",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-artificiallawyer-com-2026-09-17-google-shows-off-cloud-legal-ai-helpers-more",
       "title": "Google Shows Off Cloud Legal AI Helpers + More",
@@ -2123,155 +2197,6 @@
       ],
       "relevance": "medium",
       "score": 5
-    },
-    {
-      "id": "legaltechnology-com-breaking-news-elevate-acquires-lupl-",
-      "title": "Breaking news: Elevate acquires Lupl ",
-      "url": "https://legaltechnology.com/breaking-news-elevate-acquires-lupl/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-08-19T07:00:48.000Z",
-      "summary": "Elevate today (19 August) announces the acquisition of legal project management and workflow automation platform Lupl, in a move that brings matter management within Elevate’s growing software stack.   Lupl is used by law firms to manage complex legal matters and […]\nThe post Breaking news: Elevate acquires Lupl  appeared first on Legal IT Insider.",
-      "tags": [
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-judge-hits-out-at-aggressive-approach-of-part",
-      "title": "Judge hits out at “aggressive” approach of party and its lawyers",
-      "url": "https://www.legalfutures.co.uk/latest-news/judge-hits-out-at-aggressive-approach-of-party-and-its-lawyers",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-18T23:07:56.000Z",
-      "summary": "A judge has heavily criticised the “aggressive” approach of a defendant and its lawyers, saying the case was “like going back in time to when I first started in practice in the 1980s”.\nThe post Judge hits out at “aggressive” approach of party and its lawyers appeared first on Legal Futures.",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-law-society-opposes-sra-taking-broad-notifica",
-      "title": "Law Society opposes SRA taking broad notification powers",
-      "url": "https://www.legalfutures.co.uk/latest-news/law-society-opposes-sra-taking-broad-notification-powers",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-18T23:03:32.000Z",
-      "summary": "The Law Society has spoken out against the Solicitors Regulation Authority having a broad power to require law firms to notify it about particular events.\nThe post Law Society opposes SRA taking broad notification powers appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "abovethelaw-com-2026-08-judicial-immunity-still-applies-even-if-the-judge-let-ai",
-      "title": "Judicial Immunity Still Applies Even If The Judge Let AI Decide The Case",
-      "url": "https://abovethelaw.com/2026/08/judicial-immunity-still-applies-even-if-the-judge-let-ai-decide-the-case/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-08-18T20:48:00.000Z",
-      "summary": "Asking AI to resolve your cases would still be a judicial act.\nThe post Judicial Immunity Still Applies Even If The Judge Let AI Decide The Case appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "abovethelaw-com-2026-08-in-house-leaders-say-lawyers-at-these-biglaw-firms-are-c",
-      "title": "In-House Leaders Say Lawyers At These Biglaw Firms Are Client Service ‘All-Stars’ (2026)",
-      "url": "https://abovethelaw.com/2026/08/in-house-leaders-say-lawyers-at-these-biglaw-firms-are-client-service-all-stars-2026/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-08-18T18:32:00.000Z",
-      "summary": "Which firms -- and which lawyers -- came out on top when it comes to excellence in client service?\nThe post In-House Leaders Say Lawyers At These Biglaw Firms Are Client Service ‘All-Stars’ (2026) appeared first on Above the Law.",
-      "tags": [
-        "In-House Counsel",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-lawnext-com-2026-08-clio-docket-is-now-in-clio-work-combining-an-ai-workspac",
-      "title": "Clio Docket Is Now In Clio Work, Combining An AI Workspace with Access to More Than 1 Billion Court Filings",
-      "url": "https://www.lawnext.com/2026/08/clio-docket-is-now-in-clio-work-combining-an-ai-workspace-with-access-to-more-than-1-billion-court-filings.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-08-18T17:00:28.000Z",
-      "summary": "When Clio acquired vLex in 2025, a key asset it gained was Docket Alarm, one of the world’s largest litigation databases containing more than 1 billion filings from federal and state courts. At the ClioCon user conference last year, Clio relaunched it as Clio Docket. Now, Clio is making Clio Docket available from within Clio […]",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-08-expert-asked-chatgpt-show-how-3m-is-0-at-fault-making-fo",
-      "title": "Expert Asked ChatGPT ‘Show How 3M Is 0% At Fault’ Making For Entertaining Deposition",
-      "url": "https://abovethelaw.com/2026/08/expert-asked-chatgpt-show-how-3m-is-0-at-fault-making-for-entertaining-deposition/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-08-18T16:12:00.000Z",
-      "summary": "This had to be fun for the plaintiffs' attorney!\nThe post Expert Asked ChatGPT ‘Show How 3M Is 0% At Fault’ Making For Entertaining Deposition appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-08-avoiding-the-ai-efficiency-trap-what-biglaw-needs-to-get",
-      "title": "Avoiding The AI Efficiency Trap: What Biglaw Needs To Get Right ",
-      "url": "https://abovethelaw.com/2026/08/avoiding-the-ai-efficiency-trap-what-biglaw-needs-to-get-right/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-08-18T15:33:00.000Z",
-      "summary": "[Sponsored] Join our expert panel on Sept. 9 to hear key takeaways from ILTACON 2026 — and the implications for the law firm business model. \nThe post Avoiding The AI Efficiency Trap: What Biglaw Needs To Get Right  appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-08-18-next-gen-harvey-ii-launches-with-memory-at-i",
-      "title": "Next Gen ‘Harvey II’ Launches with Memory at Its Core",
-      "url": "https://www.artificiallawyer.com/2026/08/18/next-gen-harvey-ii-launches-with-memory-at-its-core/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-08-18T14:31:35.000Z",
-      "summary": "Harvey is launching the next generation of the legal AI platform with its Memory capability at its core, alongside preference setting, context sharing, and learning ...",
-      "tags": [
-        "AI in Law",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "medcitynews-com-2026-08-provider-court-surprise-billing-",
-      "title": "Appeals Court Sides With Providers In No Surprises Act Pay Dispute",
-      "url": "https://medcitynews.com/2026/08/provider-court-surprise-billing/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-08-18T14:04:00.000Z",
-      "summary": "A court ruling struck down key parts of how regulators calculate the No Surprises Act's qualifying payment amount, siding with the Texas Medical Association's argument that the formula has historically favored payers in arbitration.\nThe post Appeals Court Sides With Providers In No Surprises Act Pay Dispute appeared first on Above the Law.",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
     }
   ]
 }
