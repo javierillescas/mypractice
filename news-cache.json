@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-09-18T10:34:27.849Z",
+  "lastUpdated": "2026-09-19T10:18:25.634Z",
   "articles": [
+    {
+      "id": "abovethelaw-com-2026-09-adventures-in-legal-tech-the-risks-of-ai-generated-legal",
+      "title": "‘Adventures In Legal Tech’: The Risks Of AI-Generated Legal Marketing",
+      "url": "https://abovethelaw.com/2026/09/adventures-in-legal-tech-the-risks-of-ai-generated-legal-marketing/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-09-18T20:44:00.000Z",
+      "summary": "The compliance issue almost nobody in legal marketing is talking about.\nThe post ‘Adventures In Legal Tech’: The Risks Of AI-Generated Legal Marketing appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "abovethelaw-com-2026-09-coddling-young-lawyers-one-law-school-says-not-on-our-wa",
+      "title": "Coddling Young Lawyers? One Law School Says Not On Our Watch",
+      "url": "https://abovethelaw.com/2026/09/coddling-young-lawyers-one-law-school-says-not-on-our-watch/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-09-18T19:16:00.000Z",
+      "summary": "In today’s brave new AI world, the younger lawyers who can hit the ground running with practical skills and the ability to think through problems are going to succeed.\nThe post Coddling Young Lawyers? One Law School Says Not On Our Watch appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Education"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-lawnext-com-2026-09-guest-post-the-rise-of-the-contracting-stack-html",
+      "title": "Guest Post: The Rise Of The Contracting ‘Stack’",
+      "url": "https://www.lawnext.com/2026/09/guest-post-the-rise-of-the-contracting-stack.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-09-18T16:00:13.000Z",
+      "summary": "A legal operations professional requested a demo earlier this year with a note that intrigued me. She said that she was going to “stack” a CLM solution, and she was looking for the workflow portion (which is what my product, Josef, does). When we met, I dug in further, finding that she’d piloted three CLM […]",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-09-what-ai-misunderstands-about-the-supreme-court-",
+      "title": "What AI misunderstands about the Supreme Court",
+      "url": "https://www.scotusblog.com/2026/09/what-ai-misunderstands-about-the-supreme-court/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-09-18T13:30:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-lawnext-com-2026-09-yesterday-came-openais-launch-into-legal-now-come-the-li",
+      "title": "Yesterday Came OpenAI’s Launch Into Legal, Now Come the Litany of Vendor Integrations",
+      "url": "https://www.lawnext.com/2026/09/yesterday-came-openais-launch-into-legal-now-come-the-litany-of-vendor-integrations.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-09-18T12:43:24.000Z",
+      "summary": "Yesterday, OpenAI released Astra for Law, a GPT-6 model tailored for legal work, as I reported here. The announcement included news of 26 new ChatGPT plugins from legal tech vendors, but it mentioned only four: Harvey, iManage, Legora and Thomson Reuters. When I asked OpenAI for the full list, I got no answer. However, no […]",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-legalfutures-co-uk-latest-news-judge-issues-ai-warning-to-lips-after-300-pag",
       "title": "Judge issues AI warning to LiPs after 300-page ‘skeleton’",
@@ -2122,81 +2200,6 @@
       ],
       "relevance": "medium",
       "score": 3
-    },
-    {
-      "id": "legaltechnology-com-agentic-ai-hype-reality-or-both-what-law-firms-need-to-know-",
-      "title": "Agentic AI: Hype, reality, or both? What law firms need to know next",
-      "url": "https://legaltechnology.com/agentic-ai-hype-reality-or-both-what-law-firms-need-to-know-next/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-08-20T10:07:45.000Z",
-      "summary": "Everyone is talking about agentic AI, but what’s actually happening inside law firms today? Join our editor Caroline Hill and Paul Walker, global solutions director at iManage, for a frank […]\nThe post Agentic AI: Hype, reality, or both? What law firms need to know next appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-08-20-avvoka-partners-with-harvey-launches-curate-",
-      "title": "Avvoka Partners With Harvey, Launches Curate For Templates",
-      "url": "https://www.artificiallawyer.com/2026/08/20/avvoka-partners-with-harvey-launches-curate-for-templates/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-08-20T09:04:58.000Z",
-      "summary": "Avvoka, the drafting automation platform, has formed a partnership with Harvey, and it’s also just launched ‘Curate’, which ‘turns a law firm’s transaction documents into ...",
-      "tags": [
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-menon-speaks-out-over-chilling-contempt-prose",
-      "title": "Menon speaks out over “chilling” contempt prosecution",
-      "url": "https://www.legalfutures.co.uk/latest-news/menon-speaks-out-over-chilling-contempt-prosecution",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-19T23:07:06.000Z",
-      "summary": "The KC facing contempt of court proceedings for his closing speech has broken his silence to warn about the “chilling effect” his case is having on criminal defence lawyers.\nThe post Menon speaks out over “chilling” contempt prosecution appeared first on Legal Futures.",
-      "tags": [
-        "In-House Counsel",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-heads-of-terms-stage-too-early-to-tell-sra-ab",
-      "title": "Heads of terms stage “too early” to tell SRA about mergers",
-      "url": "https://www.legalfutures.co.uk/latest-news/heads-of-terms-stage-too-early-to-tell-sra-about-mergers",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-19T23:01:06.000Z",
-      "summary": "Law firms should not have to tell the Solicitors Regulation Authority (SRA) about upcoming M&A activity as early as the heads of terms stage, advisers have argued.\nThe post Heads of terms stage “too early” to tell SRA about mergers appeared first on Legal Futures.",
-      "tags": [
-        "Regulation",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-scotusblog-com-2026-08-trump-administration-awaits-emergency-docket-decision",
-      "title": "Trump administration awaits emergency docket decisions",
-      "url": "https://www.scotusblog.com/2026/08/trump-administration-awaits-emergency-docket-decisions/",
-      "source": "SCOTUSblog",
-      "region": "US",
-      "date": "2026-08-19T13:00:00.000Z",
-      "summary": "Plus, an update on the ripple effects of the Supreme Court’s TPS ruling.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
     }
   ]
 }
