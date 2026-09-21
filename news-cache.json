@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2026-09-20T10:37:34.519Z",
+  "lastUpdated": "2026-09-21T11:59:52.203Z",
   "articles": [
+    {
+      "id": "www-legalfutures-co-uk-latest-news-high-court-sra-does-not-have-power-to-view-pr",
+      "title": "High Court: SRA does not have power to view privileged material",
+      "url": "https://www.legalfutures.co.uk/latest-news/high-court-sra-does-not-have-power-to-view-privileged-material",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-09-21T11:29:20.000Z",
+      "summary": "The SRA does not have the right to require the production of privileged documents from law firms without a waiver from the client, the High Court has ruled today.\nThe post High Court: SRA does not have power to view privileged material appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
     {
       "id": "abovethelaw-com-2026-09-adventures-in-legal-tech-the-risks-of-ai-generated-legal",
       "title": "‘Adventures In Legal Tech’: The Risks Of AI-Generated Legal Marketing",
@@ -2030,53 +2047,6 @@
       ],
       "relevance": "medium",
       "score": 4
-    },
-    {
-      "id": "abovethelaw-com-2026-08-how-to-audit-your-law-firm-website-for-ai-readability-",
-      "title": "How To Audit Your Law Firm Website For AI Readability",
-      "url": "https://abovethelaw.com/2026/08/how-to-audit-your-law-firm-website-for-ai-readability/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-08-21T22:33:00.000Z",
-      "summary": "Consider visiting with an experienced law firm marketing agency that understands SEO and AI, as well as understands the importance of legal accuracy and ethics compliance. \nThe post How To Audit Your Law Firm Website For AI Readability appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-abajournal-com-news-article-jay-zs-extortion-suit-against-lawyer-in-rape-cas",
-      "title": "Jay-Z’s extortion suit against lawyer in withdrawn rape case faces skepticism from judge",
-      "url": "https://www.abajournal.com/news/article/jay-zs-extortion-suit-against-lawyer-in-rape-case-faces-judges-skepticism/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-08-21T17:28:00.000Z",
-      "summary": "",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-associate-news-is-innovation-outpacing-integration",
-      "title": "Is innovation outpacing integration?",
-      "url": "https://www.legalfutures.co.uk/associate-news/is-innovation-outpacing-integration",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-21T11:10:18.000Z",
-      "summary": "While law firms are investing heavily in modern tools, with 64% of legal and compliance leaders reporting that they plan to accelerate investments in legal technology, many are still struggling to translate innovation into meaningful operational progress. \nThe post Is innovation outpacing integration? appeared first on Legal Futures.",
-      "tags": [
-        "Regulation",
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
     }
   ]
 }
