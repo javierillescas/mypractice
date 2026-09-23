@@ -1,6 +1,143 @@
 {
-  "lastUpdated": "2026-09-22T10:58:00.670Z",
+  "lastUpdated": "2026-09-23T10:46:28.396Z",
   "articles": [
+    {
+      "id": "www-artificiallawyer-com-2026-09-23-law-firm-launches-legal-ai-tool-for-creators",
+      "title": "Law Firm Launches Legal AI Tool For Creators",
+      "url": "https://www.artificiallawyer.com/2026/09/23/law-firm-launches-legal-ai-tool-for-creators/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-09-23T09:20:16.000Z",
+      "summary": "Lewis Silkin, a UK-based law firm, and its LS Innovations affiliated tech company, have launched Lettu, an AI-powered platform to help ‘creators, talent managers, agencies ...",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "ukconstitutionallaw-org-2026-09-23-francesca-jackson-jamaicas-petition-to-king-c",
+      "title": "Francesca Jackson: Jamaica’s petition to King Charles on slavery reparations under s.4 Judicial Committee Act 1833: A constitutional analysis\n",
+      "url": "https://ukconstitutionallaw.org/2026/09/23/francesca-jackson-jamaicas-petition-to-king-charles-on-slavery-reparations-under-s-4-judicial-committee-act-1833-a-constitutional-analysis/",
+      "source": "UK Constitutional Law",
+      "region": "UK",
+      "date": "2026-09-23T08:00:00.000Z",
+      "summary": "On Monday 7th September 2026, Jamaica filed a petition with King Charles asking him to refer three specific questions on transatlantic […]",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-judge-should-not-have-heard-case-from-bed-say",
+      "title": "Judge should not have heard case from bed, says Court of Appeal",
+      "url": "https://www.legalfutures.co.uk/latest-news/judge-should-not-have-heard-case-from-bed-says-court-of-appeal",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-09-22T23:07:28.000Z",
+      "summary": "A judge laid up at home in bed after surgery on a ruptured Achilles tendon should not have heard an optician's disciplinary appeal by video, the Court of Appeal has ruled.\nThe post Judge should not have heard case from bed, says Court of Appeal appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-law-societies-oppose-sras-new-litigation-fund",
+      "title": "Law societies oppose SRA’s new litigation funding rules",
+      "url": "https://www.legalfutures.co.uk/latest-news/law-societies-oppose-sras-new-litigation-funding-rules",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-09-22T23:05:14.000Z",
+      "summary": "The national Law Society and Birmingham Law Society have argued against SRA plans for law firms which use litigation funding - but the Legal Services Consumer Panel is a big fan.\nThe post Law societies oppose SRA’s new litigation funding rules appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-immigration-firm-wins-appeal-against-licence-",
+      "title": "Immigration firm wins appeal against licence removal",
+      "url": "https://www.legalfutures.co.uk/latest-news/immigration-firm-wins-appeal-against-licence-removal",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-09-22T23:03:36.000Z",
+      "summary": "An immigration firm fell below its expected standards “in a number of respects” but this did not justify the decision to withdraw its licence to operate, a tribunal has ruled.\nThe post Immigration firm wins appeal against licence removal appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-lawnext-com-2026-09-harvey-launches-pro-bono-program-collaborating-with-pro-",
+      "title": "Harvey Launches Pro Bono Program, Collaborating with Pro Bono Leaders At Major Firms",
+      "url": "https://www.lawnext.com/2026/09/harvey-launches-pro-bono-program-collaborating-with-pro-bono-leaders-at-major-firms.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-09-22T17:05:22.000Z",
+      "summary": "Legal AI company Harvey said today that it is launching a dedicated pro bono program in the United States, the United Kingdom and Australia. In the first phase of the program, the company will work with a selected group of it law firm customers as design partners. Initially, this group consists of senior pro bono […]",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "legaltechnology-com-guest-post-the-ai-bill-many-law-firms-havent-priced-in-",
+      "title": "Guest post: The AI bill many law firms haven’t priced in",
+      "url": "https://legaltechnology.com/guest-post-the-ai-bill-many-law-firms-havent-priced-in/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-09-22T13:53:17.000Z",
+      "summary": "By James Harrison         Most firms buying legal AI are buying on a per-seat licence. That unit is on its way out. Legora has moved its Agent […]\nThe post Guest post: The AI bill many law firms haven’t priced in appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-09-the-courts-coming-climate-change-case-and-the-very-co",
+      "title": "The court’s coming climate-change case and the very confused doctrine of preemption",
+      "url": "https://www.scotusblog.com/2026/09/the-courts-coming-climate-change-case-and-the-very-confused-doctrine-of-preemption/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-09-22T13:30:00.000Z",
+      "summary": "",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "legaltechnology-com-product-demo-netdocuments-showcases-new-ai-tabular-review-ca",
+      "title": "Product demo: NetDocuments showcases new AI Tabular Review capability",
+      "url": "https://legaltechnology.com/product-demo-netdocuments-showcases-new-ai-tabular-review-capability/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-09-22T10:36:49.000Z",
+      "summary": "In this product demonstration with Legal IT Insider, NetDocuments‘ director of legal AI solutions, Brandall Nelson, showcases the new AI-powered Tabular Review capability that was launched in August this year. […]\nThe post Product demo: NetDocuments showcases new AI Tabular Review capability appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "ukconstitutionallaw-org-2026-09-22-david-erdos-vince-v-associated-newspapers-hav",
       "title": "David Erdos: Vince v Associated Newspapers: Have UK Data Protection’s Journalism Provisions Come of Age?\n",
@@ -2155,52 +2292,6 @@
       ],
       "relevance": "medium",
       "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-change-of-solicitors-in-rugby-injury-litigati",
-      "title": "Change of solicitors in rugby injury litigation gives court “comfort”",
-      "url": "https://www.legalfutures.co.uk/latest-news/change-of-solicitors-in-rugby-injury-litigation-gives-court-comfort",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-23T23:05:44.000Z",
-      "summary": "A judge has allowed hundreds of rugby head injury claims to go ahead despite not complying with unless orders, after taking “comfort” from the players changing solicitors.\nThe post Change of solicitors in rugby injury litigation gives court “comfort” appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-judge-should-have-fined-barrister-for-dangero",
-      "title": "Judge “should have fined” barrister for driving death conviction",
-      "url": "https://www.legalfutures.co.uk/latest-news/judge-should-have-fined-barrister-for-dangerous-driving-conviction",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-23T23:03:26.000Z",
-      "summary": "A High Court judge should not have replaced a suspension imposed by a Bar disciplinary tribunal on a barrister jailed for causing death by dangerous driving with no order at all.\nThe post Judge “should have fined” barrister for driving death conviction appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "abovethelaw-com-2026-08-chatgpt-experts-700-million-law-firms-and-frat-house-fel",
-      "title": "ChatGPT Experts, $700 Million Law Firms, And Frat House Felonies — See Generally",
-      "url": "https://abovethelaw.com/2026/08/chatgpt-experts-700-million-law-firms-and-frat-house-felonies-see-generally/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-08-23T22:57:00.000Z",
-      "summary": "Expertly Flawed: An expert witness collected $90,000 from 3M to ask ChatGPT, \"show how 3M is 0% at fault.\" Plaintiffs' counsel turned the resulting 350-page prompt log into the deposition of a lifetime.\n\n\nBarbarians Inside The Gate: Wood Smith Henning & Berman reportedly signed a letter of intent to sell a stake to Charlesbank Capital Partners at a roughly $700 million valuation, which would make ",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
     }
   ]
 }
