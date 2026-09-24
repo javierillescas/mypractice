@@ -1,6 +1,98 @@
 {
-  "lastUpdated": "2026-09-23T10:46:28.396Z",
+  "lastUpdated": "2026-09-24T11:06:50.789Z",
   "articles": [
+    {
+      "id": "www-artificiallawyer-com-2026-09-24-the-human-clipboard-closing-the-operational-",
+      "title": "The Human Clipboard: Closing the Operational Gap in Legal AI",
+      "url": "https://www.artificiallawyer.com/2026/09/24/the-human-clipboard-closing-the-operational-gap-in-legal-ai/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-09-24T06:40:21.000Z",
+      "summary": "By Katja Nikolaus, Co-Founder, JUNE. Few technologies have been adopted by legal departments as quickly as generative artificial intelligence. In an international survey by ACC ...",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "abovethelaw-com-2026-09-the-white-house-has-a-whole-lot-of-talking-points-and-no",
+      "title": "The White House Has A Whole Lot Of Talking Points And Not A Lot Of Case Law",
+      "url": "https://abovethelaw.com/2026/09/the-white-house-has-a-whole-lot-of-talking-points-and-not-a-lot-of-case-law/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-09-23T18:32:00.000Z",
+      "summary": "The judge hears the arguments later ths afternoon.\nThe post The White House Has A Whole Lot Of Talking Points And Not A Lot Of Case Law appeared first on Above the Law.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-lawnext-com-2026-09-at-its-user-conference-in-las-vegas-8am-announces-mcp-in",
+      "title": "At Its User Conference in Las Vegas, 8am Announces MCP Integration and New AI Tools for MyCase, Plus New Law Firm Funding Program through LawPay",
+      "url": "https://www.lawnext.com/2026/09/at-its-user-conference-in-las-vegas-8am-announces-mcp-integration-and-new-ai-tools-for-mycase-plus-new-law-firm-funding-program-through-lawpay.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-09-23T16:06:27.000Z",
+      "summary": "At its second-annual Kaleidoscope customer conference in Las Vegas today, 8am announced new generative AI features, a new Claude MCP connector, and new financial products, including a law firm loan program with quick approval and funding. Although 8am is the parent company of three law practice management platforms – MyCase, CasePEER and DocketWise – as […]",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "abovethelaw-com-2026-09-judge-with-infamous-a-b-c-d-f-u-sobriety-test-gets-anoth",
+      "title": "Judge With Infamous ‘A, B, C, D, F, U’ Sobriety Test Gets Another Year Off The Bench",
+      "url": "https://abovethelaw.com/2026/09/judge-with-infamous-a-b-c-d-f-u-sobriety-test-gets-another-year-off-the-bench/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-09-23T14:47:00.000Z",
+      "summary": "The judge agreed to treatment and testing to resolve his judicial misconduct case.\nThe post Judge With Infamous ‘A, B, C, D, F, U’ Sobriety Test Gets Another Year Off The Bench appeared first on Above the Law.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "legaltechnology-com-spellbook-appoints-first-cmo-",
+      "title": "Spellbook appoints first CMO",
+      "url": "https://legaltechnology.com/spellbook-appoints-first-cmo/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-09-23T13:28:35.000Z",
+      "summary": "Spellbook, a leading AI infrastructure for contracts used by over 5,000 in-house teams and law firms, today (23 September) announced that Meltem Kuran-Berkowitz has joined the company as its first […]\nThe post Spellbook appoints first CMO appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "legaltechnology-com-noxtua-closes-e100m-series-c-",
+      "title": "Noxtua closes €100m Series C",
+      "url": "https://legaltechnology.com/noxtua-closes-e100m-series-c/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-09-23T13:10:53.000Z",
+      "summary": "European sovereign legal AI Noxtua has closed its Series C funding round totalling more than €100m, with German legal publisher C.H.BECK as its new majority shareholder and Austrian legal publishing […]\nThe post Noxtua closes €100m Series C appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-artificiallawyer-com-2026-09-23-law-firm-launches-legal-ai-tool-for-creators",
       "title": "Law Firm Launches Legal AI Tool For Creators",
@@ -2187,108 +2279,6 @@
       "tags": [
         "AI in Law",
         "In-House Counsel"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-big-spike-in-competence-related-reports-to-th",
-      "title": "Big spike in competence-related complaints to the SRA",
-      "url": "https://www.legalfutures.co.uk/latest-news/big-spike-in-competence-related-reports-to-the-sra",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-24T23:07:00.000Z",
-      "summary": "Reports to the Solicitors Regulation Authority about solicitors' competence rose by 48% to over 4,000 last year, the regulator has revealed.\nThe post Big spike in competence-related complaints to the SRA appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Regulation"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-blog-what-leos-data-tells-us-about-client-service-in-pers",
-      "title": "What LeO’s data tells us about client service in personal injury",
-      "url": "https://www.legalfutures.co.uk/blog/what-leos-data-tells-us-about-client-service-in-personal-injury",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-24T23:00:26.000Z",
-      "summary": "With court backlogs, insurer delays and increasingly complex cases, maintaining client care in personal injury work can be difficult, but the data suggests the industry is falling short.\nThe post What LeO’s data tells us about client service in personal injury appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-08-nine-wins-out-of-ten-at-the-supreme-court-before-heading",
-      "title": "Nine Wins Out Of Ten At The Supreme Court, Before Heading To The Federal Judiciary",
-      "url": "https://abovethelaw.com/2026/08/nine-wins-out-of-ten-at-the-supreme-court-before-heading-to-the-federal-judiciary/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-08-24T22:16:00.000Z",
-      "summary": "Few advocates ever posted a record like hers. Fewer became judges.\nThe post Nine Wins Out Of Ten At The Supreme Court, Before Heading To The Federal Judiciary appeared first on Above the Law.",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-08-judges-cant-handcuff-and-threaten-children-for-falling-a",
-      "title": "Judges Can’t Handcuff And Threaten Children For Falling Asleep On Field Trips, Court Rules",
-      "url": "https://abovethelaw.com/2026/08/judges-cant-handcuff-and-threaten-children-for-falling-asleep-on-field-trips-court-rules/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-08-24T19:13:00.000Z",
-      "summary": "Judicial opinions that you didn't know still needed to be written.\nThe post Judges Can’t Handcuff And Threaten Children For Falling Asleep On Field Trips, Court Rules appeared first on Above the Law.",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-lawnext-com-2026-08-harvey-and-pacerpro-announce-partnership-to-connect-dock",
-      "title": "Harvey and PacerPro Announce Partnership To Connect Docket Data with AI Litigation Workflows",
-      "url": "https://www.lawnext.com/2026/08/harvey-and-pacerpro-announce-partnership-to-connect-docket-data-with-ai-litigation-workflows.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-08-24T16:11:46.000Z",
-      "summary": "The legal AI company Harvey and the court data company PacerPro have announced an integration partnership that gives litigation teams working in Harvey access to their firm’s complete litigation record, including the filings and case context from matters the firm has previously handled and those currently on the docket. PacerPro captures state and federal court […]",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "www-abajournal-com-news-article-texas-appeals-court-cuts-50-million-from-alex-jo",
-      "title": "Appeals court reduces $50M judgment against former Infowars host Alex Jones",
-      "url": "https://www.abajournal.com/news/article/texas-appeals-court-cuts-50-million-from-alex-jones-judgment/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-08-24T16:08:00.000Z",
-      "summary": "",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-lawnext-com-2026-08-lexisnexis-unveils-legal-intelligence-engine-rebuilding-",
-      "title": "LexisNexis Unveils ‘Legal Intelligence Engine,’ Rebuilding Protégé Around Dynamic Agentic Orchestration",
-      "url": "https://www.lawnext.com/2026/08/lexisnexis-unveils-legal-intelligence-engine-rebuilding-protege-around-dynamic-agentic-orchestration.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-08-24T12:00:03.000Z",
-      "summary": "LexisNexis Legal & Professional today announced what it is calling the next generation of Lexis+ with Protégé, its generative AI legal assistant, unveiling new agentic capabilities designed to enable legal professionals to move from an initial idea to review-ready work product in one intuitive AI experience. Branding it the LexisNexis Legal Intelligence Engine, the release […]",
-      "tags": [
-        "AI in Law"
       ],
       "relevance": "medium",
       "score": 3
