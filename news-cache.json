@@ -1,6 +1,52 @@
 {
-  "lastUpdated": "2026-09-25T11:08:53.142Z",
+  "lastUpdated": "2026-09-26T10:49:01.615Z",
   "articles": [
+    {
+      "id": "abovethelaw-com-2026-09-adventures-in-legal-tech-how-one-litigator-uses-claude-t",
+      "title": "‘Adventures In Legal Tech’: How One Litigator Uses Claude To Build His Case Strategy",
+      "url": "https://abovethelaw.com/2026/09/adventures-in-legal-tech-how-one-litigator-uses-claude-to-build-his-case-strategy/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-09-25T21:34:00.000Z",
+      "summary": "Targeting your argument's weak spot with AI, in this episode of \"Adventures in Legal Tech.\" \nThe post ‘Adventures In Legal Tech’: How One Litigator Uses Claude To Build His Case Strategy appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Tech",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-abajournal-com-news-article-appellate-court-hears-arguments-in-case-involvin",
+      "title": "Appellate court hears arguments in case involving collegiate athletes accused of gambling",
+      "url": "https://www.abajournal.com/news/article/appellate-court-hears-arguments-in-case-involving-iowa-collegiate-athletes-accused-of-gambling/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-09-25T16:13:00.000Z",
+      "summary": "",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "legaltechnology-com-startup-corner-from-digital-binders-to-ai-research-meet-alig",
+      "title": "Startup Corner: From digital binders to AI research – meet Align",
+      "url": "https://legaltechnology.com/startup-corner-from-digital-binders-to-ai-research-meet-align/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-09-25T11:09:54.000Z",
+      "summary": "Founded by former Williams & Connolly litigation partner Sam Davidoff, Align began life building digital binders for litigators. Five years on, the bootstrapped legal tech company is expanding into AI-powered […]\nThe post Startup Corner: From digital binders to AI research – meet Align appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Tech",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-legalfutures-co-uk-associate-news-a-third-of-uk-law-firms-unsure-their-it-wo",
       "title": "A third of UK law firms unsure their IT would satisfy the SRA, new AspiraCloud research finds ahead of October debate evenings",
@@ -2237,100 +2283,6 @@
       ],
       "relevance": "medium",
       "score": 4
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-08-27-accountability-by-design-in-agentic-contract",
-      "title": "Accountability by Design in Agentic Contract Management",
-      "url": "https://www.artificiallawyer.com/2026/08/27/accountability-by-design-in-agentic-contract-management/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-08-27T06:42:51.000Z",
-      "summary": "By Ken Priore, Deputy General Counsel, Docusign. Agentic AI has arrived for agreements. Software no longer only drafts a clause or flags a risk for ...",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-sra-asked-why-arent-you-approving-ma-deals",
-      "title": "SRA asked: Why aren’t you approving M&A deals?",
-      "url": "https://www.legalfutures.co.uk/latest-news/sra-asked-why-arent-you-approving-ma-deals",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-26T23:07:46.000Z",
-      "summary": "The Solicitors Regulation Authority has been asked to explain why it is requiring only notification of impending mergers and acquisitions, rather than its approval.\nThe post SRA asked: Why aren’t you approving M&A deals? appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Regulation"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-law-firms-3m-liability-cap-unreasonable-court",
-      "title": "Law firm’s £3m liability cap “unreasonable”, court rules",
-      "url": "https://www.legalfutures.co.uk/latest-news/law-firms-3m-liability-cap-unreasonable-court-rules",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-26T23:03:07.000Z",
-      "summary": "A £3m liability cap in a law firm’s terms of business was unreasonable under the Unfair Contract Terms Act, the High Court has held.\nThe post Law firm’s £3m liability cap “unreasonable”, court rules appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-abajournal-com-news-article-google-unveils-gemini-for-legal-an-agentic-ai-pl",
-      "title": "Google unveils agentic AI platform for lawyers",
-      "url": "https://www.abajournal.com/news/article/google-unveils-gemini-for-legal-an-agentic-ai-platform-for-lawyers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-08-26T19:07:00.000Z",
-      "summary": "",
-      "tags": [
-        "AI in Law",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-08-lexisnexis-and-thomson-reuters-ilta-announcements-closin",
-      "title": "LexisNexis And Thomson Reuters ILTA Announcements: Closing The Conference Room Door",
-      "url": "https://abovethelaw.com/2026/08/lexisnexis-and-thomson-reuters-ilta-announcements-closing-the-conference-room-door/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-08-26T16:19:51.000Z",
-      "summary": "When all is replaced by agentic AI, what are the long-term consequences?\nThe post LexisNexis And Thomson Reuters ILTA Announcements: Closing The Conference Room Door appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "blogs-thomsonreuters-com-legal-blog-tabular-analysis-in-cocounsel-legal-turn-tho",
-      "title": "Tabular analysis in CoCounsel Legal: Turn thousands of documents into actionable insights",
-      "url": "https://blogs.thomsonreuters.com/legal-blog/tabular-analysis-in-cocounsel-legal-turn-thousands-of-documents-into-actionable-insights/",
-      "source": "Thomson Reuters",
-      "region": "Global",
-      "date": "2026-08-26T14:33:18.000Z",
-      "summary": "Corporate legal departments know this reality: every deal, every compliance review, every litigation matter brings thousands of documents that …\nThe post Tabular analysis in CoCounsel Legal: Turn thousands of documents into actionable insights appeared first on Thomson Reuters Law Blog.",
-      "tags": [
-        "Regulation",
-        "In-House Counsel",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
     }
   ]
 }
