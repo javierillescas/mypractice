@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T10:49:01.615Z",
+  "lastUpdated": "2026-09-27T11:24:20.576Z",
   "articles": [
     {
       "id": "abovethelaw-com-2026-09-adventures-in-legal-tech-how-one-litigator-uses-claude-t",
@@ -2177,112 +2177,6 @@
       ],
       "relevance": "medium",
       "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-associate-news-imanage-accelerates-enterprise-ai-transfor",
-      "title": "iManage accelerates enterprise AI transformation with Google Cloud’s Gemini Enterprise for Legal",
-      "url": "https://www.legalfutures.co.uk/associate-news/imanage-accelerates-enterprise-ai-transformation-with-google-clouds-gemini-enterprise-for-legal",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-28T10:33:55.000Z",
-      "summary": "iManage, the company dedicated to Making Knowledge Work™, has launched new industry-specific artificial intelligence (AI) capabilities built on Google Cloud's Gemini Enterprise for Legal to automate complex enterprise workflows\nThe post iManage accelerates enterprise AI transformation with Google Cloud’s Gemini Enterprise for Legal appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-associate-news-responsible-ai-for-law-firms-security-trus",
-      "title": "Responsible AI for law firms – security, trust and governance",
-      "url": "https://www.legalfutures.co.uk/associate-news/responsible-ai-for-law-firms-security-trust-and-governance",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-28T10:17:43.000Z",
-      "summary": "AI is rapidly changing the way legal professionals work. From summarising lengthy documents to drafting correspondence and improving productivity, AI is helping law firms reduce administrative burden. However, as AI adoption grows, so do the questions that surround security, compliance and trust\nThe post Responsible AI for law firms – security, trust and governance appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-court-of-appeal-upholds-data-breach-ruling-in",
-      "title": "Court of Appeal upholds data breach ruling in favour of law firm",
-      "url": "https://www.legalfutures.co.uk/latest-news/court-of-appeal-upholds-data-breach-ruling-in-favour-of-law-firm",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-27T23:01:45.000Z",
-      "summary": "The Court of Appeal has thrown out a bid to appeal a ruling that cleared defendant law firm DWF of data protection breaches.\nThe post Court of Appeal upholds data breach ruling in favour of law firm appeared first on Legal Futures.",
-      "tags": [
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "abovethelaw-com-2026-08-the-only-family-to-put-two-generations-on-the-supreme-co",
-      "title": "The Only Family To Put Two Generations On The Supreme Court",
-      "url": "https://abovethelaw.com/2026/08/the-only-family-to-put-two-generations-on-the-supreme-court/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-08-27T21:35:00.000Z",
-      "summary": "One dissented alone against segregation. The other anchored the Court's right flank.\nThe post The Only Family To Put Two Generations On The Supreme Court appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "abovethelaw-com-2026-08-biglaws-talent-wars-bring-signing-bonuses-back-into-styl",
-      "title": "Biglaw’s Talent Wars Bring Signing Bonuses Back Into Style",
-      "url": "https://abovethelaw.com/2026/08/biglaws-talent-wars-bring-signing-bonuses-back-into-style/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-08-27T19:11:00.000Z",
-      "summary": "Biglaw firms are once again paying a premium to secure top talent.\nThe post Biglaw’s Talent Wars Bring Signing Bonuses Back Into Style appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "medcitynews-com-2026-08-oura-wearable-ring-lawsuit-",
-      "title": "Why Oura’s Sleep-Tracking Lawsuit Is Really About Trust",
-      "url": "https://medcitynews.com/2026/08/oura-wearable-ring-lawsuit/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-08-27T14:02:00.000Z",
-      "summary": "The case is reigniting questions about how much precision consumers should expect from AI-powered health wearables.\nThe post Why Oura’s Sleep-Tracking Lawsuit Is Really About Trust appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-scotusblog-com-2026-08-the-ripple-effects-of-scotus-mail-in-voting-decision-",
-      "title": "The ripple effects of SCOTUS’ mail-in voting decision",
-      "url": "https://www.scotusblog.com/2026/08/the-ripple-effects-of-scotus-mail-in-voting-decision/",
-      "source": "SCOTUSblog",
-      "region": "US",
-      "date": "2026-08-27T13:00:00.000Z",
-      "summary": "Plus, a man was arrested after a guillotine was parked next to the Supreme Court.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
     }
   ]
 }
