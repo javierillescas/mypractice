@@ -1,6 +1,37 @@
 {
-  "lastUpdated": "2026-09-27T11:24:20.576Z",
+  "lastUpdated": "2026-09-28T12:55:01.199Z",
   "articles": [
+    {
+      "id": "www-artificiallawyer-com-2026-09-28-arbitrators-embrace-reject-legal-ai-",
+      "title": "Arbitrators Embrace + Reject Legal AI",
+      "url": "https://www.artificiallawyer.com/2026/09/28/arbitrators-embrace-reject-legal-ai/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-09-28T10:27:26.000Z",
+      "summary": "A survey of 557 arbitration professionals in the US has found strongly conflicting data about legal AI. While some use cases for AI seem popular, ...",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-09-scary-law-firms-in-time-for-halloween-see-generally-",
+      "title": "Scary Law Firms In Time For Halloween — See Generally",
+      "url": "https://abovethelaw.com/2026/09/scary-law-firms-in-time-for-halloween-see-generally/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-09-27T23:04:00.000Z",
+      "summary": "Nothing To Fear But Quinn Itself: BTI's annual survey of the firms clients least want to see across the \"v.\" is out, and Quinn Emanuel, Kirkland & Ellis, Skadden, and Gibson Dunn are once again the Fearsome Foursome. Weird how two of those firms were too chicken to even defend themselves against an illegal executive order.\n\n\nShow Me The Precedent: The Eighth Circuit revived Missouri's Republican g",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "abovethelaw-com-2026-09-adventures-in-legal-tech-how-one-litigator-uses-claude-t",
       "title": "‘Adventures In Legal Tech’: How One Litigator Uses Claude To Build His Case Strategy",
@@ -2129,50 +2160,6 @@
       "tags": [
         "AI in Law",
         "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-08-nominated-to-the-supreme-court-on-monday-gone-by-the-nex",
-      "title": "Nominated To The Supreme Court On Monday, Gone By The Next Weekend",
-      "url": "https://abovethelaw.com/2026/08/nominated-to-the-supreme-court-on-monday-gone-by-the-next-weekend/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-08-28T23:02:00.000Z",
-      "summary": "What sank him wasn't his rulings. It was his years as a law professor.\nThe post Nominated To The Supreme Court On Monday, Gone By The Next Weekend appeared first on Above the Law.",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-08-the-mail-in-ballot-fight-is-right-back-where-it-started-",
-      "title": "The Mail-In Ballot Fight Is Right Back Where It Started, With The Trump Administration Taking Another ‘L’",
-      "url": "https://abovethelaw.com/2026/08/the-mail-in-ballot-fight-is-right-back-where-it-started-with-the-trump-administration-taking-another-l/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-08-28T17:46:00.000Z",
-      "summary": "Judge Talwani reviewed the final rule, just like the shadow docket ordered — and found it just as unconstitutional as before.\nThe post The Mail-In Ballot Fight Is Right Back Where It Started, With The Trump Administration Taking Another ‘L’ appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-scotusblog-com-2026-08-the-supreme-court-of-israel-",
-      "title": "The Supreme Court of Israel",
-      "url": "https://www.scotusblog.com/2026/08/the-supreme-court-of-israel/",
-      "source": "SCOTUSblog",
-      "region": "US",
-      "date": "2026-08-28T14:00:00.000Z",
-      "summary": "",
-      "tags": [
-        "Regulation",
         "Legal Reasoning"
       ],
       "relevance": "medium",
