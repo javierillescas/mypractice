@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-09-28T12:55:01.199Z",
+  "lastUpdated": "2026-09-29T12:07:58.925Z",
   "articles": [
+    {
+      "id": "www-artificiallawyer-com-2026-09-29-with-august-a-companys-agents-ask-lawyers-fo",
+      "title": "With August, A Company’s Agents Ask Lawyers For Help",
+      "url": "https://www.artificiallawyer.com/2026/09/29/with-august-a-companys-agents-ask-lawyers-for-help/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-09-29T07:07:58.000Z",
+      "summary": "Legal AI platform, August, is launching a new feature that allows AI agents working inside a company to request help from lawyers – which could ...",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-09-his-supreme-court-confirmation-was-so-bitter-it-invented",
+      "title": "His Supreme Court Confirmation Was So Bitter It Invented The Modern Hearing",
+      "url": "https://abovethelaw.com/2026/09/his-supreme-court-confirmation-was-so-bitter-it-invented-the-modern-hearing/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-09-28T22:19:00.000Z",
+      "summary": "is four-month confirmation fight changed how the Senate vets justices, permanently.\nThe post His Supreme Court Confirmation Was So Bitter It Invented The Modern Hearing appeared first on Above the Law.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-09-this-former-federal-judge-went-from-three-emails-a-day-t",
+      "title": "This Former Federal Judge Went From Three Emails A Day To A Flooded Biglaw Inbox",
+      "url": "https://abovethelaw.com/2026/09/this-former-federal-judge-went-from-three-emails-a-day-to-a-flooded-biglaw-inbox/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-09-28T20:04:00.000Z",
+      "summary": "Welcome back to private practice, Your Honor.\nThe post This Former Federal Judge Went From Three Emails A Day To A Flooded Biglaw Inbox appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-09-legal-ethics-roundup-ethical-ai-billing-practices-judge-",
+      "title": "Legal Ethics Roundup: Ethical AI Billing Practices, Judge Resigns To Avoid Sanction, Law School Accreditation Limbo, Judge Reprimanded For Shooting Suggestion, AI Patchwork, MT Legal Deserts & More ",
+      "url": "https://abovethelaw.com/2026/09/legal-ethics-roundup-ethical-ai-billing-practices-judge-resigns-to-avoid-sanction-law-school-accreditation-limbo-judge-reprimanded-for-shooting-suggestion-ai-patchwork-mt-legal-deserts-mor/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-09-28T16:14:53.000Z",
+      "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.\nThe post Legal Ethics Roundup: Ethical AI Billing Practices, Judge Resigns To Avoid Sanction, Law School Accreditation Limbo, Judge Reprimanded For Shooting Suggestion, AI Patchwork, MT Legal Deserts & More  appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Market",
+        "Legal Education",
+        "Legal Reasoning"
+      ],
+      "relevance": "high",
+      "score": 6
+    },
+    {
+      "id": "www-lawnext-com-2026-09-in-a-marriage-of-two-alsps-repario-acquires-unitedlex-to",
+      "title": "In A Marriage of Two ALSPs, Repario Acquires UnitedLex to Strengthen Its AI Offerings",
+      "url": "https://www.lawnext.com/2026/09/in-a-marriage-of-two-alsps-repario-acquires-unitedlex-to-strengthen-its-ai-offerings.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-09-28T15:08:03.000Z",
+      "summary": "In a marriage of two alternative legal services providers, Repario, a company with a focus on e-discovery and managed review, has acquired UnitedLex, a global company that provides a broader range of services spanning legal process outsourcing, legal operations, litigation, IP, contracts and technology. Repario said that by blending its agility and innovation with the […]",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech",
+        "Legal Reasoning"
+      ],
+      "relevance": "high",
+      "score": 6
+    },
     {
       "id": "www-artificiallawyer-com-2026-09-28-arbitrators-embrace-reject-legal-ai-",
       "title": "Arbitrators Embrace + Reject Legal AI",
