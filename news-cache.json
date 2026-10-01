@@ -1,6 +1,127 @@
 {
-  "lastUpdated": "2026-09-30T11:55:25.098Z",
+  "lastUpdated": "2026-10-01T12:26:36.415Z",
   "articles": [
+    {
+      "id": "www-legalfutures-co-uk-latest-news-sra-announces-pause-to-compliance-officer-rul",
+      "title": "SRA announces “pause” to compliance officer rule changes",
+      "url": "https://www.legalfutures.co.uk/latest-news/sra-announces-pause-to-compliance-officer-rule-changes",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-09-30T23:07:50.000Z",
+      "summary": "The Solicitors Regulation Authority has bowed to pressure from the profession and announced a “pause” in its implementation of the new compliance officer rules.\nThe post SRA announces “pause” to compliance officer rule changes appeared first on Legal Futures.",
+      "tags": [
+        "Regulation"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-09-ai-can-read-between-the-redacted-lines-",
+      "title": "AI Can Read Between The Redacted Lines",
+      "url": "https://abovethelaw.com/2026/09/ai-can-read-between-the-redacted-lines/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-09-30T20:44:00.000Z",
+      "summary": "Our very own investigation into Judge Elanor Ross shows how quickly artificial intelligence can uncover what courts tried to conceal.\nThe post AI Can Read Between The Redacted Lines appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-lawnext-com-2026-09-3rd-circuit-rules-for-thomson-reuters-in-its-copyright-f",
+      "title": "3rd Circuit Rules For Thomson Reuters In Its Copyright Fight Against Legal Research Startup ROSS",
+      "url": "https://www.lawnext.com/2026/09/3rd-circuit-rules-for-thomson-reuters-in-its-copyright-fight-against-legal-research-startup-ross.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-09-30T19:29:33.000Z",
+      "summary": "Yesterday I noted that th 3rd U.S. Circuit Court of Appeals had issued an opinion in the long-running copyright battle between Thomson Reuters and the now-shuttered AI legal research company ROSS Intelligence, but that the opinion was sealed and not viewable by the public. Today, it was revealed that the court has ruled in favor […]",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "legaltechnology-com-clio-buys-learned-hand-as-judiciary-strategy-takes-shape-",
+      "title": "Clio buys Learned Hand as judiciary strategy takes shape",
+      "url": "https://legaltechnology.com/clio-buys-learned-hand-as-judiciary-strategy-takes-shape/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-09-30T19:14:39.000Z",
+      "summary": "Clio today (30 September) announced the acquisition of Learned Hand, an AI company building technology specifically for judges and courts. The acquisition marks Clio’s first direct expansion into the judiciary, […]\nThe post Clio buys Learned Hand as judiciary strategy takes shape appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-lawnext-com-2026-09-clio-acquires-learned-hand-giving-its-new-judiciary-busi",
+      "title": "Clio Acquires Learned Hand, Giving Its New Judiciary Business An Existing Product",
+      "url": "https://www.lawnext.com/2026/09/clio-acquires-learned-hand-giving-its-new-judiciary-business-an-existing-product.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-09-30T18:58:01.000Z",
+      "summary": "Clio today announced that it has acquired Learned Hand, a startup that builds AI exclusively for judges and courts, giving the legal tech company’s newly launched judiciary business an existing product already in use in a number of courthouses. Clio did not disclose the terms of the deal. The acquisition caps a rapid series of […]",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Tech",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "blogs-thomsonreuters-com-legal-blog-ai-investigation-solution-law-enforcement-",
+      "title": "What agencies should look for before buying an AI investigation solution",
+      "url": "https://blogs.thomsonreuters.com/legal-blog/ai-investigation-solution-law-enforcement/",
+      "source": "Thomson Reuters",
+      "region": "Global",
+      "date": "2026-09-30T17:58:15.000Z",
+      "summary": "Artificial intelligence has moved fast into everyday life, and law enforcement is no exception. Automated tools with machine learning features …\nThe post What agencies should look for before buying an AI investigation solution appeared first on Thomson Reuters Law Blog.",
+      "tags": [
+        "AI in Law"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-abajournal-com-news-article-florida-ag-asks-judge-to-bar-openai-from-develop",
+      "title": "Florida AG asks judge to bar OpenAI from developing new AI models without regulation",
+      "url": "https://www.abajournal.com/news/article/florida-ag-asks-judge-to-bar-openai-from-developing-new-models-without-regulation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-09-30T16:51:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-09-30-clio-buys-learned-hand-as-judiciary-strategy",
+      "title": "Clio Buys Learned Hand as Judiciary Strategy Expands",
+      "url": "https://www.artificiallawyer.com/2026/09/30/clio-buys-learned-hand-as-judiciary-strategy-expands/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-09-30T13:53:21.000Z",
+      "summary": "Clio has bought Learned Hand, an AI company focused on supporting judges and the courts. The move is part of its wider strategy to build ...",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "legaltechnology-com-thomson-reuters-wins-ai-copyright-appeal-against-ross-intell",
       "title": "Thomson Reuters wins AI copyright appeal against Ross Intelligence, Reuters says",
@@ -2312,100 +2433,6 @@
       "tags": [
         "AI in Law",
         "Legal Tech",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "verfassungsblog-de-a-frozen-clock-and-a-frozen-problem-",
-      "title": "A Frozen Clock and a Frozen Problem",
-      "url": "https://verfassungsblog.de/a-frozen-clock-and-a-frozen-problem/",
-      "source": "Verfassungsblog",
-      "region": "EU",
-      "date": "2026-09-01T08:19:03.000Z",
-      "summary": "Brussels, do we have a problem with the AI Act? My answer, in essence, was yes. Actually, more than one: overregulation and excessive demand on high-risk AI systems. In June 2026, when the European Parliament adopted the Digital Omnibus on AI, it seemed Brussels had answered my question in its own way. The language surrounding it – “simplification”, “burden reduction”, “protecting Europe’s competi",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "In-House Counsel"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-legalfutures-co-uk-services-directory-minerva2",
-      "title": "Minerva",
-      "url": "https://www.legalfutures.co.uk/services-directory/minerva2",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-31T23:02:44.000Z",
-      "summary": "Minerva is an AI enabled legal technology solution delivering secure, intelligent onboarding for law firms\nThe post Minerva appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-services-directory-bsd-legal-marketing",
-      "title": "BSD Legal Marketing",
-      "url": "https://www.legalfutures.co.uk/services-directory/bsd-legal-marketing",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-08-31T23:01:04.000Z",
-      "summary": "BSD Legal Marketing is a specialist digital marketing agency dedicated to helping law firms generate more enquiries and build a stronger, more sustainable source of new business online.\nThe post BSD Legal Marketing appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-08-biglaw-firms-emails-casually-insult-dumb-judge-and-poop-",
-      "title": "Biglaw Firm’s Emails Casually Insult ‘Dumb Judge’ And ‘Poop Man’",
-      "url": "https://abovethelaw.com/2026/08/biglaw-firms-emails-casually-insult-dumb-judge-and-poop-man/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-08-31T19:11:00.000Z",
-      "summary": "NCAA lawyers seem to have strong opinions.\nThe post Biglaw Firm’s Emails Casually Insult ‘Dumb Judge’ And ‘Poop Man’ appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "www-lawnext-com-2026-08-series-a-round-for-newcode-an-ai-harness-for-legal-bring",
-      "title": "Series A Round for Newcode, An AI Harness for Legal, Brings Its Funding To $20M and Fuels U.S. Expansion",
-      "url": "https://www.lawnext.com/2026/08/series-a-round-for-newcode-an-ai-harness-for-legal-brings-its-funding-to-20m-and-fuels-u-s-expansion.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-08-31T17:17:47.000Z",
-      "summary": "Newcode, an Oslo-based legal AI company that sells law firms a configurable AI harness rather than a finished assistant, has raised a Series A led by OnDean Forward, the investment firm founded by Relativity founder Andrew Sieja. The round brings the company’s total capital raised this year to $20 million and will fund its expansion […]",
-      "tags": [
-        "AI in Law",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-abajournal-com-news-article-dumb-judge-and-other-insults-turn-up-in-lawyers-",
-      "title": "‘Dumb judge’ and other insults turn up in BigLaw lawyers’ emails in NCAA eligibility suit",
-      "url": "https://www.abajournal.com/news/article/dumb-judge-and-other-insults-turn-up-in-lawyers-emails-in-ncaa-eligibility-suit/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-08-31T15:51:00.000Z",
-      "summary": "",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
         "Legal Reasoning"
       ],
       "relevance": "medium",
