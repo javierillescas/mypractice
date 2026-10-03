@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-10-02T11:53:03.976Z",
+  "lastUpdated": "2026-10-03T11:06:14.182Z",
   "articles": [
+    {
+      "id": "www-lawnext-com-2026-10-ross-says-it-will-ask-supreme-court-to-review-3rd-circui",
+      "title": "ROSS Says It Will Ask Supreme Court to Review 3rd Circuit Ruling for Thomson Reuters in Copyright Case",
+      "url": "https://www.lawnext.com/2026/10/ross-says-it-will-ask-supreme-court-to-review-3rd-circuit-ruling-for-thomson-reuters-in-copyright-case.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-10-02T19:38:26.000Z",
+      "summary": "Following this week’s ruling by the 3rd U.S. Circuit Court of Appeals in favor of Thomson Reuters in its long-running copyright battle against the now-shuttered AI legal research company ROSS Intelligence,  ROSS says it will seek review in the Supreme Court.  Yar Chaikovsky, partner at White & Case, issued a statement on behalf of ROSS […]",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "high",
+      "score": 6
+    },
+    {
+      "id": "www-lawnext-com-2026-10-relativity-ceo-says-2028-server-deadline-stands-will-pri",
+      "title": "Relativity CEO Says 2028 Server Deadline Stands; Will Prioritize Partnering with Frontier Labs Over Legal AI Companies",
+      "url": "https://www.lawnext.com/2026/10/relativity-ceo-says-2028-server-deadline-stands-will-prioritize-partnering-with-frontier-labs-over-legal-ai-companies.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-10-02T15:49:38.000Z",
+      "summary": "Relativity is holding firm on its plan to require that all new matters be hosted in the cloud beginning Jan. 1, 2028, CEO Phil Saunders said Thursday, and he had a blunt message for partners who are not on board: “Know we’re going to run through you.” Saunders made the comments during a media briefing […]",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-10-court-grants-three-cases-as-new-term-is-set-to-begin-",
+      "title": "Court grants three cases as new term is set to begin",
+      "url": "https://www.scotusblog.com/2026/10/court-grants-three-cases-as-new-term-is-set-to-begin/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-10-02T13:00:00.000Z",
+      "summary": "Plus, President Trump again criticized his Supreme Court appointees.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
     {
       "id": "www-legalfutures-co-uk-latest-news-birss-eyes-page-limit-for-litigants-in-person",
       "title": "Birss eyes page limit for litigants in person to state their case",
@@ -2360,83 +2405,6 @@
       ],
       "relevance": "medium",
       "score": 4
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-09-03-building-the-judgment-layer-with-legal-ai-al",
-      "title": "Building the Judgment Layer with Legal AI – Aloi",
-      "url": "https://www.artificiallawyer.com/2026/09/03/building-the-judgment-layer-with-legal-ai-aloi/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-09-03T06:42:17.000Z",
-      "summary": "‘Legal AI can’t do judgment’, some have said, as if this were a sacrosanct area of legal work. But, AI can capture and leverage judgment ...",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-solicitor-fails-in-appeal-against-rebuke-for-",
-      "title": "Solicitor fails in appeal against rebuke for estate administration delays",
-      "url": "https://www.legalfutures.co.uk/latest-news/solicitor-fails-in-appeal-against-rebuke-for-estate-administration-delays",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-09-02T23:05:25.000Z",
-      "summary": "A solicitor rebuked by the SRA for “substantial and unexplained delay” in the administration of an estate has failed in an appeal to the SDT.\nThe post Solicitor fails in appeal against rebuke for estate administration delays appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-slapps-show-limits-of-legal-regulation-say-mp",
-      "title": "SLAPPs show limits of legal regulation, say MPs",
-      "url": "https://www.legalfutures.co.uk/latest-news/slapps-show-limits-of-legal-regulation-say-mps",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-09-02T23:03:18.000Z",
-      "summary": "The government needs to “look again” at the enforcement powers of the SRA to ensure it can deal with “lawyers who let down the reputation of the profession”, a minister said this week.\nThe post SLAPPs show limits of legal regulation, say MPs appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Regulation"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-09-patent-litigations-most-famous-judge-makes-his-biglaw-mo",
-      "title": "Patent Litigation’s Most Famous Judge Makes His Biglaw Move",
-      "url": "https://abovethelaw.com/2026/09/patent-litigations-most-famous-judge-makes-his-biglaw-move/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-09-02T19:13:00.000Z",
-      "summary": "After years overseeing blockbuster patent cases, he’s heading back to Biglaw.\nThe post Patent Litigation’s Most Famous Judge Makes His Biglaw Move appeared first on Above the Law.",
-      "tags": [
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-lawnext-com-2026-09-filevine-takes-on-shepards-and-keycite-with-its-own-ai-c",
-      "title": "Filevine Takes On Shepard’s and KeyCite With Its Own AI Case Law Citator and Hallucination Checker",
-      "url": "https://www.lawnext.com/2026/09/filevine-takes-on-shepards-and-keycite-with-its-own-ai-case-law-citator-and-hallucination-checker.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-09-02T14:24:33.000Z",
-      "summary": "The legal technology company Filevine has launched an AI-native citator and a companion brief-checking tool inside LOIS, its Legal Operating Intelligence System AI platform, that its CEO says perform as well as or better than the leading legal citators from LexisNexis and Thomson Reuters. The citator has two core features. One checks a filed or […]",
-      "tags": [
-        "AI in Law",
-        "Legal Tech",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
     }
   ]
 }
