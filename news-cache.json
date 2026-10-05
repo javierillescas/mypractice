@@ -1,6 +1,85 @@
 {
-  "lastUpdated": "2026-10-04T11:47:13.459Z",
+  "lastUpdated": "2026-10-05T13:36:24.165Z",
   "articles": [
+    {
+      "id": "legaltechnology-com-flank-launches-senior-legal-advisory-board-to-shape-agentic-",
+      "title": "Flank launches senior legal advisory board to shape agentic AI strategy",
+      "url": "https://legaltechnology.com/flank-launches-senior-legal-advisory-board-to-shape-agentic-ai-strategy/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-10-05T12:12:37.000Z",
+      "summary": "Berlin-founded legal AI company Flank is set to unveil a heavyweight senior advisory board that it calls ‘The Orchestration Layer,’ bringing together general counsel, legal operations leaders, contracting specialists and […]\nThe post Flank launches senior legal advisory board to shape agentic AI strategy appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "high",
+      "score": 6
+    },
+    {
+      "id": "www-legalfutures-co-uk-associate-news-litigation-funding-under-the-microscope",
+      "title": "Litigation funding under the microscope",
+      "url": "https://www.legalfutures.co.uk/associate-news/litigation-funding-under-the-microscope",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-05T08:00:51.000Z",
+      "summary": "The 10-week consultation closed on 17 September 2026, but the direction of travel is clear: tighter regulation is likely as the SRA seeks to reduce the risk of further large-scale law firm failures.\nThe post Litigation funding under the microscope appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "In-House Counsel",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "high",
+      "score": 6
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-ca-overturns-ruling-that-solicitor-turned-bli",
+      "title": "CA overturns ruling that solicitor turned ‘blind eye’ to fraud",
+      "url": "https://www.legalfutures.co.uk/latest-news/ca-overturns-ruling-that-solicitor-turned-blind-eye-to-fraud",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-04T23:07:03.000Z",
+      "summary": "The Court of Appeal has overturned a ruling that a solicitor “dishonestly assisted” in misappropriating a company’s funds.\nThe post CA overturns ruling that solicitor turned ‘blind eye’ to fraud appeared first on Legal Futures.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-listed-litigation-funder-goes-into-run-off-af",
+      "title": "Listed litigation funder goes into run-off after string of losses",
+      "url": "https://www.legalfutures.co.uk/latest-news/listed-litigation-funder-goes-into-run-off-after-string-of-losses",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-04T23:01:29.000Z",
+      "summary": "An AIM-listed litigation funder that has lost seven of its last eight cases and recorded an £87m loss in its last financial year has entered into an \"orderly run-off\".\nThe post Listed litigation funder goes into run-off after string of losses appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-10-missouris-terrible-week-see-generally-",
+      "title": "Missouri’s Terrible Week — See Generally",
+      "url": "https://abovethelaw.com/2026/10/missouris-terrible-week-see-generally/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-10-04T22:49:40.000Z",
+      "summary": "Three Time Losers: The Supreme Court shut down the third attempt to impose Missouri's gerrymandered map for this election in direct violation of applicable law. Along the way, the Court directed significant shade toward the Eighth Circuit, noting that the panel's theory didn't appear in any of the Court's precedents.\n\n\nAirball State: It didn't get any better for Missouri, as Sen. Eric Schmitt accu",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
     {
       "id": "www-lawnext-com-2026-10-ross-says-it-will-ask-supreme-court-to-review-3rd-circui",
       "title": "ROSS Says It Will Ask Supreme Court to Review 3rd Circuit Ruling for Thomson Reuters in Copyright Case",
@@ -2130,65 +2209,6 @@
         "AI in Law",
         "In-House Counsel",
         "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-09-a-former-president-returned-to-the-supreme-court-to-argu",
-      "title": "A Former President Returned To The Supreme Court To Argue A Case",
-      "url": "https://abovethelaw.com/2026/09/a-former-president-returned-to-the-supreme-court-to-argue-a-case/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-09-04T21:44:00.000Z",
-      "summary": "One of the last great services of his life.\nThe post A Former President Returned To The Supreme Court To Argue A Case appeared first on Above the Law.",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-abajournal-com-news-article-dc-circuit-blames-deutsche-bank-lawyers-for-ai-h",
-      "title": "DC appeals court blames Deutsche Bank lawyers for AI hallucinations",
-      "url": "https://www.abajournal.com/news/article/dc-circuit-blames-deutsche-bank-lawyers-for-ai-hallucinations/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-09-04T18:53:00.000Z",
-      "summary": "",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-lawnext-com-2026-09-iltacon-news-round-up-part-4-the-business-of-law-litera-",
-      "title": "ILTACON News Round-Up Part 4, The Business of Law: Litera, Aderant, Oddr, TRĒ AI, Intapp",
-      "url": "https://www.lawnext.com/2026/09/iltacon-news-round-up-part-4-the-business-of-law-litera-aderant-oddr-tre-ai-intapp.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-09-04T14:45:54.000Z",
-      "summary": "Last week’s ILTACON, the annual conference of the International Legal Technology Association, brought what may have been the busiest news cycle I can remember for this conference, with a torrent of product announcements dominated by two themes: agentic AI and the Model Context Protocol. I have already covered the conference and several of the week’s […]",
-      "tags": [
-        "AI in Law",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-lawnext-com-2026-09-iltacon-news-round-up-part-3-documents-data-and-ai-imana",
-      "title": "ILTACON News Round-Up Part 3, Documents, Data and AI: iManage, NetDocuments, Entegrata, Wolters Kluwer, Thomson Reuters, Clio, Avvoka",
-      "url": "https://www.lawnext.com/2026/09/iltacon-news-round-up-part-3-documents-data-and-ai-imanage-netdocuments-entegrata-wolters-kluwer-thomson-reuters-clio-avvoka.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-09-04T13:04:14.000Z",
-      "summary": "Last week’s ILTACON, the annual conference of the International Legal Technology Association, brought what may have been the busiest news cycle I can remember for this conference, with a torrent of product announcements dominated by two themes: agentic AI and the Model Context Protocol. I have already covered the conference and several of the week’s […]",
-      "tags": [
-        "AI in Law",
-        "Legal Tech"
       ],
       "relevance": "medium",
       "score": 3
