@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-10-05T13:36:24.165Z",
+  "lastUpdated": "2026-10-06T12:45:13.311Z",
   "articles": [
+    {
+      "id": "www-legalfutures-co-uk-latest-news-sra-heading-for-carter-ruck-showdown-in-supre",
+      "title": "SRA heading for Carter-Ruck showdown in Supreme Court",
+      "url": "https://www.legalfutures.co.uk/latest-news/sra-heading-for-carter-ruck-showdown-in-supreme-court",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-05T23:10:02.000Z",
+      "summary": "The High Court has granted the SRA permission to appeal the Carter-Ruck ruling and issued a leapfrog certificate to take it straight to the Supreme Court.\nThe post SRA heading for Carter-Ruck showdown in Supreme Court appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Reasoning"
+      ],
+      "relevance": "high",
+      "score": 6
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-sme-law-firm-group-reports-positive-meeting-w",
+      "title": "SME law firm group reports “positive” meeting with SRA",
+      "url": "https://www.legalfutures.co.uk/latest-news/sme-law-firm-group-reports-positive-meeting-with-sra",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-05T23:05:45.000Z",
+      "summary": "The SME & Boutique Law Firm Alliance has described a meeting yesterday with the Solicitors Regulation Authority as “a positive step forward” - but with still a long way to go.\nThe post SME law firm group reports “positive” meeting with SRA appeared first on Legal Futures.",
+      "tags": [
+        "Regulation",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-questions-over-drunk-barrister-fail-to-save-c",
+      "title": "Questions over “drunk barrister” fail to save convicted man’s appeal",
+      "url": "https://www.legalfutures.co.uk/latest-news/questions-over-drunk-barrister-fail-to-save-convicted-mans-appeal",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-05T23:03:15.000Z",
+      "summary": "The Court of Appeal has rejected a convicted man’s application for third-party disclosure from the Bar Standards Board over claims that his prosecutor was drunk.\nThe post Questions over “drunk barrister” fail to save convicted man’s appeal appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "blogs-thomsonreuters-com-legal-blog-canada-what-is-deep-research-",
+      "title": "Canada: What is ‘Deep Research’?",
+      "url": "https://blogs.thomsonreuters.com/legal-blog/canada-what-is-deep-research/",
+      "source": "Thomson Reuters",
+      "region": "Global",
+      "date": "2026-10-05T19:44:52.000Z",
+      "summary": "A closer look at the agentic AI capability shaping legal research in Canada Legal research has always demanded precision, …\nThe post Canada: What is ‘Deep Research’? appeared first on Thomson Reuters Law Blog.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-10-legal-ethics-roundup-rip-justice-melissa-hart-the-law-is",
+      "title": "Legal Ethics Roundup: RIP Justice Melissa Hart, ‘The Law Is Ours’ NYC Bar Campaign, Legal Ethics In Pop Culture, Reading Recommendations, Headlines, Trivia, Events, Jobs & More",
+      "url": "https://abovethelaw.com/2026/10/legal-ethics-roundup-rip-justice-melissa-hart-the-law-is-ours-nyc-bar-campaign-legal-ethics-in-pop-culture-reading-recommendations-headlines-trivia-events-jobs-more/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-10-05T16:18:00.000Z",
+      "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.\nThe post Legal Ethics Roundup: RIP Justice Melissa Hart, ‘The Law Is Ours’ NYC Bar Campaign, Legal Ethics In Pop Culture, Reading Recommendations, Headlines, Trivia, Events, Jobs & More appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "legaltechnology-com-flank-launches-senior-legal-advisory-board-to-shape-agentic-",
       "title": "Flank launches senior legal advisory board to shape agentic AI strategy",
