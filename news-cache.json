@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2026-10-06T12:45:13.311Z",
+  "lastUpdated": "2026-10-07T12:39:12.596Z",
   "articles": [
+    {
+      "id": "www-artificiallawyer-com-2026-10-07-pilot5-launches-adversarial-ai-for-lawyers-",
+      "title": "Pilot5 Launches Adversarial AI for Lawyers",
+      "url": "https://www.artificiallawyer.com/2026/10/07/pilot5-launches-adversarial-ai-for-lawyers/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-10-07T11:55:51.000Z",
+      "summary": "Although a number of legal tech companies use LLM consensus and multiple model strategies already, Pilot5 and its new adversarial Legal AI product specifically taps ...",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-10-07-ivo-launches-open-source-deepseek-contract-a",
+      "title": "Ivo Launches Open-Source DeepSeek Contract AI Model",
+      "url": "https://www.artificiallawyer.com/2026/10/07/ivo-launches-open-source-deepseek-contract-ai-model/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-10-07T08:50:22.000Z",
+      "summary": "Ivo has launched a super-affordable ‘open-source model for contract work’. Branded as Sage, it was built in partnership with River AI by post-training DeepSeek V4 ...",
+      "tags": [
+        "AI in Law",
+        "Legal Tech",
+        "Legal Education"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-law-firm-included-offensive-personal-attack-o",
+      "title": "Law firm included “offensive personal attack” on judge in evidence",
+      "url": "https://www.legalfutures.co.uk/latest-news/law-firm-included-offensive-personal-attack-on-judge-in-evidence",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-06T23:07:47.000Z",
+      "summary": "The Competition Appeal Tribunal has criticised a leading class action law firm for including in evidence an “offensive personal attack” on its president.\nThe post Law firm included “offensive personal attack” on judge in evidence appeared first on Legal Futures.",
+      "tags": [
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-solicitor-who-tried-to-cover-up-claim-service",
+      "title": "Solicitor who tried to cover up claim service failure struck off",
+      "url": "https://www.legalfutures.co.uk/latest-news/solicitor-who-tried-to-cover-up-claim-service-failure-struck-off",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-06T23:03:58.000Z",
+      "summary": "A solicitor who sought to cover up his failure to serve a claim on the defendant by fabricating a letter and then misleading the court has been struck off.\nThe post Solicitor who tried to cover up claim service failure struck off appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-rapson-two-thirds-of-sra-investigations-touch",
+      "title": "Rapson: Two-thirds of SRA investigations touch on ethics",
+      "url": "https://www.legalfutures.co.uk/latest-news/rapson-two-thirds-of-sra-investigations-touch-on-ethics",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-06T23:01:32.000Z",
+      "summary": "Two-thirds of investigations by the Solicitors Regulation Authority involve “some reference” to professional ethics, its chief executive said yesterday.\nThe post Rapson: Two-thirds of SRA investigations touch on ethics appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Regulation"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-scotusblog-com-2026-10-justices-debate-which-courts-may-hear-constitutional-",
+      "title": "Justices debate which courts may hear constitutional challenges to laws on veterans’ benefits",
+      "url": "https://www.scotusblog.com/2026/10/justices-debate-which-courts-may-hear-constitutional-challenges-to-laws-on-veterans-benefits/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-10-06T18:02:11.000Z",
+      "summary": "",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-abajournal-com-news-article-lawyer-for-defendant-seen-shackled-outside-of-co",
+      "title": "Lawyer for defendant seen shackled outside courtroom should have sought mistrial, Oregon Supreme Court says",
+      "url": "https://www.abajournal.com/news/article/lawyer-for-defendant-seen-shackled-outside-of-courtroom-should-have-sought-mistrial-oregon-supreme-court-says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-10-06T15:38:00.000Z",
+      "summary": "",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-legalfutures-co-uk-latest-news-sra-heading-for-carter-ruck-showdown-in-supre",
       "title": "SRA heading for Carter-Ruck showdown in Supreme Court",
@@ -2270,22 +2374,6 @@
       "summary": "On September 3, 2026, lawyers for Nicolás Maduro filed a motion asking a federal judge in Manhattan to dismiss the narco-terrorism indictment against him, arguing that a sitting head of state enjoys absolute immunity from the criminal jurisdiction of any court but his own. Yet the doctrinal groundwork for treating a foreign leader’s forcible removal as jurisdictionally unproblematic had already be",
       "tags": [
         "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-lawyers-stage-old-bailey-protest-in-support-o",
-      "title": "Lawyers stage Old Bailey protest in support of contempt KC",
-      "url": "https://www.legalfutures.co.uk/latest-news/lawyers-stage-old-bailey-protest-in-support-of-contempt-kc",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-09-06T23:01:01.000Z",
-      "summary": "More than 100 lawyers staged a silent protest outside the Old Bailey last week in support of Rajiv Menon, the KC facing contempt of court proceedings for his closing speech.\nThe post Lawyers stage Old Bailey protest in support of contempt KC appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel",
         "Legal Reasoning"
       ],
       "relevance": "medium",
