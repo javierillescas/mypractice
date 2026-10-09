@@ -1,6 +1,128 @@
 {
-  "lastUpdated": "2026-10-08T12:49:03.160Z",
+  "lastUpdated": "2026-10-09T12:34:22.494Z",
   "articles": [
+    {
+      "id": "legaltechnology-com-startup-corner-meet-ideallegal-ai-a-new-legal-ai-team-",
+      "title": "Startup Corner: Meet iDealLegal.ai, a new legal AI team",
+      "url": "https://legaltechnology.com/startup-corner-meet-ideallegal-ai-a-new-legal-ai-team/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-10-09T12:30:43.000Z",
+      "summary": "Founded in January 2026, bootstrapped legal tech startup iDealLegal.ai is targeting small law firms and lean in-house legal teams with an AI legal team trained on playbooks and contract experience. […]\nThe post Startup Corner: Meet iDealLegal.ai, a new legal AI team appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "high",
+      "score": 6
+    },
+    {
+      "id": "legaltechnology-com-legal-tech-news-roundup-major-funding-acquisitions-and-new-l",
+      "title": "Legal tech news roundup: Major funding, acquisitions and new launches",
+      "url": "https://legaltechnology.com/legal-tech-news-roundup-major-funding-acquisitions-and-new-launches/",
+      "source": "Legal IT Insider",
+      "region": "UK",
+      "date": "2026-10-09T12:21:44.000Z",
+      "summary": "From fresh funding rounds and acquisitions to a wave of agentic AI launches, it’s been another busy week in legal tech. Pandektes and Arceus have raised multi-million Series As, Opus […]\nThe post Legal tech news roundup: Major funding, acquisitions and new launches appeared first on Legal IT Insider.",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "verfassungsblog-de-scope-3-accounting-responsibility-and-control-in-the-mach-ene",
+      "title": "A New Frontier for Project-Based Climate Litigation",
+      "url": "https://verfassungsblog.de/scope-3-accounting-responsibility-and-control-in-the-mach-energy-v-denman-decision/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-10-09T06:54:56.000Z",
+      "summary": "On 7 October 2026, the High Court of Australia held, by three judges to two, that a New South Wales (NSW) planning authority must consider conditions to limit a coal mine’s scope 3 emissions. This meant the authority could not simply say they had considered those emissions, representing 98% of the project's greenhouse gas (GHG) emissions – they had to show they had considered planning conditions t",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-ai-poses-existential-threat-to-immigration-ca",
+      "title": "AI poses “existential threat” to immigration cases, tribunal warns",
+      "url": "https://www.legalfutures.co.uk/latest-news/ai-poses-existential-threat-to-immigration-cases-tribunal-warns",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-08T23:05:18.000Z",
+      "summary": "The ability of AI to generate documents and other material could pose “an existential threat to the integrity of the immigration appeal system”, the Upper Tribunal has warned.\nThe post AI poses “existential threat” to immigration cases, tribunal warns appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-legalfutures-co-uk-blog-why-law-firms-are-getting-ai-supervision-wrong",
+      "title": "Why law firms are getting AI supervision wrong",
+      "url": "https://www.legalfutures.co.uk/blog/why-law-firms-are-getting-ai-supervision-wrong",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-08T23:00:34.000Z",
+      "summary": "The profession's response to AI supervision failures misunderstands the nature of LLM output - there needs to be for a shift in the culture.\nThe post Why law firms are getting AI supervision wrong appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-10-your-law-schools-ai-training-could-make-or-break-your-bi",
+      "title": "Your Law School’s AI Training Could Make Or Break Your Biglaw Prospects",
+      "url": "https://abovethelaw.com/2026/10/your-law-schools-ai-training-could-make-or-break-your-biglaw-prospects/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-10-08T19:15:00.000Z",
+      "summary": "Firms will remember which schools consistently deliver AI-ready associates.\nThe post Your Law School’s AI Training Could Make Or Break Your Biglaw Prospects appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Education"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "abovethelaw-com-2026-10-contracts-are-becoming-infrastructure-for-ai-agents-",
+      "title": "Contracts Are Becoming Infrastructure For AI Agents",
+      "url": "https://abovethelaw.com/2026/10/contracts-are-becoming-infrastructure-for-ai-agents/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-10-08T18:32:00.000Z",
+      "summary": "In-house lawyers should prepare for a world in which contracts are not merely documents that explain what happened.\nThe post Contracts Are Becoming Infrastructure For AI Agents appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-10-wild-card-justices-and-the-kagan-court-for-criminal-c",
+      "title": "Wild card justices and the “Kagan court” for criminal cases",
+      "url": "https://www.scotusblog.com/2026/10/wild-card-justices-and-the-kagan-court-for-criminal-cases/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-10-08T17:31:45.000Z",
+      "summary": "",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "abovethelaw-com-2026-10-supreme-court-wannabes-head-search-committee-for-bari-we",
       "title": "Supreme Court Wannabes Head Search Committee For Bari Weiss University Law School Dean",
@@ -163,6 +285,22 @@
       ],
       "relevance": "medium",
       "score": 3
+    },
+    {
+      "id": "verfassungsblog-de-a-politician-withdrawn-in-eliminationist-times-",
+      "title": "A Politician Withdrawn in Eliminationist Times",
+      "url": "https://verfassungsblog.de/a-politician-withdrawn-in-eliminationist-times/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-10-06T13:14:10.000Z",
+      "summary": "Last Thursday, nine justices of Israel’s Supreme Court, under President Yitzhak Amit, heard appeals against the Central Elections Committee. This body, made up of party delegates, had barred two Arab lists from the Knesset election of 27 October 2026. Within the current Israeli context, the judges’ words spoken in that room constituted a form of state violence that must be recognized as such. The ",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Reasoning"
+      ],
+      "relevance": "high",
+      "score": 7
     },
     {
       "id": "www-legalfutures-co-uk-latest-news-sra-heading-for-carter-ruck-showdown-in-supre",
@@ -2285,96 +2423,6 @@
       ],
       "relevance": "medium",
       "score": 4
-    },
-    {
-      "id": "www-legalfutures-co-uk-features-sra-desk-based-reviews-and-aml-inspections",
-      "title": "SRA desk-based reviews and AML inspections",
-      "url": "https://www.legalfutures.co.uk/features/sra-desk-based-reviews-and-aml-inspections",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-09-09T09:21:29.000Z",
-      "summary": "By Georgia Tuckley, junior compliance officer at Legal Futures Associate DG Legal The Solicitors Regulation Authority (SRA) has strengthened its approach to anti-money laundering (AML) supervision in recent years. Regulatory engagement has become more proactive, structured and routine, reflecting the… Read More\nThe post SRA desk-based reviews and AML inspections appeared first on Legal Futures.",
-      "tags": [
-        "Regulation"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-pogust-goodhead-goes-to-court-to-retain-contr",
-      "title": "Pogust Goodhead goes to court to retain control of dam case",
-      "url": "https://www.legalfutures.co.uk/latest-news/pogust-goodhead-goes-to-court-to-retain-control-of-dam-case",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-09-08T23:03:03.000Z",
-      "summary": "Pogust Goodhead is seeking a court declaration that would deny the legality of the notice purporting to terminate its retainer for the Mariana Dam litigation.\nThe post Pogust Goodhead goes to court to retain control of dam case appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-lawnext-com-2026-09-on-lawnext-casefleet-founder-jeff-kerr-on-fact-managemen",
-      "title": "On LawNext: Casefleet Founder Jeff Kerr on Fact Management in the Age of AI",
-      "url": "https://www.lawnext.com/2026/09/on-lawnext-casefleet-founder-jeff-kerr-on-fact-management-in-the-age-of-ai.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-09-08T18:54:33.000Z",
-      "summary": "Chronologies have become one of legal tech’s hottest categories, with a wave of AI startups promising to turn a messy evidentiary record into a structured timeline in minutes. Jeff Kerr and his company Casefleet were more than a decade ahead of the pack. Kerr finished law school in 2010 and made what he calls the crazy decision to start […]",
-      "tags": [
-        "AI in Law",
-        "Legal Tech",
-        "Legal Education",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-09-08-new-legal-tech-vc-fund-launches-wilson-sonsi",
-      "title": "New Legal Tech VC Fund Launches – Wilson Sonsini Invests",
-      "url": "https://www.artificiallawyer.com/2026/09/08/new-legal-tech-vc-fund-launches-wilson-sonsini-invests/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-09-08T14:02:57.000Z",
-      "summary": "A new legal tech fund, GCVC, has launched, backed by over fifty sitting general counsels from prominent private and public companies. Meanwhile, Wilson Sonsini is ...",
-      "tags": [
-        "In-House Counsel",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-09-08-lexroom-acquires-french-bulgarian-companies-",
-      "title": "Lexroom Acquires French + Bulgarian Companies",
-      "url": "https://www.artificiallawyer.com/2026/09/08/lexroom-acquires-french-bulgarian-companies/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-09-08T13:49:06.000Z",
-      "summary": "Italy’s leading legal AI company, Lexroom – which raised $50m in a Series B round this summer – has acquired French legal tech startup Query ...",
-      "tags": [
-        "AI in Law",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-scotusblog-com-2026-09-one-very-busy-weekend-",
-      "title": "One very busy weekend",
-      "url": "https://www.scotusblog.com/2026/09/one-very-busy-weekend/",
-      "source": "SCOTUSblog",
-      "region": "US",
-      "date": "2026-09-08T13:00:00.000Z",
-      "summary": "Plus, how two men without lawyers got their cases to the Supreme Court.",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
     }
   ]
 }
