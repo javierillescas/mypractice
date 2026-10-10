@@ -1,6 +1,66 @@
 {
-  "lastUpdated": "2026-10-09T12:34:22.494Z",
+  "lastUpdated": "2026-10-10T11:54:49.746Z",
   "articles": [
+    {
+      "id": "abovethelaw-com-2026-10-biglaw-firm-will-pay-associates-to-be-bad-at-ai-for-a-wh",
+      "title": "Biglaw Firm Will Pay Associates To Be Bad At AI For A While (100 Hours, To Be Precise)",
+      "url": "https://abovethelaw.com/2026/10/biglaw-firm-will-pay-associates-to-be-bad-at-ai-for-a-while-100-hours-to-be-precise/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-10-09T16:14:31.000Z",
+      "summary": "It's the only way to learn AI, and this firm has figured that out.\nThe post Biglaw Firm Will Pay Associates To Be Bad At AI For A While (100 Hours, To Be Precise) appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-10-from-biglaw-to-tv-judge-",
+      "title": "From Biglaw To TV Judge",
+      "url": "https://abovethelaw.com/2026/10/from-biglaw-to-tv-judge/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-10-09T15:32:00.000Z",
+      "summary": "A look behind the curtain of an unscripted courtroom show. \nThe post From Biglaw To TV Judge appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-abajournal-com-news-article-plaintiff-who-filed-fraudulent-case-then-trashed",
+      "title": "Plaintiff who filed fraudulent case, trashed desktop computer hit with sanctions",
+      "url": "https://www.abajournal.com/news/article/plaintiff-who-filed-fraudulent-case-then-trashed-his-desktop-hit-with-sanctions/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-10-09T14:58:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-abajournal-com-news-article-alaska-man-who-threatened-supreme-court-justices",
+      "title": "Man who threatened Supreme Court justices avoids prison time",
+      "url": "https://www.abajournal.com/news/article/alaska-man-who-threatened-supreme-court-justices-avoids-prison-time/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-10-09T14:34:00.000Z",
+      "summary": "",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "legaltechnology-com-startup-corner-meet-ideallegal-ai-a-new-legal-ai-team-",
       "title": "Startup Corner: Meet iDealLegal.ai, a new legal AI team",
@@ -2237,192 +2297,6 @@
       ],
       "relevance": "medium",
       "score": 3
-    },
-    {
-      "id": "legaltechnology-com-white-case-invests-in-saudi-legal-startup-clauze-ai-",
-      "title": "White & Case invests in Saudi legal startup Clauze.AI",
-      "url": "https://legaltechnology.com/white-case-invests-in-saudi-legal-startup-clauze-ai/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-09-10T11:48:26.000Z",
-      "summary": "US multinational law firm White & Case has made a strategic investment in Clauze.AI, an AI contract review and due diligence tool for legal and corporate clients in Saudi Arabia […]\nThe post White & Case invests in Saudi legal startup Clauze.AI appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-09-10-why-legal-research-needs-a-specialist-layer-",
-      "title": "Why Legal Research Needs a Specialist Layer",
-      "url": "https://www.artificiallawyer.com/2026/09/10/why-legal-research-needs-a-specialist-layer/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-09-10T07:08:02.000Z",
-      "summary": "By Jean-Rémi de Maistre, CEO, Jus Mundi. The legal AI market is converging as general-purpose AI and legal workflow platforms compete to be the interface ...",
-      "tags": [
-        "AI in Law",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-09-10-white-case-invests-in-saudi-startup-clauze-",
-      "title": "White & Case Invests in Saudi Startup Clauze",
-      "url": "https://www.artificiallawyer.com/2026/09/10/white-case-invests-in-saudi-startup-clauze/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-09-10T06:44:49.000Z",
-      "summary": "Global law firm, White & Case, has made a strategic investment into Saudi-based Clauze, a new legal AI platform. It’s been founded by Waad Alkurini, ...",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-sra-adding-to-confusion-around-colp-cofa-chan",
-      "title": "SRA “adding to confusion” around COLP/COFA changes",
-      "url": "https://www.legalfutures.co.uk/latest-news/sra-adding-to-confusion-around-colp-cofa-changes",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-09-09T23:05:09.000Z",
-      "summary": "The Solicitors Regulation Authority is only adding to the confusion as it changes the rules on who can be compliance officers, its former head of legal has said.\nThe post SRA “adding to confusion” around COLP/COFA changes appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Regulation"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "abovethelaw-com-2026-09-missouri-gerrymander-case-flunks-remedial-law-school-",
-      "title": "Missouri Gerrymander Case Flunks Remedial Law School",
-      "url": "https://abovethelaw.com/2026/09/missouri-gerrymander-case-flunks-remedial-law-school/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-09-09T23:00:00.000Z",
-      "summary": "Do you remember CivPro better than this federal judge?\nThe post Missouri Gerrymander Case Flunks Remedial Law School appeared first on Above the Law.",
-      "tags": [
-        "Legal Education",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-09-the-supreme-court-wouldnt-save-missouris-gerrymander-a-t",
-      "title": "The Supreme Court Wouldn’t Save Missouri’s Gerrymander, A Trump Judge Did It Anyway",
-      "url": "https://abovethelaw.com/2026/09/the-supreme-court-wouldnt-save-missouris-gerrymander-a-trump-judge-did-it-anyway/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-09-09T20:04:00.000Z",
-      "summary": "Kavanaugh took a pass, so Judge Stephen Clark rode in for the GOP.\nThe post The Supreme Court Wouldn’t Save Missouri’s Gerrymander, A Trump Judge Did It Anyway appeared first on Above the Law.",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-abajournal-com-columns-article-the-ai-policy-your-bar-association-wrote-is-f",
-      "title": "AI policy your bar association wrote is for BigLaw; here’s what solo, small firms should do instead",
-      "url": "https://www.abajournal.com/columns/article/the-ai-policy-your-bar-association-wrote-is-for-biglaw-what-solo-and-small-firms-should-do-instead/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-09-09T19:25:00.000Z",
-      "summary": "",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-09-biglaws-money-can-follow-its-recruits-right-into-a-judge",
-      "title": "Biglaw’s Money Can Follow Its Recruits Right Into A Judge’s Chambers, Ethics Panel Says",
-      "url": "https://abovethelaw.com/2026/09/biglaws-money-can-follow-its-recruits-right-into-a-judges-chambers-ethics-panel-says/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-09-09T17:01:00.000Z",
-      "summary": "As long as the check isn't 'tied in any way' to the judicial service, it's all good.\nThe post Biglaw’s Money Can Follow Its Recruits Right Into A Judge’s Chambers, Ethics Panel Says appeared first on Above the Law.",
-      "tags": [
-        "Regulation",
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "blogs-thomsonreuters-com-legal-blog-brady-compliance-under-pressure-",
-      "title": "Brady compliance under pressure",
-      "url": "https://blogs.thomsonreuters.com/legal-blog/brady-compliance-under-pressure/",
-      "source": "Thomson Reuters",
-      "region": "Global",
-      "date": "2026-09-09T15:48:28.000Z",
-      "summary": "As prosecutors navigate growing caseloads, expanding volumes of digital evidence, and persistent resource constraints, Brady compliance has become more difficult …\nThe post Brady compliance under pressure appeared first on Thomson Reuters Law Blog.",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-abajournal-com-news-article-california-appeals-court-hears-the-pitt-producer",
-      "title": "Appeals court hears ‘The Pitt’ producers’ plea to kill ‘ER’ lawsuit",
-      "url": "https://www.abajournal.com/news/article/california-appeals-court-hears-the-pitt-producers-plea-to-kill-er-lawsuit/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-09-09T14:59:00.000Z",
-      "summary": "",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-lawnext-com-2026-09-bridget-mccormack-the-former-jurist-who-led-innovation-a",
-      "title": "Bridget McCormack, the Former Jurist Who Led Innovation at the American Arbitration Association As Its CEO, To Step Down for New Opportunity",
-      "url": "https://www.lawnext.com/2026/09/bridget-mccormack-the-former-jurist-who-led-innovation-at-the-american-arbitration-association-as-its-ceo-to-step-down-for-new-opportunity.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-09-09T14:00:09.000Z",
-      "summary": "Bridget M. McCormack, the former chief justice of the Michigan Supreme Court who joined the American Arbitration Association in 2023 as its president and CEO, helping to spearhead the AAA’s innovation efforts, particularly with regard to its adoption of generative AI, has announced she is stepping down from that role. Steve Errick, the AAA’s chief […]",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-lawnext-com-2026-09-casepoint-launches-casepoint-iq-an-ai-framework-spanning",
-      "title": "Casepoint Launches Casepoint IQ, An AI Framework Spanning Its Full Platform, from New Autonomous Agents and Assistive AI to Legacy Predictive Coding",
-      "url": "https://www.lawnext.com/2026/09/casepoint-launches-casepoint-iq-an-ai-framework-spanning-its-full-platform-from-new-autonomous-agents-and-assistive-ai-to-legacy-predictive-coding.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-09-09T13:15:03.000Z",
-      "summary": "Calling it the “intelligence foundation” of its platform, Casepoint today launched Casepoint IQ, a suite of tools within a single AI framework that spans the company’s products for e-discovery, legal holds, FOIA and investigations. The company says that Casepoint IQ pulls together all of its AI capabilities – including new semi- and fully autonomous agents, […]",
-      "tags": [
-        "AI in Law",
-        "Legal Tech",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
     }
   ]
 }
