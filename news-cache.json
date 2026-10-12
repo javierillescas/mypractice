@@ -1,6 +1,53 @@
 {
-  "lastUpdated": "2026-10-11T12:06:27.310Z",
+  "lastUpdated": "2026-10-12T14:25:47.545Z",
   "articles": [
+    {
+      "id": "www-lawnext-com-2026-10-ken-crutchfield-taking-biglaw-private-the-implications-o",
+      "title": "Ken Crutchfield: Taking BigLaw Private? The Implications Of Kirkland’s Decision To Stop Disclosing Financials",
+      "url": "https://www.lawnext.com/2026/10/ken-crutchfield-taking-biglaw-private-the-implications-of-kirklands-decision-to-stop-disclosing-financials.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-10-12T13:21:30.000Z",
+      "summary": "Kirkland & Ellis made headlines again when it stated it will no longer disclose financial information to The American Lawyer magazine and other media after 2026. Firm leadership said financial disclosures could put too much focus on quantitative metrics over the quality and caliber of the firm’s legal services. Kirkland is in a category by […]",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-10-12-legal-ai-vs-the-adversarial-incentive-",
+      "title": "Legal AI vs The Adversarial Incentive",
+      "url": "https://www.artificiallawyer.com/2026/10/12/legal-ai-vs-the-adversarial-incentive/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-10-12T07:29:40.000Z",
+      "summary": "Most major law firms use legal AI tools, yet there has been little significant change to how those firms operate. Why is that? The answer ...",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-high-court-penalises-government-for-ignoring-",
+      "title": "High Court penalises government for ignoring litigation deadlines",
+      "url": "https://www.legalfutures.co.uk/latest-news/high-court-penalises-government-for-ignoring-litigation-deadlines",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-11T23:07:01.000Z",
+      "summary": "The High Court has strongly criticised the Government Legal Department for repeatedly missing deadlines and only applying for extensions after they passed.\nThe post High Court penalises government for ignoring litigation deadlines appeared first on Legal Futures.",
+      "tags": [
+        "In-House Counsel",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "abovethelaw-com-2026-10-biglaw-firm-will-pay-associates-to-be-bad-at-ai-for-a-wh",
       "title": "Biglaw Firm Will Pay Associates To Be Bad At AI For A While (100 Hours, To Be Precise)",
@@ -2204,65 +2251,6 @@
       "tags": [
         "AI in Law",
         "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-scotusblog-com-2026-09-supreme-court-dismisses-immigration-case-that-was-sch",
-      "title": "Supreme Court dismisses immigration case that was scheduled for argument in October",
-      "url": "https://www.scotusblog.com/2026/09/supreme-court-dismisses-immigration-case-that-was-scheduled-for-argument-in-october/",
-      "source": "SCOTUSblog",
-      "region": "US",
-      "date": "2026-09-12T00:10:46.000Z",
-      "summary": "",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-09-how-to-create-authority-pages-that-beat-competitors-on-g",
-      "title": "How To Create Authority Pages That Beat Competitors On Google And ChatGPT",
-      "url": "https://abovethelaw.com/2026/09/how-to-create-authority-pages-that-beat-competitors-on-google-and-chatgpt/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-09-11T22:15:00.000Z",
-      "summary": "Your law firm’s ‘authority’ pages are there to showcase your expertise and establish your practice as a source of reliable information.\nThe post How To Create Authority Pages That Beat Competitors On Google And ChatGPT appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-09-first-circuit-opinion-goes-informal-well-fill-in-the-dee",
-      "title": "Is This Federal Appellate Opinion Too Informal?",
-      "url": "https://abovethelaw.com/2026/09/first-circuit-opinion-goes-informal-well-fill-in-the-deets-shortly-but-the-sparknotes-is-this/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-09-11T18:32:00.000Z",
-      "summary": "Federal judge describes facts as 'deets.'\nThe post Is This Federal Appellate Opinion Too Informal? appeared first on Above the Law.",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "legaltechnology-com-startup-corner-saas-tracker-takes-aim-at-hidden-contract-cha",
-      "title": "Startup Corner: SaaS Tracker takes aim at hidden contract change risk",
-      "url": "https://legaltechnology.com/startup-corner-saas-tracker-takes-aim-at-hidden-contract-change-risk/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-09-11T14:56:48.000Z",
-      "summary": "Founded in August 2026 by former lawyer Brig Ricks, SaaS Tracker helps legal and operations teams keep on top of changing software terms, privacy policies and online contracts, using AI […]\nThe post Startup Corner: SaaS Tracker takes aim at hidden contract change risk appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "Legal Tech"
       ],
       "relevance": "medium",
       "score": 3
