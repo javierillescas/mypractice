@@ -1,6 +1,115 @@
 {
-  "lastUpdated": "2026-10-12T14:25:47.545Z",
+  "lastUpdated": "2026-10-13T13:34:34.559Z",
   "articles": [
+    {
+      "id": "www-lawnext-com-2026-10-in-first-major-release-since-paychex-acquisition-sixfift",
+      "title": "In First Major Release Since PayChex Acquisition, SixFifty Launches Agentic HR Compliance Feature",
+      "url": "https://www.lawnext.com/2026/10/in-first-major-release-since-paychex-acquisition-sixfifty-launches-agentic-hr-compliance-feature.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-10-13T13:07:26.000Z",
+      "summary": "Last year, this blog broke the news that the payroll and human resources company PayChex had acquired the employment law compliance and documentation company SixFifty, which had previously been owned by the Silicon Valley law firm Wilson Sonsini Goodrich & Rosati as a technology subsidiary, as well as by SixFifty’s CEO Kimball Dean Parker, the […]",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-10-13-steno-launches-litigation-genius-product-wal",
+      "title": "Steno Launches Litigation Genius + Product Walk Through",
+      "url": "https://www.artificiallawyer.com/2026/10/13/steno-launches-litigation-genius-product-walk-through/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-10-13T13:01:21.000Z",
+      "summary": "Steno, the AI-enabled court reporting and litigation support company, has launched the open beta of Litigation Genius – see AL TV Product Walk Through below. ...",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "blogs-thomsonreuters-com-legal-blog-closing-the-gap-what-legal-departments-do-ne",
+      "title": "Closing the gap: what legal departments do next",
+      "url": "https://blogs.thomsonreuters.com/legal-blog/closing-the-gap-what-legal-departments-do-next/",
+      "source": "Thomson Reuters",
+      "region": "Global",
+      "date": "2026-10-13T13:00:12.000Z",
+      "summary": "By now, the 86/17 split has come up more than once in this series. This final installment on the State …\nThe post Closing the gap: what legal departments do next appeared first on Thomson Reuters Law Blog.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-10-13-how-legal-teams-govern-ai-driven-contracting",
+      "title": "How Legal Teams Govern AI-Driven Contracting",
+      "url": "https://www.artificiallawyer.com/2026/10/13/how-legal-teams-govern-ai-driven-contracting/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-10-13T06:40:15.000Z",
+      "summary": "By Megan Bradley, Senior Legal Counsel, Docusign. In-house legal teams share some common pressure points: more contracts, more stakeholders, more urgency, all without additional headcount. ...",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-charity-eyes-judicial-review-over-sras-approa",
+      "title": "Charity eyes judicial review over SRA’s approach to complaints",
+      "url": "https://www.legalfutures.co.uk/latest-news/charity-eyes-judicial-review-over-sras-approach-to-complaints",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-12T23:03:52.000Z",
+      "summary": "A charity for litigants in person has sent the SRA a letter before claim for judicial review over rejecting reports from members of the public without investigation.\nThe post Charity eyes judicial review over SRA’s approach to complaints appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-lawnext-com-2026-10-no-more-than-an-ordinary-copyright-case-3rd-circuit-unse",
+      "title": "‘No More Than an Ordinary Copyright Case’ — 3rd Circuit Unseals Its Opinion In Thomson Reuters Case Against ROSS",
+      "url": "https://www.lawnext.com/2026/10/no-more-than-an-ordinary-copyright-case-3rd-circuit-unseals-its-opinion-in-thomson-reuters-case-against-ross.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-10-12T16:39:41.000Z",
+      "summary": "Perhaps this is the way the case will end, not with a bang but a whimper. With apologies to T. S. Eliot, that was my reaction when I read the 3rd U.S. Circuit Court of Appeals’ assessment of the 6.5-year battle between legal information giant Thomson Reuters and once-fledgling startup ROSS Intelligence as “no more […]",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "www-legalfutures-co-uk-associate-news-experts-urge-law-firms-to-avoid-automating",
+      "title": "Experts urge law firms to avoid “automating chaos” through fragmented AI use",
+      "url": "https://www.legalfutures.co.uk/associate-news/experts-urge-law-firms-to-avoid-automating-chaos-through-fragmented-ai-use",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-12T14:57:59.000Z",
+      "summary": "The biennial event, hosted by InfoTrack, brought together almost 500 lawyers and technology experts at The Minster Building in London to explore how data, AI, and automation are reshaping daily workflows and what the best tools are for the job.\nThe post Experts urge law firms to avoid “automating chaos” through fragmented AI use appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-lawnext-com-2026-10-ken-crutchfield-taking-biglaw-private-the-implications-o",
       "title": "Ken Crutchfield: Taking BigLaw Private? The Implications Of Kirkland’s Decision To Stop Disclosing Financials",
