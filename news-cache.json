@@ -1,6 +1,128 @@
 {
-  "lastUpdated": "2026-10-14T11:11:05.093Z",
+  "lastUpdated": "2026-10-15T10:51:35.579Z",
   "articles": [
+    {
+      "id": "www-artificiallawyer-com-2026-10-15-ebrevia-launches-command-contract-management",
+      "title": "eBrevia Launches ‘Command’ Contract Management Platform",
+      "url": "https://www.artificiallawyer.com/2026/10/15/ebrevia-launches-command-contract-management-platform/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-10-15T09:26:42.000Z",
+      "summary": "Inhouse-focused legal AI pioneer, eBrevia, has launched ‘Command’, a contract management platform that ‘helps users understand what’s in their agreements, identify what needs attention and ...",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "verfassungsblog-de-suncor-energy-u-s-a-inc-v-county-commissioners-of-boulder-cou",
+      "title": "Beyond Boulder",
+      "url": "https://verfassungsblog.de/suncor-energy-u-s-a-inc-v-county-commissioners-of-boulder-county-us-supreme-court-climate-litigation/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-10-15T08:30:12.000Z",
+      "summary": "The making of climate law is a distinctly global exercise. Perhaps more than in many other areas of law, climate litigation develops through a conversation across jurisdictions, as litigants borrow arguments, evidence, and strategies from proceedings elsewhere, while judges engage with decisions from vastly different legal traditions. And so, when one of the world’s biggest players in the legal la",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-blog-ai-can-interrogate-your-contracts-but-are-they-ready",
+      "title": "AI can interrogate your contracts – but are they ready for questioning?",
+      "url": "https://www.legalfutures.co.uk/blog/ai-can-interrogate-your-contracts-but-are-they-ready-for-questioning",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-14T23:28:32.000Z",
+      "summary": "Suppose a law firm wants to review a client’s entire real estate portfolio for risk in the leases. Not long ago, that meant a multi-week project. Today, first-pass answer can arrive in minutes.\nThe post AI can interrogate your contracts – but are they ready for questioning? appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-keeping-up-with-the-bar-law-society-removes-c",
+      "title": "Keeping up with the Bar – Law Society removes cap on president’s pay",
+      "url": "https://www.legalfutures.co.uk/latest-news/keeping-up-with-the-bar-law-society-removes-cap-on-presidents-pay",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-14T23:03:34.000Z",
+      "summary": "Solicitors yesterday voted to end the cap on the Law Society president’s pay at the salary of a district judge, given that the chair of the Bar Council’s pay is pegged to that of a High Court judge.\nThe post Keeping up with the Bar – Law Society removes cap on president’s pay appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-10-ai-use-in-law-firms-theres-reality-and-theres-what-manag",
+      "title": "AI Use In Law Firms: There’s Reality. And There’s What Management Wants It To Be. ",
+      "url": "https://abovethelaw.com/2026/10/ai-use-in-law-firms-theres-reality-and-theres-what-management-wants-it-to-be/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-10-14T20:06:16.000Z",
+      "summary": "Visier sees a pattern of visible compliance over real AI adoption and integration.\nThe post AI Use In Law Firms: There’s Reality. And There’s What Management Wants It To Be.  appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-10-iron-curtain-descends-on-biglaw-financials-",
+      "title": "Iron Curtain Descends On Biglaw Financials",
+      "url": "https://abovethelaw.com/2026/10/iron-curtain-descends-on-biglaw-financials/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-10-14T17:01:00.000Z",
+      "summary": "Supreme Court auditions are just down the hall and to the extreme right.\nThe post Iron Curtain Descends On Biglaw Financials appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-legalfutures-co-uk-associate-news-successful-legal-tech-implementation-start",
+      "title": "Successful legal tech implementation starts with people, not features",
+      "url": "https://www.legalfutures.co.uk/associate-news/successful-legal-tech-implementation-starts-with-people-not-features",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-14T15:57:24.000Z",
+      "summary": "For many law firms, investing in new technology is a significant undertaking, but choosing the right software is only part of the challenge.\nThe post Successful legal tech implementation starts with people, not features appeared first on Legal Futures.",
+      "tags": [
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "verfassungsblog-de-the-currently-uneven-intelligence-of-ai-in-comparative-consti",
+      "title": "The (Currently) Uneven Intelligence of AI in Comparative Constitutional Law",
+      "url": "https://verfassungsblog.de/the-currently-uneven-intelligence-of-ai-in-comparative-constitutional-law/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-10-14T12:02:23.000Z",
+      "summary": "Our results suggest that LLMs’ usefulness for comparative constitutional data collection depends on what researchers ask them to code. They may be able to produce datasets that simply code constitutional facts, but current versions of LLMs do not perform well when asked to create datasets that require interpreting abstract constitutional concepts or reasoning about law. However, since the models m",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-legalfutures-co-uk-latest-news-head-of-cps-and-health-regulator-named-new-sr",
       "title": "Head of CPS and health regulator named new SRA chair",
@@ -71,6 +193,21 @@
       "date": "2026-10-13T19:15:00.000Z",
       "summary": "A Michigan judge's quick thinking saved a stranger's life and inspired a courthouse-wide initiative.\nThe post Not All Heroes Wear Capes, Some Wear Judicial Robes appeared first on Above the Law.",
       "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "blogs-thomsonreuters-com-legal-blog-time-is-money-why-professional-grade-ai-is-t",
+      "title": "When time is money: A smarter AI stack for personal injury firms",
+      "url": "https://blogs.thomsonreuters.com/legal-blog/time-is-money-why-professional-grade-ai-is-the-competitive-edge-personal-injury-firms-need/",
+      "source": "Thomson Reuters",
+      "region": "Global",
+      "date": "2026-10-13T16:28:45.000Z",
+      "summary": "How connecting case intelligence to legal research helps plaintiff firms move faster without cutting corners Personal injury plaintiff attorneys …\nThe post When time is money: A smarter AI stack for personal injury firms appeared first on Thomson Reuters Law Blog.",
+      "tags": [
+        "AI in Law",
         "Legal Reasoning"
       ],
       "relevance": "medium",
@@ -2279,133 +2416,6 @@
         "Regulation",
         "In-House Counsel",
         "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-09-15-white-case-partner-ai-slowdown-risks-investo",
-      "title": "White & Case Partner: ‘AI Slowdown Risks Investor Collision’",
-      "url": "https://www.artificiallawyer.com/2026/09/15/white-case-partner-ai-slowdown-risks-investor-collision/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-09-15T10:29:29.000Z",
-      "summary": "Several AI bosses have called for a slowdown in the development of the technology, following agentic experiments that went wrong. Now, Daniel Turgel, a White ...",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "legaltechnology-com-ex-simmons-solutions-chief-joins-purple-to-help-law-firms-mo",
-      "title": "Ex-Simmons Solutions chief joins Purple to help law firms monetise AI – Exclusive interview",
-      "url": "https://legaltechnology.com/ex-simmons-solutions-chief-joins-purple-to-help-law-firms-monetise-ai-exclusive-interview/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-09-15T07:30:56.000Z",
-      "summary": "Ben McGuire, the former managing director of Simmons & Simmons Solutions, has joined legal tech build studio Purple as a venture partner. Purple was founded by Tim Pullan (former founder […]\nThe post Ex-Simmons Solutions chief joins Purple to help law firms monetise AI – Exclusive interview appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-09-for-most-of-its-history-the-supreme-court-was-just-a-ten",
-      "title": "For Most Of Its History, The Supreme Court Was Just A Tenant",
-      "url": "https://abovethelaw.com/2026/09/for-most-of-its-history-the-supreme-court-was-just-a-tenant/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-09-14T22:14:00.000Z",
-      "summary": "No building, no problem: the Court's long wait for a home.\nThe post For Most Of Its History, The Supreme Court Was Just A Tenant appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "verfassungsblog-de-kosovo-chambers-thaci-",
-      "title": "Kosovo’s Justice Gap",
-      "url": "https://verfassungsblog.de/kosovo-chambers-thaci/",
-      "source": "Verfassungsblog",
-      "region": "EU",
-      "date": "2026-09-14T17:54:05.000Z",
-      "summary": "The countdown clocks in Kosovo are ticking. The public protests have begun. On September 16, the EU-backed Kosovo Specialist Chambers in The Hague will deliver a much-awaited verdict in the war crimes trial of former President Hashim Thaçi and three co-defendants. The four men – senior figures in the Kosovo Liberation Army (KLA) – are charged with war crimes and crimes against humanity, including ",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-09-counsel-do-you-watch-the-news-lawyer-gets-benchslapped-o",
-      "title": "‘Counsel, Do You Watch The News?’: Lawyer Gets Benchslapped Over AI Hallucinations In Murder Appeal",
-      "url": "https://abovethelaw.com/2026/09/counsel-do-you-watch-the-news-lawyer-gets-benchslapped-over-ai-hallucinations-in-murder-appeal/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-09-14T17:01:00.000Z",
-      "summary": "The New Mexico Supreme Court imposed a fine and referred the attorney for disciplinary investigation.\nThe post ‘Counsel, Do You Watch The News?’: Lawyer Gets Benchslapped Over AI Hallucinations In Murder Appeal appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-lawnext-com-2026-09-which-ai-product-is-most-popular-among-law-firms-finding",
-      "title": "Which AI Product Is Most Popular Among Law Firms? Findings of ILTA’s Tech Survey May Surprise You",
-      "url": "https://www.lawnext.com/2026/09/which-ai-product-is-most-popular-among-law-firms-findings-of-iltas-tech-survey-may-surprise-you.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-09-14T16:45:18.000Z",
-      "summary": "At the recent conference of the International Legal Technology Association, the big legal AI vendors CoCounsel, Harvey and Legora had outsized presences, with ginormous booths in the exhibit hall, major-name performers at their parties, and advertising so ubiquitous it even popped up in people’s Uber apps. (See: Have We Reached ‘Peak Legal Tech?’ Sure Felt […]",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-09-14-morgan-morgan-commits-to-1-billion-for-legal",
-      "title": "Morgan & Morgan Commits to $1 Billion For Legal Tech + AI",
-      "url": "https://www.artificiallawyer.com/2026/09/14/morgan-morgan-commits-to-1-billion-for-legal-tech-ai/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-09-14T14:01:33.000Z",
-      "summary": "Morgan & Morgan, the largest plaintiff law firm in America, has announced it will spend at least $1 billion on legal tech and AI over ...",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "legaltechnology-com-consilio-formalises-legora-partnership-ceo-andy-macdonald-ex",
-      "title": "Consilio formalises Legora partnership – CEO Andy Macdonald explains why",
-      "url": "https://legaltechnology.com/consilio-formalises-legora-partnership-ceo-andy-macdonald-explains-why/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-09-14T12:40:13.000Z",
-      "summary": "By Tom Saunders Last week (9 September) Consilio announced a formal partnership with Legora, assisting in-house legal teams and law firms with implementation, governance, workflow, training and adoption. Consilio, which […]\nThe post Consilio formalises Legora partnership – CEO Andy Macdonald explains why appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel",
-        "Legal Market",
-        "Legal Education"
       ],
       "relevance": "medium",
       "score": 4
