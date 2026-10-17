@@ -1,6 +1,53 @@
 {
-  "lastUpdated": "2026-10-16T10:42:11.397Z",
+  "lastUpdated": "2026-10-17T10:08:46.133Z",
   "articles": [
+    {
+      "id": "abovethelaw-com-2026-10-show-them-the-money-top-biglaw-firm-raises-salaries-for-",
+      "title": "Show Them The Money: Top Biglaw Firm Raises Salaries For Associates",
+      "url": "https://abovethelaw.com/2026/10/show-them-the-money-top-biglaw-firm-raises-salaries-for-associates/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-10-16T16:54:53.000Z",
+      "summary": "More associates are getting in on the new salary scale.\nThe post Show Them The Money: Top Biglaw Firm Raises Salaries For Associates appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "blogs-thomsonreuters-com-legal-blog-what-true-deep-research-looks-like-",
+      "title": "What true deep research looks like",
+      "url": "https://blogs.thomsonreuters.com/legal-blog/what-true-deep-research-looks-like/",
+      "source": "Thomson Reuters",
+      "region": "Global",
+      "date": "2026-10-16T14:05:28.000Z",
+      "summary": "Every legal AI platform claims deep research. Most are delivering sophisticated search. The difference matters — and it’s measurable. …\nThe post What true deep research looks like appeared first on Thomson Reuters Law Blog.",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-lawnext-com-2026-10-chariot-claims-raises-10m-series-a-to-fuel-mass-consumer",
+      "title": "Chariot Claims Raises $10M Series A To Fuel Mass Consumer Arbitrations",
+      "url": "https://www.lawnext.com/2026/10/chariot-claims-raises-10m-series-a-to-fuel-mass-consumer-arbitrations.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-10-16T13:27:57.000Z",
+      "summary": "Chariot Claims, a legal tech company that matches consumers to mass arbitration and class action cases and pairs them with law firms, has raised $10 million in Series A funding, it announced Thursday. Silverton Partners led the round, with General Partner Mike Dodd taking the lead. Indicator Ventures, Lightbank, Neon Fund, ZVC, Rosecliff Venture Partners, […]",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
     {
       "id": "blogs-thomsonreuters-com-legal-blog-ma-due-diligence-software-key-features-and-d",
       "title": "M&A due diligence software: Key features and detailed use cases",
@@ -2261,189 +2308,6 @@
       "date": "2026-09-17T13:30:00.000Z",
       "summary": "",
       "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-09-17-google-shows-off-cloud-legal-ai-helpers-more",
-      "title": "Google Shows Off Cloud Legal AI Helpers + More",
-      "url": "https://www.artificiallawyer.com/2026/09/17/google-shows-off-cloud-legal-ai-helpers-more/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-09-17T06:35:05.000Z",
-      "summary": "Yesterday, ‘Google Legal’ gave an inside look at how Gemini Enterprise can be deployed for lawyers, from everyday prompting, to NotebookLM use, to custom app ...",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-09-the-supreme-court-justice-that-ran-a-treason-trial-",
-      "title": "The Supreme Court Justice That Ran A Treason Trial",
-      "url": "https://abovethelaw.com/2026/09/the-supreme-court-justice-that-ran-a-treason-trial/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-09-16T22:03:00.000Z",
-      "summary": "The defendant had already killed a Founding Father, but that wasn't why the president wanted him hanged.\nThe post The Supreme Court Justice That Ran A Treason Trial appeared first on Above the Law.",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-abajournal-com-news-article-appellate-court-affirms-dismissal-of-bruce-sprin",
-      "title": "Appellate court affirms dismissal of Bruce Springsteen lawsuit over album cover",
-      "url": "https://www.abajournal.com/news/article/appellate-court-affirms-dismissal-of-bruce-springsteen-lawsuit-over-album-cover/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-09-16T15:51:00.000Z",
-      "summary": "",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "legaltechnology-com-supreme-court-judge-mccormack-joins-clios-growing-judiciary-",
-      "title": "Supreme Court judge McCormack joins Clio’s growing judiciary team",
-      "url": "https://legaltechnology.com/supreme-court-judge-mccormack-joins-clios-growing-judiciary-team/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-09-16T15:31:10.000Z",
-      "summary": "In a rare move from the highest levels of the judiciary into legal technology, former Michigan Supreme Court Chief Justice Bridget Mary McCormack has joined Clio as general manager, judiciary, […]\nThe post Supreme Court judge McCormack joins Clio’s growing judiciary team appeared first on Legal IT Insider.",
-      "tags": [
-        "Legal Tech",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "blogs-thomsonreuters-com-legal-blog-why-we-built-our-own-ai-model-and-why-that-m",
-      "title": "Why we built our own AI model — and why that matters to your legal department",
-      "url": "https://blogs.thomsonreuters.com/legal-blog/why-we-built-our-own-ai-model-and-why-that-matters-to-your-legal-department/",
-      "source": "Thomson Reuters",
-      "region": "Global",
-      "date": "2026-09-16T15:00:10.000Z",
-      "summary": "Every general counsel we talk to is fielding the same pitch right now: a faster model, a sharper wrapper, …\nThe post Why we built our own AI model — and why that matters to your legal department appeared first on Thomson Reuters Law Blog.",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-associate-news-aspiracloud-to-host-three-uk-roundtables-o",
-      "title": "AspiraCloud to host three UK roundtables on AI governance and compliance for law firms this October",
-      "url": "https://www.legalfutures.co.uk/associate-news/aspiracloud-to-host-three-uk-roundtables-on-ai-governance-and-compliance-for-law-firms-this-october",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-09-16T14:47:06.000Z",
-      "summary": "AspiraCloud is hosting three roundtable events this October exploring AI governance, SRA compliance and data management in the legal sector.\nThe post AspiraCloud to host three UK roundtables on AI governance and compliance for law firms this October appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "In-House Counsel",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "www-abajournal-com-legalrebels-article-rebels-podcast-episode-128-utm-source-fee",
-      "title": "How AI is changing the way plaintiffs law firms work",
-      "url": "https://www.abajournal.com/legalrebels/article/rebels-podcast-episode-128/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-09-16T14:12:00.000Z",
-      "summary": "",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-lawnext-com-2026-09-relativityone-gets-a-new-name-to-reflect-its-increasing-",
-      "title": "RelativityOne Gets A New Name To Reflect Its Increasing Capabilities Around AI and Data",
-      "url": "https://www.lawnext.com/2026/09/relativityone-gets-a-new-name-to-reflect-its-increasing-capabilities-around-ai-and-data.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-09-16T13:40:22.000Z",
-      "summary": "Perhaps it is only fitting that a product launched in the cloud should be renamed for the atmosphere it occupies. The e-discovery company Relativity announced today that it has renamed RelativityOne, its cloud-based platform, as Relativity aiR, giving it the name that had previously been assigned to Relativity’s suite of AI and agentic capabilities. The […]",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-09-16-checkbox-launches-first-pass-ai-contract-rev",
-      "title": "Checkbox Launches ‘First Pass’ AI Contract Review",
-      "url": "https://www.artificiallawyer.com/2026/09/16/checkbox-launches-first-pass-ai-contract-review/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-09-16T13:30:06.000Z",
-      "summary": "Checkbox, a legal front door for corporates, has launched First Pass, marking a move into contract review – and which builds upon its platform for ...",
-      "tags": [
-        "AI in Law",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "legaltechnology-com-ai-is-changing-legal-delivery-but-law-firm-pricing-isnt-keep",
-      "title": "AI is changing legal delivery – but law firm pricing isn’t keeping up",
-      "url": "https://legaltechnology.com/ai-is-changing-legal-delivery-but-law-firm-pricing-isnt-keeping-up/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-09-16T13:25:47.000Z",
-      "summary": "AI is changing the economics of legal work, but nearly two-thirds of law firms still rely on traditional methods when setting prices, according to new research from BigHand. The 2026 […]\nThe post AI is changing legal delivery – but law firm pricing isn’t keeping up appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-lawnext-com-2026-09-one-plus-one-equals-more-than-two-clio-lands-mccormack-t",
-      "title": "One Plus One Equals More Than Two: Clio Lands McCormack to Join Arredondo in Judiciary Expansion",
-      "url": "https://www.lawnext.com/2026/09/one-plus-one-equals-more-than-two-clio-lands-mccormack-to-join-arredondo-in-judiciary-expansion.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-09-16T13:00:10.000Z",
-      "summary": "The mystery of Bridget M. McCormack’s destination has been solved. Last week, I reported that McCormack, current president and CEO of the American Arbitration Association and former chief justice of the Michigan Supreme Court, was leaving her job for an undisclosed opportunity that, as she said at the time, “I could not turn down,” teasing […]",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-scotusblog-com-2026-09-trump-blasts-supreme-court-on-social-media-",
-      "title": "Trump blasts Supreme Court on social media ",
-      "url": "https://www.scotusblog.com/2026/09/trump-blasts-supreme-court-on-social-media/",
-      "source": "SCOTUSblog",
-      "region": "US",
-      "date": "2026-09-16T13:00:00.000Z",
-      "summary": "Plus, what Attorney General Todd Blanche said about the administration’s next moves on mail-in voting.",
-      "tags": [
-        "AI in Law",
         "Legal Reasoning"
       ],
       "relevance": "medium",
