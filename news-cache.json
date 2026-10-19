@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2026-10-18T10:23:43.842Z",
+  "lastUpdated": "2026-10-19T12:07:59.804Z",
   "articles": [
+    {
+      "id": "www-lawnext-com-2026-10-new-mcp-makes-tax-research-from-blue-j-available-from-wi",
+      "title": "New MCP Makes Tax Research from Blue J Available from within Legora",
+      "url": "https://www.lawnext.com/2026/10/new-mcp-makes-tax-research-from-blue-j-available-from-within-legora.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-10-19T12:00:59.000Z",
+      "summary": "Users of the Legora legal AI platform can now access tax research from Blue J Legal via an integration the companies launched today. Legora customers with a subscription to Blue J can now query Blue J’s platform from within Legora and receive answers with inline citations linking back to sources in Blue J. The companies […]",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "ukconstitutionallaw-org-2026-10-19-craig-wells-the-veneer-of-contentment-mustafa",
+      "title": "Craig Wells: The Veneer of Contentment: Mustafa, Salford and the Gaps the Deprivation of Liberty Reference Left Behind",
+      "url": "https://ukconstitutionallaw.org/2026/10/19/craig-wells-the-veneer-of-contentment-mustafa-salford-and-the-gaps-the-deprivation-of-liberty-reference-left-behind/",
+      "source": "UK Constitutional Law",
+      "region": "UK",
+      "date": "2026-10-19T08:00:00.000Z",
+      "summary": "In June I argued on this blog that the Supreme Court’s decision in A Reference by the Attorney General for Northern Ireland [2026] UKSC 16 broke faith with a discipline that runs from chapter 29 of the Magna Carta through the writ of habeas corpus to Article 5: that a confinement must rest on a […]",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "abovethelaw-com-2026-10-unauthorized-practice-makes-perfect-see-generally-",
+      "title": "Unauthorized Practice Makes Perfect — See Generally",
+      "url": "https://abovethelaw.com/2026/10/unauthorized-practice-makes-perfect-see-generally/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-10-19T01:52:54.000Z",
+      "summary": "Bar None: Trump's now-former press secretary Katie Zacharia billed herself as a \"lawyer\" in at least 18 Fox appearances, but no U.S. jurisdiction has any record of admitting her, including California where she at one point claimed to be a general counsel.\n\n\nOut Of Office, Out Of Compliance: DHS kept airing its $20 million taxpayer-funded Trump ad blitz after Judge Jennifer Rochon's TRO, and DOJ's ",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "In-House Counsel",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-southport-attack-led-costs-firm-boss-to-think",
+      "title": "Southport attack led costs firm boss to “think about the future”",
+      "url": "https://www.legalfutures.co.uk/latest-news/southport-attack-led-costs-firm-boss-to-think-about-the-future",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-18T23:04:30.000Z",
+      "summary": "The costs specialist severely injured after trying to stop the 2024 Southport attack said the experience led to his decision to sell his firm to Yorkshire law firm Switalskis.\nThe post Southport attack led costs firm boss to “think about the future” appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "abovethelaw-com-2026-10-show-them-the-money-top-biglaw-firm-raises-salaries-for-",
       "title": "Show Them The Money: Top Biglaw Firm Raises Salaries For Associates",
@@ -2160,84 +2223,6 @@
       ],
       "relevance": "medium",
       "score": 4
-    },
-    {
-      "id": "abovethelaw-com-2026-09-adventures-in-legal-tech-the-risks-of-ai-generated-legal",
-      "title": "‘Adventures In Legal Tech’: The Risks Of AI-Generated Legal Marketing",
-      "url": "https://abovethelaw.com/2026/09/adventures-in-legal-tech-the-risks-of-ai-generated-legal-marketing/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-09-18T20:44:00.000Z",
-      "summary": "The compliance issue almost nobody in legal marketing is talking about.\nThe post ‘Adventures In Legal Tech’: The Risks Of AI-Generated Legal Marketing appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "abovethelaw-com-2026-09-coddling-young-lawyers-one-law-school-says-not-on-our-wa",
-      "title": "Coddling Young Lawyers? One Law School Says Not On Our Watch",
-      "url": "https://abovethelaw.com/2026/09/coddling-young-lawyers-one-law-school-says-not-on-our-watch/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-09-18T19:16:00.000Z",
-      "summary": "In today’s brave new AI world, the younger lawyers who can hit the ground running with practical skills and the ability to think through problems are going to succeed.\nThe post Coddling Young Lawyers? One Law School Says Not On Our Watch appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Education"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-lawnext-com-2026-09-guest-post-the-rise-of-the-contracting-stack-html",
-      "title": "Guest Post: The Rise Of The Contracting ‘Stack’",
-      "url": "https://www.lawnext.com/2026/09/guest-post-the-rise-of-the-contracting-stack.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-09-18T16:00:13.000Z",
-      "summary": "A legal operations professional requested a demo earlier this year with a note that intrigued me. She said that she was going to “stack” a CLM solution, and she was looking for the workflow portion (which is what my product, Josef, does). When we met, I dug in further, finding that she’d piloted three CLM […]",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-scotusblog-com-2026-09-what-ai-misunderstands-about-the-supreme-court-",
-      "title": "What AI misunderstands about the Supreme Court",
-      "url": "https://www.scotusblog.com/2026/09/what-ai-misunderstands-about-the-supreme-court/",
-      "source": "SCOTUSblog",
-      "region": "US",
-      "date": "2026-09-18T13:30:00.000Z",
-      "summary": "",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-lawnext-com-2026-09-yesterday-came-openais-launch-into-legal-now-come-the-li",
-      "title": "Yesterday Came OpenAI’s Launch Into Legal, Now Come the Litany of Vendor Integrations",
-      "url": "https://www.lawnext.com/2026/09/yesterday-came-openais-launch-into-legal-now-come-the-litany-of-vendor-integrations.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-09-18T12:43:24.000Z",
-      "summary": "Yesterday, OpenAI released Astra for Law, a GPT-6 model tailored for legal work, as I reported here. The announcement included news of 26 new ChatGPT plugins from legal tech vendors, but it mentioned only four: Harvey, iManage, Legora and Thomson Reuters. When I asked OpenAI for the full list, I got no answer. However, no […]",
-      "tags": [
-        "AI in Law",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
     }
   ]
 }
