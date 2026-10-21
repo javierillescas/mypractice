@@ -1,6 +1,83 @@
 {
-  "lastUpdated": "2026-10-20T10:55:53.802Z",
+  "lastUpdated": "2026-10-21T11:09:58.640Z",
   "articles": [
+    {
+      "id": "www-legalfutures-co-uk-latest-news-generative-ai-a-systemic-risk-to-legal-sector",
+      "title": "Generative AI a “systemic risk” to legal sector",
+      "url": "https://www.legalfutures.co.uk/latest-news/generative-ai-a-systemic-risk-to-legal-sector",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-20T23:05:20.000Z",
+      "summary": "The founder of the second technology-only law firm authorised by the SRA has warned that law firms’ use of generative AI presents a “systemic risk” to the sector.\nThe post Generative AI a “systemic risk” to legal sector appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "abovethelaw-com-2026-10-arizona-supreme-court-says-yes-to-a-law-school-outside-t",
+      "title": "Arizona Supreme Court Says Yes To A Law School Outside The ABA’s Accreditation System",
+      "url": "https://abovethelaw.com/2026/10/arizona-supreme-court-says-yes-to-a-law-school-outside-the-abas-accreditation-system/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-10-20T20:04:00.000Z",
+      "summary": "GCU’s new law school will operate under court oversight, and its graduates may be eligible to take the Arizona bar.\nThe post Arizona Supreme Court Says Yes To A Law School Outside The ABA’s Accreditation System appeared first on Above the Law.",
+      "tags": [
+        "In-House Counsel",
+        "Legal Education",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "blogs-thomsonreuters-com-legal-blog-ai-takes-the-bench-highlights-from-the-judic",
+      "title": "AI takes the bench: Highlights from the Judicial AI Summit",
+      "url": "https://blogs.thomsonreuters.com/legal-blog/ai-takes-the-bench-highlights-from-the-judicial-ai-summit/",
+      "source": "Thomson Reuters",
+      "region": "Global",
+      "date": "2026-10-20T19:55:24.000Z",
+      "summary": "On October 8, judges, academics, government officials, and legal technology leaders gathered at Thomson Reuters headquarters in Times Square for …\nThe post AI takes the bench: Highlights from the Judicial AI Summit appeared first on Thomson Reuters Law Blog.",
+      "tags": [
+        "AI in Law",
+        "Legal Tech",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "verfassungsblog-de-knowledge-intermediaries-",
+      "title": "Knowledge Intermediaries",
+      "url": "https://verfassungsblog.de/knowledge-intermediaries/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-10-20T16:32:10.000Z",
+      "summary": "AI is being widely integrated into legal practice and academic research. Early concerns about such tools were focused on the outputs: hallucinated citations, fabricated case law, overall sloppiness among attorneys and researchers submitting AI-generated work without review. These problems have not disappeared but have received enough attention to warrant continuous improvement of predictive and ge",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-10-the-supreme-courts-next-major-case-on-the-free-exerci",
+      "title": "The Supreme Court’s next major case on the free exercise of religion",
+      "url": "https://www.scotusblog.com/2026/10/the-supreme-courts-next-major-case-on-the-free-exercise-of-religion/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-10-20T13:30:00.000Z",
+      "summary": "",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-legalfutures-co-uk-latest-news-opportunism-in-litigation-can-be-creative-law",
       "title": "Opportunism in litigation can be “creative lawyering”, says judge",
