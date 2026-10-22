@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-10-21T11:09:58.640Z",
+  "lastUpdated": "2026-10-22T11:09:22.212Z",
   "articles": [
+    {
+      "id": "www-legalfutures-co-uk-latest-news-lawyers-to-be-paid-12m-out-of-260m-google-cla",
+      "title": "Lawyers to be paid £12m out of £260m Google claim settlement",
+      "url": "https://www.legalfutures.co.uk/latest-news/lawyers-to-be-paid-12m-out-of-260m-google-claim-settlement",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-21T23:03:27.000Z",
+      "summary": "The Competition Appeal Tribunal has approved the £260m settlement of a claim against Google that will see the class representative’s lawyers paid £12m, 32% less than they are due.\nThe post Lawyers to be paid £12m out of £260m Google claim settlement appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-10-supreme-court-ends-fight-to-put-genociders-name-back-on-",
+      "title": "Supreme Court Ends Fight To Put Genocider’s Name Back On Law School",
+      "url": "https://abovethelaw.com/2026/10/supreme-court-ends-fight-to-put-genociders-name-back-on-law-school/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-10-21T21:01:00.000Z",
+      "summary": "Hastings descendants run out of courts to lose in.\nThe post Supreme Court Ends Fight To Put Genocider’s Name Back On Law School appeared first on Above the Law.",
+      "tags": [
+        "Legal Education",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "blogs-thomsonreuters-com-legal-blog-legal-ai-tools-essential-for-attorneys-",
+      "title": "Trusted legal AI tools to power research, drafting, and analysis",
+      "url": "https://blogs.thomsonreuters.com/legal-blog/legal-ai-tools-essential-for-attorneys/",
+      "source": "Thomson Reuters",
+      "region": "Global",
+      "date": "2026-10-21T19:53:12.000Z",
+      "summary": "AI is not a magic wand. The skills and knowledge you’ve built as a lawyer are still your most …\nThe post Trusted legal AI tools to power research, drafting, and analysis appeared first on Thomson Reuters Law Blog.",
+      "tags": [
+        "AI in Law",
+        "Legal Education"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-10-private-equity-cant-own-tennessee-law-firms-but-it-can-s",
+      "title": "Private Equity Can’t Own Tennessee Law Firms, But It Can Still Get A Piece Of The Business",
+      "url": "https://abovethelaw.com/2026/10/private-equity-cant-own-tennessee-law-firms-but-it-can-still-get-a-piece-of-the-business/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-10-21T17:36:00.000Z",
+      "summary": "The state Supreme Court preserves the ownership ban without tightening restrictions on outside investment.\nThe post Private Equity Can’t Own Tennessee Law Firms, But It Can Still Get A Piece Of The Business appeared first on Above the Law.",
+      "tags": [
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-abajournal-com-news-article-missouri-supreme-court-disbars-attorney-for-repe",
+      "title": "Missouri Supreme Court disbars attorney for repeatedly failing to appear in court",
+      "url": "https://www.abajournal.com/news/article/missouri-supreme-court-disbars-attorney-for-repeatedly-failing-to-appear-in-court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-10-21T16:17:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-10-justice-kagan-comments-on-deeply-conservative-court-",
+      "title": "Justice Kagan comments on “deeply conservative” court",
+      "url": "https://www.scotusblog.com/2026/10/justice-kagan-comments-on-deeply-conservative-court/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-10-21T13:00:00.000Z",
+      "summary": "Plus, the Supreme Court’s next major case on the free exercise of religion.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-10-21-august-applies-agents-to-law-firm-productiza",
+      "title": "August Applies Agents to Law Firm Productization",
+      "url": "https://www.artificiallawyer.com/2026/10/21/august-applies-agents-to-law-firm-productization/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-10-21T12:04:08.000Z",
+      "summary": "Legal AI platform August has launched Products, a new feature that helps law firms turn their legal services into…well….products. The idea often has been tried ...",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
     {
       "id": "www-legalfutures-co-uk-latest-news-generative-ai-a-systemic-risk-to-legal-sector",
       "title": "Generative AI a “systemic risk” to legal sector",
@@ -2224,192 +2329,6 @@
       ],
       "relevance": "medium",
       "score": 3
-    },
-    {
-      "id": "legaltechnology-com-product-demo-netdocuments-showcases-new-ai-tabular-review-ca",
-      "title": "Product demo: NetDocuments showcases new AI Tabular Review capability",
-      "url": "https://legaltechnology.com/product-demo-netdocuments-showcases-new-ai-tabular-review-capability/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-09-22T10:36:49.000Z",
-      "summary": "In this product demonstration with Legal IT Insider, NetDocuments‘ director of legal AI solutions, Brandall Nelson, showcases the new AI-powered Tabular Review capability that was launched in August this year. […]\nThe post Product demo: NetDocuments showcases new AI Tabular Review capability appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "ukconstitutionallaw-org-2026-09-22-david-erdos-vince-v-associated-newspapers-hav",
-      "title": "David Erdos: Vince v Associated Newspapers: Have UK Data Protection’s Journalism Provisions Come of Age?\n",
-      "url": "https://ukconstitutionallaw.org/2026/09/22/david-erdos-vince-v-associated-newspapers-have-uk-data-protections-journalism-provisions-come-of-age/",
-      "source": "UK Constitutional Law",
-      "region": "UK",
-      "date": "2026-09-22T08:00:00.000Z",
-      "summary": "In Vince v Associated Newspapers [2026] EWCA Civ 899, the Court of Appeal held that an unfair processing […]",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-carter-ruck-ruling-leaves-sra-toothless-campa",
-      "title": "Carter-Ruck ruling leaves SRA “toothless”, campaigners warn",
-      "url": "https://www.legalfutures.co.uk/latest-news/carter-ruck-ruling-leaves-sra-toothless-campaigners-warn",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-09-21T23:07:54.000Z",
-      "summary": "The Solicitors Regulation Authority has been left as “little more than a paper tiger” by yesterday’s High Court ruling on privileged material, it has been claimed.\nThe post Carter-Ruck ruling leaves SRA “toothless”, campaigners warn appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-ca-urges-solicitors-to-reveal-ate-commissions",
-      "title": "CA urges solicitors to reveal ATE commissions to clients",
-      "url": "https://www.legalfutures.co.uk/latest-news/ca-urges-solicitors-to-reveal-ate-commissions-to-clients",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-09-21T23:05:39.000Z",
-      "summary": "It would be “unwise” for solicitors not to reply to questions from clients about whether they had paid commissions to after-the-event providers, the Court of Appeal has warned.\nThe post CA urges solicitors to reveal ATE commissions to clients appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-09-the-first-and-last-time-the-supreme-court-acted-as-a-tri",
-      "title": "The First And Last Time The Supreme Court Acted As A Trial Court",
-      "url": "https://abovethelaw.com/2026/09/the-first-and-last-time-the-supreme-court-acted-as-a-trial-court/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-09-21T22:04:00.000Z",
-      "summary": "A sheriff thought he could defy the Court's order, and an innocent man paid for it with his life.\nThe post The First And Last Time The Supreme Court Acted As A Trial Court appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-lawnext-com-2026-09-on-lawnext-an-offer-she-could-not-turn-down-bridget-mcco",
-      "title": "On LawNext: An Offer She Could Not Turn Down — Bridget McCormack on Joining Clio to Transform Technology for Judges",
-      "url": "https://www.lawnext.com/2026/09/on-lawnext-an-offer-she-could-not-turn-down-bridget-mccormack-on-joining-clio-to-transform-technology-for-judges.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-09-21T20:55:43.000Z",
-      "summary": "Legal tech company Clio has long said that its mission is to transform the legal experience for all. Until now, that “all” has largely focused on law firms and their clients, but recently Clio announced a major initiative to develop technology for the judiciary. As part of that initiative, it hired Pablo Arredondo, the former […]",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "abovethelaw-com-2026-09-legal-ethics-roundup-judge-warns-of-threat-to-democracy-",
-      "title": "Legal Ethics Roundup: Judge Warns Of Threat To Democracy, AI Slop Harms Extend Beyond Fake Cites, Philly DA Referred For Investigation, New Bill Aims To End ‘Stealth Impeachments’ & More",
-      "url": "https://abovethelaw.com/2026/09/legal-ethics-roundup-judge-warns-of-threat-to-democracy-ai-slop-harms-extend-beyond-fake-cites-philly-da-referred-for-investigation-new-bill-aims-to-end-stealth-impeachments-amp/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-09-21T16:57:08.000Z",
-      "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.\nThe post Legal Ethics Roundup: Judge Warns Of Threat To Democracy, AI Slop Harms Extend Beyond Fake Cites, Philly DA Referred For Investigation, New Bill Aims To End ‘Stealth Impeachments’ & More appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-abajournal-com-news-article-ai-slop-is-threatening-courts-ability-to-functio",
-      "title": "‘AI slop’ is threatening courts’ ability to function, appeals court says",
-      "url": "https://www.abajournal.com/news/article/ai-slop-is-threatening-courts-ability-to-function-florida-appeals-court-says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-09-21T15:50:00.000Z",
-      "summary": "",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-09-google-ai-said-man-killed-3-people-defamation-defense-lo",
-      "title": "Google AI Said Man Killed 3 People. Defamation Defense: ‘LOL, No One Trusts AI Summaries!’",
-      "url": "https://abovethelaw.com/2026/09/google-ai-said-man-killed-3-people-defamation-defense-lol-no-one-trusts-ai-summaries/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-09-21T15:49:03.000Z",
-      "summary": "Federal judge disagreed. Case moving forward.\nThe post Google AI Said Man Killed 3 People. Defamation Defense: ‘LOL, No One Trusts AI Summaries!’ appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-associate-news-imanage-to-deliver-governed-ai-powered-kno",
-      "title": "iManage to deliver governed AI-powered knowledge work in ChatGPT Enterprise",
-      "url": "https://www.legalfutures.co.uk/associate-news/imanage-to-deliver-governed-ai-powered-knowledge-work-in-chatgpt-enterprise",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-09-21T14:28:19.000Z",
-      "summary": "iManage plugin extends permission-bound access to the iManage platform to knowledge workers in ChatGPT, backed by iManage's open approach to AI tools\nThe post iManage to deliver governed AI-powered knowledge work in ChatGPT Enterprise appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-scotusblog-com-2026-09-republicans-respond-to-trump-supreme-court-comments-",
-      "title": "Republicans respond to Trump’s Supreme Court comments",
-      "url": "https://www.scotusblog.com/2026/09/republicans-respond-to-trump-supreme-court-comments/",
-      "source": "SCOTUSblog",
-      "region": "US",
-      "date": "2026-09-21T13:00:00.000Z",
-      "summary": "Plus, what artificial intelligence misunderstands about SCOTUS.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-high-court-sra-does-not-have-power-to-view-pr",
-      "title": "High Court: SRA does not have power to view privileged material",
-      "url": "https://www.legalfutures.co.uk/latest-news/high-court-sra-does-not-have-power-to-view-privileged-material",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-09-21T11:29:20.000Z",
-      "summary": "The SRA does not have the right to require the production of privileged documents from law firms without a waiver from the client, the High Court has ruled today.\nThe post High Court: SRA does not have power to view privileged material appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
     }
   ]
 }
