@@ -1,6 +1,66 @@
 {
-  "lastUpdated": "2026-10-23T11:00:35.100Z",
+  "lastUpdated": "2026-10-24T10:17:21.671Z",
   "articles": [
+    {
+      "id": "ukconstitutionallaw-org-2026-10-23-announcement-lecture-by-lord-justice-singh-",
+      "title": "Announcement: Lecture by Lord Justice Singh",
+      "url": "https://ukconstitutionallaw.org/2026/10/23/announcement-lecture-by-lord-justice-singh/",
+      "source": "UK Constitutional Law",
+      "region": "UK",
+      "date": "2026-10-23T17:30:00.000Z",
+      "summary": "The Faculty of Advocates’ Human Rights and Rule of Law Committee is delighted to be hosting an upcoming lecture by Lord Justice Singh, a member of the Court of Appeal of England and Wales. The lecture will take place on Thursday 19 November 2026 at 5.30pm in Laigh Hall, Parliament House. In this special lecture – […]",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-abajournal-com-news-article-florida-appeals-court-refers-lawyer-for-possible",
+      "title": "Florida appeals court refers lawyer for possible discipline over ‘AI slop’",
+      "url": "https://www.abajournal.com/news/article/florida-appeals-court-refers-lawyer-for-possible-discipline-over-ai-slop/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-10-23T14:00:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-10-the-interim-docket-remains-active-",
+      "title": "The interim docket remains active ",
+      "url": "https://www.scotusblog.com/2026/10/the-interim-docket-remains-active/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-10-23T13:00:00.000Z",
+      "summary": "Plus, how recent Supreme Court rulings are shaping the midterm elections.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "verfassungsblog-de-flawed-but-forward-",
+      "title": "Flawed, but Forward",
+      "url": "https://verfassungsblog.de/flawed-but-forward/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-10-23T11:33:13.000Z",
+      "summary": "The conviction of Hashim Thaçi and three other former KLA leaders marks a major moment for accountability in Kosovo. But the judgment’s reach comes with legal costs, from an expansive interpretation of joint criminal enterprise to unresolved questions about crimes against humanity and the legality of the convictions themselves. Its legacy will depend on whether the appeal can address these flaws w",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-legalfutures-co-uk-latest-news-sra-to-reconsider-misconduct-report-after-jud",
       "title": "SRA to reconsider misconduct report after judicial review threat",
@@ -2216,98 +2276,6 @@
       "tags": [
         "AI in Law",
         "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-09-24-the-human-clipboard-closing-the-operational-",
-      "title": "The Human Clipboard: Closing the Operational Gap in Legal AI",
-      "url": "https://www.artificiallawyer.com/2026/09/24/the-human-clipboard-closing-the-operational-gap-in-legal-ai/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-09-24T06:40:21.000Z",
-      "summary": "By Katja Nikolaus, Co-Founder, JUNE. Few technologies have been adopted by legal departments as quickly as generative artificial intelligence. In an international survey by ACC ...",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "abovethelaw-com-2026-09-the-white-house-has-a-whole-lot-of-talking-points-and-no",
-      "title": "The White House Has A Whole Lot Of Talking Points And Not A Lot Of Case Law",
-      "url": "https://abovethelaw.com/2026/09/the-white-house-has-a-whole-lot-of-talking-points-and-not-a-lot-of-case-law/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-09-23T18:32:00.000Z",
-      "summary": "The judge hears the arguments later ths afternoon.\nThe post The White House Has A Whole Lot Of Talking Points And Not A Lot Of Case Law appeared first on Above the Law.",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-lawnext-com-2026-09-at-its-user-conference-in-las-vegas-8am-announces-mcp-in",
-      "title": "At Its User Conference in Las Vegas, 8am Announces MCP Integration and New AI Tools for MyCase, Plus New Law Firm Funding Program through LawPay",
-      "url": "https://www.lawnext.com/2026/09/at-its-user-conference-in-las-vegas-8am-announces-mcp-integration-and-new-ai-tools-for-mycase-plus-new-law-firm-funding-program-through-lawpay.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-09-23T16:06:27.000Z",
-      "summary": "At its second-annual Kaleidoscope customer conference in Las Vegas today, 8am announced new generative AI features, a new Claude MCP connector, and new financial products, including a law firm loan program with quick approval and funding. Although 8am is the parent company of three law practice management platforms – MyCase, CasePEER and DocketWise – as […]",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "abovethelaw-com-2026-09-judge-with-infamous-a-b-c-d-f-u-sobriety-test-gets-anoth",
-      "title": "Judge With Infamous ‘A, B, C, D, F, U’ Sobriety Test Gets Another Year Off The Bench",
-      "url": "https://abovethelaw.com/2026/09/judge-with-infamous-a-b-c-d-f-u-sobriety-test-gets-another-year-off-the-bench/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-09-23T14:47:00.000Z",
-      "summary": "The judge agreed to treatment and testing to resolve his judicial misconduct case.\nThe post Judge With Infamous ‘A, B, C, D, F, U’ Sobriety Test Gets Another Year Off The Bench appeared first on Above the Law.",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "legaltechnology-com-spellbook-appoints-first-cmo-",
-      "title": "Spellbook appoints first CMO",
-      "url": "https://legaltechnology.com/spellbook-appoints-first-cmo/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-09-23T13:28:35.000Z",
-      "summary": "Spellbook, a leading AI infrastructure for contracts used by over 5,000 in-house teams and law firms, today (23 September) announced that Meltem Kuran-Berkowitz has joined the company as its first […]\nThe post Spellbook appoints first CMO appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel",
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "legaltechnology-com-noxtua-closes-e100m-series-c-",
-      "title": "Noxtua closes €100m Series C",
-      "url": "https://legaltechnology.com/noxtua-closes-e100m-series-c/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-09-23T13:10:53.000Z",
-      "summary": "European sovereign legal AI Noxtua has closed its Series C funding round totalling more than €100m, with German legal publisher C.H.BECK as its new majority shareholder and Austrian legal publishing […]\nThe post Noxtua closes €100m Series C appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel"
       ],
       "relevance": "medium",
       "score": 3
