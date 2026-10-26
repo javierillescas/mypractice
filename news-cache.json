@@ -1,6 +1,21 @@
 {
-  "lastUpdated": "2026-10-25T10:43:23.695Z",
+  "lastUpdated": "2026-10-26T12:15:35.512Z",
   "articles": [
+    {
+      "id": "www-legalfutures-co-uk-latest-news-group-to-assess-if-legal-training-meets-needs",
+      "title": "Group to assess if legal training meets needs of employers",
+      "url": "https://www.legalfutures.co.uk/latest-news/group-to-assess-if-legal-training-meets-needs-of-employers",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-25T23:05:14.000Z",
+      "summary": "The government, judiciary and profession have created a group to ensure that legal education, training and qualifications fit the demands of employers now and in the future.\nThe post Group to assess if legal training meets needs of employers appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Education"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "verfassungsblog-de-common-good-ideology-seeks-to-colonize-canada-",
       "title": "Common Good Ideology Seeks to Colonize Canada",
@@ -2121,52 +2136,6 @@
       "tags": [
         "AI in Law",
         "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-09-adventures-in-legal-tech-how-one-litigator-uses-claude-t",
-      "title": "‘Adventures In Legal Tech’: How One Litigator Uses Claude To Build His Case Strategy",
-      "url": "https://abovethelaw.com/2026/09/adventures-in-legal-tech-how-one-litigator-uses-claude-to-build-his-case-strategy/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-09-25T21:34:00.000Z",
-      "summary": "Targeting your argument's weak spot with AI, in this episode of \"Adventures in Legal Tech.\" \nThe post ‘Adventures In Legal Tech’: How One Litigator Uses Claude To Build His Case Strategy appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Tech",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-abajournal-com-news-article-appellate-court-hears-arguments-in-case-involvin",
-      "title": "Appellate court hears arguments in case involving collegiate athletes accused of gambling",
-      "url": "https://www.abajournal.com/news/article/appellate-court-hears-arguments-in-case-involving-iowa-collegiate-athletes-accused-of-gambling/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-09-25T16:13:00.000Z",
-      "summary": "",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "legaltechnology-com-startup-corner-from-digital-binders-to-ai-research-meet-alig",
-      "title": "Startup Corner: From digital binders to AI research – meet Align",
-      "url": "https://legaltechnology.com/startup-corner-from-digital-binders-to-ai-research-meet-align/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-09-25T11:09:54.000Z",
-      "summary": "Founded by former Williams & Connolly litigation partner Sam Davidoff, Align began life building digital binders for litigators. Five years on, the bootstrapped legal tech company is expanding into AI-powered […]\nThe post Startup Corner: From digital binders to AI research – meet Align appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "Legal Tech",
         "Legal Reasoning"
       ],
       "relevance": "medium",
