@@ -1,6 +1,37 @@
 {
-  "lastUpdated": "2026-10-27T11:36:14.125Z",
+  "lastUpdated": "2026-10-28T12:07:01.447Z",
   "articles": [
+    {
+      "id": "www-legalfutures-co-uk-latest-news-legal-services-board-approves-sra-approach-to",
+      "title": "Legal Services Board approves SRA approach to unlimited fine power",
+      "url": "https://www.legalfutures.co.uk/latest-news/legal-services-board-approves-sra-approach-to-unlimited-fine-power",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-28T00:05:18.000Z",
+      "summary": "The Legal Services Board has approved the Solicitors Regulation Authority’s amended guidance that will allow it to issue unlimited fines in cases of economic crime.\nThe post Legal Services Board approves SRA approach to unlimited fine power appeared first on Legal Futures.",
+      "tags": [
+        "Regulation",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-ex-partner-reprimanded-after-sra-drops-main-a",
+      "title": "Ex-partner reprimanded after SRA drops main allegations",
+      "url": "https://www.legalfutures.co.uk/latest-news/ex-partner-reprimanded-after-sra-drops-main-allegations",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-28T00:03:31.000Z",
+      "summary": "A former partner at a national law firm has been reprimanded for a minor rule breach after the SRA withdrew more serious allegations shortly before his disciplinary hearing.\nThe post Ex-partner reprimanded after SRA drops main allegations appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-legalfutures-co-uk-latest-news-sra-moves-to-take-unlimited-fining-power-for-",
       "title": "SRA moves to take unlimited fining power for economic crime",
@@ -2232,37 +2263,6 @@
       ],
       "relevance": "high",
       "score": 6
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-09-28-arbitrators-embrace-reject-legal-ai-",
-      "title": "Arbitrators Embrace + Reject Legal AI",
-      "url": "https://www.artificiallawyer.com/2026/09/28/arbitrators-embrace-reject-legal-ai/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-09-28T10:27:26.000Z",
-      "summary": "A survey of 557 arbitration professionals in the US has found strongly conflicting data about legal AI. While some use cases for AI seem popular, ...",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-09-scary-law-firms-in-time-for-halloween-see-generally-",
-      "title": "Scary Law Firms In Time For Halloween — See Generally",
-      "url": "https://abovethelaw.com/2026/09/scary-law-firms-in-time-for-halloween-see-generally/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-09-27T23:04:00.000Z",
-      "summary": "Nothing To Fear But Quinn Itself: BTI's annual survey of the firms clients least want to see across the \"v.\" is out, and Quinn Emanuel, Kirkland & Ellis, Skadden, and Gibson Dunn are once again the Fearsome Foursome. Weird how two of those firms were too chicken to even defend themselves against an illegal executive order.\n\n\nShow Me The Precedent: The Eighth Circuit revived Missouri's Republican g",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
     }
   ]
 }
