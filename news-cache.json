@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2026-10-29T12:17:33.275Z",
+  "lastUpdated": "2026-10-30T12:08:22.722Z",
   "articles": [
+    {
+      "id": "ukconstitutionallaw-org-2026-10-30-announcement-international-conference-11-13-n",
+      "title": "Announcement: International Conference, 11–13 November 2026: Max Planck Institute for the Study of Crime, Security and Law, Fürstenbergstr. 19, Freiburg, Germany (hybrid): Host: The Max Planck Center for Democracy, Security and Human Rights",
+      "url": "https://ukconstitutionallaw.org/2026/10/30/announcement-international-conference-11-13-november-2026max-planck-institute-for-the-study-of-crime-security-and-law-furstenbergstr-19-freiburg-germany-hybridhost-the-max-planck-cen/",
+      "source": "UK Constitutional Law",
+      "region": "UK",
+      "date": "2026-10-30T09:00:00.000Z",
+      "summary": "While the proportionality principle has long stood as a hallmark of German legal scholarship and is a widely adopted framework for adjudicating conflicts between individual rights and collective interests, its first sub-test, legitimacy review (i.e., the requirement that state action pursue a legitimate aim), remains strikingly underdeveloped in both doctrine and theory. Courts and scholars […]",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-court-voids-claim-brought-by-solicitors-assig",
+      "title": "Court voids claim brought by solicitors assigned client’s cause of action",
+      "url": "https://www.legalfutures.co.uk/latest-news/court-voids-claim-brought-by-solicitors-assigned-clients-cause-of-action",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-30T00:05:27.000Z",
+      "summary": "An £11m claim has fallen foul of a 242-year old rule that a solicitor with conduct of litigation may not take an assignment of their client's cause of action, the High Court has held.\nThe post Court voids claim brought by solicitors assigned client’s cause of action appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-dieselgate-claimants-whose-solicitors-served-",
+      "title": "Dieselgate claimants whose solicitors served form too late live to fight on",
+      "url": "https://www.legalfutures.co.uk/latest-news/dieselgate-claimants-whose-solicitors-served-form-too-late-live-to-fight-on",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-30T00:04:28.000Z",
+      "summary": "The High Court has refused to strike out cases brought by 5,000 Dieselgate claimants after their law firm failed to serve the claim form before the cut-off date.\nThe post Dieselgate claimants whose solicitors served form too late live to fight on appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-high-court-judge-reprimanded-for-judgment-del",
+      "title": "High Court judge reprimanded for judgment delays",
+      "url": "https://www.legalfutures.co.uk/latest-news/high-court-judge-reprimanded-for-judgment-delays",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-10-30T00:01:12.000Z",
+      "summary": "A senior High Court judge has been issued with a reprimand for delays of up to 13 months in handing down five judgments.\nThe post High Court judge reprimanded for judgment delays appeared first on Legal Futures.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-10-the-55-year-old-litigation-giant-that-was-undone-by-its-",
+      "title": "The 55-Year-Old Litigation Giant That Was Undone By Its Own Billing Bet",
+      "url": "https://abovethelaw.com/2026/10/the-55-year-old-litigation-giant-that-was-undone-by-its-own-billing-bet/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-10-29T23:03:00.000Z",
+      "summary": "Wonder why failed Biglaw firms are on the brain...\nThe post The 55-Year-Old Litigation Giant That Was Undone By Its Own Billing Bet appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "blogs-thomsonreuters-com-legal-blog-canada-the-next-generation-of-cocounsel-lega",
+      "title": "Canada: The next generation of CoCounsel Legal is here",
+      "url": "https://blogs.thomsonreuters.com/legal-blog/canada-the-next-generation-of-cocounsel-legal-is-here/",
+      "source": "Thomson Reuters",
+      "region": "Global",
+      "date": "2026-10-29T20:47:41.000Z",
+      "summary": "CoCounsel Legal is getting even better, with new agentic AI capabilities added to the platform you already trust. With …\nThe post Canada: The next generation of CoCounsel Legal is here appeared first on Thomson Reuters Law Blog.",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "verfassungsblog-de-jackdaw-and-scope-1-and-3-conditions-gas-dach-decision-",
       "title": "Waiting or Pushing?",
@@ -2077,172 +2168,6 @@
       "summary": "Clio has bought Learned Hand, an AI company focused on supporting judges and the courts. The move is part of its wider strategy to build ...",
       "tags": [
         "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "legaltechnology-com-thomson-reuters-wins-ai-copyright-appeal-against-ross-intell",
-      "title": "Thomson Reuters wins AI copyright appeal against Ross Intelligence, Reuters says",
-      "url": "https://legaltechnology.com/thomson-reuters-wins-ai-copyright-appeal-against-ross-intelligence-reuters-says/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-09-30T10:41:24.000Z",
-      "summary": "The 3rd Circuit Court of Appeals yesterday (29 September) upheld a ruling for Thomson Reuters in its copyright dispute with former legal-research rival Ross Intelligence over Ross’ alleged misuse of […]\nThe post Thomson Reuters wins AI copyright appeal against Ross Intelligence, Reuters says appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-09-30-zero-associates-firm-pierson-ferdinand-hits-",
-      "title": "‘Zero Associates’ Firm Pierson Ferdinand Hits 300 Partners",
-      "url": "https://www.artificiallawyer.com/2026/09/30/zero-associates-firm-pierson-ferdinand-hits-300-partners/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-09-30T08:15:52.000Z",
-      "summary": "Pierson Ferdinand, a new model law firm that has no associates and instead relies of AI platforms such as Harvey to do the heavy lifting, ...",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-without-notice-application-was-not-fairly-pre",
-      "title": "Without-notice application was “not fairly presented” to judge",
-      "url": "https://www.legalfutures.co.uk/latest-news/without-notice-application-was-not-fairly-presented-to-judge",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-09-29T23:07:35.000Z",
-      "summary": "The High Court has set aside a decision to add a defendant and serve them out of the jurisdiction after finding the case was “not fairly presented” to the judge.\nThe post Without-notice application was “not fairly presented” to judge appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "high",
-      "score": 6
-    },
-    {
-      "id": "blogs-thomsonreuters-com-legal-blog-meet-thomson-the-llm-built-by-thomson-reuter",
-      "title": "Meet Thomson: The LLM built by Thomson Reuters",
-      "url": "https://blogs.thomsonreuters.com/legal-blog/meet-thomson-the-llm-built-by-thomson-reuters/",
-      "source": "Thomson Reuters",
-      "region": "Global",
-      "date": "2026-09-29T19:27:38.000Z",
-      "summary": "Meet Thomson, the large language model from Thomson Reuters, trained specifically on the legal, tax, and compliance content the …\nThe post Meet Thomson: The LLM built by Thomson Reuters appeared first on Thomson Reuters Law Blog.",
-      "tags": [
-        "AI in Law",
-        "Regulation"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-09-sam-alitos-oil-stocks-finally-get-him-benched-from-the-b",
-      "title": "Sam Alito’s Oil Stocks Finally Get Him Benched From The Big Climate Case",
-      "url": "https://abovethelaw.com/2026/09/sam-alitos-oil-stocks-finally-get-him-benched-from-the-big-climate-case/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-09-29T18:32:00.000Z",
-      "summary": "The Court said in May that his recusal wasn't required, but I guess things change.\nThe post Sam Alito’s Oil Stocks Finally Get Him Benched From The Big Climate Case appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-abajournal-com-news-article-a-judge-raising-her-fists-at-defendant-amounts-t",
-      "title": "Judge raising fists at defendant amounts to ‘inappropriate and undignified’ behavior, state supreme court says",
-      "url": "https://www.abajournal.com/news/article/a-judge-raising-her-fists-at-defendant-amounts-to-undignified-behavior-says-oklahoma-supreme-court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-09-29T17:58:00.000Z",
-      "summary": "",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "www-lawnext-com-2026-09-3rd-circuit-issues-opinion-in-thomson-reuters-v-ross-cas",
-      "title": "3rd Circuit Issues Opinion in Thomson Reuters v. ROSS Case, But For Now It Is Sealed",
-      "url": "https://www.lawnext.com/2026/09/3rd-circuit-issues-opinion-in-thomson-reuters-v-ross-case-but-for-now-it-is-sealed.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-09-29T16:53:18.000Z",
-      "summary": "The 3rd U.S. Circuit Court of Appeals today issued an opinion in the long-running copyright battle between Thomson Reuters and the now-shuttered AI legal research company ROSS Intelligence, but the opinion is, at least for now, sealed and not viewable by the public. The court issued the opinion under seal together with an order stating […]",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "www-lawnext-com-2026-09-built-for-corporate-restructuring-the-case-for-purpose-b",
-      "title": "Built for Corporate Restructuring: The Case for Purpose-Built AI",
-      "url": "https://www.lawnext.com/2026/09/built-for-corporate-restructuring-the-case-for-purpose-built-ai.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-09-29T16:29:13.000Z",
-      "summary": "Section 1: Five Realities Reshaping How Corporate Restructuring Gets Done Corporate restructuring operates at the intersection of legal precision and financial complexity, with stakeholder decisions routinely made under exigent circumstances. More data and shortened timelines have made that work harder. A 2025 study by Harvard and USC law professors published in the University of Chicago […]",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-associate-news-jnp-legal-streamlines-support-workflows-wi",
-      "title": "JNP Legal streamlines support workflows with BigHand Workflow Management in the cloud",
-      "url": "https://www.legalfutures.co.uk/associate-news/jnp-legal-streamlines-support-workflows-with-bighand-workflow-management-in-the-cloud",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-09-29T15:12:36.000Z",
-      "summary": "South Wales firm strengthens operational resilience and simplifies work allocation across four offices with a platform tailored to its needs.\nThe post JNP Legal streamlines support workflows with BigHand Workflow Management in the cloud appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-09-29-legalzoom-co-founder-brian-lee-joins-steno-b",
-      "title": "LegalZoom Co-Founder Brian Lee Joins Steno Board ",
-      "url": "https://www.artificiallawyer.com/2026/09/29/legalzoom-co-founder-brian-lee-joins-steno-board/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-09-29T14:17:23.000Z",
-      "summary": "AL doesn’t often do board roles, but this is a biggy, so…..Steno, the court reporting and AI-driven litigation support pioneer, has appointed Brian Lee to ...",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-scotusblog-com-2026-09-the-supreme-courts-two-decades-of-constitutional-chan",
-      "title": "The Supreme Court’s two decades of constitutional change",
-      "url": "https://www.scotusblog.com/2026/09/the-supreme-courts-two-decades-of-constitutional-change/",
-      "source": "SCOTUSblog",
-      "region": "US",
-      "date": "2026-09-29T14:00:00.000Z",
-      "summary": "",
-      "tags": [
         "Legal Reasoning"
       ],
       "relevance": "medium",
