@@ -1,6 +1,82 @@
 {
-  "lastUpdated": "2026-10-30T12:08:22.722Z",
+  "lastUpdated": "2026-10-31T11:41:08.323Z",
   "articles": [
+    {
+      "id": "blogs-thomsonreuters-com-legal-blog-redline-comparison-guide-for-legal-ai-softwa",
+      "title": "Redline comparison guide for legal AI software",
+      "url": "https://blogs.thomsonreuters.com/legal-blog/redline-comparison-guide-for-legal-ai-software/",
+      "source": "Thomson Reuters",
+      "region": "Global",
+      "date": "2026-10-31T01:01:16.000Z",
+      "summary": "In beta testing ahead of launch, lawyers stopped comparing CoCounsel Legal to other AI solutions. They started comparing it …\nThe post Redline comparison guide for legal AI software appeared first on Thomson Reuters Law Blog.",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-10-justices-to-debate-when-an-established-rule-is-previo",
+      "title": "Justices to debate when an established rule is “previously unavailable” in habeas case",
+      "url": "https://www.scotusblog.com/2026/10/justices-to-debate-when-an-established-rule-is-previously-unavailable-in-prisoner-habeas-cases/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-10-30T14:00:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "ukconstitutionallaw-org-2026-10-30-sam-guy-joe-tomlinson-rising-caseloads-in-jud",
+      "title": "Sam Guy & Joe Tomlinson: Rising Caseloads in Judicial Review – A Question of AI?",
+      "url": "https://ukconstitutionallaw.org/2026/10/30/sam-guy-joe-tomlinson-rising-caseloads-in-judicial-review-a-question-of-ai/",
+      "source": "UK Constitutional Law",
+      "region": "UK",
+      "date": "2026-10-30T14:00:00.000Z",
+      "summary": "Across many parts of the administrative justice system, caseloads appear to be rising. Tribunals handling administrative appeals are currently experiencing record backlogs. Public sector ombudsmen are observing similar trends. This has renewed focus on a perennial question in these institutions: what drives these caseloads? Increasingly, institutions must now ask a follow-up question: is use of […",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "www-lawnext-com-2026-10-lawnext-podcast-netdocs-ceo-josh-baxter-on-why-the-dms-i",
+      "title": "LawNext Podcast: NetDocs CEO Josh Baxter on Why the DMS is Becoming the Law Firm’s ‘Intelligence Layer’",
+      "url": "https://www.lawnext.com/2026/10/lawnext-podcast-netdocs-ceo-josh-baxter-on-why-the-dms-is-becoming-the-law-firms-intelligence-layer.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-10-30T13:21:39.000Z",
+      "summary": "NetDocuments CEO Josh Baxter believes the document management system is becoming something even greater — a law firm’s organizational intelligence layer. As lawyers increasingly do their work inside AI tools such as Claude, Harvey, Legora and ChatGPT, Baxter says NetDocuments’ job is to build and preserve the firm’s context, then make it accessible through whatever interface […]",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-lawnext-com-2026-10-at-its-annual-summit-everlaw-unveils-omni-its-agentic-ai",
+      "title": "At Its Annual Summit, Everlaw Unveils Omni, Its Agentic AI Suite, But CEO Says Customers Are Even More Excited About Opening Its Platform to Other AI Tools",
+      "url": "https://www.lawnext.com/2026/10/at-its-annual-summit-everlaw-unveils-omni-its-agentic-ai-suite-but-ceo-says-customers-are-even-more-excited-about-opening-its-platform-to-other-ai-tools.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-10-30T12:51:29.000Z",
+      "summary": "At its annual Everlaw Summit in San Francisco this week, the e-discovery company Everlaw unveiled Omni, an agentic AI investigation suite that orchestrates the full range of the company’s tools to answer questions about a case. The company also launched Workflows, a drag-and-drop tool for automating complex document reviews, and Everlaw for Word, a Word […]",
+      "tags": [
+        "AI in Law",
+        "Legal Tech",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
     {
       "id": "ukconstitutionallaw-org-2026-10-30-announcement-international-conference-11-13-n",
       "title": "Announcement: International Conference, 11–13 November 2026: Max Planck Institute for the Study of Crime, Security and Law, Fürstenbergstr. 19, Freiburg, Germany (hybrid): Host: The Max Planck Center for Democracy, Security and Human Rights",
@@ -123,6 +199,35 @@
       ],
       "relevance": "medium",
       "score": 4
+    },
+    {
+      "id": "www-abajournal-com-columns-article-chemerinsky-supreme-court-once-again-examines",
+      "title": "Chemerinsky: Supreme Court once again examines conflicts over the free exercise of religion",
+      "url": "https://www.abajournal.com/columns/article/chemerinsky-supreme-court-once-again-examines-conflicts-over-the-free-exercise-of-religion/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-10-28T22:41:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-abajournal-com-news-article-west-virginia-court-finds-law-protecting-judges-",
+      "title": "Court finds law protecting judges, officers’ personal information unconstitutional",
+      "url": "https://www.abajournal.com/news/article/west-virginia-court-finds-law-protecting-judges-officers-personal-information-unconstitutional/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-10-28T18:59:00.000Z",
+      "summary": "",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
     },
     {
       "id": "verfassungsblog-de-what-we-lose-when-lawyers-let-llms-write-",
@@ -2051,127 +2156,6 @@
       ],
       "relevance": "medium",
       "score": 4
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-sra-announces-pause-to-compliance-officer-rul",
-      "title": "SRA announces “pause” to compliance officer rule changes",
-      "url": "https://www.legalfutures.co.uk/latest-news/sra-announces-pause-to-compliance-officer-rule-changes",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-09-30T23:07:50.000Z",
-      "summary": "The Solicitors Regulation Authority has bowed to pressure from the profession and announced a “pause” in its implementation of the new compliance officer rules.\nThe post SRA announces “pause” to compliance officer rule changes appeared first on Legal Futures.",
-      "tags": [
-        "Regulation"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-09-ai-can-read-between-the-redacted-lines-",
-      "title": "AI Can Read Between The Redacted Lines",
-      "url": "https://abovethelaw.com/2026/09/ai-can-read-between-the-redacted-lines/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-09-30T20:44:00.000Z",
-      "summary": "Our very own investigation into Judge Elanor Ross shows how quickly artificial intelligence can uncover what courts tried to conceal.\nThe post AI Can Read Between The Redacted Lines appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-lawnext-com-2026-09-3rd-circuit-rules-for-thomson-reuters-in-its-copyright-f",
-      "title": "3rd Circuit Rules For Thomson Reuters In Its Copyright Fight Against Legal Research Startup ROSS",
-      "url": "https://www.lawnext.com/2026/09/3rd-circuit-rules-for-thomson-reuters-in-its-copyright-fight-against-legal-research-startup-ross.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-09-30T19:29:33.000Z",
-      "summary": "Yesterday I noted that th 3rd U.S. Circuit Court of Appeals had issued an opinion in the long-running copyright battle between Thomson Reuters and the now-shuttered AI legal research company ROSS Intelligence, but that the opinion was sealed and not viewable by the public. Today, it was revealed that the court has ruled in favor […]",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "legaltechnology-com-clio-buys-learned-hand-as-judiciary-strategy-takes-shape-",
-      "title": "Clio buys Learned Hand as judiciary strategy takes shape",
-      "url": "https://legaltechnology.com/clio-buys-learned-hand-as-judiciary-strategy-takes-shape/",
-      "source": "Legal IT Insider",
-      "region": "UK",
-      "date": "2026-09-30T19:14:39.000Z",
-      "summary": "Clio today (30 September) announced the acquisition of Learned Hand, an AI company building technology specifically for judges and courts. The acquisition marks Clio’s first direct expansion into the judiciary, […]\nThe post Clio buys Learned Hand as judiciary strategy takes shape appeared first on Legal IT Insider.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-lawnext-com-2026-09-clio-acquires-learned-hand-giving-its-new-judiciary-busi",
-      "title": "Clio Acquires Learned Hand, Giving Its New Judiciary Business An Existing Product",
-      "url": "https://www.lawnext.com/2026/09/clio-acquires-learned-hand-giving-its-new-judiciary-business-an-existing-product.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-09-30T18:58:01.000Z",
-      "summary": "Clio today announced that it has acquired Learned Hand, a startup that builds AI exclusively for judges and courts, giving the legal tech company’s newly launched judiciary business an existing product already in use in a number of courthouses. Clio did not disclose the terms of the deal. The acquisition caps a rapid series of […]",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel",
-        "Legal Tech",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "blogs-thomsonreuters-com-legal-blog-ai-investigation-solution-law-enforcement-",
-      "title": "What agencies should look for before buying an AI investigation solution",
-      "url": "https://blogs.thomsonreuters.com/legal-blog/ai-investigation-solution-law-enforcement/",
-      "source": "Thomson Reuters",
-      "region": "Global",
-      "date": "2026-09-30T17:58:15.000Z",
-      "summary": "Artificial intelligence has moved fast into everyday life, and law enforcement is no exception. Automated tools with machine learning features …\nThe post What agencies should look for before buying an AI investigation solution appeared first on Thomson Reuters Law Blog.",
-      "tags": [
-        "AI in Law"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-abajournal-com-news-article-florida-ag-asks-judge-to-bar-openai-from-develop",
-      "title": "Florida AG asks judge to bar OpenAI from developing new AI models without regulation",
-      "url": "https://www.abajournal.com/news/article/florida-ag-asks-judge-to-bar-openai-from-developing-new-models-without-regulation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-09-30T16:51:00.000Z",
-      "summary": "",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-09-30-clio-buys-learned-hand-as-judiciary-strategy",
-      "title": "Clio Buys Learned Hand as Judiciary Strategy Expands",
-      "url": "https://www.artificiallawyer.com/2026/09/30/clio-buys-learned-hand-as-judiciary-strategy-expands/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-09-30T13:53:21.000Z",
-      "summary": "Clio has bought Learned Hand, an AI company focused on supporting judges and the courts. The move is part of its wider strategy to build ...",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
     }
   ]
 }
