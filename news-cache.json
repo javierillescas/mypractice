@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T11:41:08.323Z",
+  "lastUpdated": "2026-11-01T12:40:28.140Z",
   "articles": [
     {
       "id": "blogs-thomsonreuters-com-legal-blog-redline-comparison-guide-for-legal-ai-softwa",
@@ -12,6 +12,20 @@
       "tags": [
         "AI in Law",
         "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "verfassungsblog-de-african-constitutionalism-beyond-reception-",
+      "title": "African Constitutionalism Beyond Reception",
+      "url": "https://verfassungsblog.de/african-constitutionalism-beyond-reception/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-10-30T16:16:21.000Z",
+      "summary": "African constitutionalism is often approached through the language of reception. International human rights standards are incorporated into constitutions, treaties are given domestic effect, courts draw upon international jurisprudence, and regional instruments adapt international commitments to African contexts. Yet this perspective leaves a fundamental question unresolved: What happens to the le",
+      "tags": [
+        "Legal Reasoning"
       ],
       "relevance": "medium",
       "score": 3
@@ -2059,97 +2073,6 @@
       "region": "US",
       "date": "2026-10-02T13:00:00.000Z",
       "summary": "Plus, President Trump again criticized his Supreme Court appointees.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-birss-eyes-page-limit-for-litigants-in-person",
-      "title": "Birss eyes page limit for litigants in person to state their case",
-      "url": "https://www.legalfutures.co.uk/latest-news/birss-eyes-page-limit-for-litigants-in-person-to-state-their-case",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-10-01T23:05:52.000Z",
-      "summary": "A strict page limit on outlining the case would help judges struggling to cope with litigants in person using AI to draft their claims, the incoming Master of the Rolls has suggested.\nThe post Birss eyes page limit for litigants in person to state their case appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-10-trump-regrets-his-supreme-court-picks-because-they-keep-",
-      "title": "Trump Regrets His Supreme Court Picks Because They Keep Voting Against Him",
-      "url": "https://abovethelaw.com/2026/10/trump-regrets-his-supreme-court-picks-because-they-keep-voting-against-him/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-10-01T19:15:00.000Z",
-      "summary": "He gave them 'the position of a lifetime,' and this is the thanks he gets.\nThe post Trump Regrets His Supreme Court Picks Because They Keep Voting Against Him appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-abajournal-com-news-article-clio-acquires-learned-hand-an-ai-company-for-cou",
-      "title": "Clio acquires Learned Hand, an AI company for courts, judges",
-      "url": "https://www.abajournal.com/news/article/clio-acquires-learned-hand-an-ai-company-for-courts-and-judges/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-10-01T16:03:00.000Z",
-      "summary": "",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-associate-news-tiger-eye-and-efimis-partner-to-strengthen",
-      "title": "Tiger Eye and Efimis partner to strengthen support across the integrated legal technology stack",
-      "url": "https://www.legalfutures.co.uk/associate-news/tiger-eye-and-efimis-partner-to-strengthen-support-across-the-integrated-legal-technology-stack",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-10-01T15:48:11.000Z",
-      "summary": "By combining the Efimis system capabilities with Tiger Eye's deep understanding of the legal sector and core platforms such as iManage, the partnership provides firms with a practical way to manage legal work from delivery through to billing.\nThe post Tiger Eye and Efimis partner to strengthen support across the integrated legal technology stack appeared first on Legal Futures.",
-      "tags": [
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-10-the-billable-hour-legal-tech-and-the-ai-efficiency-trap-",
-      "title": "The Billable Hour, Legal Tech, And The ‘AI Efficiency Trap’",
-      "url": "https://abovethelaw.com/2026/10/the-billable-hour-legal-tech-and-the-ai-efficiency-trap/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-10-01T15:33:00.000Z",
-      "summary": "[Sponsored] Lessons from ILTACON for the business of Biglaw. \nThe post The Billable Hour, Legal Tech, And The ‘AI Efficiency Trap’ appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-abajournal-com-news-article-arizona-appeals-court-says-judge-wrongly-permitt",
-      "title": "Judge wrongly permitted AI-generated victim video, state appeals court says",
-      "url": "https://www.abajournal.com/news/article/arizona-appeals-court-says-judge-wrongly-permitted-ai-generated-victim-video/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-10-01T15:03:00.000Z",
-      "summary": "",
       "tags": [
         "AI in Law",
         "Legal Reasoning"
