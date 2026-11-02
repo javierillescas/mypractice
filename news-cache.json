@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-11-01T12:40:28.140Z",
+  "lastUpdated": "2026-11-02T14:45:48.621Z",
   "articles": [
+    {
+      "id": "www-lawnext-com-2026-11-after-signing-on-with-upstart-legal-research-service-dec",
+      "title": "After Signing On with Upstart Legal Research Service Decisis, Maine Bar Switches to Clio Library",
+      "url": "https://www.lawnext.com/2026/11/after-signing-on-with-upstart-legal-research-service-decisis-maine-bar-switches-to-clio-library.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-11-02T13:57:02.000Z",
+      "summary": "Over the past few years, there have been a few twists and turns in the competition among legal research platforms to be the preferred partner of state and local bar associations. Once, that competition was almost exclusively between Fastcase and Casemaker. That changed when Fastcase acquired Casemaker in 2021. Then, in 2023, Fastcase merged with international […]",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Tech",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "verfassungsblog-de-the-oath-towards-the-president-",
+      "title": "The Oath “Towards” the President and the Suspension of the Chief Justice",
+      "url": "https://verfassungsblog.de/the-oath-towards-the-president/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-11-02T13:07:42.000Z",
+      "summary": "On Friday, 30 October, amid protests and riots in front of the Constitutional Tribunal, a group of judges elected to it this year by the centrist parliamentary majority entered its premises. One of these judges, Anna Korwin-Piotrowska, suspended the court’s president and vice-president for 30 days for obstructing its work. The escalation follows months of conflict in which Polish President Karol N",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "verfassungsblog-de-platform-work-directive-",
+      "title": "Employees without Employers",
+      "url": "https://verfassungsblog.de/platform-work-directive/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-11-02T11:21:18.000Z",
+      "summary": "Working conditions in platform work show an “urgent need for action,” according to the Bundesrat. It recently called on the German government to present a draft bill to implement the Platform Work Directive before the 2 December 2026 deadline. Effective regulation in food delivery, the Bundesrat states, could be achieved by requiring platform workers to be employed directly by digital platforms. I",
+      "tags": [
+        "Regulation",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "verfassungsblog-de-statement-by-former-presidents-of-the-constitutional-tribunal",
+      "title": "Statement by Former Presidents of the Constitutional Tribunal on the Crisis in the Constitutional Tribunal",
+      "url": "https://verfassungsblog.de/statement-by-former-presidents-of-the-constitutional-tribunal-on-the-crisis-in-the-constitutional-tribunal/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-11-02T09:24:08.000Z",
+      "summary": "The judges lawfully appointed to the Constitutional Tribunal by the Sejm have taken the necessary steps to restore the functions and status of this constitutional institution, which is essential to the rule of law and the protection of citizens’ rights and freedoms.\nThe post Statement by Former Presidents of the Constitutional Tribunal on the Crisis in the Constitutional Tribunal appeared first on",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "ukconstitutionallaw-org-2026-11-02-bernard-keenan-and-ewan-smith-proscription-pr",
+      "title": "Bernard Keenan and Ewan Smith: Proscription, Proportion, and Palestine Action – Part 1",
+      "url": "https://ukconstitutionallaw.org/2026/11/02/bernard-keenan-and-ewan-smith-proscription-proportion-and-palestine-action-part-1/",
+      "source": "UK Constitutional Law",
+      "region": "UK",
+      "date": "2026-11-02T09:00:00.000Z",
+      "summary": "Introduction The Supreme Court will hear the Home Secretary’s appeal in R (Ammori) v Secretary of State for the Home Department on 4 and 5 November 2026. The case concerns the Home Secretary’s June 2025 decision to proscribe Palestine Action under s.3 of the Terrorism Act 2000 (TA). Hundreds of prosecutions are currently pending in […]",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "abovethelaw-com-2026-11-last-weil-and-testament-see-generally-",
+      "title": "Last Weil And Testament — See Generally",
+      "url": "https://abovethelaw.com/2026/11/last-weil-and-testament-see-generally/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-11-02T00:41:45.000Z",
+      "summary": "Last Weil And Testament: Weil Gotshal will close up shop after 95 years, following a partner exodus and a failed merger. The farewell message to associates promises up to 90 days of salary and benefits, January bonuses for those who stick around, and a reminder to keep billing.\n\n\nShould Auld Salaries Be Forgot: Fenwick & West will move associates on its 1,950-hour track to the $235K salary scale e",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-cps-puts-another-fictitious-case-before-high-",
+      "title": "CPS puts another fictitious case before High Court",
+      "url": "https://www.legalfutures.co.uk/latest-news/cps-puts-another-fictitious-case-before-high-court",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-11-02T00:01:09.000Z",
+      "summary": "The CPS has again cited a fictitious authority to the High Court, which decided that, while “unsatisfactory”, it did not matter to the outcome.\nThe post CPS puts another fictitious case before High Court appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "blogs-thomsonreuters-com-legal-blog-redline-comparison-guide-for-legal-ai-softwa",
       "title": "Redline comparison guide for legal AI software",
@@ -2028,51 +2133,6 @@
       "region": "US",
       "date": "2026-10-04T22:49:40.000Z",
       "summary": "Three Time Losers: The Supreme Court shut down the third attempt to impose Missouri's gerrymandered map for this election in direct violation of applicable law. Along the way, the Court directed significant shade toward the Eighth Circuit, noting that the panel's theory didn't appear in any of the Court's precedents.\n\n\nAirball State: It didn't get any better for Missouri, as Sen. Eric Schmitt accu",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-lawnext-com-2026-10-ross-says-it-will-ask-supreme-court-to-review-3rd-circui",
-      "title": "ROSS Says It Will Ask Supreme Court to Review 3rd Circuit Ruling for Thomson Reuters in Copyright Case",
-      "url": "https://www.lawnext.com/2026/10/ross-says-it-will-ask-supreme-court-to-review-3rd-circuit-ruling-for-thomson-reuters-in-copyright-case.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-10-02T19:38:26.000Z",
-      "summary": "Following this week’s ruling by the 3rd U.S. Circuit Court of Appeals in favor of Thomson Reuters in its long-running copyright battle against the now-shuttered AI legal research company ROSS Intelligence,  ROSS says it will seek review in the Supreme Court.  Yar Chaikovsky, partner at White & Case, issued a statement on behalf of ROSS […]",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "high",
-      "score": 6
-    },
-    {
-      "id": "www-lawnext-com-2026-10-relativity-ceo-says-2028-server-deadline-stands-will-pri",
-      "title": "Relativity CEO Says 2028 Server Deadline Stands; Will Prioritize Partnering with Frontier Labs Over Legal AI Companies",
-      "url": "https://www.lawnext.com/2026/10/relativity-ceo-says-2028-server-deadline-stands-will-prioritize-partnering-with-frontier-labs-over-legal-ai-companies.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-10-02T15:49:38.000Z",
-      "summary": "Relativity is holding firm on its plan to require that all new matters be hosted in the cloud beginning Jan. 1, 2028, CEO Phil Saunders said Thursday, and he had a blunt message for partners who are not on board: “Know we’re going to run through you.” Saunders made the comments during a media briefing […]",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-scotusblog-com-2026-10-court-grants-three-cases-as-new-term-is-set-to-begin-",
-      "title": "Court grants three cases as new term is set to begin",
-      "url": "https://www.scotusblog.com/2026/10/court-grants-three-cases-as-new-term-is-set-to-begin/",
-      "source": "SCOTUSblog",
-      "region": "US",
-      "date": "2026-10-02T13:00:00.000Z",
-      "summary": "Plus, President Trump again criticized his Supreme Court appointees.",
       "tags": [
         "AI in Law",
         "Legal Reasoning"
