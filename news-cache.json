@@ -1,6 +1,50 @@
 {
-  "lastUpdated": "2026-11-02T14:45:48.621Z",
+  "lastUpdated": "2026-11-03T13:38:10.686Z",
   "articles": [
+    {
+      "id": "verfassungsblog-de-the-purcell-principle-",
+      "title": "The Purcell Principle",
+      "url": "https://verfassungsblog.de/the-purcell-principle/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-11-03T11:10:40.000Z",
+      "summary": "There exists a doctrine in twenty-first-century Supreme Court decision-making called ‘the Purcell principle.’ The term refers to the concept that generally guides federal courts to leave in place the status quo of election processes when election day is near. Purcell’s intention is to prevent confusion among voters, but the principle has become an encompassing excuse for the justices to modify ele",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "abovethelaw-com-2026-11-legal-ethics-roundup-can-ai-be-ethical-doj-lawyers-under",
+      "title": "Legal Ethics Roundup: Can AI Be Ethical?, DOJ Lawyers Under Scrutiny, Weil Gotshal Implodes, ‘Rogue Activist Judges,’ Reading Recommendations, Jobs & More",
+      "url": "https://abovethelaw.com/2026/11/legal-ethics-roundup-can-ai-be-ethical-doj-lawyers-under-scrutiny-weil-gotshal-implodes-rogue-activist-judges-reading-recommendations-jobs-more/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-11-02T23:34:00.000Z",
+      "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.\nThe post Legal Ethics Roundup: Can AI Be Ethical?, DOJ Lawyers Under Scrutiny, Weil Gotshal Implodes, ‘Rogue Activist Judges,’ Reading Recommendations, Jobs & More appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "verfassungsblog-de-whose-coup-polish-constitutional-tribunal-crisis-",
+      "title": "Whose Coup?",
+      "url": "https://verfassungsblog.de/whose-coup-polish-constitutional-tribunal-crisis/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-11-02T18:37:46.000Z",
+      "summary": "The temporary suspension on 30 October 2026 of the two judges who had usurped the leadership of Poland’s unlawfully composed Constitutional Tribunal produced startling images of a police cordon around the court and a chaotic confrontation with the president of the Republic. Radical-right political movements in Poland and abroad quickly portrayed the intervention as a coup d’état. Legally, however,",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
     {
       "id": "www-lawnext-com-2026-11-after-signing-on-with-upstart-legal-research-service-dec",
       "title": "After Signing On with Upstart Legal Research Service Decisis, Maine Bar Switches to Clio Library",
