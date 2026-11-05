@@ -1,6 +1,66 @@
 {
-  "lastUpdated": "2026-11-04T13:46:32.805Z",
+  "lastUpdated": "2026-11-05T13:58:59.523Z",
   "articles": [
+    {
+      "id": "verfassungsblog-de-gacaca-beyond-retribution-",
+      "title": "Gacaca Beyond Retribution",
+      "url": "https://verfassungsblog.de/gacaca-beyond-retribution/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-11-05T13:12:44.000Z",
+      "summary": "Rwanda’s Gacaca courts should not be understood simply as an alternative to conventional criminal justice or assessed solely against transitional justice models developed elsewhere. Writing from my own experience and situated understanding of Rwanda’s post-genocide context, I recognise that Gacaca emerged at a time when the country faced a devastated justice system, an overwhelming caseload, and t",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "blogs-thomsonreuters-com-legal-blog-ai-in-the-courts-time-savings-divided-opinio",
+      "title": "AI in the courts: Time savings, divided opinions, and the risk of losing expertise",
+      "url": "https://blogs.thomsonreuters.com/legal-blog/ai-in-the-courts-time-savings-divided-opinions-and-the-risk-of-losing-expertise/",
+      "source": "Thomson Reuters",
+      "region": "Global",
+      "date": "2026-11-04T23:12:24.000Z",
+      "summary": "It’s no surprise that AI is starting to change how courts get work done, especially by making court operations more …\nThe post AI in the courts: Time savings, divided opinions, and the risk of losing expertise appeared first on Thomson Reuters Law Blog.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-abajournal-com-news-article-appellate-court-lawyers-ai-use-doesnt-justify-sl",
+      "title": "Lawyers’ AI use doesn’t justify slashing $115K fee award, appellate court says",
+      "url": "https://www.abajournal.com/news/article/appellate-court-lawyers-ai-use-doesnt-justify-slashing-fee-award/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-11-04T17:48:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-11-job-of-the-month-senior-title-insurance-underwriting-cou",
+      "title": "Job Of The Month: Assistant General Counsel, Bankruptcy",
+      "url": "https://abovethelaw.com/2026/11/job-of-the-month-senior-title-insurance-underwriting-counsel-2-2-2/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-11-04T17:18:00.000Z",
+      "summary": "[Sponsored] The legal team is composed of former Biglaw attorneys who wanted a change from law firm life. \nThe post Job Of The Month: Assistant General Counsel, Bankruptcy appeared first on Above the Law.",
+      "tags": [
+        "In-House Counsel",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "verfassungsblog-de-counter-terrorism-law-and-free-speech-on-campus-",
       "title": "Counter-Terrorism Law and Free Speech on Campus",
@@ -2082,100 +2142,6 @@
       "date": "2026-10-06T15:38:00.000Z",
       "summary": "",
       "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "verfassungsblog-de-a-politician-withdrawn-in-eliminationist-times-",
-      "title": "A Politician Withdrawn in Eliminationist Times",
-      "url": "https://verfassungsblog.de/a-politician-withdrawn-in-eliminationist-times/",
-      "source": "Verfassungsblog",
-      "region": "EU",
-      "date": "2026-10-06T13:14:10.000Z",
-      "summary": "Last Thursday, nine justices of Israel’s Supreme Court, under President Yitzhak Amit, heard appeals against the Central Elections Committee. This body, made up of party delegates, had barred two Arab lists from the Knesset election of 27 October 2026. Within the current Israeli context, the judges’ words spoken in that room constituted a form of state violence that must be recognized as such. The ",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Reasoning"
-      ],
-      "relevance": "high",
-      "score": 7
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-sra-heading-for-carter-ruck-showdown-in-supre",
-      "title": "SRA heading for Carter-Ruck showdown in Supreme Court",
-      "url": "https://www.legalfutures.co.uk/latest-news/sra-heading-for-carter-ruck-showdown-in-supreme-court",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-10-05T23:10:02.000Z",
-      "summary": "The High Court has granted the SRA permission to appeal the Carter-Ruck ruling and issued a leapfrog certificate to take it straight to the Supreme Court.\nThe post SRA heading for Carter-Ruck showdown in Supreme Court appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Reasoning"
-      ],
-      "relevance": "high",
-      "score": 6
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-sme-law-firm-group-reports-positive-meeting-w",
-      "title": "SME law firm group reports “positive” meeting with SRA",
-      "url": "https://www.legalfutures.co.uk/latest-news/sme-law-firm-group-reports-positive-meeting-with-sra",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-10-05T23:05:45.000Z",
-      "summary": "The SME & Boutique Law Firm Alliance has described a meeting yesterday with the Solicitors Regulation Authority as “a positive step forward” - but with still a long way to go.\nThe post SME law firm group reports “positive” meeting with SRA appeared first on Legal Futures.",
-      "tags": [
-        "Regulation",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-questions-over-drunk-barrister-fail-to-save-c",
-      "title": "Questions over “drunk barrister” fail to save convicted man’s appeal",
-      "url": "https://www.legalfutures.co.uk/latest-news/questions-over-drunk-barrister-fail-to-save-convicted-mans-appeal",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-10-05T23:03:15.000Z",
-      "summary": "The Court of Appeal has rejected a convicted man’s application for third-party disclosure from the Bar Standards Board over claims that his prosecutor was drunk.\nThe post Questions over “drunk barrister” fail to save convicted man’s appeal appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "blogs-thomsonreuters-com-legal-blog-canada-what-is-deep-research-",
-      "title": "Canada: What is ‘Deep Research’?",
-      "url": "https://blogs.thomsonreuters.com/legal-blog/canada-what-is-deep-research/",
-      "source": "Thomson Reuters",
-      "region": "Global",
-      "date": "2026-10-05T19:44:52.000Z",
-      "summary": "A closer look at the agentic AI capability shaping legal research in Canada Legal research has always demanded precision, …\nThe post Canada: What is ‘Deep Research’? appeared first on Thomson Reuters Law Blog.",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-10-legal-ethics-roundup-rip-justice-melissa-hart-the-law-is",
-      "title": "Legal Ethics Roundup: RIP Justice Melissa Hart, ‘The Law Is Ours’ NYC Bar Campaign, Legal Ethics In Pop Culture, Reading Recommendations, Headlines, Trivia, Events, Jobs & More",
-      "url": "https://abovethelaw.com/2026/10/legal-ethics-roundup-rip-justice-melissa-hart-the-law-is-ours-nyc-bar-campaign-legal-ethics-in-pop-culture-reading-recommendations-headlines-trivia-events-jobs-more/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-10-05T16:18:00.000Z",
-      "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.\nThe post Legal Ethics Roundup: RIP Justice Melissa Hart, ‘The Law Is Ours’ NYC Bar Campaign, Legal Ethics In Pop Culture, Reading Recommendations, Headlines, Trivia, Events, Jobs & More appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Regulation",
         "Legal Reasoning"
       ],
       "relevance": "medium",
