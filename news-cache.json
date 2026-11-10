@@ -1,6 +1,115 @@
 {
-  "lastUpdated": "2026-11-09T15:10:44.579Z",
+  "lastUpdated": "2026-11-10T14:20:08.095Z",
   "articles": [
+    {
+      "id": "www-lawnext-com-2026-11-tax-research-platform-blue-j-raises-176m-to-expand-its-a",
+      "title": "Tax Research Platform Blue J Raises $176M to Expand Its Agentic AI and Reach New Markets",
+      "url": "https://www.lawnext.com/2026/11/tax-research-platform-blue-j-raises-176m-to-expand-its-agentic-ai-and-reach-new-markets.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-11-10T14:18:47.000Z",
+      "summary": "Blue J, the Toronto-based tax research and advisory platform, said today that it has raised $176 million in Series E capital to scale its agentic AI and expand into new geographic markets. The round was led by JMI Equity, a leading growth equity investment firm. Existing investors Oak HC/FT and Sapphire Ventures also participated in […]",
+      "tags": [
+        "AI in Law",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-11-border-wall-decision-caps-busy-monday-at-scotus-",
+      "title": "Border wall decision caps busy Monday at SCOTUS",
+      "url": "https://www.scotusblog.com/2026/11/border-wall-decision-caps-busy-monday-at-scotus/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-11-10T14:00:00.000Z",
+      "summary": "Plus, the Trump administration wants the Supreme Court to end the ballroom dispute.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "verfassungsblog-de-iran-us-torture-tvpa-",
+      "title": "The Clock That Has Yet to Start Ticking",
+      "url": "https://verfassungsblog.de/iran-us-torture-tvpa/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-11-10T08:41:50.000Z",
+      "summary": "More than fifty years after they were allegedly tortured by the Shah’s secret police, three Iranian men are seeking justice in a Florida courtroom. In a landmark ruling, a US federal court has allowed their claims to proceed, finding that the statute of limitations has yet to begin running. But the case reaches far beyond the courtroom. It challenges a vision of Iran’s future that seeks justice fo",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Reasoning"
+      ],
+      "relevance": "high",
+      "score": 6
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-first-satisfied-client-for-groundbreaking-tec",
+      "title": "First satisfied client for groundbreaking technology-only law firm",
+      "url": "https://www.legalfutures.co.uk/latest-news/first-satisfied-client-for-groundbreaking-technology-only-law-firm",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-11-10T00:05:03.000Z",
+      "summary": "Groundbreaking technology-only law firm Lawfairy has marked the first successful completion of a case for a consumer, a Swiss national who used it to secure a UK visa.\nThe post First satisfied client for groundbreaking technology-only law firm appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-high-court-rejects-sdt-appeal-made-five-and-a",
+      "title": "High Court rejects SDT appeal made five-and-a-half years out of time",
+      "url": "https://www.legalfutures.co.uk/latest-news/high-court-rejects-sdt-appeal-made-five-and-a-half-years-out-of-time",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-11-10T00:03:47.000Z",
+      "summary": "The High Court has dismissed an appeal by a solicitor-turned-barrister against a £20,000 fine imposed on him by the Solicitors Disciplinary Tribunal back in 2020.\nThe post High Court rejects SDT appeal made five-and-a-half years out of time appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "abovethelaw-com-2026-11-legal-ethics-roundup-doj-ethics-probe-bar-exam-tampering",
+      "title": "Legal Ethics Roundup: DOJ Ethics Probe, Bar Exam Tampering, AI Billing Limits, TX Reconsiders ABA Accreditation Council, Biglaw Shakeup, AI Privilege & More",
+      "url": "https://abovethelaw.com/2026/11/legal-ethics-roundup-doj-ethics-probe-bar-exam-tampering-ai-billing-limits-tx-reconsiders-aba-accreditation-council-biglaw-shakeup-ai-privilege-more/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-11-09T22:34:00.000Z",
+      "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.\nThe post Legal Ethics Roundup: DOJ Ethics Probe, Bar Exam Tampering, AI Billing Limits, TX Reconsiders ABA Accreditation Council, Biglaw Shakeup, AI Privilege & More appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-11-09-blackletter-bags-6m-for-transactional-new-mo",
+      "title": "Blackletter Bags $6m for Transactional New Mod",
+      "url": "https://www.artificiallawyer.com/2026/11/09/blackletter-bags-6m-for-transactional-new-mod/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-11-09T17:13:05.000Z",
+      "summary": "Many new model, AI native, law firms are focused on more routine commercial contracts, with a notable group handling matters for startups. Blackletter is instead ...",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-lawnext-com-2026-11-founder-nikki-shaver-to-leave-legaltech-hub-investor-jer",
       "title": "Founder Nikki Shaver to Leave Legaltech Hub, Investor Jeroen Plink to Step In, Announces Strategic Partnership with Baretz+Brunelle",
