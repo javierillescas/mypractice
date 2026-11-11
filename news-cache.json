@@ -1,6 +1,67 @@
 {
-  "lastUpdated": "2026-11-10T14:20:08.095Z",
+  "lastUpdated": "2026-11-11T13:33:13.608Z",
   "articles": [
+    {
+      "id": "verfassungsblog-de-the-delegitimisation-of-the-arab-vote-in-israel-",
+      "title": "The Delegitimisation of the Arab Vote in Israel",
+      "url": "https://verfassungsblog.de/the-delegitimisation-of-the-arab-vote-in-israel/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-11-11T13:21:41.000Z",
+      "summary": "Political uncertainty in Israel has intensified following inconclusive election results. Since the election, the political right has sought to delegitimise the unprecedented electoral success of Arab citizens, whose representatives secured 19 of the Knesset’s 120 seats. The right has united behind Netanyahu’s unprecedented \"election-theft\" campaign, portraying Arab participation in government as t",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-11-11-mercedes-lawyer-joins-ai-native-compound-law",
+      "title": "Mercedes Lawyer Joins AI Native Compound Law",
+      "url": "https://www.artificiallawyer.com/2026/11/11/mercedes-lawyer-joins-ai-native-compound-law/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-11-11T08:16:42.000Z",
+      "summary": "Compound Law, an AI‐native firm based in Berlin, and co-founded by the former General Counsel of Zenjob, has hired Marc Schuba, a White & Case ...",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-judge-attacks-dishonest-claimants-scandalous-",
+      "title": "Judge attacks dishonest claimant’s “scandalous” behaviour",
+      "url": "https://www.legalfutures.co.uk/latest-news/judge-attacks-dishonest-claimants-scandalous-behaviour",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-11-11T00:03:29.000Z",
+      "summary": "A High Court judge has hit out at the “scandalous” waste of public resources in the form of legal and other costs by a man who fabricated a £7m personal injury claim.\nThe post Judge attacks dishonest claimant’s “scandalous” behaviour appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-11-court-appears-unlikely-to-allow-inmates-lawsuit-for-v",
+      "title": "Court appears unlikely to side with inmate in lawsuit for violation of his constitutional rights",
+      "url": "https://www.scotusblog.com/2026/11/court-appears-unlikely-to-allow-inmates-lawsuit-for-violation-of-his-constitutional-rights/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-11-10T18:53:00.000Z",
+      "summary": "",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-lawnext-com-2026-11-tax-research-platform-blue-j-raises-176m-to-expand-its-a",
       "title": "Tax Research Platform Blue J Raises $176M to Expand Its Agentic AI and Reach New Markets",
@@ -2045,53 +2106,6 @@
         "AI in Law",
         "Legal Market",
         "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-lawnext-com-2026-10-ken-crutchfield-taking-biglaw-private-the-implications-o",
-      "title": "Ken Crutchfield: Taking BigLaw Private? The Implications Of Kirkland’s Decision To Stop Disclosing Financials",
-      "url": "https://www.lawnext.com/2026/10/ken-crutchfield-taking-biglaw-private-the-implications-of-kirklands-decision-to-stop-disclosing-financials.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-10-12T13:21:30.000Z",
-      "summary": "Kirkland & Ellis made headlines again when it stated it will no longer disclose financial information to The American Lawyer magazine and other media after 2026. Firm leadership said financial disclosures could put too much focus on quantitative metrics over the quality and caliber of the firm’s legal services. Kirkland is in a category by […]",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel",
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-10-12-legal-ai-vs-the-adversarial-incentive-",
-      "title": "Legal AI vs The Adversarial Incentive",
-      "url": "https://www.artificiallawyer.com/2026/10/12/legal-ai-vs-the-adversarial-incentive/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-10-12T07:29:40.000Z",
-      "summary": "Most major law firms use legal AI tools, yet there has been little significant change to how those firms operate. Why is that? The answer ...",
-      "tags": [
-        "AI in Law",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-high-court-penalises-government-for-ignoring-",
-      "title": "High Court penalises government for ignoring litigation deadlines",
-      "url": "https://www.legalfutures.co.uk/latest-news/high-court-penalises-government-for-ignoring-litigation-deadlines",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-10-11T23:07:01.000Z",
-      "summary": "The High Court has strongly criticised the Government Legal Department for repeatedly missing deadlines and only applying for extensions after they passed.\nThe post High Court penalises government for ignoring litigation deadlines appeared first on Legal Futures.",
-      "tags": [
-        "In-House Counsel",
-        "Legal Reasoning"
       ],
       "relevance": "medium",
       "score": 3
