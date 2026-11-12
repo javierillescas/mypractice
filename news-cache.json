@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2026-11-11T13:33:13.608Z",
+  "lastUpdated": "2026-11-12T14:37:27.563Z",
   "articles": [
+    {
+      "id": "verfassungsblog-de-icc-sanctions-asia-",
+      "title": "Preparing for an ICC Crisis",
+      "url": "https://verfassungsblog.de/icc-sanctions-asia/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-11-12T14:19:20.000Z",
+      "summary": "The United States’ sanctions against the International Criminal Court threaten to paralyze the core institution of international criminal justice. If the worst-case scenario became reality, could ICC States Parties fill the enforcement gap? Asian States Parties have so far largely refrained from prosecuting international crimes committed abroad. Japan and South Korea, the region’s two largest fina",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-11-12-keeping-legal-ai-connected-why-your-data-and",
+      "title": "Keeping Legal AI Connected: Why Your Data and Case Should Work Together",
+      "url": "https://www.artificiallawyer.com/2026/11/12/keeping-legal-ai-connected-why-your-data-and-case-should-work-together/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-11-12T07:47:31.000Z",
+      "summary": "By Marla Crawford, General Counsel, Cimplifi. There has never been a more exciting time to work in legal technology. There has also never been an ...",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Tech",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 5
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-former-judge-sets-out-how-to-do-the-best-job-",
+      "title": "Former judge sets out how to do “the best job in the world”",
+      "url": "https://www.legalfutures.co.uk/latest-news/former-judge-sets-out-how-to-do-the-best-job-in-the-world",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-11-12T00:03:33.000Z",
+      "summary": "Being a judge is “the best job in the world”, Sir Peter Coulson has told Legal Futures as he marks his retirement from the Court of Appeal with a book entitled The Practice of Judging.\nThe post Former judge sets out how to do “the best job in the world” appeared first on Legal Futures.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-blog-from-chat-to-cowork-preparing-your-law-firm-for-agen",
+      "title": "From chat to Cowork: preparing your law firm for agentic AI",
+      "url": "https://www.legalfutures.co.uk/blog/from-chat-to-cowork-preparing-your-law-firm-for-agentic-ai",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-11-12T00:00:00.000Z",
+      "summary": "AI is evolving quickly. For law firms still working out how to get consistent value from the tools they already have, the conversation has moved on again to agentic AI.\nThe post From chat to Cowork: preparing your law firm for agentic AI appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-associate-news-new-judicial-review-guidance-explained-ai-",
+      "title": "New judicial review guidance explained – AI use & urgent applications",
+      "url": "https://www.legalfutures.co.uk/associate-news/new-judicial-review-guidance-explained-ai-use-urgent-applications",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-11-11T16:24:59.000Z",
+      "summary": "Here, Glyn Lancefield from Brabners litigation team breaks down what the new guidance means for AI use and urgent applications in judicial review proceedings.\nThe post New judicial review guidance explained – AI use & urgent applications appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-abajournal-com-news-article-judicial-watch-founder-larry-klayman-disbarred-b",
+      "title": "Judicial Watch founder Larry Klayman disbarred by Supreme Court",
+      "url": "https://www.abajournal.com/news/article/judicial-watch-founder-larry-klayman-disbarred-by-supreme-court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-11-11T15:31:00.000Z",
+      "summary": "",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "verfassungsblog-de-the-delegitimisation-of-the-arab-vote-in-israel-",
       "title": "The Delegitimisation of the Arab Vote in Israel",
@@ -1984,131 +2074,6 @@
       ],
       "relevance": "medium",
       "score": 4
-    },
-    {
-      "id": "www-lawnext-com-2026-10-former-big-law-ma-lawyer-launches-useabi-an-ai-associate",
-      "title": "Former Big Law M&A Lawyer Launches useABI, an AI ‘Associate’ That Produces Deal Docs Without Prompting",
-      "url": "https://www.lawnext.com/2026/10/former-big-law-ma-lawyer-launches-useabi-an-ai-associate-that-produces-deal-docs-without-prompting.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-10-13T14:01:19.000Z",
-      "summary": "A former mergers-and-acquisitions lawyer at Greenberg Traurig today launched useABI, a legal AI platform for M&A lawyers that is designed to function not as just another AI assistant but as something closer to a working member of a deal team. “With useABI, an M&A lawyer gets the purchase agreement markup, issues list, diligence report and […]",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-lawnext-com-2026-10-in-first-major-release-since-paychex-acquisition-sixfift",
-      "title": "In First Major Release Since PayChex Acquisition, SixFifty Launches Agentic HR Compliance Feature",
-      "url": "https://www.lawnext.com/2026/10/in-first-major-release-since-paychex-acquisition-sixfifty-launches-agentic-hr-compliance-feature.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-10-13T13:07:26.000Z",
-      "summary": "Last year, this blog broke the news that the payroll and human resources company PayChex had acquired the employment law compliance and documentation company SixFifty, which had previously been owned by the Silicon Valley law firm Wilson Sonsini Goodrich & Rosati as a technology subsidiary, as well as by SixFifty’s CEO Kimball Dean Parker, the […]",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-10-13-steno-launches-litigation-genius-product-wal",
-      "title": "Steno Launches Litigation Genius + Product Walk Through",
-      "url": "https://www.artificiallawyer.com/2026/10/13/steno-launches-litigation-genius-product-walk-through/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-10-13T13:01:21.000Z",
-      "summary": "Steno, the AI-enabled court reporting and litigation support company, has launched the open beta of Litigation Genius – see AL TV Product Walk Through below. ...",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "blogs-thomsonreuters-com-legal-blog-closing-the-gap-what-legal-departments-do-ne",
-      "title": "Closing the gap: what legal departments do next",
-      "url": "https://blogs.thomsonreuters.com/legal-blog/closing-the-gap-what-legal-departments-do-next/",
-      "source": "Thomson Reuters",
-      "region": "Global",
-      "date": "2026-10-13T13:00:12.000Z",
-      "summary": "By now, the 86/17 split has come up more than once in this series. This final installment on the State …\nThe post Closing the gap: what legal departments do next appeared first on Thomson Reuters Law Blog.",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-10-13-how-legal-teams-govern-ai-driven-contracting",
-      "title": "How Legal Teams Govern AI-Driven Contracting",
-      "url": "https://www.artificiallawyer.com/2026/10/13/how-legal-teams-govern-ai-driven-contracting/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-10-13T06:40:15.000Z",
-      "summary": "By Megan Bradley, Senior Legal Counsel, Docusign. In-house legal teams share some common pressure points: more contracts, more stakeholders, more urgency, all without additional headcount. ...",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-charity-eyes-judicial-review-over-sras-approa",
-      "title": "Charity eyes judicial review over SRA’s approach to complaints",
-      "url": "https://www.legalfutures.co.uk/latest-news/charity-eyes-judicial-review-over-sras-approach-to-complaints",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-10-12T23:03:52.000Z",
-      "summary": "A charity for litigants in person has sent the SRA a letter before claim for judicial review over rejecting reports from members of the public without investigation.\nThe post Charity eyes judicial review over SRA’s approach to complaints appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-lawnext-com-2026-10-no-more-than-an-ordinary-copyright-case-3rd-circuit-unse",
-      "title": "‘No More Than an Ordinary Copyright Case’ — 3rd Circuit Unseals Its Opinion In Thomson Reuters Case Against ROSS",
-      "url": "https://www.lawnext.com/2026/10/no-more-than-an-ordinary-copyright-case-3rd-circuit-unseals-its-opinion-in-thomson-reuters-case-against-ross.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-10-12T16:39:41.000Z",
-      "summary": "Perhaps this is the way the case will end, not with a bang but a whimper. With apologies to T. S. Eliot, that was my reaction when I read the 3rd U.S. Circuit Court of Appeals’ assessment of the 6.5-year battle between legal information giant Thomson Reuters and once-fledgling startup ROSS Intelligence as “no more […]",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "www-legalfutures-co-uk-associate-news-experts-urge-law-firms-to-avoid-automating",
-      "title": "Experts urge law firms to avoid “automating chaos” through fragmented AI use",
-      "url": "https://www.legalfutures.co.uk/associate-news/experts-urge-law-firms-to-avoid-automating-chaos-through-fragmented-ai-use",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-10-12T14:57:59.000Z",
-      "summary": "The biennial event, hosted by InfoTrack, brought together almost 500 lawyers and technology experts at The Minster Building in London to explore how data, AI, and automation are reshaping daily workflows and what the best tools are for the job.\nThe post Experts urge law firms to avoid “automating chaos” through fragmented AI use appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
     }
   ]
 }
