@@ -1,6 +1,95 @@
 {
-  "lastUpdated": "2026-11-12T14:37:27.563Z",
+  "lastUpdated": "2026-11-13T13:55:28.870Z",
   "articles": [
+    {
+      "id": "www-legalfutures-co-uk-latest-news-sra-urged-to-investigate-law-firm-over-wallia",
+      "title": "SRA urged to investigate law firm over Walliams letter",
+      "url": "https://www.legalfutures.co.uk/latest-news/sra-urged-to-investigate-law-firm-over-walliams-letter",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-11-13T00:01:42.000Z",
+      "summary": "The Solicitors Regulation Authority should investigate law firm Schillings’ work for David Walliams, according to the Good Law Project.\nThe post SRA urged to investigate law firm over Walliams letter appeared first on Legal Futures.",
+      "tags": [
+        "Regulation",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-11-the-next-generation-of-law-students-dont-trust-ai-hype-",
+      "title": "The Next Generation Of Law Students Don’t Trust AI Hype",
+      "url": "https://abovethelaw.com/2026/11/the-next-generation-of-law-students-dont-trust-ai-hype/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-11-12T22:35:00.000Z",
+      "summary": "Research report finds college students use AI as a research tool, but are more skeptical of the sort of drafting and automation law firms seem to be banking on.\nThe post The Next Generation Of Law Students Don’t Trust AI Hype appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-11-judge-bars-doj-lawyer-from-case-threatens-default-judgme",
+      "title": "Judge Bars DOJ Lawyer From Case, Threatens Default Judgment Over ‘Deliberate Attempt To Mislead The Court’",
+      "url": "https://abovethelaw.com/2026/11/judge-bars-doj-lawyer-from-case-threatens-default-judgment-over-deliberate-attempt-to-mislead-the-court/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-11-12T19:32:00.000Z",
+      "summary": "Another week, another federal judge who’s done taking DOJ at its word.\nThe post Judge Bars DOJ Lawyer From Case, Threatens Default Judgment Over ‘Deliberate Attempt To Mislead The Court’ appeared first on Above the Law.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-abajournal-com-news-article-calling-judge-a-vulgar-name-doesnt-amount-to-cri",
+      "title": "Calling judge vulgar name doesn’t amount to criminal contempt, state supreme court says",
+      "url": "https://www.abajournal.com/news/article/calling-judge-a-vulgar-name-doesnt-amount-to-criminal-contempt-says-pennsylvania-supreme-court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-11-12T15:59:00.000Z",
+      "summary": "",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-associate-news-leap-enterprise-completes-major-migration-",
+      "title": "LEAP Enterprise completes major migration for Legal 500 law firm Lisa’s Law",
+      "url": "https://www.legalfutures.co.uk/associate-news/leap-enterprise-completes-major-migration-for-legal-500-law-firm-lisas-law",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-11-12T15:58:12.000Z",
+      "summary": "LEAP Enterprise, the unified cloud platform for mid-sized and large law firms, has completed a major technology upgrade for Legal 500 law firm Lisa’s Law, migrating 73 users and 14 years of matter data.\nThe post LEAP Enterprise completes major migration for Legal 500 law firm Lisa’s Law appeared first on Legal Futures.",
+      "tags": [
+        "In-House Counsel",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-11-what-trump-cases-might-soon-return-to-the-supreme-cou",
+      "title": "What Trump cases might soon return to the Supreme Court? ",
+      "url": "https://www.scotusblog.com/2026/11/what-trump-cases-might-soon-return-to-the-supreme-court/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-11-12T14:30:00.000Z",
+      "summary": "",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "verfassungsblog-de-icc-sanctions-asia-",
       "title": "Preparing for an ICC Crisis",
@@ -1938,142 +2027,6 @@
       ],
       "relevance": "medium",
       "score": 3
-    },
-    {
-      "id": "verfassungsblog-de-the-currently-uneven-intelligence-of-ai-in-comparative-consti",
-      "title": "The (Currently) Uneven Intelligence of AI in Comparative Constitutional Law",
-      "url": "https://verfassungsblog.de/the-currently-uneven-intelligence-of-ai-in-comparative-constitutional-law/",
-      "source": "Verfassungsblog",
-      "region": "EU",
-      "date": "2026-10-14T12:02:23.000Z",
-      "summary": "Our results suggest that LLMs’ usefulness for comparative constitutional data collection depends on what researchers ask them to code. They may be able to produce datasets that simply code constitutional facts, but current versions of LLMs do not perform well when asked to create datasets that require interpreting abstract constitutional concepts or reasoning about law. However, since the models m",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-head-of-cps-and-health-regulator-named-new-sr",
-      "title": "Head of CPS and health regulator named new SRA chair",
-      "url": "https://www.legalfutures.co.uk/latest-news/head-of-cps-and-health-regulator-named-new-sra-chair",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-10-14T10:00:10.000Z",
-      "summary": "Caroline Corby, the chair of both the Crown Prosecution Service and the Professional Standards Authority, has been named new chair of the Solicitors Regulation Authority.\nThe post Head of CPS and health regulator named new SRA chair appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Regulation"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-10-14-from-ai-tools-to-agentic-ai-a-roadmap-",
-      "title": "From AI Tools to Agentic AI – A Roadmap",
-      "url": "https://www.artificiallawyer.com/2026/10/14/from-ai-tools-to-agentic-ai-a-roadmap/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-10-14T06:43:41.000Z",
-      "summary": "By Paul Walker, Global Solutions Director, iManage. Law firms have always delegated work to those with less experience, lower billing rates, and narrower scope: partners ...",
-      "tags": [
-        "AI in Law",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-drivers-eye-litigation-with-fca-motor-finance",
-      "title": "Drivers “eye litigation” with FCA motor finance case set for February",
-      "url": "https://www.legalfutures.co.uk/latest-news/drivers-eye-litigation-with-fca-motor-finance-case-set-for-february",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-10-13T23:05:34.000Z",
-      "summary": "Drivers are eyeing up litigation instead of waiting for the legal challenge to the motor finance compensation scheme, in the wake of the date of the hearing being set.\nThe post Drivers “eye litigation” with FCA motor finance case set for February appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-law-firms-and-in-house-teams-face-ai-governan",
-      "title": "Law firms and in-house teams face “AI governance gap”",
-      "url": "https://www.legalfutures.co.uk/latest-news/law-firms-and-in-house-teams-face-ai-governance-gap",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-10-13T23:01:06.000Z",
-      "summary": "Most law firms and in-house legal departments have yet to get on top of their governance of AI use, despite it being widespread, according to new research.\nThe post Law firms and in-house teams face “AI governance gap” appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "In-House Counsel",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "abovethelaw-com-2026-10-not-all-heroes-wear-capes-some-wear-judicial-robes-",
-      "title": "Not All Heroes Wear Capes, Some Wear Judicial Robes",
-      "url": "https://abovethelaw.com/2026/10/not-all-heroes-wear-capes-some-wear-judicial-robes/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-10-13T19:15:00.000Z",
-      "summary": "A Michigan judge's quick thinking saved a stranger's life and inspired a courthouse-wide initiative.\nThe post Not All Heroes Wear Capes, Some Wear Judicial Robes appeared first on Above the Law.",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "blogs-thomsonreuters-com-legal-blog-time-is-money-why-professional-grade-ai-is-t",
-      "title": "When time is money: A smarter AI stack for personal injury firms",
-      "url": "https://blogs.thomsonreuters.com/legal-blog/time-is-money-why-professional-grade-ai-is-the-competitive-edge-personal-injury-firms-need/",
-      "source": "Thomson Reuters",
-      "region": "Global",
-      "date": "2026-10-13T16:28:45.000Z",
-      "summary": "How connecting case intelligence to legal research helps plaintiff firms move faster without cutting corners Personal injury plaintiff attorneys …\nThe post When time is money: A smarter AI stack for personal injury firms appeared first on Thomson Reuters Law Blog.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-lawnext-com-2026-10-legora-and-laurel-partner-to-enable-automatic-time-captu",
-      "title": "Legora and Laurel Partner to Enable Automatic Time Capture; Will Later Develop Measures of Legora’s Value to Firms",
-      "url": "https://www.lawnext.com/2026/10/legora-and-laurel-partner-to-enable-automatic-time-capture-will-later-develop-measures-of-legoras-value-to-firms.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-10-13T15:30:30.000Z",
-      "summary": "Legal professionals will now be able to automatically record the time they spend working in the legal AI platform Legora, as the result of a new partnership with the AI timekeeping platform Laurel. With this partnership, the companies announced today, Laurel will turn every task a lawyer completes in Legora into a time entry, with the client, […]",
-      "tags": [
-        "AI in Law",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-abajournal-com-news-article-michigan-judges-cpr-rescue-leads-to-courthouse-t",
-      "title": "Judge’s CPR rescue leads to courthouse training",
-      "url": "https://www.abajournal.com/news/article/michigan-judges-cpr-rescue-leads-to-courthouse-training/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-10-13T14:48:00.000Z",
-      "summary": "",
-      "tags": [
-        "AI in Law",
-        "Legal Education",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
     }
   ]
 }
