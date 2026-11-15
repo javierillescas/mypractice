@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T12:57:55.191Z",
+  "lastUpdated": "2026-11-15T13:26:16.629Z",
   "articles": [
     {
       "id": "abovethelaw-com-2026-11-ai-in-our-courts-useful-or-a-magic-8-ball-",
@@ -1858,83 +1858,6 @@
       ],
       "relevance": "medium",
       "score": 4
-    },
-    {
-      "id": "blogs-thomsonreuters-com-legal-blog-ma-due-diligence-software-key-features-and-d",
-      "title": "M&A due diligence software: Key features and detailed use cases",
-      "url": "https://blogs.thomsonreuters.com/legal-blog/ma-due-diligence-software-key-features-and-detailed-use-cases/",
-      "source": "Thomson Reuters",
-      "region": "Global",
-      "date": "2026-10-15T19:55:24.000Z",
-      "summary": "It’s late, and Mark receives his latest assignment—conducting due diligence on a potential merger’s target company. One task is …\nThe post M&A due diligence software: Key features and detailed use cases appeared first on Thomson Reuters Law Blog.",
-      "tags": [
-        "AI in Law",
-        "Legal Tech",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-lawnext-com-2026-10-microsoft-launches-copilot-for-legal-becoming-the-fourth",
-      "title": "Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical",
-      "url": "https://www.lawnext.com/2026/10/microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-five-months-to-build-out-a-legal-vertical.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-10-15T17:56:34.000Z",
-      "summary": "Microsoft today launched Copilot for Legal, offering more than 20 legal-specific skills in Microsoft Copilot, bringing contract review, drafting, obligations tracking and other legal workflows into Word and Cowork, its agentic workspace, along with plugins from more than two dozen legal technology partners. Microsoft now becomes the fourth major AI company in five months to […]",
-      "tags": [
-        "AI in Law",
-        "Legal Tech",
-        "Legal Education"
-      ],
-      "relevance": "medium",
-      "score": 5
-    },
-    {
-      "id": "abovethelaw-com-2026-10-the-most-innovative-law-schools-2026-",
-      "title": "The Most Innovative Law Schools (2026)",
-      "url": "https://abovethelaw.com/2026/10/the-most-innovative-law-schools-2026/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-10-15T17:01:00.000Z",
-      "summary": "From AI training to flexible J.D. programs, these schools are giving legal education an overdue update.\nThe post The Most Innovative Law Schools (2026) appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Education"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "verfassungsblog-de-a-mere-academic-exercise-",
-      "title": "A Mere “Academic” Exercise",
-      "url": "https://verfassungsblog.de/a-mere-academic-exercise/",
-      "source": "Verfassungsblog",
-      "region": "EU",
-      "date": "2026-10-15T15:21:52.000Z",
-      "summary": "Last week, in N. Ravi v Speaker, Legislative Assembly Chennai, the Indian Supreme Court dismissed a 17-year-old challenge to the constitutionality of the exercise of legislative privilege under Article 194 to curtail a citizen’s freedom of speech. The issue arose from a resolution passed by the Tamil Nadu Legislative Assembly ordering the prosecution of 15 journalists of The Hindu for remarks agai",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "fashionista-com-2026-10-lvmh-fashion-sales-fall-5-percent-q3-2026",
-      "title": "Judge Dismisses Sol De Janeiro Packaging Claim",
-      "url": "https://fashionista.com/2026/10/lvmh-fashion-sales-fall-5-percent-q3-2026",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-10-15T14:04:00.000Z",
-      "summary": "However, attorneys say the ruling largely favors Sol de Janeiro.\nThe post Judge Dismisses Sol De Janeiro Packaging Claim appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
     }
   ]
 }
