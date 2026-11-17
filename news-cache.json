@@ -1,6 +1,105 @@
 {
-  "lastUpdated": "2026-11-16T14:47:16.037Z",
+  "lastUpdated": "2026-11-17T15:29:24.348Z",
   "articles": [
+    {
+      "id": "abovethelaw-com-2026-11-legal-ethics-roundup-solo-lawyer-well-being-paradox-habb",
+      "title": "Legal Ethics Roundup: Solo Lawyer Well-Being Paradox, Habba Ethics Complaint, Judge Removed, Plagiarism In Judicial Application, Billable Hour Shake-Up, AI Sanctions & More",
+      "url": "https://abovethelaw.com/2026/11/legal-ethics-roundup-solo-lawyer-well-being-paradox-habba-ethics-complaint-judge-removed-plagiarism-in-judicial-application-billable-hour-shake-up-ai-sanctions-more/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-11-16T23:32:00.000Z",
+      "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.\nThe post Legal Ethics Roundup: Solo Lawyer Well-Being Paradox, Habba Ethics Complaint, Judge Removed, Plagiarism In Judicial Application, Billable Hour Shake-Up, AI Sanctions & More appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "abovethelaw-com-2026-11-biglaw-skipping-1l-interviews-and-going-straight-to-call",
+      "title": "Biglaw Skipping 1L Interviews And Going Straight To Callbacks Before First-Semester Exams",
+      "url": "https://abovethelaw.com/2026/11/biglaw-skipping-1l-interviews-and-going-straight-to-callbacks-before-first-semester-exams/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-11-16T21:44:00.000Z",
+      "summary": "How Biglaw Learned To Stop Worrying And Love Recklessly Disrupting Law School.\nThe post Biglaw Skipping 1L Interviews And Going Straight To Callbacks Before First-Semester Exams appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Education"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-abajournal-com-news-article-an-arizona-judge-tosses-dui-case-after-ai-assist",
+      "title": "Judge releases DUI suspect after reading AI-assisted police report disclosure",
+      "url": "https://www.abajournal.com/news/article/an-arizona-judge-tosses-dui-case-after-ai-assisted-police-report-disclosure/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-11-16T18:52:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-11-the-2027-law-firm-pulse-report-an-in-house-view-",
+      "title": "The 2027 Law Firm Pulse Report: An In-House View",
+      "url": "https://abovethelaw.com/2026/11/the-2027-law-firm-pulse-report-an-in-house-view/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-11-16T17:15:00.000Z",
+      "summary": "[Sponsored] 750 legal leaders at $1B+ companies weigh in on law firm rates, AI adoption, and the growth of insourcing. \nThe post The 2027 Law Firm Pulse Report: An In-House View appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-services-directory-leap",
+      "title": "LEAP Legal Software",
+      "url": "https://www.legalfutures.co.uk/services-directory/leap",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-11-16T16:59:05.000Z",
+      "summary": "LEAP occupies a unique position in the legal software market. Its cloud-based and fully integrated platform streamlines case management, accounting, document management, publishing, and AI into an all-in-one solution. Designed to help law firms operate more efficiently and profitably, LEAP… Read More\nThe post LEAP Legal Software appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Market",
+        "Legal Tech",
+        "Legal Reasoning"
+      ],
+      "relevance": "high",
+      "score": 6
+    },
+    {
+      "id": "www-lawnext-com-2026-11-aderant-says-it-milana-docketing-product-launched-in-202",
+      "title": "Aderant Says It Milana Docketing Product, Launched In 2022, Is Now In Nearly 40% of Am Law 200 Firms",
+      "url": "https://www.lawnext.com/2026/11/aderant-says-it-milana-docketing-product-launched-in-2022-is-now-in-nearly-40-of-am-law-200-firms.html",
+      "source": "LawNext",
+      "region": "US",
+      "date": "2026-11-16T15:44:07.000Z",
+      "summary": "Aderant, a company that provides business management software for law firms, said today that Milana, its cloud-based docketing product, has now been deployed at more than 170 law firms, including nearly 40% of Am Law 200 firms. Aderant launched Milana in October 2022, 10 months after it acquired American LegalNet (ALN), the docketing technology and rules-based […]",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
     {
       "id": "verfassungsblog-de-polands-captured-judiciary-and-the-challenges-of-repair-",
       "title": "Poland’s Captured Judiciary and the Challenges of Repair",
