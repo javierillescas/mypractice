@@ -1,6 +1,114 @@
 {
-  "lastUpdated": "2026-11-18T15:05:59.780Z",
+  "lastUpdated": "2026-11-19T15:15:29.523Z",
   "articles": [
+    {
+      "id": "verfassungsblog-de-what-the-oath-taking-opinion-really-means-",
+      "title": "What the Oath-Taking Opinion Really Means",
+      "url": "https://verfassungsblog.de/what-the-oath-taking-opinion-really-means/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-11-19T14:26:57.000Z",
+      "summary": "Strict compliance with certain statutory rules, especially those enacted by the ancien régime deliberately to maintain its power even beyond an eventual electoral defeat, may result in the “perpetuation of an unacceptable status quo”, a condition which I had characterized, darkly, as a “Sisyphean democracy”. Nowhere is this condition more visible than in post-2023 Poland. A recent Opinion of the V",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-scotusblog-com-2026-11-the-supreme-court-and-congressional-investigations-",
+      "title": "The Supreme Court and congressional investigations",
+      "url": "https://www.scotusblog.com/2026/11/the-supreme-court-and-congressional-investigations/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-11-19T14:00:00.000Z",
+      "summary": "Plus, will the Supreme Court take up this Top Gun-related case?",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-law-firms-must-share-ai-savings-with-clients-",
+      "title": "Law firms must share AI savings with clients, warn GCs",
+      "url": "https://www.legalfutures.co.uk/latest-news/law-firms-must-share-ai-savings-with-clients-warn-gcs",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-11-19T00:00:30.000Z",
+      "summary": "Law firms must demonstrate that the efficiencies they are achieving through AI are being passed on to clients or risk losing work, leading general counsel have warned.\nThe post Law firms must share AI savings with clients, warn GCs appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "In-House Counsel",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "abovethelaw-com-2026-11-biglaw-firm-goes-big-on-raises-and-even-bigger-on-bonuse",
+      "title": "Biglaw Firm Goes Big On Raises And Even Bigger On Bonuses",
+      "url": "https://abovethelaw.com/2026/11/biglaw-firm-goes-big-on-raises-and-even-bigger-on-bonuses/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-11-18T20:33:00.000Z",
+      "summary": "Associates are getting everything on their wish lists this year.\nThe post Biglaw Firm Goes Big On Raises And Even Bigger On Bonuses appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-06-associate-compensation-scorecard-the-2026-summer-of-sala",
+      "title": "Associate Compensation Scorecard: The 2026 Summer And Fall Of Salary Increases & Bonuses",
+      "url": "https://abovethelaw.com/2026/06/associate-compensation-scorecard-the-2026-summer-of-salary-increases/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-11-18T19:32:00.000Z",
+      "summary": "The race to match is on. We'll keep track of every raise, bonus, and compensation move as law firms make their decisions.\nThe post Associate Compensation Scorecard: The 2026 Summer And Fall Of Salary Increases & Bonuses appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-11-no-supreme-court-gun-case-isnt-based-on-a-misquote-what-",
+      "title": "No, Supreme Court Gun Case Isn’t Based On A ‘Misquote.’ What Scalia Did Was Way More Intellectually Dishonest",
+      "url": "https://abovethelaw.com/2026/11/no-supreme-court-gun-case-isnt-based-on-a-misquote-what-scalia-did-was-way-more-intellectually-dishonest/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-11-18T18:01:00.000Z",
+      "summary": "Conservatives want you to think 'See' means never having to say you're sorry.\nThe post No, Supreme Court Gun Case Isn’t Based On A ‘Misquote.’ What Scalia Did Was Way More Intellectually Dishonest appeared first on Above the Law.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-associate-news-getting-the-most-from-your-case-management",
+      "title": "Getting the most from your case management system:  why training and support matter",
+      "url": "https://www.legalfutures.co.uk/associate-news/getting-the-most-from-your-case-management-system-why-training-and-support-matter",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-11-18T17:08:27.000Z",
+      "summary": "Implementing a new legal case management system is an important step for any law firm. But getting the system up and running is only the beginning. \nThe post Getting the most from your case management system:  why training and support matter appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Education",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
     {
       "id": "fashionista-com-2026-11-robert-pattinson-bond-casting-fashion-brand-deals",
       "title": "David Beckham Sues Coty Over Discount-Store Perfume Sales",
@@ -1867,115 +1975,6 @@
       "region": "EU",
       "date": "2026-10-20T16:32:10.000Z",
       "summary": "AI is being widely integrated into legal practice and academic research. Early concerns about such tools were focused on the outputs: hallucinated citations, fabricated case law, overall sloppiness among attorneys and researchers submitting AI-generated work without review. These problems have not disappeared but have received enough attention to warrant continuous improvement of predictive and ge",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-scotusblog-com-2026-10-the-supreme-courts-next-major-case-on-the-free-exerci",
-      "title": "The Supreme Court’s next major case on the free exercise of religion",
-      "url": "https://www.scotusblog.com/2026/10/the-supreme-courts-next-major-case-on-the-free-exercise-of-religion/",
-      "source": "SCOTUSblog",
-      "region": "US",
-      "date": "2026-10-20T13:30:00.000Z",
-      "summary": "",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-opportunism-in-litigation-can-be-creative-law",
-      "title": "Opportunism in litigation can be “creative lawyering”, says judge",
-      "url": "https://www.legalfutures.co.uk/latest-news/opportunism-in-litigation-can-be-creative-lawyering-says-judge",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-10-19T23:01:27.000Z",
-      "summary": "What one person regards as opportunism in litigation “might equally well be another person's creative lawyering”, a High Court judge has said.\nThe post Opportunism in litigation can be “creative lawyering”, says judge appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "abovethelaw-com-2026-10-legal-ethics-roundup-who-gets-to-call-themselves-a-lawye",
-      "title": "Legal Ethics Roundup: Who Gets To Call Themselves A Lawyer?, Judge Pulls Gun In Court, Law Firms That Capitulated, Prosecutorial Misconduct, ABA DQ Bid Rejected, AI + A2J & More",
-      "url": "https://abovethelaw.com/2026/10/legal-ethics-roundup-who-gets-to-call-themselves-a-lawyer-judge-pulls-gun-in-court-law-firms-that-capitulated-prosecutorial-misconduct-aba-dq-bid-rejected-ai-a2j-more/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-10-19T20:44:00.000Z",
-      "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.\nThe post Legal Ethics Roundup: Who Gets To Call Themselves A Lawyer?, Judge Pulls Gun In Court, Law Firms That Capitulated, Prosecutorial Misconduct, ABA DQ Bid Rejected, AI + A2J & More appeared first on Above the Law.",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "high",
-      "score": 6
-    },
-    {
-      "id": "abovethelaw-com-2026-10-judge-says-a-3000-hourly-rate-is-patently-unreasonable-",
-      "title": "Judge Says A $3,000 Hourly Rate Is ‘Patently Unreasonable’",
-      "url": "https://abovethelaw.com/2026/10/judge-says-a-3000-hourly-rate-is-patently-unreasonable/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-10-19T19:13:00.000Z",
-      "summary": "That rate may be getting harder to justify in court, even as some Biglaw partners charge $4,000.\nThe post Judge Says A $3,000 Hourly Rate Is ‘Patently Unreasonable’ appeared first on Above the Law.",
-      "tags": [
-        "Legal Market",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-artificiallawyer-com-2026-10-19-legal-research-challenger-midpage-channels-d",
-      "title": "Legal Research Challenger Midpage Channels Data Into Harvey",
-      "url": "https://www.artificiallawyer.com/2026/10/19/legal-research-challenger-midpage-channels-data-into-harvey/",
-      "source": "Artificial Lawyer",
-      "region": "Global",
-      "date": "2026-10-19T16:00:04.000Z",
-      "summary": "Midpage, the AI-native legal research platform that claims to be ‘10X less expensive than Westlaw’s and Lexis’s comparable products,’ and covers much of US case ...",
-      "tags": [
-        "AI in Law",
-        "Legal Tech",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-lawnext-com-2026-10-harvey-now-connects-to-legal-research-platform-midpage-t",
-      "title": "Harvey Now Connects to Legal Research Platform Midpage Through An MCP Connector",
-      "url": "https://www.lawnext.com/2026/10/harvey-now-connects-to-legal-research-platform-midpage-through-an-mcp-connector.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-10-19T15:59:12.000Z",
-      "summary": "A new connector announced today enables Harvey customers to access the AI legal research platform Midpage. The connector makes Midpage’s research library of U.S. case law, statutes, regulations, and agency materials accessible from directly within Harvey, so lawyers can find and cite authority on the same platform they use for drafting and analysis. Midpage already had […]",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Tech",
-        "Legal Reasoning"
-      ],
-      "relevance": "high",
-      "score": 6
-    },
-    {
-      "id": "abovethelaw-com-2026-10-golf-course-plaintiffs-give-judge-reyes-a-heads-up-the-p",
-      "title": "Golf Course Plaintiffs Give Judge Reyes A Heads-Up: The President Called You Insane Before Breakfast",
-      "url": "https://abovethelaw.com/2026/10/golf-course-plaintiffs-give-judge-reyes-a-heads-up-the-president-called-you-insane-before-breakfast/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-10-19T15:31:00.000Z",
-      "summary": "The tee time for attacking a federal judge is apparently before sunrise.\nThe post Golf Course Plaintiffs Give Judge Reyes A Heads-Up: The President Called You Insane Before Breakfast appeared first on Above the Law.",
       "tags": [
         "AI in Law",
         "Legal Reasoning"
