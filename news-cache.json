@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T14:13:02.274Z",
+  "lastUpdated": "2026-11-22T14:02:15.896Z",
   "articles": [
     {
       "id": "verfassungsblog-de-myanmar-icj-israel-",
@@ -1787,110 +1787,6 @@
       ],
       "relevance": "medium",
       "score": 4
-    },
-    {
-      "id": "www-abajournal-com-news-article-florida-appeals-court-refers-lawyer-for-possible",
-      "title": "Florida appeals court refers lawyer for possible discipline over ‘AI slop’",
-      "url": "https://www.abajournal.com/news/article/florida-appeals-court-refers-lawyer-for-possible-discipline-over-ai-slop/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-10-23T14:00:00.000Z",
-      "summary": "",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-scotusblog-com-2026-10-the-interim-docket-remains-active-",
-      "title": "The interim docket remains active ",
-      "url": "https://www.scotusblog.com/2026/10/the-interim-docket-remains-active/",
-      "source": "SCOTUSblog",
-      "region": "US",
-      "date": "2026-10-23T13:00:00.000Z",
-      "summary": "Plus, how recent Supreme Court rulings are shaping the midterm elections.",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "verfassungsblog-de-flawed-but-forward-",
-      "title": "Flawed, but Forward",
-      "url": "https://verfassungsblog.de/flawed-but-forward/",
-      "source": "Verfassungsblog",
-      "region": "EU",
-      "date": "2026-10-23T11:33:13.000Z",
-      "summary": "The conviction of Hashim Thaçi and three other former KLA leaders marks a major moment for accountability in Kosovo. But the judgment’s reach comes with legal costs, from an expansive interpretation of joint criminal enterprise to unresolved questions about crimes against humanity and the legality of the convictions themselves. Its legacy will depend on whether the appeal can address these flaws w",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-sra-to-reconsider-misconduct-report-after-jud",
-      "title": "SRA to reconsider misconduct report after judicial review threat",
-      "url": "https://www.legalfutures.co.uk/latest-news/sra-to-reconsider-misconduct-report-after-judicial-review-threat",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-10-22T23:05:09.000Z",
-      "summary": "The Solicitors Regulation Authority has withdrawn decisions not to investigate a solicitor after being threatened with a judicial review.\nThe post SRA to reconsider misconduct report after judicial review threat appeared first on Legal Futures.",
-      "tags": [
-        "Regulation",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-court-of-appeal-astonished-by-2m-brief-fee-fo",
-      "title": "Court of Appeal “astonished” by £2m brief fee for four-day case",
-      "url": "https://www.legalfutures.co.uk/latest-news/court-of-appeal-astonished-by-2m-brief-fee-for-four-day-case",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-10-22T23:03:36.000Z",
-      "summary": "The Court of Appeal has described as “astonishing” a £2m brief fee for leading counsel, plus refreshers of £20,000 a day, to act on an appeal set to last four days.\nThe post Court of Appeal “astonished” by £2m brief fee for four-day case appeared first on Legal Futures.",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "abovethelaw-com-2026-10-judge-ada-browns-case-shows-what-the-judicial-disability",
-      "title": "Judge Ada Brown’s Case Shows What The Judicial Disability Process Is Actually For",
-      "url": "https://abovethelaw.com/2026/10/judge-ada-browns-case-shows-what-the-judicial-disability-process-is-actually-for/",
-      "source": "Above the Law",
-      "region": "US",
-      "date": "2026-10-22T17:01:00.000Z",
-      "summary": "Judge accused of abandoning her post fits squarely within the statute's purpose.\nThe post Judge Ada Brown’s Case Shows What The Judicial Disability Process Is Actually For appeared first on Above the Law.",
-      "tags": [
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 4
-    },
-    {
-      "id": "www-lawnext-com-2026-10-lexisnexis-protege-is-now-live-in-evenup-letting-pi-lawy",
-      "title": "LexisNexis Protégé Is Now Live In EvenUp, Letting PI Lawyers Query Case Law Using Facts From Their Case Records",
-      "url": "https://www.lawnext.com/2026/10/lexisnexis-protege-is-now-live-in-evenup-letting-pi-lawyers-query-case-law-using-facts-from-their-case-records.html",
-      "source": "LawNext",
-      "region": "US",
-      "date": "2026-10-22T14:14:24.000Z",
-      "summary": "On Sept. 1, LexisNexis and EvenUp, an AI platform for personal injury lawyers, announced a forthcoming integration by which EvenUp’s customers could access legal insights and agentic AI in LexisNexis Protégé directly from within the EvenUp platform. That integration is now live, and last week the two companies gave me a demo of how it […]",
-      "tags": [
-        "AI in Law",
-        "Legal Tech",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 5
     }
   ]
 }
