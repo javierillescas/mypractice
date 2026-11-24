@@ -1,6 +1,159 @@
 {
-  "lastUpdated": "2026-11-23T17:23:59.948Z",
+  "lastUpdated": "2026-11-24T16:57:38.053Z",
   "articles": [
+    {
+      "id": "www-abajournal-com-news-article-ethics-case-against-florida-judge-dismissed-afte",
+      "title": "Ethics case against judge dismissed after he retires",
+      "url": "https://www.abajournal.com/news/article/ethics-case-against-florida-judge-dismissed-after-he-retires/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "source": "ABA Journal",
+      "region": "US",
+      "date": "2026-11-24T16:16:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-scotusblog-com-2026-11-what-do-these-supreme-court-plaintiffs-have-in-common",
+      "title": "What do these Supreme Court plaintiffs have in common? ",
+      "url": "https://www.scotusblog.com/2026/11/what-do-these-supreme-court-plaintiffs-have-in-common/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-11-24T14:30:00.000Z",
+      "summary": "",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-scotusblog-com-2026-11-last-minute-surprise-shuffles-second-amendment-case-",
+      "title": "Last-minute surprise shuffles Second Amendment case",
+      "url": "https://www.scotusblog.com/2026/11/last-minute-surprise-shuffles-second-amendment-case/",
+      "source": "SCOTUSblog",
+      "region": "US",
+      "date": "2026-11-24T14:00:00.000Z",
+      "summary": "Plus, the Supreme Court and profanity.",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-associate-news-sra-compliance-hybrid-working-and-it-what-",
+      "title": "SRA compliance, hybrid working, and IT: What your managing partner needs to know",
+      "url": "https://www.legalfutures.co.uk/associate-news/sra-compliance-hybrid-working-and-it-what-your-managing-partner-needs-to-know",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-11-24T11:49:22.000Z",
+      "summary": "33% of law firms told us they’re not confident their IT set-up would hold up under SRA scrutiny, particularly when it comes to hybrid working. Here’s a practical checklist to find out where your firm stands before a client or a regulator asks first.\nThe post SRA compliance, hybrid working, and IT: What your managing partner needs to know appeared first on Legal Futures.",
+      "tags": [
+        "Regulation",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-11-24-catherine-bamford-joins-document-drafter-as-",
+      "title": "Catherine Bamford Joins Document Drafter as Evangelist",
+      "url": "https://www.artificiallawyer.com/2026/11/24/catherine-bamford-joins-document-drafter-as-evangelist/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-11-24T08:12:23.000Z",
+      "summary": "Document Drafter has hired document automation guru, Catherine Bamford, as an Evangelist to help law firms in their transition into the world of decentralised AI ...",
+      "tags": [
+        "AI in Law",
+        "Legal Market",
+        "Legal Tech"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-ai-native-litigation-firm-goes-live-after-sra",
+      "title": "AI-native litigation firm goes live after SRA approval",
+      "url": "https://www.legalfutures.co.uk/latest-news/ai-native-litigation-firm-goes-live-after-sra-approval",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-11-24T00:07:09.000Z",
+      "summary": "An AI-powered but “human first” law firm offering fixed-price litigation has formally launched today. It also offers fixed-fee legal document reviews.\nThe post AI-native litigation firm goes live after SRA approval appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Regulation",
+        "Legal Market",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "www-legalfutures-co-uk-latest-news-sales-train-lawyers-of-future-without-ai-so-t",
+      "title": "Sales: Train lawyers of future without AI so they can supervise it",
+      "url": "https://www.legalfutures.co.uk/latest-news/sales-train-lawyers-of-future-without-ai-so-they-can-supervise-it",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-11-24T00:06:39.000Z",
+      "summary": "Increasing use of AI may lead to a smaller, better-trained “expert cadre” of lawyers and judges to supervise it, the deputy president of the Supreme Court has predicted.\nThe post Sales: Train lawyers of future without AI so they can supervise it appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "abovethelaw-com-2026-11-trumps-sparklemagic-lawyer-informs-friendly-judge-that-h",
+      "title": "Trump’s Sparklemagic Lawyer Informs Friendly Judge That His Order Is More Of A Suggestion",
+      "url": "https://abovethelaw.com/2026/11/trumps-sparklemagic-lawyer-informs-friendly-judge-that-his-order-is-more-of-a-suggestion/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-11-23T19:42:00.000Z",
+      "summary": "Making the plaintiff sit for a depo? How dare you!\nThe post Trump’s Sparklemagic Lawyer Informs Friendly Judge That His Order Is More Of A Suggestion appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "verfassungsblog-de-constitutional-price-of-doing-nothing-poland-",
+      "title": "On the Tragic Constitutional Price of Doing Nothing",
+      "url": "https://verfassungsblog.de/constitutional-price-of-doing-nothing-poland/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-11-23T19:08:54.000Z",
+      "summary": "Before we rush to pass honest judgments on the actions taken by Judge Anna Korwin-Piotrowska aimed at saving whatever still remains of the authority of the Constitution, we need to be honest about the starting point of our discussion and embrace its broader constitutional context. While the critique they offer along the lines of correct-incorrect dichotomy might be appropriate for our good faith d",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
+    {
+      "id": "abovethelaw-com-2026-11-sam-alito-jokes-about-ai-brain-upload-staying-on-supreme",
+      "title": "Sam Alito Jokes About AI Brain Upload Staying On Supreme Court Forever",
+      "url": "https://abovethelaw.com/2026/11/sam-alito-jokes-about-ai-brain-upload-staying-on-supreme-court-forever/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-11-23T19:02:00.000Z",
+      "summary": "The unfunny premise is that he really does see his job as a divine right.\nThe post Sam Alito Jokes About AI Brain Upload Staying On Supreme Court Forever appeared first on Above the Law.",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "abovethelaw-com-2026-11-legal-ethics-roundup-doj-shuns-aba-ethics-rules-new-opin",
       "title": "Legal Ethics Roundup: DOJ Shuns ABA Ethics Rules, New Opinion On Client Fraud, Katie Zacharia Bar Probe, SCOTUS Reform, Multijurisdictional Practice, Judicial Disclosures, AI Ethics Tracker & More",
