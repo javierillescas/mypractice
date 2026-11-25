@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-11-24T16:57:38.053Z",
+  "lastUpdated": "2026-11-25T16:47:14.191Z",
   "articles": [
+    {
+      "id": "verfassungsblog-de-sexual-gender-based-violence-gambia-myanmar-",
+      "title": "Sexual and Gender-Based Violence in The Gambia v. Myanmar",
+      "url": "https://verfassungsblog.de/sexual-gender-based-violence-gambia-myanmar/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-11-25T08:43:09.000Z",
+      "summary": "In The Gambia v. Myanmar, the International Court of Justice recognised rape, reproductive violence and decades of discriminatory policies as integral to the destruction of the Rohingya. In doing so, the Court has brought its jurisprudence closer to what feminist genocide scholars have long understood: that the destruction of a group is a profoundly gendered process.\nThe post Sexual and Gender-Bas",
+      "tags": [
+        "In-House Counsel",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "www-artificiallawyer-com-2026-11-25-conclusive-will-review-your-legal-ai-claims-",
+      "title": "Conclusive Will Review Your Legal AI Claims ‘Slop’",
+      "url": "https://www.artificiallawyer.com/2026/11/25/conclusive-will-review-your-legal-ai-claims-slop/",
+      "source": "Artificial Lawyer",
+      "region": "Global",
+      "date": "2026-11-25T07:54:42.000Z",
+      "summary": "A new legal AI clinic, Conclusive, has launched to provide fixed price litigation help for SMBs – so far so good. But the key thing ...",
+      "tags": [
+        "AI in Law",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "abovethelaw-com-2026-11-supreme-court-tries-to-skirt-state-disclosure-laws-using",
+      "title": "Supreme Court Tries To Skirt State Disclosure Laws Using Your Aunt’s Facebook Privacy Notice",
+      "url": "https://abovethelaw.com/2026/11/supreme-court-tries-to-skirt-state-disclosure-laws-using-your-aunts-facebook-privacy-notice/",
+      "source": "Above the Law",
+      "region": "US",
+      "date": "2026-11-24T18:01:00.000Z",
+      "summary": "One neat trick to pretend transparency never applies to you.\nThe post Supreme Court Tries To Skirt State Disclosure Laws Using Your Aunt’s Facebook Privacy Notice appeared first on Above the Law.",
+      "tags": [
+        "In-House Counsel",
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
     {
       "id": "www-abajournal-com-news-article-ethics-case-against-florida-judge-dismissed-afte",
       "title": "Ethics case against judge dismissed after he retires",
@@ -2014,68 +2059,6 @@
       "tags": [
         "Regulation",
         "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-abajournal-com-news-article-5th-circuit-blasts-federal-judge-for-ai-errors-i",
-      "title": "5th Circuit blasts federal judge for AI errors in rulings",
-      "url": "https://www.abajournal.com/news/article/5th-circuit-blasts-federal-judge-for-ai-errors-in-rulings/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-10-26T15:28:00.000Z",
-      "summary": "",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-abajournal-com-news-article-ethics-complaint-filed-against-judge-who-had-att",
-      "title": "Ethics complaint filed against judge who had attorney jailed, shackled for ‘attitude’",
-      "url": "https://www.abajournal.com/news/article/ethics-complaint-filed-against-judge-who-had-attorney-jailed-shackled-for-attitude/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-      "source": "ABA Journal",
-      "region": "US",
-      "date": "2026-10-26T14:34:00.000Z",
-      "summary": "",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-associate-news-perfect-portal-and-infotrack-bring-new-bus",
-      "title": "Perfect Portal and InfoTrack bring new business management closer together",
-      "url": "https://www.legalfutures.co.uk/associate-news/perfect-portal-and-infotrack-bring-new-business-management-closer-together",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-10-26T12:51:04.000Z",
-      "summary": "Perfect Portal quoting in InfoTrack, a new feature designed to make it easier for law firms using both systems to manage their new business without switching between platforms.\nThe post Perfect Portal and InfoTrack bring new business management closer together appeared first on Legal Futures.",
-      "tags": [
-        "In-House Counsel",
-        "Legal Market",
-        "Legal Tech"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-group-to-assess-if-legal-training-meets-needs",
-      "title": "Group to assess if legal training meets needs of employers",
-      "url": "https://www.legalfutures.co.uk/latest-news/group-to-assess-if-legal-training-meets-needs-of-employers",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-10-25T23:05:14.000Z",
-      "summary": "The government, judiciary and profession have created a group to ensure that legal education, training and qualifications fit the demands of employers now and in the future.\nThe post Group to assess if legal training meets needs of employers appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Legal Education"
       ],
       "relevance": "medium",
       "score": 3
