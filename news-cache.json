@@ -1,6 +1,35 @@
 {
-  "lastUpdated": "2026-11-26T16:23:23.564Z",
+  "lastUpdated": "2026-11-27T16:08:16.086Z",
   "articles": [
+    {
+      "id": "www-legalfutures-co-uk-associate-news-building-sustainable-legal-careers-in-the-",
+      "title": "Building sustainable legal careers in the age of AI: Why the human touch still matters",
+      "url": "https://www.legalfutures.co.uk/associate-news/building-sustainable-legal-careers-in-the-age-of-ai-why-the-human-touch-still-matters",
+      "source": "Legal Futures",
+      "region": "UK",
+      "date": "2026-11-27T10:37:17.000Z",
+      "summary": "The latest episode of Osprey Approach's Empowering Law Firm Leaders podcast explores how law firms can embrace artificial intelligence without losing the human qualities that make legal advice valuable, or compromising the development and wellbeing of their people.\nThe post Building sustainable legal careers in the age of AI: Why the human touch still matters appeared first on Legal Futures.",
+      "tags": [
+        "AI in Law",
+        "Legal Market"
+      ],
+      "relevance": "medium",
+      "score": 3
+    },
+    {
+      "id": "verfassungsblog-de-north-sea-fields-case-",
+      "title": "Two-And-A-Half Steps Forward and Two Steps Back",
+      "url": "https://verfassungsblog.de/north-sea-fields-case/",
+      "source": "Verfassungsblog",
+      "region": "EU",
+      "date": "2026-11-26T18:02:05.000Z",
+      "summary": "With its 13 November 2026 judgement in the North Sea Fields Case, the Norwegian Supreme Court invalidated the approvals for production from three Norwegian oilfields. In their thoughtful post, Colombo, Gloppen and Robiou du Pont summarise the factual context, case history and key findings. Here I will critically analyse the Court’s findings on the requirements for the environmental impact assessme",
+      "tags": [
+        "Legal Reasoning"
+      ],
+      "relevance": "medium",
+      "score": 4
+    },
     {
       "id": "ukconstitutionallaw-org-2026-11-26-bernard-keenan-and-nahide-basri-how-the-gover",
       "title": "Bernard Keenan and Nahide Basri: How the Government Lost Control of Neither Confirm Nor Deny: Apple v Home Secretary in the IPT",
@@ -1987,52 +2016,6 @@
       ],
       "relevance": "medium",
       "score": 5
-    },
-    {
-      "id": "www-scotusblog-com-2026-10-justices-to-decide-whether-failure-to-plead-an-affirm",
-      "title": "Justices to decide whether failure to plead an affirmative defense prevents moving for summary judgment on that same defense ",
-      "url": "https://www.scotusblog.com/2026/10/justices-to-decide-whether-failure-to-plead-an-affirmative-defense-prevents-moving-for-summary-j/",
-      "source": "SCOTUSblog",
-      "region": "US",
-      "date": "2026-10-28T14:00:00.000Z",
-      "summary": "",
-      "tags": [
-        "AI in Law",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-legal-services-board-approves-sra-approach-to",
-      "title": "Legal Services Board approves SRA approach to unlimited fine power",
-      "url": "https://www.legalfutures.co.uk/latest-news/legal-services-board-approves-sra-approach-to-unlimited-fine-power",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-10-28T00:05:18.000Z",
-      "summary": "The Legal Services Board has approved the Solicitors Regulation Authority’s amended guidance that will allow it to issue unlimited fines in cases of economic crime.\nThe post Legal Services Board approves SRA approach to unlimited fine power appeared first on Legal Futures.",
-      "tags": [
-        "Regulation",
-        "Legal Reasoning"
-      ],
-      "relevance": "medium",
-      "score": 3
-    },
-    {
-      "id": "www-legalfutures-co-uk-latest-news-ex-partner-reprimanded-after-sra-drops-main-a",
-      "title": "Ex-partner reprimanded after SRA drops main allegations",
-      "url": "https://www.legalfutures.co.uk/latest-news/ex-partner-reprimanded-after-sra-drops-main-allegations",
-      "source": "Legal Futures",
-      "region": "UK",
-      "date": "2026-10-28T00:03:31.000Z",
-      "summary": "A former partner at a national law firm has been reprimanded for a minor rule breach after the SRA withdrew more serious allegations shortly before his disciplinary hearing.\nThe post Ex-partner reprimanded after SRA drops main allegations appeared first on Legal Futures.",
-      "tags": [
-        "AI in Law",
-        "Regulation",
-        "Legal Market"
-      ],
-      "relevance": "medium",
-      "score": 3
     }
   ]
 }
